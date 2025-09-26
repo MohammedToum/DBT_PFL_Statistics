@@ -1,0 +1,10 @@
+pyenv:
+❯ pyenv local 3.12.6
+pyenv which python
+❯ python -m venv .venv
+❯ source .venv/bin/activate
+❯ python -m pip install --upgrade
+
+
+package installs:
+❯ pip install dbt
