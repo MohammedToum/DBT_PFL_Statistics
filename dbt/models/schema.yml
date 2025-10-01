@@ -1,0 +1,18 @@
+version: 2
+
+models:
+  - name: stg_example
+    description: "This staging model cleans and prepares example data."
+    columns:
+      - name: example_col
+        description: "Example column containing XYZ data."
+        tests:
+          - not_null
+
+  - name: mart_example
+    description: "This mart aggregates example data for analytics."
+    columns:
+      - name: mart_check
+        description: "Check column for mart validation."
+        tests:
+          - not_null

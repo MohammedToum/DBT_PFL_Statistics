@@ -1,0 +1,49 @@
+[project]
+name = "dbt_pfl_statistics"
+version = "0.1.0"
+requires-python = ">=3.12,<3.13"
+
+# ---------------- Black ----------------
+[tool.black]
+line-length = 100
+target-version = ["py312"]
+# regex string — not a list!
+extend-exclude = "(^\\.venv/|^build/|^dist/|^target/|^dbt_packages/|^logs/|^dbt/logs/)"
+
+# ---------------- Ruff -----------------
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+extend-exclude = [".venv", "build", "dist", "target", "dbt_packages", "logs", "dbt/logs"]
+
+[tool.ruff.lint]
+select = [
+  "E",   # pycodestyle errors
+  "F",   # pyflakes
+  "I",   # isort (imports)
+  "UP",  # pyupgrade
+  "B",   # flake8-bugbear
+  "C4",  # flake8-comprehensions
+  "SIM", # flake8-simplify
+  "PL",  # pylint (subset)
+  "RUF", # ruff-specific
+]
+ignore = ["E501"]  # Black handles line length
+
+[tool.ruff.lint.per-file-ignores]
+"tests/**" = ["PLR2004"]  # allow magic numbers in tests
+
+# ---------------- mypy -----------------
+[tool.mypy]
+python_version = "3.12"
+warn_unused_ignores = true
+warn_redundant_casts = true
+disallow_untyped_defs = true
+no_implicit_optional = true
+strict_optional = true
+exclude = '(^\.venv/|^build/|^dist/|^target/|^dbt_packages/|^logs/|^dbt/logs/)'
+
+# --------------- sqlfmt ----------------
+[tool.sqlfmt]
+line_length = 100
+dialect = "polyglot"  # "postgres" caused the crash

@@ -1,2 +1,16 @@
 .venv
 .python-version
+commands.txt
+/Explainers
+./scraper.py
+./definition_of_done.md
+definition_of_done.md
+commands.txt
+.gitignore
+logs/dbt.log
+dbt/logs/dbt.log
+DBT_CHEATSHEET.md
+.gitignore
+.env
+target/
+target/partial_parse.msgpack

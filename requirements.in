@@ -1,0 +1,16 @@
+# Top-level deps
+beautifulsoup4
+black
+dbt-core
+dbt-duckdb
+dbt-postgres
+detect-secrets
+mypy
+pre-commit
+requests
+ruff
+selenium
+shandy-sqlfmt[jinjafmt]
+sqlfluff
+sqlfluff-templater-dbt
+types-beautifulsoup4

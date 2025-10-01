@@ -8,3 +8,12 @@ pyenv which python
 
 package installs:
 ❯ pip install dbt
+❯ pip install dbt-duckdb
+>pip install dbt-postgres dbt-duckdb
+
+# tooling
+pip install black ruff mypy pre-commit sqlfluff sqlfluff-templater-dbt sqlfmt dbt-checkpoint
+
+# commits
+❯ pre-commit clean
+pre-commit run --all-files

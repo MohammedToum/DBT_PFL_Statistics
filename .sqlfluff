@@ -1,0 +1,10 @@
+[sqlfluff]
+templater = dbt
+dialect = postgres      # or duckdb if your SQLFluff build supports it
+
+[templater:dbt]
+project_dir = .
+profiles_dir = ./dbt
+
+[core]
+templater_logger = none

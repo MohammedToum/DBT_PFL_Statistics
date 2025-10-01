@@ -1,0 +1,11 @@
+dbt_pfl_statistics:          # must match `profile:` in dbt_project.yml
+  target: duckdb_dev
+  outputs:
+    duckdb_dev:
+      type: duckdb
+      threads: 4
+      # a project-local database file (committed or ignored—your call)
+      path: ./warehouse/plt.duckdb
+      schema: analytics       # default schema for created models
+      # Optional: set a duckdb temp directory
+      # extensions: ["httpfs", "json"]

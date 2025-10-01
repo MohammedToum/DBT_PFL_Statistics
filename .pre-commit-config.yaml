@@ -1,0 +1,90 @@
+# .pre-commit-config.yaml
+# Run: pre-commit clean && pre-commit install && pre-commit run --all-files
+
+repos:
+  # ---------- Python: Ruff (lint + import sort + format) ----------
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.13.2
+    hooks:
+      - id: ruff
+        args: [--fix]
+      - id: ruff-format
+
+  # ---------- Python: Black (formatter) ----------
+  - repo: https://github.com/psf/black
+    rev: 25.9.0
+    hooks:
+      - id: black
+
+  # ---------- Python: mypy (type checking) ----------
+  - repo: https://github.com/pre-commit/mirrors-mypy
+    rev: v1.18.2
+    hooks:
+      - id: mypy
+        args: ["--config-file=pyproject.toml"]
+
+  # ---------- SQL: sqlfluff (dbt-aware linter) ----------
+  - repo: https://github.com/sqlfluff/sqlfluff
+    rev: 3.4.2
+    hooks:
+      - id: sqlfluff-lint
+        name: sqlfluff lint (dbt)
+        args:
+          - "--config=.sqlfluff"
+          - "--dialect=postgres"   # ← fallback that SQLFluff always knows
+        files: "^(dbt/nodes/|.*\\.(sql|dq|jinja)$)"
+        additional_dependencies:
+          - sqlfluff-templater-dbt==3.4.2
+          - dbt-core==1.10.13
+          - dbt-duckdb==1.9.6
+      - id: sqlfluff-fix
+        name: sqlfluff fix (dbt)
+        args:
+          - "--config=.sqlfluff"
+          - "--dialect=postgres"   # ← same here
+        files: "^(dbt/nodes/|.*\\.(sql|dq|jinja)$)"
+        additional_dependencies:
+          - sqlfluff-templater-dbt==3.4.2
+          - dbt-core==1.10.13
+          - dbt-duckdb==1.9.6
+
+  # ---------- SQL: sqlfmt (jinja-aware formatter) ----------
+  - repo: local
+    hooks:
+      - id: sqlfmt
+        name: sqlfmt
+        entry: sqlfmt
+        language: python
+        additional_dependencies: ["shandy-sqlfmt[jinjafmt]==0.27.0"]
+        files: "^dbt/models/.*\\.sql$"
+        args: ["--line-length", "100"]
+
+  # ---------- dbt project checks ----------
+  - repo: https://github.com/dbt-checkpoint/dbt-checkpoint
+    rev: v2.0.7
+    hooks:
+      - id: dbt-parse
+        stages: [manual]   # run manually: pre-commit run dbt-parse
+      - id: check-model-has-description
+        pass_filenames: false
+      - id: check-model-has-tests
+        pass_filenames: false
+
+  # ---------- General hygiene ----------
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v6.0.0
+    hooks:
+      - id: end-of-file-fixer
+        exclude: "^(target/|dbt_packages/|logs/|dbt/logs/)"
+      - id: trailing-whitespace
+        exclude: "^(target/|dbt_packages/|logs/|dbt/logs/)"
+      - id: check-merge-conflict
+      - id: check-yaml
+
+  # ---------- Secret scanning ----------
+  - repo: https://github.com/Yelp/detect-secrets
+    rev: v1.5.0
+    hooks:
+      - id: detect-secrets
+        args: ["--baseline", ".secrets.baseline"]
+        exclude: "^(target/|dbt_packages/|logs/|dbt/logs/)"
