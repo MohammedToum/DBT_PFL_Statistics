@@ -23,7 +23,7 @@ repos:
       - id: mypy
         args: ["--config-file=pyproject.toml"]
 
-  # ---------- SQL: sqlfmt (jinja-aware formatter) — RUNS ON COMMIT ----------
+# ---------- SQL: sqlfmt (manual) ----------
   - repo: local
     hooks:
       - id: sqlfmt
@@ -33,37 +33,36 @@ repos:
         additional_dependencies: ["shandy-sqlfmt[jinjafmt]==0.27.0"]
         files: "^dbt/models/.*\\.sql$"
         args: ["--line-length", "100"]
+        stages: [manual]            # <-- run only when you ask
 
-  # ---------- SQL: sqlfluff (dbt-aware) ----------
+# ---------- SQL: sqlfluff ----------
   - repo: https://github.com/sqlfluff/sqlfluff
     rev: 3.4.2
     hooks:
-      # FIX = manual only (so it won't modify files during commit)
       - id: sqlfluff-fix
         name: sqlfluff fix (dbt)
-        stages: [manual]               # <— run manually when needed
-        args:
-          - "--config=.sqlfluff"
-          - "--dialect=duckdb"
-        files: "^(dbt/nodes/|.*\\.(sql|dq|jinja)$)"
+        stages: [manual]            # <-- run only when you ask
+        args: ["--config=.sqlfluff", "--dialect=duckdb"]
+        files: "^dbt/(models|macros)/.*\\.(sql|jinja|sql.j2|dq)$"
         additional_dependencies:
           - sqlfluff-templater-dbt==3.4.2
           - dbt-core==1.10.13
           - dbt-duckdb==1.9.6
-        exclude: ^(target/|dbt_packages/|logs/)
+        exclude: ^(target/|dbt_packages/|logs/|dbt/logs/)
 
-      # LINT = last in commit, check-only
       - id: sqlfluff-lint
         name: sqlfluff lint (dbt)
-        args:
-          - "--config=.sqlfluff"
-          - "--dialect=duckdb"
-        files: "^(dbt/nodes/|.*\\.(sql|dq|jinja)$)"
+        # EITHER keep at commit...
+        stages: [pre-commit]
+        # ...or move to push for less friction:
+        # stages: [pre-push]
+        args: ["--config=.sqlfluff", "--dialect=duckdb"]
+        files: "^dbt/(models|macros)/.*\\.(sql|jinja|sql.j2|dq)$"
         additional_dependencies:
           - sqlfluff-templater-dbt==3.4.2
           - dbt-core==1.10.13
           - dbt-duckdb==1.9.6
-        exclude: ^(target/|dbt_packages/|logs/)
+        exclude: ^(target/|dbt_packages/|logs/|dbt/logs/)
 
   # ---------- dbt project checks ----------
   - repo: https://github.com/dbt-checkpoint/dbt-checkpoint
