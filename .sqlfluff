@@ -1,10 +1,22 @@
 [sqlfluff]
+dialect = duckdb
 templater = dbt
-dialect = postgres      # or duckdb if your SQLFluff build supports it
 
-[templater:dbt]
+# If you want to disable some rules, list them without comments in the value, e.g.:
+exclude_rules = L031,L034
+
+[sqlfluff:templater:dbt]
+# Point to your dbt project root if needed; often not required when running from repo root.
 project_dir = .
 profiles_dir = ./dbt
+
+# sqlfluff>=3 renamed L016 → LT05 (layout.long_lines)
+[sqlfluff:rules:layout.long_lines]
+max_line_length = 100
+
+# OPTIONAL: if you’re tired of CV06 (semicolon) errors, you can turn it off:
+[sqlfluff:rules:convention.terminator]
+force_enable = False
 
 [core]
 templater_logger = none

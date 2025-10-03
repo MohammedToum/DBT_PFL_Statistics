@@ -1,13 +1,59 @@
 version: 2
 
 models:
-  - name: stg_example
+  - name: ≈
     description: "This staging model cleans and prepares example data."
     columns:
-      - name: example_col
-        description: "Example column containing XYZ data."
-        tests:
-          - not_null
+      - name: club_name
+        data_type: varchar
+        description: "Club Name"
+
+      - name: player_name
+        data_type: varchar
+        description: "Player's name"
+
+      - name: age
+        data_type: varchar
+        description: "Age of Player"
+
+      - name: nationality
+        description: "Nationality of Player"
+
+      - name: position
+        data_type: varchar
+        description: "Position of the Player"
+
+      - name: club_involved_name
+        data_type: varchar
+        description: "Name of Second team involved in the transfer"
+
+      - name: fee
+        data_type: varchar
+        description: "Amount in Euros exchanged for Player"
+
+      - name: transfer_movement
+        data_type: varchar
+        description: "Direction of Player transfer"
+
+      - name: transfer_period
+        data_type: varchar
+        description: "Transfer Period which this transfer took place (Summer or Winter)"
+
+      - name: fee_cleaned
+        data_type: varchar
+        description: "Fee exchanged value cleaned ready for insertion into the staging table"
+
+      - name: league_name
+        data_type: varchar
+        description: "Name of the League"
+
+      - name: year
+        data_type: integer
+        description: "Year this transfer took place"
+
+      - name: season
+        data_type: varchar
+        description: "Season this transfer took place"
 
   - name: mart_example
     description: "This mart aggregates example data for analytics."

@@ -17,3 +17,7 @@ pip install black ruff mypy pre-commit sqlfluff sqlfluff-templater-dbt sqlfmt db
 # commits
 ❯ pre-commit clean
 pre-commit run --all-files
+
+
+
+❯ dbt deps --add-package dbt-codegen --version 0.13.1

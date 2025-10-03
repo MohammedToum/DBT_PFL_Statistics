@@ -1,1 +1,4 @@
-select 1 as example_col
+with source as (select col_1 from "plt"."analytics"."example")
+select *
+from source
+;

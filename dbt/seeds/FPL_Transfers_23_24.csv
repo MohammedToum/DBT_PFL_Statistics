@@ -1,0 +1,809 @@
+club_name,player_name,Age,Nationality,position,Market value,club_involved_name,club_involved_name_country,Fee,transfer_movement,transfer_type,transfer_period,year,Season
+Arsenal,Declan Rice,24,England Ireland,Central Midfield,€90.00m,West Ham United,England West Ham,€116.60m,Inbound,Transfer,Summer,2023,2023/2024
+Arsenal,Kai Havertz,24,Germany,Centre-Forward,€55.00m,Chelsea FC,England Chelsea,€75.00m,Inbound,Transfer,Summer,2023,2023/2024
+Arsenal,Jurriën Timber,22,Netherlands Curacao,Right-Back,€42.00m,Ajax Amsterdam,Netherlands Ajax,€40.00m,Inbound,Transfer,Summer,2023,2023/2024
+Arsenal,David Raya,27,Spain,Goalkeeper,€30.00m,Brentford FC,England Brentford,Loan fee: €3.50m,Inbound,Loan,Summer,2023,2023/2024
+Arsenal,Nuno Tavares,23,Portugal Cape Verde,Left-Back,€18.00m,Olympique Marseille,France Marseille,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Arsenal,Cédric Soares,31,Portugal Germany,Right-Back,€3.00m,Fulham FC,England Fulham,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Arsenal,Arthur Okonkwo,21,England Nigeria,Goalkeeper,€2.00m,SK Sturm Graz,Austria Sturm Graz,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Arsenal,Nicolas Pépé,28,Cote d'Ivoire France,Right Winger,€18.00m,OGC Nice,France Nice,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Arsenal,Rúnar Alex Rúnarsson,28,Iceland,Goalkeeper,€1.50m,Alanyaspor,Türkiye Alanyaspor,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Arsenal,Arthur Okonkwo,22,England Nigeria,Goalkeeper,€1.80m,Wrexham AFC,England Wrexham,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Arsenal,Albert Sambi Lokonga,24,Belgium DR Congo,Central Midfield,€15.00m,Luton Town,England Luton,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Arsenal,Pablo Marí,29,Spain,Centre-Back,€5.00m,AC Monza,Italy Monza,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Arsenal,Folarin Balogun,21,United States England,Centre-Forward,€30.00m,Stade Reims,France Stade Reims,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Arsenal,Folarin Balogun,22,United States England,Centre-Forward,€30.00m,AS Monaco,France Monaco,€30.00m,Outbound,Transfer,Summer,2023,2023/2024
+Arsenal,Granit Xhaka,30,Switzerland,Defensive Midfield,€20.00m,Bayer 04 Leverkusen,Germany Leverkusen,€15.00m,Outbound,Transfer,Summer,2023,2023/2024
+Arsenal,Matt Turner,29,United States Lithuania,Goalkeeper,€8.00m,Nottingham Forest,England Nott'm Forest,€8.15m,Outbound,Transfer,Summer,2023,2023/2024
+Arsenal,Pablo Marí,29,Spain,Centre-Back,€5.00m,AC Monza,Italy Monza,€6.20m,Outbound,Transfer,Summer,2023,2023/2024
+Arsenal,Auston Trusty,24,United States,Centre-Back,€10.00m,Sheffield United,England Sheff Utd,€5.80m,Outbound,Transfer,Summer,2023,2023/2024
+Arsenal,Kieran Tierney,26,Scotland Isle of Man,Left-Back,€25.00m,Real Sociedad,Spain Real Sociedad,Loan fee: €1.40m,Outbound,Loan,Summer,2023,2023/2024
+Arsenal,Rob Holding,27,England,Centre-Back,€8.00m,Crystal Palace,England Crystal Palace,€1.20m,Outbound,Transfer,Summer,2023,2023/2024
+Arsenal,Nuno Tavares,23,Portugal Cape Verde,Left-Back,€18.00m,Nottingham Forest,England Nott'm Forest,Loan fee: €1.15m,Outbound,Loan,Summer,2023,2023/2024
+Arsenal,Marquinhos,20,Brazil,Right Winger,€12.00m,FC Nantes,France FC Nantes,Loan fee: €300k,Outbound,Loan,Summer,2023,2023/2024
+Arsenal,Ainsley Maitland-Niles,25,England Jamaica,Right-Back,€8.00m,Olympique Lyon,France Lyon,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Arsenal,Nicolas Pépé,28,Cote d'Ivoire France,Right Winger,€18.00m,Trabzonspor,Türkiye Trabzonspor,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Arsenal,Rúnar Alex Rúnarsson,28,Iceland,Goalkeeper,€1.50m,Cardiff City,England Cardiff,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Arsenal,Arthur Okonkwo,21,England Nigeria,Goalkeeper,€2.00m,Wrexham AFC,England Wrexham,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Arsenal,Albert Sambi Lokonga,23,Belgium DR Congo,Central Midfield,€15.00m,Luton Town,England Luton,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Aston Villa,Moussa Diaby,24,France Mali,Right Winger,€50.00m,Bayer 04 Leverkusen,Germany Leverkusen,€55.00m,Inbound,Transfer,Summer,2023,2023/2024
+Aston Villa,Pau Torres,26,Spain,Centre-Back,€45.00m,Villarreal CF,Spain Villarreal,€33.00m,Inbound,Transfer,Summer,2023,2023/2024
+Aston Villa,Nicolò Zaniolo,24,Italy,Attacking Midfield,€27.00m,Galatasaray,Türkiye Galatasaray,Loan fee: €5.00m,Inbound,Loan,Summer,2023,2023/2024
+Aston Villa,Youri Tielemans,26,Belgium DR Congo,Central Midfield,€25.00m,Leicester City,England Leicester,free transfer,Inbound,Transfer,Summer,2023,2023/2024
+Aston Villa,Filip Marschall,20,England Poland,Goalkeeper,-,Aston Villa U21,England Aston Villa U21,-,Inbound,Transfer,Summer,2023,2023/2024
+Aston Villa,Clément Lenglet,28,France,Centre-Back,€10.00m,FC Barcelona,Spain Barcelona,loan transfer,Inbound,Loan,Summer,2023,2023/2024
+Aston Villa,Viljami Sinisalo,22,Finland,Goalkeeper,€600k,Exeter City,England Exeter City,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Aston Villa,Morgan Sanson,28,France,Central Midfield,€6.00m,RC Strasbourg Alsace,France R. Strasbourg,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Aston Villa,Filip Marschall,21,England Poland,Goalkeeper,€800k,Milton Keynes Dons,England MK Dons,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Aston Villa,Wesley Moraes,26,Brazil,Centre-Forward,€3.00m,Levante UD,Spain Levante,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Aston Villa,Cameron Archer,21,England Jamaica,Centre-Forward,€12.00m,Sheffield United,England Sheff Utd,€21.55m,Outbound,Transfer,Summer,2023,2023/2024
+Aston Villa,Jaden Philogene,21,England Dominica,Left Winger,€2.80m,Hull City,England Hull City,€5.80m,Outbound,Transfer,Summer,2023,2023/2024
+Aston Villa,Marvelous Nakamba,29,Zimbabwe,Defensive Midfield,€4.00m,Luton Town,England Luton,€2.90m,Outbound,Transfer,Summer,2023,2023/2024
+Aston Villa,Keinan Davis,25,England Jamaica,Centre-Forward,€3.00m,Udinese Calcio,Italy Udinese,€2.30m,Outbound,Transfer,Summer,2023,2023/2024
+Aston Villa,Ashley Young,38,England Jamaica,Right-Back,€600k,Everton FC,England Everton,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Aston Villa,Wesley Moraes,26,Brazil,Centre-Forward,€3.00m,Stoke City,England Stoke City,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Aston Villa,Philippe Coutinho,31,Brazil Portugal,Attacking Midfield,€10.00m,Al-Duhail SC,Qatar Al-Duhail SC,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Aston Villa,Viljami Sinisalo,21,Finland,Goalkeeper,€500k,Exeter City,England Exeter City,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Aston Villa,Morgan Sanson,28,France,Central Midfield,€6.00m,OGC Nice,France Nice,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Aston Villa,Jed Steer,30,England Scotland,Goalkeeper,€500k,Without Club,Without Club,-,Outbound,Transfer,Summer,2023,2023/2024
+Bournemouth,Tyler Adams,24,United States,Defensive Midfield,€18.00m,Leeds United,England Leeds,€26.90m,Inbound,Transfer,Summer,2023,2023/2024
+Bournemouth,Hamed Traoré,23,Cote d'Ivoire,Left Winger,€22.00m,US Sassuolo,Italy Sassuolo,€25.62m,Inbound,Transfer,Summer,2023,2023/2024
+Bournemouth,Alex Scott,19,England Guernsey,Central Midfield,€20.00m,Bristol City,England Bristol City,€23.00m,Inbound,Transfer,Summer,2023,2023/2024
+Bournemouth,Milos Kerkez,19,Hungary Serbia,Left-Back,€15.00m,AZ Alkmaar,Netherlands AZ Alkmaar,€20.47m,Inbound,Transfer,Summer,2023,2023/2024
+Bournemouth,Romain Faivre,24,France Algeria,Attacking Midfield,€10.00m,Olympique Lyon,France Lyon,€15.00m,Inbound,Transfer,Summer,2023,2023/2024
+Bournemouth,Justin Kluivert,24,Netherlands Suriname,Attacking Midfield,€14.00m,AS Roma,Italy Roma,€10.80m,Inbound,Transfer,Summer,2023,2023/2024
+Bournemouth,Max Aarons,23,England Jamaica,Right-Back,€16.00m,Norwich City,England Norwich,€8.10m,Inbound,Transfer,Summer,2023,2023/2024
+Bournemouth,Ionuț Radu,26,Romania,Goalkeeper,€3.50m,Inter Milan,Italy Inter,loan transfer,Inbound,Loan,Summer,2023,2023/2024
+Bournemouth,Luis Sinisterra,24,Colombia,Left Winger,€22.00m,Leeds United,England Leeds,loan transfer,Inbound,Loan,Summer,2023,2023/2024
+Bournemouth,Jamal Lowe,29,Jamaica England,Centre-Forward,€1.50m,Swansea City,England Swansea,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Bournemouth,Emiliano Marcondes,29,Denmark Brazil,Attacking Midfield,€1.50m,Hibernian FC,Scotland Hibernian FC,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Bournemouth,David Brooks,26,Wales England,Right Winger,€8.00m,Southampton FC,England Southampton,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Bournemouth,Kieffer Moore,31,Wales England,Centre-Forward,€2.00m,Ipswich Town,England Ipswich,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Bournemouth,James Hill,21,England,Centre-Back,€1.00m,Heart of Midlothian FC,Scotland Heart of Midl.,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Bournemouth,Gavin Kilkenny,24,Ireland,Central Midfield,€300k,Fleetwood Town,England Fleetwood,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Bournemouth,Mark Travers,24,Ireland,Goalkeeper,€3.50m,Stoke City,England Stoke City,End of loan 27.10.2023,Inbound,Loan,Summer,2023,2023/2024
+Bournemouth,Will Dennis,23,England,Goalkeeper,€350k,Kilmarnock FC,Scotland Kilmarnock FC,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Bournemouth,Siriki Dembélé,26,Scotland Cote d'Ivoire,Left Winger,€2.00m,AJ Auxerre,France AJ Auxerre,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Bournemouth,Jamal Lowe,28,Jamaica England,Centre-Forward,€1.50m,Queens Park Rangers,England QPR,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Bournemouth,Emiliano Marcondes,28,Denmark Brazil,Attacking Midfield,€1.50m,FC Nordsjaelland,Denmark Nordsjaelland,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Bournemouth,Ben Pearson,28,England,Central Midfield,€2.20m,Stoke City,England Stoke City,€1.50m,Outbound,Transfer,Summer,2023,2023/2024
+Bournemouth,Jack Stacey,27,England,Right-Back,€2.00m,Norwich City,England Norwich,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Bournemouth,Jefferson Lerma,28,Colombia,Defensive Midfield,€20.00m,Crystal Palace,England Crystal Palace,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Bournemouth,Jordan Zemura,23,Zimbabwe England,Left-Back,€6.00m,Udinese Calcio,Italy Udinese,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Bournemouth,Christian Saydee,21,England Liberia,Centre-Forward,€400k,Portsmouth FC,England Portsmouth,?,Outbound,Transfer,Summer,2023,2023/2024
+Bournemouth,Siriki Dembélé,26,Scotland Cote d'Ivoire,Left Winger,€2.00m,Birmingham City,England Birmingham,?,Outbound,Transfer,Summer,2023,2023/2024
+Bournemouth,Mark Travers,24,Ireland,Goalkeeper,€2.00m,Stoke City,England Stoke City,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Bournemouth,Jamal Lowe,29,Jamaica England,Centre-Forward,€1.50m,Swansea City,England Swansea,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Bournemouth,James Hill,21,England,Centre-Back,€1.00m,Blackburn Rovers,England Blackburn,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Bournemouth,Romain Faivre,25,France Algeria,Attacking Midfield,€10.00m,FC Lorient,France FC Lorient,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Bournemouth,Will Dennis,22,England,Goalkeeper,€150k,Kilmarnock FC,Scotland Kilmarnock FC,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Bournemouth,Jaidon Anthony,23,England Jamaica,Left Winger,€9.00m,Leeds United,England Leeds,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Bournemouth,Junior Stanislas,33,England St. Lucia,Left Winger,€500k,Without Club,Without Club,-,Outbound,Transfer,Summer,2023,2023/2024
+Bournemouth,Hamed Traoré,23,Cote d'Ivoire,Left Winger,€22.00m,US Sassuolo,Italy Sassuolo,End of loan 30.06.2023,Outbound,Loan,Summer,2023,2023/2024
+Bournemouth,Matías Viña,25,Uruguay Italy,Left-Back,€8.00m,AS Roma,Italy Roma,End of loan 30.06.2023,Outbound,Loan,Summer,2023,2023/2024
+Brentford,Nathan Collins,22,Ireland,Centre-Back,€22.00m,Wolverhampton Wanderers,England Wolves,€26.85m,Inbound,Transfer,Summer,2023,2023/2024
+Brentford,Kevin Schade,21,Germany Nigeria,Left Winger,€25.00m,SC Freiburg,Germany Freiburg,€25.00m,Inbound,Transfer,Summer,2023,2023/2024
+Brentford,Mark Flekken,30,Netherlands,Goalkeeper,€10.00m,SC Freiburg,Germany Freiburg,€13.00m,Inbound,Transfer,Summer,2023,2023/2024
+Brentford,Neal Maupay,27,France Argentina,Centre-Forward,€10.00m,Everton FC,England Everton,loan transfer,Inbound,Loan,Summer,2023,2023/2024
+Brentford,Ryan Trevitt,20,England,Central Midfield,€100k,Brentford FC B,England Brentford B,-,Inbound,Transfer,Summer,2023,2023/2024
+Brentford,Yegor Yarmolyuk,19,Ukraine,Central Midfield,€400k,Brentford FC B,England Brentford B,-,Inbound,Transfer,Summer,2023,2023/2024
+Brentford,Myles Peart-Harris,21,Jamaica England,Attacking Midfield,€700k,Portsmouth FC,England Portsmouth,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Brentford,Mads Bidstrup,22,Denmark,Central Midfield,€2.50m,FC Nordsjaelland,Denmark Nordsjaelland,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Brentford,Charlie Goode,28,England,Centre-Back,€500k,Wigan Athletic,England Wigan,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Brentford,Paris Maghoma,23,England DR Congo,Central Midfield,€350k,Bolton Wanderers,England Bolton,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Brentford,Matthew Cox,21,England,Goalkeeper,€800k,Bristol Rovers,England Bristol Rovers,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Brentford,Fin Stevens,21,Wales England,Right-Back,€450k,Oxford United,England Oxford United,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Brentford,Sergi Canós,26,Spain,Left Winger,€9.00m,Olympiacos Piraeus,Greece Olympiacos,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Brentford,Mads Bech Sørensen,24,Denmark,Centre-Back,€2.50m,FC Groningen,Netherlands FC Groningen,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Brentford,Joel Valencia,28,Ecuador Spain,Attacking Midfield,€400k,De Graafschap Doetinchem,Netherlands De Graafschap,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Brentford,Mads Bidstrup,22,Denmark,Central Midfield,€2.50m,Red Bull Salzburg,Austria Salzburg,€6.00m,Outbound,Transfer,Summer,2023,2023/2024
+Brentford,David Raya,27,Spain,Goalkeeper,€30.00m,Arsenal FC,England Arsenal,Loan fee: €3.50m,Outbound,Loan,Summer,2023,2023/2024
+Brentford,Halil Dervişoğlu,23,Türkiye Netherlands,Centre-Forward,€2.00m,Galatasaray,Türkiye Galatasaray,€500k,Outbound,Transfer,Summer,2023,2023/2024
+Brentford,Sergi Canós,26,Spain,Left Winger,€9.00m,Valencia CF,Spain Valencia,€250k,Outbound,Transfer,Summer,2023,2023/2024
+Brentford,Pontus Jansson,32,Sweden,Centre-Back,€2.50m,Malmö FF,Sweden Malmö,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Brentford,Joel Valencia,28,Ecuador Spain,Attacking Midfield,€300k,Zaglebie Sosnowiec,Poland Z. Sosnowiec,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Brentford,Mads Bech Sørensen,24,Denmark,Centre-Back,€2.50m,FC Midtjylland,Denmark Midtjylland,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Brentford,Paris Maghoma,22,England DR Congo,Central Midfield,€350k,Bolton Wanderers,England Bolton,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Brentford,Matthew Cox,20,England,Goalkeeper,€500k,Bristol Rovers,England Bristol Rovers,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Brentford,Ryan Trevitt,20,England,Central Midfield,€100k,Exeter City,England Exeter City,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Brentford,Fin Stevens,20,Wales England,Right-Back,€300k,Oxford United,England Oxford United,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Brentford,Tariqe Fosu,27,Ghana England,Left Winger,€1.80m,Without Club,Without Club,-,Outbound,Transfer,Summer,2023,2023/2024
+Brentford,Sergio Reguilón,27,Spain,Left-Back,€12.00m,Tottenham Hotspur,England Tottenham,End of loan 31.05.2024,Outbound,Loan,Summer,2023,2023/2024
+Brentford,Kevin Schade,21,Germany Nigeria,Left Winger,€25.00m,SC Freiburg,Germany Freiburg,End of loan 30.06.2023,Outbound,Loan,Summer,2023,2023/2024
+Brighton & Hove Albion ,João Pedro,21,Brazil,Centre-Forward,€32.00m,Watford FC,England Watford,€34.20m,Inbound,Transfer,Summer,2023,2023/2024
+Brighton & Hove Albion ,Carlos Baleba,19,Cameroon,Defensive Midfield,€5.00m,LOSC Lille,France Lille,€27.00m,Inbound,Transfer,Summer,2023,2023/2024
+Brighton & Hove Albion ,Bart Verbruggen,20,Netherlands,Goalkeeper,€10.00m,RSC Anderlecht,Belgium RSC Anderlecht,€20.00m,Inbound,Transfer,Summer,2023,2023/2024
+Brighton & Hove Albion ,Igor Julio,25,Brazil,Centre-Back,€10.00m,ACF Fiorentina,Italy Fiorentina,€16.50m,Inbound,Transfer,Summer,2023,2023/2024
+Brighton & Hove Albion ,Mahmoud Dahoud,27,Syria Germany,Central Midfield,€12.00m,Borussia Dortmund,Germany Dortmund,free transfer,Inbound,Transfer,Summer,2023,2023/2024
+Brighton & Hove Albion ,James Milner,37,England,Central Midfield,€1.50m,Liverpool FC,England Liverpool,free transfer,Inbound,Transfer,Summer,2023,2023/2024
+Brighton & Hove Albion ,Ansu Fati,20,Spain Guinea-Bissau,Left Winger,€35.00m,FC Barcelona,Spain Barcelona,loan transfer,Inbound,Loan,Summer,2023,2023/2024
+Brighton & Hove Albion ,Jensen Weir,21,England Scotland,Central Midfield,€450k,Brighton & Hove Albion U21,England Brighton U21,-,Inbound,Transfer,Summer,2023,2023/2024
+Brighton & Hove Albion ,Marc Leonard,21,Scotland,Central Midfield,€300k,Brighton & Hove Albion U21,England Brighton U21,-,Inbound,Transfer,Summer,2023,2023/2024
+Brighton & Hove Albion ,Reda Khadra,21,Germany,Attacking Midfield,€1.40m,Brighton & Hove Albion U21,England Brighton U21,-,Inbound,Transfer,Summer,2023,2023/2024
+Brighton & Hove Albion ,Carl Rushworth,21,England,Goalkeeper,€900k,Brighton & Hove Albion U21,England Brighton U21,-,Inbound,Transfer,Summer,2023,2023/2024
+Brighton & Hove Albion ,Jack Hinshelwood,18,England,Defensive Midfield,-,Brighton & Hove Albion U21,England Brighton U21,-,Inbound,Transfer,Summer,2023,2023/2024
+Brighton & Hove Albion ,Steven Alzate,24,Colombia England,Central Midfield,€4.00m,Standard Liège,Belgium Standard Liège,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Brighton & Hove Albion ,Jensen Weir,22,England Scotland,Central Midfield,€300k,Port Vale FC,England Port Vale,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Brighton & Hove Albion ,Jeremy Sarmiento,21,Ecuador England,Left Winger,€4.50m,Ipswich Town,England Ipswich,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Brighton & Hove Albion ,Yasin Ayari,20,Sweden Tunisia,Central Midfield,€4.50m,Blackburn Rovers,England Blackburn,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Brighton & Hove Albion ,Simon Adingra,21,Cote d'Ivoire,Left Winger,€10.00m,Union Saint-Gilloise,Belgium Union SG,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Brighton & Hove Albion ,Carl Rushworth,22,England,Goalkeeper,€3.00m,Swansea City,England Swansea,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Brighton & Hove Albion ,Marc Leonard,22,Scotland,Central Midfield,€450k,Northampton Town,England Northampton,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Brighton & Hove Albion ,Abdallah Sima,22,Senegal,Left Winger,€7.50m,Rangers FC,Scotland Rangers,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Brighton & Hove Albion ,Kjell Scherpen,23,Netherlands,Goalkeeper,€2.00m,Vitesse Arnhem,Netherlands Vitesse,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Brighton & Hove Albion ,Michal Karbownik,22,Poland,Left Midfield,€3.00m,Fortuna Düsseldorf,Germany F. Düsseldorf,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Brighton & Hove Albion ,Andi Zeqiri,24,Switzerland Kosovo,Centre-Forward,€3.50m,FC Basel 1893,Switzerland Basel,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Brighton & Hove Albion ,Abdallah Sima,22,Senegal,Left Winger,€6.00m,Angers SCO,France Angers SCO,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Brighton & Hove Albion ,Moisés Caicedo,21,Ecuador,Defensive Midfield,€75.00m,Chelsea FC,England Chelsea,€116.00m,Outbound,Transfer,Summer,2023,2023/2024
+Brighton & Hove Albion ,Alexis Mac Allister,24,Argentina Italy,Central Midfield,€65.00m,Liverpool FC,England Liverpool,€42.00m,Outbound,Transfer,Summer,2023,2023/2024
+Brighton & Hove Albion ,Robert Sánchez,25,Spain England,Goalkeeper,€22.00m,Chelsea FC,England Chelsea,€23.00m,Outbound,Transfer,Summer,2023,2023/2024
+Brighton & Hove Albion ,Andi Zeqiri,24,Switzerland Kosovo,Centre-Forward,€3.50m,KRC Genk,Belgium Genk,€2.75m,Outbound,Transfer,Summer,2023,2023/2024
+Brighton & Hove Albion ,Reda Khadra,22,Germany,Attacking Midfield,€1.40m,Stade Reims,France Stade Reims,€1.90m,Outbound,Transfer,Summer,2023,2023/2024
+Brighton & Hove Albion ,Aaron Connolly,23,Ireland,Centre-Forward,€4.00m,Hull City,England Hull City,€1.35m,Outbound,Transfer,Summer,2023,2023/2024
+Brighton & Hove Albion ,Michal Karbownik,22,Poland,Left Midfield,€3.00m,Hertha BSC,Germany Hertha BSC,€1.30m,Outbound,Transfer,Summer,2023,2023/2024
+Brighton & Hove Albion ,Deniz Undav,27,Germany Türkiye,Centre-Forward,€10.00m,VfB Stuttgart,Germany Stuttgart,Loan fee: €700k,Outbound,Loan,Summer,2023,2023/2024
+Brighton & Hove Albion ,Haydon Roberts,21,England,Left-Back,€700k,Bristol City,England Bristol City,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Brighton & Hove Albion ,Taylor Richards,22,England,Central Midfield,€400k,Queens Park Rangers,England QPR,?,Outbound,Transfer,Summer,2023,2023/2024
+Brighton & Hove Albion ,Jensen Weir,21,England Scotland,Central Midfield,€450k,Blackpool FC,England Blackpool,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Brighton & Hove Albion ,Kjell Scherpen,23,Netherlands,Goalkeeper,€2.00m,SK Sturm Graz,Austria Sturm Graz,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Brighton & Hove Albion ,Yasin Ayari,19,Sweden Tunisia,Central Midfield,€6.00m,Coventry City,England Coventry,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Brighton & Hove Albion ,Carl Rushworth,22,England,Goalkeeper,€900k,Swansea City,England Swansea,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Brighton & Hove Albion ,Marc Leonard,21,Scotland,Central Midfield,€300k,Northampton Town,England Northampton,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Brighton & Hove Albion ,Jeremy Sarmiento,21,Ecuador England,Left Winger,€5.00m,West Bromwich Albion,England West Brom,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Brighton & Hove Albion ,Steven Alzate,24,Colombia England,Central Midfield,€4.00m,Standard Liège,Belgium Standard Liège,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Brighton & Hove Albion ,Abdallah Sima,22,Senegal,Left Winger,€6.00m,Rangers FC,Scotland Rangers,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Burnley,Zeki Amdouni,22,Switzerland Türkiye,Centre-Forward,€10.00m,FC Basel 1893,Switzerland Basel,€18.60m,Inbound,Transfer,Summer,2023,2023/2024
+Burnley,James Trafford,20,England,Goalkeeper,€15.00m,Manchester City,England Man City,€17.30m,Inbound,Transfer,Summer,2023,2023/2024
+Burnley,Aaron Ramsey,20,England,Attacking Midfield,€5.00m,Aston Villa U21,England Aston Villa U21,€16.45m,Inbound,Transfer,Summer,2023,2023/2024
+Burnley,Jordan Beyer,23,Germany,Centre-Back,€16.00m,Borussia Mönchengladbach,Germany Mönchengladbach,€15.00m,Inbound,Transfer,Summer,2023,2023/2024
+Burnley,Sander Berge,25,Norway,Defensive Midfield,€20.00m,Sheffield United,England Sheff Utd,€13.90m,Inbound,Transfer,Summer,2023,2023/2024
+Burnley,Wilson Odobert,18,France Martinique,Left Winger,€6.00m,ESTAC Troyes,France Troyes,€12.00m,Inbound,Transfer,Summer,2023,2023/2024
+Burnley,Dara O'Shea,24,Ireland,Centre-Back,€5.00m,West Bromwich Albion,England West Brom,€7.80m,Inbound,Transfer,Summer,2023,2023/2024
+Burnley,Michael Obafemi,22,Ireland Nigeria,Centre-Forward,€5.00m,Swansea City,England Swansea,€4.00m,Inbound,Transfer,Summer,2023,2023/2024
+Burnley,Hannes Delcroix,24,Belgium Haiti,Centre-Back,€2.00m,RSC Anderlecht,Belgium RSC Anderlecht,€3.00m,Inbound,Transfer,Summer,2023,2023/2024
+Burnley,Luca Koleosho,18,Italy United States,Right Winger,€1.00m,RCD Espanyol B,Spain RCD Espanyol B,€3.00m,Inbound,Transfer,Summer,2023,2023/2024
+Burnley,Lawrence Vigouroux,29,Chile England,Goalkeeper,€300k,Leyton Orient,England Leyton Orient,free transfer,Inbound,Transfer,Summer,2023,2023/2024
+Burnley,Nathan Redmond,29,England Jamaica,Right Winger,€10.00m,Besiktas JK,Türkiye Besiktas,free transfer,Inbound,Transfer,Summer,2023,2023/2024
+Burnley,Han-Noah Massengo,22,France Congo,Central Midfield,€5.00m,Bristol City,England Bristol City,free transfer,Inbound,Transfer,Summer,2023,2023/2024
+Burnley,Jacob Bruun Larsen,24,Denmark,Left Winger,€3.00m,TSG 1899 Hoffenheim,Germany Hoffenheim,loan transfer,Inbound,Loan,Summer,2023,2023/2024
+Burnley,Mike Tresor,24,Belgium Burundi,Left Winger,€15.00m,KRC Genk,Belgium Genk,loan transfer,Inbound,Loan,Summer,2023,2023/2024
+Burnley,Owen Dodgson,20,England,Left-Back,€300k,Burnley FC U21,England Burnley U21,-,Inbound,Transfer,Summer,2023,2023/2024
+Burnley,Luke McNally,24,Ireland,Centre-Back,€3.80m,Stoke City,England Stoke City,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Burnley,CJ Egan-Riley,20,England Ireland,Centre-Back,€2.50m,Hibernian FC,Scotland Hibernian FC,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Burnley,Wout Weghorst,30,Netherlands,Centre-Forward,€12.00m,Manchester United,England Man Utd,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Burnley,Dara Costelloe,21,Ireland,Left Winger,€325k,Dundee FC,Scotland Dundee FC,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Burnley,Scott Twine,24,England,Attacking Midfield,€3.00m,Bristol City,England Bristol City,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Burnley,Owen Dodgson,21,England,Left-Back,€300k,Dundee FC,Scotland Dundee FC,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Burnley,Michael Obafemi,23,Ireland Nigeria,Centre-Forward,€2.20m,Millwall FC,England Millwall,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Burnley,Anass Zaroury,23,Morocco Belgium,Left Winger,€9.00m,Hull City,England Hull City,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Burnley,Connor Roberts,28,Wales,Right-Back,€7.00m,Leeds United,England Leeds,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Burnley,Bobby Thomas,22,England,Centre-Back,€450k,Coventry City,England Coventry,€2.30m,Outbound,Transfer,Summer,2023,2023/2024
+Burnley,Wout Weghorst,31,Netherlands,Centre-Forward,€12.00m,TSG 1899 Hoffenheim,Germany Hoffenheim,Loan fee: €1.50m,Outbound,Loan,Summer,2023,2023/2024
+Burnley,Will Norris,29,England,Goalkeeper,€350k,Portsmouth FC,England Portsmouth,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Burnley,Ashley Barnes,33,England,Centre-Forward,€1.00m,Norwich City,England Norwich,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Burnley,Bailey Peacock-Farrell,26,Northern Ireland England,Goalkeeper,€1.00m,Aarhus GF,Denmark Aarhus GF,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Burnley,Luke McNally,23,Ireland,Centre-Back,€2.20m,Stoke City,England Stoke City,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Burnley,Owen Dodgson,20,England,Left-Back,€300k,Barnsley FC,England Barnsley,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Burnley,Dara Costelloe,20,Ireland,Left Winger,€300k,St. Johnstone FC,Scotland St. Johnstone,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Burnley,Scott Twine,24,England,Attacking Midfield,€2.80m,Hull City,England Hull City,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Burnley,Samuel Bastien,26,DR Congo Belgium,Central Midfield,€1.80m,Kasimpasa,Türkiye Kasimpasa,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Burnley,Matthew Lowton,34,England,Right-Back,€250k,Without Club,Without Club,-,Outbound,Transfer,Summer,2023,2023/2024
+Burnley,David Datro Fofana,21,Cote d'Ivoire,Centre-Forward,€12.00m,Chelsea FC,England Chelsea,End of loan 31.05.2024,Outbound,Loan,Summer,2023,2023/2024
+Burnley,Jordan Beyer,23,Germany,Centre-Back,€16.00m,Borussia Mönchengladbach,Germany Mönchengladbach,End of loan 30.06.2023,Outbound,Loan,Summer,2023,2023/2024
+Chelsea,Moisés Caicedo,21,Ecuador,Defensive Midfield,€75.00m,Brighton & Hove Albion,England Brighton,€116.00m,Inbound,Transfer,Summer,2023,2023/2024
+Chelsea,Roméo Lavia,19,Belgium,Defensive Midfield,€32.00m,Southampton FC,England Southampton,€62.10m,Inbound,Transfer,Summer,2023,2023/2024
+Chelsea,Christopher Nkunku,25,France DR Congo,Centre-Forward,€80.00m,RB Leipzig,Germany Leipzig,€60.00m,Inbound,Transfer,Summer,2023,2023/2024
+Chelsea,Cole Palmer,21,England St. Kitts & Nevis,Attacking Midfield,€18.00m,Manchester City,England Man City,€47.00m,Inbound,Transfer,Summer,2023,2023/2024
+Chelsea,Axel Disasi,25,France DR Congo,Centre-Back,€30.00m,AS Monaco,France Monaco,€45.00m,Inbound,Transfer,Summer,2023,2023/2024
+Chelsea,Nicolas Jackson,22,Senegal The Gambia,Centre-Forward,€30.00m,Villarreal CF,Spain Villarreal,€37.00m,Inbound,Transfer,Summer,2023,2023/2024
+Chelsea,Lesley Ugochukwu,19,France Nigeria,Defensive Midfield,€9.00m,Stade Rennais FC,France Stade Rennais,€27.00m,Inbound,Transfer,Summer,2023,2023/2024
+Chelsea,Robert Sánchez,25,Spain England,Goalkeeper,€22.00m,Brighton & Hove Albion,England Brighton,€23.00m,Inbound,Transfer,Summer,2023,2023/2024
+Chelsea,Djordje Petrovic,23,Serbia,Goalkeeper,€6.00m,New England Revolution,United States New England,€16.00m,Inbound,Transfer,Summer,2023,2023/2024
+Chelsea,Deivid Washington,18,Brazil,Centre-Forward,€4.00m,Santos FC,Brazil Santos,€16.00m,Inbound,Transfer,Summer,2023,2023/2024
+Chelsea,Ângelo,18,Brazil,Right Winger,€13.00m,Santos FC,Brazil Santos,€15.00m,Inbound,Transfer,Summer,2023,2023/2024
+Chelsea,Diego Moreira,18,Belgium Portugal,Left Midfield,€2.00m,SL Benfica B,Portugal Benfica B,free transfer,Inbound,Transfer,Summer,2023,2023/2024
+Chelsea,Lucas Bergström,20,Finland,Goalkeeper,€250k,Chelsea FC U21,England Chelsea U21,-,Inbound,Transfer,Summer,2023,2023/2024
+Chelsea,Omari Hutchinson,19,England Jamaica,Attacking Midfield,€1.00m,Chelsea FC U21,England Chelsea U21,-,Inbound,Transfer,Summer,2023,2023/2024
+Chelsea,Ian Maatsen,21,Netherlands Suriname,Left-Back,€12.00m,Chelsea FC U21,England Chelsea U21,-,Inbound,Transfer,Summer,2023,2023/2024
+Chelsea,Lewis Hall,18,England,Left-Back,€10.00m,Chelsea FC U21,England Chelsea U21,-,Inbound,Transfer,Summer,2023,2023/2024
+Chelsea,Omari Hutchinson,20,England Jamaica,Attacking Midfield,€7.00m,Ipswich Town,England Ipswich,End of loan 30.06.2024,Inbound,Loan,Summer,2023,2023/2024
+Chelsea,Andrey Santos,19,Brazil,Central Midfield,€15.00m,Clube de Regatas Vasco da Gama,Brazil Vasco da Gama,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Chelsea,Malo Gusto,20,France Martinique,Right-Back,€25.00m,Olympique Lyon,France Lyon,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Chelsea,Ethan Ampadu,22,Wales England,Centre-Back,€9.00m,Spezia Calcio,Italy Spezia Calcio,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Chelsea,Callum Hudson-Odoi,22,England Ghana,Left Winger,€15.00m,Bayer 04 Leverkusen,Germany Leverkusen,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Chelsea,Malang Sarr,24,France Senegal,Centre-Back,€6.00m,AS Monaco,France Monaco,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Chelsea,Romelu Lukaku,30,Belgium DR Congo,Centre-Forward,€40.00m,Inter Milan,Italy Inter,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Chelsea,David Datro Fofana,21,Cote d'Ivoire,Centre-Forward,€12.00m,Burnley FC,England Burnley,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Chelsea,Tiemoué Bakayoko,28,France Cote d'Ivoire,Defensive Midfield,€2.50m,AC Milan,Italy AC Milan,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Chelsea,Kai Havertz,24,Germany,Centre-Forward,€55.00m,Arsenal FC,England Arsenal,€75.00m,Outbound,Transfer,Summer,2023,2023/2024
+Chelsea,Mason Mount,24,England,Attacking Midfield,€60.00m,Manchester United,England Man Utd,€67.70m,Outbound,Transfer,Summer,2023,2023/2024
+Chelsea,Mateo Kovacic,29,Croatia,Central Midfield,€38.00m,Manchester City,England Man City,€29.10m,Outbound,Transfer,Summer,2023,2023/2024
+Chelsea,Kalidou Koulibaly,32,Senegal France,Centre-Back,€15.00m,Al-Hilal SFC,Saudi Arabia Al-Hilal,€23.00m,Outbound,Transfer,Summer,2023,2023/2024
+Chelsea,Christian Pulisic,24,United States Croatia,Right Winger,€25.00m,AC Milan,Italy AC Milan,€20.80m,Outbound,Transfer,Summer,2023,2023/2024
+Chelsea,Ruben Loftus-Cheek,27,England Guyana,Central Midfield,€25.00m,AC Milan,Italy AC Milan,€18.90m,Outbound,Transfer,Summer,2023,2023/2024
+Chelsea,Edouard Mendy,31,Senegal Guinea-Bissau,Goalkeeper,€12.00m,Al-Ahli SFC,Saudi Arabia Al-Ahli,€18.50m,Outbound,Transfer,Summer,2023,2023/2024
+Chelsea,Ethan Ampadu,22,Wales England,Centre-Back,€9.00m,Leeds United,England Leeds,€8.10m,Outbound,Transfer,Summer,2023,2023/2024
+Chelsea,Romelu Lukaku,30,Belgium DR Congo,Centre-Forward,€40.00m,AS Roma,Italy Roma,Loan fee: €5.80m,Outbound,Loan,Summer,2023,2023/2024
+Chelsea,Callum Hudson-Odoi,22,England Ghana,Left Winger,€15.00m,Nottingham Forest,England Nott'm Forest,€3.50m,Outbound,Transfer,Summer,2023,2023/2024
+Chelsea,Diego Moreira,19,Belgium Portugal,Left Midfield,€2.00m,Olympique Lyon,France Lyon,Loan fee: €2.80m,Outbound,Loan,Summer,2023,2023/2024
+Chelsea,Kepa Arrizabalaga,28,Spain,Goalkeeper,€18.00m,Real Madrid,Spain Real Madrid,Loan fee: €1.00m,Outbound,Loan,Summer,2023,2023/2024
+Chelsea,Omari Hutchinson,19,England Jamaica,Attacking Midfield,€1.00m,Ipswich Town,England Ipswich,Loan fee: €1.00m,Outbound,Loan,Summer,2023,2023/2024
+Chelsea,Abdul Rahman Baba,29,Ghana,Left-Back,€1.20m,PAOK Thessaloniki,Greece PAOK,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Chelsea,César Azpilicueta,33,Spain,Centre-Back,€5.00m,Atlético de Madrid,Spain Atlético,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Chelsea,Tiemoué Bakayoko,29,France Cote d'Ivoire,Defensive Midfield,€2.50m,FC Lorient,France FC Lorient,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Chelsea,Pierre-Emerick Aubameyang,34,Gabon France,Centre-Forward,€4.00m,Olympique Marseille,France Marseille,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Chelsea,N'Golo Kanté,32,France Mali,Defensive Midfield,€15.00m,Al-Ittihad Club,Saudi Arabia Al-Ittihad,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Chelsea,Hakim Ziyech,30,Morocco Netherlands,Right Winger,€16.00m,Galatasaray,Türkiye Galatasaray,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Chelsea,Cesare Casadei,20,Italy,Central Midfield,€12.00m,Leicester City,England Leicester,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Chelsea,Gabriel Slonina,19,United States Poland,Goalkeeper,€9.00m,KAS Eupen,Belgium KAS Eupen,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Chelsea,Lewis Hall,18,England,Left-Back,€10.00m,Newcastle United,England Newcastle,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Chelsea,David Datro Fofana,20,Cote d'Ivoire,Centre-Forward,€10.00m,1.FC Union Berlin,Germany Union Berlin,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Chelsea,Andrey Santos,19,Brazil,Central Midfield,€15.00m,Nottingham Forest,England Nott'm Forest,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Chelsea,Ângelo,18,Brazil,Right Winger,€13.00m,RC Strasbourg Alsace,France R. Strasbourg,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Chelsea,João Félix,23,Portugal,Second Striker,€50.00m,Atlético de Madrid,Spain Atlético,End of loan 30.06.2023,Outbound,Loan,Summer,2023,2023/2024
+Chelsea,Denis Zakaria,26,Switzerland DR Congo,Defensive Midfield,€18.00m,Juventus FC,Italy Juventus,End of loan 30.06.2023,Outbound,Loan,Summer,2023,2023/2024
+Crystal Palace,Matheus França,19,Brazil,Attacking Midfield,€9.00m,CR Flamengo,Brazil Flamengo,€20.00m,Inbound,Transfer,Summer,2023,2023/2024
+Crystal Palace,Dean Henderson,26,England,Goalkeeper,€18.00m,Manchester United,England Man Utd,€17.50m,Inbound,Transfer,Summer,2023,2023/2024
+Crystal Palace,Rob Holding,27,England,Centre-Back,€8.00m,Arsenal FC,England Arsenal,€1.20m,Inbound,Transfer,Summer,2023,2023/2024
+Crystal Palace,Jefferson Lerma,28,Colombia,Defensive Midfield,€20.00m,AFC Bournemouth,England Bournemouth,free transfer,Inbound,Transfer,Summer,2023,2023/2024
+Crystal Palace,Jack Butland,30,England,Goalkeeper,€1.50m,Manchester United,England Man Utd,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Crystal Palace,Luka Milivojevic,32,Serbia,Defensive Midfield,€2.00m,Shabab Al-Ahli Club,United Arab Emirates Shabab Al-Ahli,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Crystal Palace,Jack Butland,30,England,Goalkeeper,€1.50m,Rangers FC,Scotland Rangers,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Crystal Palace,Wilfried Zaha,30,Cote d'Ivoire England,Left Winger,€22.00m,Galatasaray,Türkiye Galatasaray,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Crystal Palace,Vicente Guaita,36,Spain,Goalkeeper,€1.00m,Celta de Vigo,Spain Celta de Vigo,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Crystal Palace,Luke Plange,20,England,Centre-Forward,€1.00m,Carlisle United,England Carlisle United,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Crystal Palace,Scott Banks,21,Scotland Wales,Right Winger,€300k,FC St. Pauli,Germany St. Pauli,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Crystal Palace,James McArthur,35,Scotland,Central Midfield,€400k,Retired,Retired,-,Outbound,Transfer,Summer,2023,2023/2024
+Everton,Beto,25,Guinea-Bissau Portugal,Centre-Forward,€25.00m,Udinese Calcio,Italy Udinese,€25.00m,Inbound,Transfer,Summer,2023,2023/2024
+Everton,Youssef Chermiti,19,Portugal Tunisia,Centre-Forward,€3.00m,Sporting CP,Portugal Sporting,€12.50m,Inbound,Transfer,Summer,2023,2023/2024
+Everton,Arnaut Danjuma,26,Netherlands Nigeria,Left Winger,€25.00m,Villarreal CF,Spain Villarreal,Loan fee: €3.00m,Inbound,Loan,Summer,2023,2023/2024
+Everton,Ashley Young,38,England Jamaica,Right-Back,€600k,Aston Villa,England Aston Villa,free transfer,Inbound,Transfer,Summer,2023,2023/2024
+Everton,Jack Harrison,26,England,Left Winger,€22.00m,Leeds United,England Leeds,loan transfer,Inbound,Loan,Summer,2023,2023/2024
+Everton,Lewis Dobbin,20,England,Left Winger,€900k,Everton FC U21,England Everton U21,-,Inbound,Transfer,Summer,2023,2023/2024
+Everton,Billy Crellin,23,England,Goalkeeper,-,Everton FC U21,England Everton U21,-,Inbound,Transfer,Summer,2023,2023/2024
+Everton,Niels Nkounkou,22,France Congo,Left-Back,€5.00m,AS Saint-Étienne,France Saint-Étienne,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Everton,André Gomes,29,Portugal,Central Midfield,€16.00m,LOSC Lille,France Lille,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Everton,Jean-Philippe Gbamin,27,Cote d'Ivoire France,Defensive Midfield,€4.80m,Trabzonspor,Türkiye Trabzonspor,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Everton,Dele Alli,27,England Nigeria,Attacking Midfield,€8.00m,Besiktas JK,Türkiye Besiktas,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Everton,Jarrad Branthwaite,21,England,Centre-Back,€10.00m,PSV Eindhoven,Netherlands PSV,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Everton,João Virgínia,23,Portugal,Goalkeeper,€600k,SC Cambuur Leeuwarden,Netherlands SC Cambuur,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Everton,Mason Holgate,27,Jamaica England,Centre-Back,€5.00m,Sheffield United,England Sheff Utd,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Everton,Moise Kean,23,Italy Cote d'Ivoire,Centre-Forward,€18.00m,Juventus FC,Italy Juventus,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Everton,Moise Kean,23,Italy Cote d'Ivoire,Centre-Forward,€18.00m,Juventus FC,Italy Juventus,€30.00m,Outbound,Transfer,Summer,2023,2023/2024
+Everton,Alex Iwobi,27,Nigeria England,Left Winger,€28.00m,Fulham FC,England Fulham,€25.70m,Outbound,Transfer,Summer,2023,2023/2024
+Everton,Demarai Gray,27,Jamaica England,Left Winger,€20.00m,Al-Ettifaq FC,Saudi Arabia Al-Ettifaq,€9.30m,Outbound,Transfer,Summer,2023,2023/2024
+Everton,Tom Cannon,20,Ireland England,Centre-Forward,€5.00m,Leicester City,England Leicester,€8.80m,Outbound,Transfer,Summer,2023,2023/2024
+Everton,Ellis Simms,22,England,Centre-Forward,€4.00m,Coventry City,England Coventry,€7.00m,Outbound,Transfer,Summer,2023,2023/2024
+Everton,Niels Nkounkou,22,France Congo,Left-Back,€5.00m,AS Saint-Étienne,France Saint-Étienne,€2.00m,Outbound,Transfer,Summer,2023,2023/2024
+Everton,Yerry Mina,28,Colombia,Centre-Back,€10.00m,ACF Fiorentina,Italy Fiorentina,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Everton,Asmir Begovic,36,Bosnia-Herzegovina Canada,Goalkeeper,€800k,Queens Park Rangers,England QPR,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Everton,Tom Davies,25,England,Central Midfield,€9.00m,Sheffield United,England Sheff Utd,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Everton,Mason Holgate,26,Jamaica England,Centre-Back,€9.00m,Southampton FC,England Southampton,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Everton,Neal Maupay,27,France Argentina,Centre-Forward,€10.00m,Brentford FC,England Brentford,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Everton,Jean-Philippe Gbamin,27,Cote d'Ivoire France,Defensive Midfield,€4.80m,Without Club,Without Club,-,Outbound,Transfer,Summer,2023,2023/2024
+Everton,Andros Townsend,31,England,Right Winger,€1.50m,Without Club,Without Club,-,Outbound,Transfer,Summer,2023,2023/2024
+Everton,Conor Coady,30,England,Centre-Back,€12.00m,Wolverhampton Wanderers,England Wolves,End of loan 30.06.2023,Outbound,Loan,Summer,2023,2023/2024
+Everton,Rúben Vinagre,24,Portugal,Left-Back,€4.00m,Sporting CP,Portugal Sporting,End of loan 30.06.2023,Outbound,Loan,Summer,2023,2023/2024
+Fulham,Alex Iwobi,27,Nigeria England,Left Winger,€28.00m,Everton FC,England Everton,€25.70m,Inbound,Transfer,Summer,2023,2023/2024
+Fulham,Calvin Bassey,23,Nigeria England,Centre-Back,€15.00m,Ajax Amsterdam,Netherlands Ajax,€22.50m,Inbound,Transfer,Summer,2023,2023/2024
+Fulham,Timothy Castagne,27,Belgium,Right-Back,€25.00m,Leicester City,England Leicester,€13.00m,Inbound,Transfer,Summer,2023,2023/2024
+Fulham,Raúl Jiménez,32,Mexico,Centre-Forward,€6.00m,Wolverhampton Wanderers,England Wolves,€6.40m,Inbound,Transfer,Summer,2023,2023/2024
+Fulham,Steven Benda,24,Germany,Goalkeeper,€400k,Swansea City,England Swansea,€870k,Inbound,Transfer,Summer,2023,2023/2024
+Fulham,Adama Traoré,27,Spain Mali,Right Winger,€10.00m,Wolverhampton Wanderers,England Wolves,free transfer,Inbound,Transfer,Summer,2023,2023/2024
+Fulham,Fodé Ballo-Touré,26,Senegal France,Left-Back,€3.50m,AC Milan,Italy AC Milan,loan transfer,Inbound,Loan,Summer,2023,2023/2024
+Fulham,Jay Stansfield,20,England,Centre-Forward,€1.20m,Fulham FC U21,England Fulham U21,-,Inbound,Transfer,Summer,2023,2023/2024
+Fulham,Jay Stansfield,21,England,Centre-Forward,€3.50m,Birmingham City,England Birmingham,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Fulham,Kevin Mbabu,28,Switzerland DR Congo,Right-Back,€3.50m,Servette FC,Switzerland Servette FC,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Fulham,Ivan Cavaleiro,29,Angola Portugal,Left Winger,€2.20m,Alanyaspor,Türkiye Alanyaspor,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Fulham,Terence Kongolo,29,Netherlands DR Congo,Centre-Back,€900k,Le Havre AC,France Le Havre AC,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Fulham,Paulo Gazzaniga,31,Argentina Italy,Goalkeeper,€3.00m,Girona FC,Spain Girona,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Fulham,Joe Bryan,29,England,Left-Back,€2.20m,OGC Nice,France Nice,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Fulham,Aleksandar Mitrović,28,Serbia,Centre-Forward,€28.00m,Al-Hilal SFC,Saudi Arabia Al-Hilal,€52.60m,Outbound,Transfer,Summer,2023,2023/2024
+Fulham,Anthony Knockaert,31,France Belgium,Right Winger,€900k,Valenciennes FC,France Valenciennes FC,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Fulham,Ivan Cavaleiro,29,Angola Portugal,Left Winger,€2.20m,LOSC Lille,France Lille,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Fulham,Steven Sessegnon,23,England,Right-Back,€800k,Wigan Athletic,England Wigan,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Fulham,Neeskens Kebano,31,DR Congo France,Left Winger,€2.00m,Al-Jazira Club,United Arab Emirates Al-Jazira,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Fulham,Joe Bryan,29,England,Left-Back,€2.20m,Millwall FC,England Millwall,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Fulham,Shane Duffy,31,Ireland Northern Ireland,Centre-Back,€2.00m,Norwich City,England Norwich,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Fulham,Paulo Gazzaniga,31,Argentina Italy,Goalkeeper,€3.00m,Girona FC,Spain Girona,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Fulham,Kevin Mbabu,28,Switzerland DR Congo,Right-Back,€3.50m,FC Augsburg,Germany Augsburg,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Fulham,Terence Kongolo,29,Netherlands DR Congo,Centre-Back,€900k,Rapid Vienna,Austria Rapid Vienna,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Fulham,Jay Stansfield,20,England,Centre-Forward,€1.20m,Birmingham City,England Birmingham,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Fulham,Manor Solomon,23,Israel Portugal,Left Winger,€18.00m,Shakhtar Donetsk,Ukraine Shakhtar D.,End of loan 30.06.2023,Outbound,Loan,Summer,2023,2023/2024
+Fulham,Cédric Soares,31,Portugal Germany,Right-Back,€3.00m,Arsenal FC,England Arsenal,End of loan 30.06.2023,Outbound,Loan,Summer,2023,2023/2024
+Fulham,Layvin Kurzawa,30,France Guadeloupe,Left-Back,€3.00m,Paris Saint-Germain,France PSG,End of loan 30.06.2023,Outbound,Loan,Summer,2023,2023/2024
+Liverpool,Dominik Szoboszlai,22,Hungary,Attacking Midfield,€50.00m,RB Leipzig,Germany Leipzig,€70.00m,Inbound,Transfer,Summer,2023,2023/2024
+Liverpool,Alexis Mac Allister,24,Argentina Italy,Central Midfield,€65.00m,Brighton & Hove Albion,England Brighton,€42.00m,Inbound,Transfer,Summer,2023,2023/2024
+Liverpool,Ryan Gravenberch,21,Netherlands Suriname,Defensive Midfield,€30.00m,Bayern Munich,Germany Bayern Munich,€40.00m,Inbound,Transfer,Summer,2023,2023/2024
+Liverpool,Wataru Endo,30,Japan,Defensive Midfield,€6.50m,VfB Stuttgart,Germany Stuttgart,€20.00m,Inbound,Transfer,Summer,2023,2023/2024
+Liverpool,Jarell Quansah,20,England Scotland,Centre-Back,€400k,Liverpool FC U21,England Liverpool U21,-,Inbound,Transfer,Summer,2023,2023/2024
+Liverpool,Conor Bradley,19,Northern Ireland,Right-Back,€1.50m,Liverpool FC U21,England Liverpool U21,-,Inbound,Transfer,Summer,2023,2023/2024
+Liverpool,Ben Doak,17,Scotland,Right Winger,-,Liverpool FC U18,England Liverpool U18,-,Inbound,Transfer,Summer,2023,2023/2024
+Liverpool,Sepp van den Berg,21,Netherlands,Centre-Back,€5.00m,FC Schalke 04,Germany FC Schalke 04,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Liverpool,Fabinho,29,Brazil,Defensive Midfield,€42.00m,Al-Ittihad Club,Saudi Arabia Al-Ittihad,€46.70m,Outbound,Transfer,Summer,2023,2023/2024
+Liverpool,Jordan Henderson,33,England,Defensive Midfield,€10.00m,Al-Ettifaq FC,Saudi Arabia Al-Ettifaq,€14.00m,Outbound,Transfer,Summer,2023,2023/2024
+Liverpool,Alex Oxlade-Chamberlain,29,England,Central Midfield,€7.00m,Besiktas JK,Türkiye Besiktas,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Liverpool,Naby Keïta,28,Guinea,Central Midfield,€12.00m,SV Werder Bremen,Germany Werder Bremen,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Liverpool,James Milner,37,England,Central Midfield,€1.50m,Brighton & Hove Albion,England Brighton,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Liverpool,Roberto Firmino,31,Brazil,Centre-Forward,€18.00m,Al-Ahli SFC,Saudi Arabia Al-Ahli,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Liverpool,Rhys Williams,22,England Jamaica,Centre-Back,€2.00m,Aberdeen FC,Scotland Aberdeen FC,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Liverpool,Fábio Carvalho,20,Portugal England,Attacking Midfield,€16.00m,RB Leipzig,Germany Leipzig,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Liverpool,Sepp van den Berg,21,Netherlands,Centre-Back,€5.00m,1.FSV Mainz 05,Germany Mainz,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Liverpool,Nat Phillips,26,England,Centre-Back,€4.00m,Celtic FC,Scotland Celtic,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Liverpool,Arthur Melo,26,Brazil,Defensive Midfield,€15.00m,Juventus FC,Italy Juventus,End of loan 30.06.2023,Outbound,Loan,Summer,2023,2023/2024
+Luton Town,Ryan Giles,23,England,Left-Back,€9.00m,Wolverhampton Wanderers,England Wolves,€5.85m,Inbound,Transfer,Summer,2023,2023/2024
+Luton Town,Tahith Chong,23,Curacao Netherlands,Attacking Midfield,€3.20m,Birmingham City,England Birmingham,€4.70m,Inbound,Transfer,Summer,2023,2023/2024
+Luton Town,Mads Andersen,25,Denmark,Centre-Back,€2.00m,Barnsley FC,England Barnsley,€3.50m,Inbound,Transfer,Summer,2023,2023/2024
+Luton Town,Jacob Brown,25,Scotland England,Centre-Forward,€6.00m,Stoke City,England Stoke City,€2.90m,Inbound,Transfer,Summer,2023,2023/2024
+Luton Town,Thomas Kaminski,30,Belgium Poland,Goalkeeper,€2.20m,Blackburn Rovers,England Blackburn,€2.90m,Inbound,Transfer,Summer,2023,2023/2024
+Luton Town,Marvelous Nakamba,29,Zimbabwe,Defensive Midfield,€4.00m,Aston Villa,England Aston Villa,€2.90m,Inbound,Transfer,Summer,2023,2023/2024
+Luton Town,Ross Barkley,29,England,Central Midfield,€6.00m,OGC Nice,France Nice,free transfer,Inbound,Transfer,Summer,2023,2023/2024
+Luton Town,Chiedozie Ogbene,26,Ireland Nigeria,Right Winger,€2.00m,Rotherham United,England Rotherham,free transfer,Inbound,Transfer,Summer,2023,2023/2024
+Luton Town,Teden Mengi,21,England Angola,Centre-Back,€2.00m,Manchester United,England Man Utd,?,Inbound,Transfer,Summer,2023,2023/2024
+Luton Town,Tim Krul,35,Netherlands,Goalkeeper,€600k,Norwich City,England Norwich,?,Inbound,Transfer,Summer,2023,2023/2024
+Luton Town,Albert Sambi Lokonga,23,Belgium DR Congo,Central Midfield,€15.00m,Arsenal FC,England Arsenal,loan transfer,Inbound,Loan,Summer,2023,2023/2024
+Luton Town,Andros Townsend,32,England,Right Winger,€1.50m,Without Club,Without Club,-,Inbound,Transfer,Summer,2023,2023/2024
+Luton Town,Issa Kaboré,22,Burkina Faso,Right-Back,€7.00m,Manchester City,England Man City,loan transfer,Inbound,Loan,Summer,2023,2023/2024
+Luton Town,Joe Taylor,21,Wales England,Centre-Forward,€350k,Lincoln City,England Lincoln City,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Luton Town,Tom Holmes,24,England,Centre-Back,€3.50m,Reading FC,England Reading,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Luton Town,Louie Watson,22,Ireland England,Central Midfield,€250k,Charlton Athletic,England Charlton,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Luton Town,Allan Campbell,25,Scotland,Central Midfield,€2.00m,Millwall FC,England Millwall,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Luton Town,Admiral Muskwe,25,Zimbabwe England,Centre-Forward,€275k,Exeter City,England Exeter City,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Luton Town,John McAtee,24,England,Second Striker,€300k,Barnsley FC,England Barnsley,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Luton Town,Jack Walton,26,England,Goalkeeper,€400k,Dundee United FC,Scotland Dundee United,End of loan 08.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Luton Town,Dion Pereira,24,Antigua and Barbuda England,Left Winger,€200k,Bradford City,England Bradford,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Luton Town,Carlos Mendes,24,Guinea-Bissau Spain,Right Winger,€350k,Bolton Wanderers,England Bolton,€300k,Outbound,Transfer,Summer,2023,2023/2024
+Luton Town,Harry Isted,26,England,Goalkeeper,€350k,Charlton Athletic,England Charlton,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Luton Town,Sonny Bradley,31,England,Centre-Back,€600k,Derby County,England Derby,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Luton Town,Admiral Muskwe,25,Zimbabwe England,Centre-Forward,€300k,Exeter City,England Exeter City,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Luton Town,Dion Pereira,24,Antigua and Barbuda England,Left Winger,€200k,Sutton United,England Sutton Utd,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Luton Town,John McAtee,24,England,Second Striker,€200k,Barnsley FC,England Barnsley,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Luton Town,Aribim Pepple,20,Canada England,Centre-Forward,€100k,Bromley FC,England Bromley,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Luton Town,Allan Campbell,25,Scotland,Central Midfield,€3.00m,Millwall FC,England Millwall,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Luton Town,Louie Watson,22,Ireland England,Central Midfield,€250k,Charlton Athletic,England Charlton,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Luton Town,Joe Taylor,20,Wales England,Centre-Forward,€250k,Colchester United,England Colchester Utd.,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Luton Town,Fred Onyedinma,26,Nigeria England,Right Midfield,€500k,Rotherham United,England Rotherham,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Luton Town,Elliot Thorpe,22,Wales England,Attacking Midfield,€250k,Shrewsbury Town,England Shrewsbury,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Luton Town,Jack Walton,25,England,Goalkeeper,€400k,Dundee United FC,Scotland Dundee United,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Luton Town,Luke Freeman,31,England,Attacking Midfield,€600k,Without Club,Without Club,-,Outbound,Transfer,Summer,2023,2023/2024
+Luton Town,Glen Rea,28,Ireland England,Defensive Midfield,€250k,Without Club,Without Club,-,Outbound,Transfer,Summer,2023,2023/2024
+Luton Town,Matt Macey,28,England,Goalkeeper,€350k,Without Club,Without Club,-,Outbound,Transfer,Summer,2023,2023/2024
+Luton Town,Henri Lansbury,32,England,Central Midfield,€300k,Retired,Retired,-,Outbound,Transfer,Summer,2023,2023/2024
+Luton Town,Albert Sambi Lokonga,24,Belgium DR Congo,Central Midfield,€15.00m,Arsenal FC,England Arsenal,End of loan 31.05.2024,Outbound,Loan,Summer,2023,2023/2024
+Luton Town,Ethan Horvath,28,United States,Goalkeeper,€1.50m,Nottingham Forest,England Nott'm Forest,End of loan 30.06.2023,Outbound,Loan,Summer,2023,2023/2024
+Luton Town,Issa Kaboré,23,Burkina Faso,Right-Back,€10.00m,Manchester City,England Man City,End of loan 31.05.2024,Outbound,Loan,Summer,2023,2023/2024
+Manchester City,Josko Gvardiol,21,Croatia,Centre-Back,€75.00m,RB Leipzig,Germany Leipzig,€90.00m,Inbound,Transfer,Summer,2023,2023/2024
+Manchester City,Matheus Nunes,25,Portugal Brazil,Central Midfield,€45.00m,Wolverhampton Wanderers,England Wolves,€62.00m,Inbound,Transfer,Summer,2023,2023/2024
+Manchester City,Jérémy Doku,21,Belgium Ghana,Left Winger,€28.00m,Stade Rennais FC,France Stade Rennais,€60.00m,Inbound,Transfer,Summer,2023,2023/2024
+Manchester City,Mateo Kovacic,29,Croatia,Central Midfield,€38.00m,Chelsea FC,England Chelsea,€29.10m,Inbound,Transfer,Summer,2023,2023/2024
+Manchester City,James Trafford,20,England,Goalkeeper,€2.50m,Manchester City U21,England Man City U21,-,Inbound,Transfer,Summer,2023,2023/2024
+Manchester City,Oscar Bobb,19,Norway The Gambia,Right Winger,-,Manchester City U21,England Man City U21,-,Inbound,Transfer,Summer,2023,2023/2024
+Manchester City,Tommy Doyle,21,England,Central Midfield,€7.00m,Manchester City U21,England Man City U21,-,Inbound,Transfer,Summer,2023,2023/2024
+Manchester City,James McAtee,20,England,Attacking Midfield,€12.00m,Manchester City U21,England Man City U21,-,Inbound,Transfer,Summer,2023,2023/2024
+Manchester City,Taylor Harwood-Bellis,22,England,Centre-Back,€22.00m,Southampton FC,England Southampton,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Manchester City,Tommy Doyle,22,England,Central Midfield,€10.00m,Wolverhampton Wanderers,England Wolves,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Manchester City,Issa Kaboré,23,Burkina Faso,Right-Back,€10.00m,Luton Town,England Luton,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Manchester City,James McAtee,21,England,Attacking Midfield,€12.00m,Sheffield United,England Sheff Utd,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Manchester City,João Cancelo,29,Portugal,Right-Back,€50.00m,Bayern Munich,Germany Bayern Munich,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Manchester City,Nahuel Bustos,24,Argentina,Centre-Forward,€3.00m,CA Talleres,Argentina CA Talleres,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Manchester City,Issa Kaboré,22,Burkina Faso,Right-Back,€7.00m,Olympique Marseille,France Marseille,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Manchester City,Yangel Herrera,25,Venezuela Spain,Central Midfield,€5.00m,Girona FC,Spain Girona,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Manchester City,Cole Palmer,21,England St. Kitts & Nevis,Attacking Midfield,€18.00m,Chelsea FC,England Chelsea,€47.00m,Outbound,Transfer,Summer,2023,2023/2024
+Manchester City,Riyad Mahrez,32,Algeria France,Right Winger,€20.00m,Al-Ahli SFC,Saudi Arabia Al-Ahli,€35.00m,Outbound,Transfer,Summer,2023,2023/2024
+Manchester City,Aymeric Laporte,29,Spain France,Centre-Back,€25.00m,Al-Nassr FC,Saudi Arabia Al-Nassr,€27.50m,Outbound,Transfer,Summer,2023,2023/2024
+Manchester City,James Trafford,20,England,Goalkeeper,€15.00m,Burnley FC,England Burnley,€17.30m,Outbound,Transfer,Summer,2023,2023/2024
+Manchester City,Yangel Herrera,25,Venezuela Spain,Central Midfield,€5.00m,Girona FC,Spain Girona,€5.00m,Outbound,Transfer,Summer,2023,2023/2024
+Manchester City,İlkay Gündoğan,32,Germany,Central Midfield,€20.00m,FC Barcelona,Spain Barcelona,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Manchester City,Nahuel Bustos,24,Argentina,Centre-Forward,€3.00m,CA Talleres,Argentina CA Talleres,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Manchester City,Benjamin Mendy,29,France Senegal,Left-Back,€3.00m,FC Lorient,France FC Lorient,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Manchester City,James McAtee,20,England,Attacking Midfield,€12.00m,Sheffield United,England Sheff Utd,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Manchester City,Tommy Doyle,21,England,Central Midfield,€7.00m,Wolverhampton Wanderers,England Wolves,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Manchester City,Taylor Harwood-Bellis,21,England,Centre-Back,€25.00m,Southampton FC,England Southampton,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Manchester City,Máximo Perrone,20,Argentina Spain,Defensive Midfield,€10.00m,UD Las Palmas,Spain UD Las Palmas,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Manchester City,Josh Wilson-Esbrand,20,England Jamaica,Left-Back,€1.50m,Stade Reims,France Stade Reims,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Manchester City,João Cancelo,29,Portugal,Right-Back,€50.00m,FC Barcelona,Spain Barcelona,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Manchester City,Slobodan Tedic,23,Serbia Montenegro,Centre-Forward,€600k,Charlton Athletic,England Charlton,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Manchester City,Issa Kaboré,22,Burkina Faso,Right-Back,€7.00m,Luton Town,England Luton,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Manchester United,Rasmus Højlund,20,Denmark,Centre-Forward,€45.00m,Atalanta BC,Italy Atalanta,€77.80m,Inbound,Transfer,Summer,2023,2023/2024
+Manchester United,Mason Mount,24,England,Attacking Midfield,€60.00m,Chelsea FC,England Chelsea,€67.70m,Inbound,Transfer,Summer,2023,2023/2024
+Manchester United,André Onana,27,Cameroon,Goalkeeper,€35.00m,Inter Milan,Italy Inter,€50.20m,Inbound,Transfer,Summer,2023,2023/2024
+Manchester United,Sofyan Amrabat,27,Morocco Netherlands,Defensive Midfield,€30.00m,ACF Fiorentina,Italy Fiorentina,Loan fee: €10.00m,Inbound,Loan,Summer,2023,2023/2024
+Manchester United,Altay Bayındır,25,Türkiye,Goalkeeper,€11.00m,Fenerbahce,Türkiye Fenerbahçe,€5.00m,Inbound,Transfer,Summer,2023,2023/2024
+Manchester United,Jonny Evans,35,Northern Ireland,Centre-Back,€2.00m,Leicester City,England Leicester,free transfer,Inbound,Transfer,Summer,2023,2023/2024
+Manchester United,Sergio Reguilón,26,Spain,Left-Back,€10.00m,Tottenham Hotspur,England Tottenham,loan transfer,Inbound,Loan,Summer,2023,2023/2024
+Manchester United,Brandon Williams,23,England,Left-Back,€2.50m,Ipswich Town,England Ipswich,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Manchester United,Matej Kovar,23,Czech Republic,Goalkeeper,€1.80m,AC Sparta Prague,Czech Republic Sparta Prague,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Manchester United,Eric Bailly,29,Cote d'Ivoire,Centre-Back,€5.00m,Olympique Marseille,France Marseille,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Manchester United,Alex Telles,30,Brazil Italy,Left-Back,€7.50m,Sevilla FC,Spain Sevilla FC,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Manchester United,Anthony Elanga,21,Sweden Cameroon,Right Winger,€18.00m,Nottingham Forest,England Nott'm Forest,€22.93m,Outbound,Transfer,Summer,2023,2023/2024
+Manchester United,Dean Henderson,26,England,Goalkeeper,€18.00m,Crystal Palace,England Crystal Palace,€17.50m,Outbound,Transfer,Summer,2023,2023/2024
+Manchester United,Fred,30,Brazil,Central Midfield,€20.00m,Fenerbahce,Türkiye Fenerbahçe,€9.74m,Outbound,Transfer,Summer,2023,2023/2024
+Manchester United,Matej Kovar,23,Czech Republic,Goalkeeper,€1.80m,Bayer 04 Leverkusen,Germany Leverkusen,€5.00m,Outbound,Transfer,Summer,2023,2023/2024
+Manchester United,Alex Telles,30,Brazil Italy,Left-Back,€7.50m,Al-Nassr FC,Saudi Arabia Al-Nassr,€4.60m,Outbound,Transfer,Summer,2023,2023/2024
+Manchester United,Zidane Iqbal,20,Iraq England,Central Midfield,€1.00m,FC Utrecht,Netherlands Utrecht,€1.00m,Outbound,Transfer,Summer,2023,2023/2024
+Manchester United,Eric Bailly,29,Cote d'Ivoire,Centre-Back,€5.00m,Besiktas JK,Türkiye Besiktas,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Manchester United,Teden Mengi,21,England Angola,Centre-Back,€2.00m,Luton Town,England Luton,?,Outbound,Transfer,Summer,2023,2023/2024
+Manchester United,Brandon Williams,22,England,Left-Back,€7.00m,Ipswich Town,England Ipswich,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Manchester United,Mason Greenwood,21,England,Right Winger,€5.00m,Getafe CF,Spain Getafe,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Manchester United,Álvaro Carreras,20,Spain,Left-Back,€7.00m,Granada CF,Spain Granada CF,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Manchester United,David de Gea,32,Spain,Goalkeeper,€13.00m,Without Club,Without Club,-,Outbound,Transfer,Summer,2023,2023/2024
+Manchester United,Axel Tuanzebe,25,DR Congo England,Right-Back,€4.50m,Without Club,Without Club,-,Outbound,Transfer,Summer,2023,2023/2024
+Manchester United,Phil Jones,31,England,Centre-Back,€1.50m,Without Club,Without Club,-,Outbound,Transfer,Summer,2023,2023/2024
+Manchester United,Marcel Sabitzer,29,Austria,Central Midfield,€20.00m,Bayern Munich,Germany Bayern Munich,End of loan 30.06.2023,Outbound,Loan,Summer,2023,2023/2024
+Manchester United,Wout Weghorst,30,Netherlands,Centre-Forward,€12.00m,Burnley FC,England Burnley,End of loan 30.06.2023,Outbound,Loan,Summer,2023,2023/2024
+Manchester United,Jack Butland,30,England,Goalkeeper,€1.50m,Crystal Palace,England Crystal Palace,End of loan 30.06.2023,Outbound,Loan,Summer,2023,2023/2024
+Newcastle United,Sandro Tonali,23,Italy,Central Midfield,€50.00m,AC Milan,Italy AC Milan,€58.90m,Inbound,Transfer,Summer,2023,2023/2024
+Newcastle United,Harvey Barnes,25,England Scotland,Left Winger,€35.00m,Leicester City,England Leicester,€44.00m,Inbound,Transfer,Summer,2023,2023/2024
+Newcastle United,Tino Livramento,20,England Scotland,Right-Back,€25.00m,Southampton FC,England Southampton,€37.20m,Inbound,Transfer,Summer,2023,2023/2024
+Newcastle United,Yankuba Minteh,18,The Gambia,Right Winger,€2.00m,Odense Boldklub,Denmark Odense BK,€8.00m,Inbound,Transfer,Summer,2023,2023/2024
+Newcastle United,Lewis Hall,18,England,Left-Back,€10.00m,Chelsea FC,England Chelsea,loan transfer,Inbound,Loan,Summer,2023,2023/2024
+Newcastle United,Lewis Miley,17,England,Central Midfield,-,Newcastle United U21,England Newcastle U21,-,Inbound,Transfer,Summer,2023,2023/2024
+Newcastle United,Joe White,20,England,Attacking Midfield,€250k,Newcastle United U21,England Newcastle U21,-,Inbound,Transfer,Summer,2023,2023/2024
+Newcastle United,Harrison Ashby,22,Scotland England,Right-Back,€1.20m,Swansea City,England Swansea,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Newcastle United,Kell Watts,24,England,Centre-Back,€250k,Wigan Athletic,England Wigan,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Newcastle United,Jamal Lewis,26,Northern Ireland England,Left-Back,€3.50m,Watford FC,England Watford,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Newcastle United,Ryan Fraser,30,Scotland,Left Winger,€3.00m,Southampton FC,England Southampton,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Newcastle United,Jeff Hendrick,32,Ireland,Central Midfield,€500k,Sheffield Wednesday,England Sheff Wed,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Newcastle United,Chris Wood,31,New Zealand,Centre-Forward,€8.00m,Nottingham Forest,England Nott'm Forest,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Newcastle United,Isaac Hayden,28,Jamaica England,Defensive Midfield,€3.50m,Norwich City,England Norwich,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Newcastle United,Allan Saint-Maximin,26,France Haiti,Left Winger,€32.00m,Al-Ahli SFC,Saudi Arabia Al-Ahli,€27.20m,Outbound,Transfer,Summer,2023,2023/2024
+Newcastle United,Chris Wood,31,New Zealand,Centre-Forward,€8.00m,Nottingham Forest,England Nott'm Forest,€17.00m,Outbound,Transfer,Summer,2023,2023/2024
+Newcastle United,Karl Darlow,32,Wales England,Goalkeeper,€1.00m,Leeds United,England Leeds,€400k,Outbound,Transfer,Summer,2023,2023/2024
+Newcastle United,Isaac Hayden,28,Jamaica England,Defensive Midfield,€3.50m,Standard Liège,Belgium Standard Liège,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Newcastle United,Jeff Hendrick,31,Ireland,Central Midfield,€1.50m,Sheffield Wednesday,England Sheff Wed,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Newcastle United,Joe White,20,England,Attacking Midfield,€250k,Crewe Alexandra,England Crewe Alexandra,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Newcastle United,Jamal Lewis,25,Northern Ireland England,Left-Back,€6.00m,Watford FC,England Watford,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Newcastle United,Ryan Fraser,29,Scotland,Left Winger,€6.00m,Southampton FC,England Southampton,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Newcastle United,Kell Watts,23,England,Centre-Back,€300k,Wigan Athletic,England Wigan,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Newcastle United,Harrison Ashby,21,Scotland England,Right-Back,€1.00m,Swansea City,England Swansea,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Newcastle United,Matty Longstaff,23,England,Central Midfield,€1.00m,Without Club,Without Club,-,Outbound,Transfer,Summer,2023,2023/2024
+Newcastle United,Ciaran Clark,33,Ireland England,Centre-Back,€600k,Without Club,Without Club,-,Outbound,Transfer,Summer,2023,2023/2024
+Newcastle United,Yankuba Minteh,18,The Gambia,Right Winger,€2.00m,Feyenoord Rotterdam,Netherlands Feyenoord,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Nottingham Forest,Ibrahim Sangaré,25,Cote d'Ivoire,Defensive Midfield,€35.00m,PSV Eindhoven,Netherlands PSV,€35.00m,Inbound,Transfer,Summer,2023,2023/2024
+Nottingham Forest,Anthony Elanga,21,Sweden Cameroon,Right Winger,€18.00m,Manchester United,England Man Utd,€22.93m,Inbound,Transfer,Summer,2023,2023/2024
+Nottingham Forest,Chris Wood,31,New Zealand,Centre-Forward,€8.00m,Newcastle United,England Newcastle,€17.00m,Inbound,Transfer,Summer,2023,2023/2024
+Nottingham Forest,Andrew Omobamidele,21,Ireland Nigeria,Centre-Back,€6.00m,Norwich City,England Norwich,€12.85m,Inbound,Transfer,Summer,2023,2023/2024
+Nottingham Forest,Murillo,21,Brazil,Centre-Back,€3.50m,Sport Club Corinthians Paulista,Brazil Corinthians,€12.00m,Inbound,Transfer,Summer,2023,2023/2024
+Nottingham Forest,Matt Turner,29,United States Lithuania,Goalkeeper,€8.00m,Arsenal FC,England Arsenal,€8.15m,Inbound,Transfer,Summer,2023,2023/2024
+Nottingham Forest,Nicolás Domínguez,25,Argentina Italy,Central Midfield,€17.00m,Bologna FC 1909,Italy Bologna,€6.65m,Inbound,Transfer,Summer,2023,2023/2024
+Nottingham Forest,Odysseas Vlachodimos,29,Greece Germany,Goalkeeper,€16.00m,SL Benfica,Portugal Benfica,€4.90m,Inbound,Transfer,Summer,2023,2023/2024
+Nottingham Forest,Callum Hudson-Odoi,22,England Ghana,Left Winger,€15.00m,Chelsea FC,England Chelsea,€3.50m,Inbound,Transfer,Summer,2023,2023/2024
+Nottingham Forest,Nuno Tavares,23,Portugal Cape Verde,Left-Back,€18.00m,Arsenal FC,England Arsenal,Loan fee: €1.15m,Inbound,Loan,Summer,2023,2023/2024
+Nottingham Forest,Ola Aina,26,Nigeria England,Right-Back,€3.50m,Torino FC,Italy Torino,free transfer,Inbound,Transfer,Summer,2023,2023/2024
+Nottingham Forest,Andrey Santos,19,Brazil,Central Midfield,€15.00m,Chelsea FC,England Chelsea,loan transfer,Inbound,Loan,Summer,2023,2023/2024
+Nottingham Forest,Gonzalo Montiel,26,Argentina Spain,Right-Back,€12.00m,Sevilla FC,Spain Sevilla FC,loan transfer,Inbound,Loan,Summer,2023,2023/2024
+Nottingham Forest,Divock Origi,28,Belgium Kenya,Centre-Forward,€6.00m,AC Milan,Italy AC Milan,loan transfer,Inbound,Loan,Summer,2023,2023/2024
+Nottingham Forest,Brandon Aguilera,20,Costa Rica,Attacking Midfield,€300k,Bristol Rovers,England Bristol Rovers,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Nottingham Forest,Emmanuel Dennis,26,Nigeria,Centre-Forward,€4.20m,Watford FC,England Watford,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Nottingham Forest,Alex Mighten,22,England United States,Left Winger,€600k,Port Vale FC,England Port Vale,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Nottingham Forest,Mohamed Dräger,27,Tunisia Germany,Right-Back,€900k,FC Luzern,Switzerland FC Luzern,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Nottingham Forest,Lewis O'Brien,25,England,Central Midfield,€5.00m,Middlesbrough FC,England Middlesbrough,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Nottingham Forest,Josh Bowler,25,England,Right Winger,€1.50m,Cardiff City,England Cardiff,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Nottingham Forest,Lewis O'Brien,24,England,Central Midfield,€8.00m,D.C. United,United States D.C. United,End of loan 16.07.2023,Inbound,Loan,Summer,2023,2023/2024
+Nottingham Forest,Ui-jo Hwang,30,"Korea, South",Centre-Forward,€4.80m,FC Seoul,"Korea, South FC Seoul",End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Nottingham Forest,Brandon Aguilera,20,Costa Rica,Attacking Midfield,€275k,Estoril Praia U23,Portugal Estoril U23,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Nottingham Forest,Loïc Mbe Soh,22,France Cameroon,Centre-Back,€2.00m,EA Guingamp,France Guingamp,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Nottingham Forest,Richie Laryea,28,Canada Ghana,Right-Back,€2.50m,Toronto FC,United States Toronto,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Nottingham Forest,Ethan Horvath,28,United States,Goalkeeper,€1.50m,Luton Town,England Luton,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Nottingham Forest,Brennan Johnson,22,Wales England,Right Winger,€38.00m,Tottenham Hotspur,England Tottenham,€55.00m,Outbound,Transfer,Summer,2023,2023/2024
+Nottingham Forest,Sam Surridge,24,England,Centre-Forward,€5.00m,Nashville SC,United States Nashville,€5.80m,Outbound,Transfer,Summer,2023,2023/2024
+Nottingham Forest,Braian Ojeda,23,Paraguay,Central Midfield,€1.50m,Real Salt Lake City,United States Salt Lake,€3.60m,Outbound,Transfer,Summer,2023,2023/2024
+Nottingham Forest,Mohamed Dräger,27,Tunisia Germany,Right-Back,€900k,FC Basel 1893,Switzerland Basel,€420k,Outbound,Transfer,Summer,2023,2023/2024
+Nottingham Forest,Cafú,30,Portugal Guinea-Bissau,Central Midfield,€600k,Rotherham United,England Rotherham,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Nottingham Forest,Jordan Smith,28,England,Goalkeeper,€250k,Stockport County,England Stockport,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Nottingham Forest,Jack Colback,33,England,Defensive Midfield,€600k,Queens Park Rangers,England QPR,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Nottingham Forest,Jonjo Shelvey,31,England Ireland,Central Midfield,€5.00m,Caykur Rizespor,Türkiye C. Rizespor,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Nottingham Forest,Giulian Biancone,23,France,Centre-Back,€6.00m,Olympiacos Piraeus,Greece Olympiacos,?,Outbound,Transfer,Summer,2023,2023/2024
+Nottingham Forest,Steve Cook,32,England,Centre-Back,€1.80m,Queens Park Rangers,England QPR,?,Outbound,Transfer,Summer,2023,2023/2024
+Nottingham Forest,Loïc Mbe Soh,22,France Cameroon,Centre-Back,€2.00m,Almere City FC,Netherlands Almere City,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Nottingham Forest,Josh Bowler,24,England,Right Winger,€1.80m,Cardiff City,England Cardiff,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Nottingham Forest,Jonathan Panzo,22,England Cote d'Ivoire,Centre-Back,€3.00m,Cardiff City,England Cardiff,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Nottingham Forest,Lewis O'Brien,24,England,Central Midfield,€8.00m,Middlesbrough FC,England Middlesbrough,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Nottingham Forest,Omar Richards,25,England Jamaica,Left-Back,€5.00m,Olympiacos Piraeus,Greece Olympiacos,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Nottingham Forest,Remo Freuler,31,Switzerland,Central Midfield,€8.00m,Bologna FC 1909,Italy Bologna,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Nottingham Forest,Gustavo Scarpa,29,Brazil Italy,Attacking Midfield,€10.00m,Olympiacos Piraeus,Greece Olympiacos,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Nottingham Forest,Richie Laryea,28,Canada Ghana,Right-Back,€2.50m,Vancouver Whitecaps FC,United States Vancouver,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Nottingham Forest,Ui-jo Hwang,31,"Korea, South",Centre-Forward,€4.80m,Norwich City,England Norwich,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Nottingham Forest,Alex Mighten,21,England United States,Left Winger,€600k,KV Kortrijk,Belgium KV Kortrijk,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Nottingham Forest,Emmanuel Dennis,25,Nigeria,Centre-Forward,€8.00m,Basaksehir FK,Türkiye Basaksehir,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Nottingham Forest,Lyle Taylor,33,Montserrat England,Centre-Forward,€300k,Without Club,Without Club,-,Outbound,Transfer,Summer,2023,2023/2024
+Nottingham Forest,Jesse Lingard,30,England,Attacking Midfield,€8.00m,Without Club,Without Club,-,Outbound,Transfer,Summer,2023,2023/2024
+Nottingham Forest,André Ayew,33,Ghana France,Centre-Forward,€1.80m,Without Club,Without Club,-,Outbound,Transfer,Summer,2023,2023/2024
+Nottingham Forest,Adnan Kanuric,22,Bosnia-Herzegovina Austria,Goalkeeper,€150k,Without Club,Without Club,-,Outbound,Transfer,Summer,2023,2023/2024
+Nottingham Forest,Keylor Navas,36,Costa Rica Spain,Goalkeeper,€4.00m,Paris Saint-Germain,France PSG,End of loan 30.06.2023,Outbound,Loan,Summer,2023,2023/2024
+Nottingham Forest,Chris Wood,31,New Zealand,Centre-Forward,€8.00m,Newcastle United,England Newcastle,End of loan 30.06.2023,Outbound,Loan,Summer,2023,2023/2024
+Nottingham Forest,Renan Lodi,25,Brazil Italy,Left-Back,€20.00m,Atlético de Madrid,Spain Atlético,End of loan 30.06.2023,Outbound,Loan,Summer,2023,2023/2024
+Sheffield United,Cameron Archer,21,England Jamaica,Centre-Forward,€12.00m,Aston Villa,England Aston Villa,€21.55m,Inbound,Transfer,Summer,2023,2023/2024
+Sheffield United,Gustavo Hamer,26,Netherlands Brazil,Central Midfield,€8.00m,Coventry City,England Coventry,€17.30m,Inbound,Transfer,Summer,2023,2023/2024
+Sheffield United,Vini Souza,24,Brazil,Defensive Midfield,€6.00m,Lommel SK,Belgium Lommel SK,€12.50m,Inbound,Transfer,Summer,2023,2023/2024
+Sheffield United,Auston Trusty,24,United States,Centre-Back,€10.00m,Arsenal FC,England Arsenal,€5.80m,Inbound,Transfer,Summer,2023,2023/2024
+Sheffield United,Bénie Traoré,20,Cote d'Ivoire,Left Winger,€3.50m,BK Häcken,Sweden Häcken,€4.60m,Inbound,Transfer,Summer,2023,2023/2024
+Sheffield United,Anis Slimane,22,Tunisia Denmark,Central Midfield,€2.50m,Bröndby IF,Denmark Bröndby IF,€2.70m,Inbound,Transfer,Summer,2023,2023/2024
+Sheffield United,Tom Davies,25,England,Central Midfield,€9.00m,Everton FC,England Everton,free transfer,Inbound,Transfer,Summer,2023,2023/2024
+Sheffield United,Yasser Larouci,22,Algeria France,Left-Back,€3.50m,ESTAC Troyes,France Troyes,loan transfer,Inbound,Loan,Summer,2023,2023/2024
+Sheffield United,Luke Thomas,22,England,Left-Back,€12.00m,Leicester City,England Leicester,loan transfer,Inbound,Loan,Summer,2023,2023/2024
+Sheffield United,James McAtee,20,England,Attacking Midfield,€12.00m,Manchester City,England Man City,loan transfer,Inbound,Loan,Summer,2023,2023/2024
+Sheffield United,Femi Seriki,21,England Nigeria,Right-Back,€175k,Sheffield United U21,England Sheff Utd U21,-,Inbound,Transfer,Summer,2023,2023/2024
+Sheffield United,Oliver Arblaster,19,England,Central Midfield,-,Sheffield United U21,England Sheff Utd U21,-,Inbound,Transfer,Summer,2023,2023/2024
+Sheffield United,Andre Brooks,19,England Jamaica,Central Midfield,-,Sheffield United U21,England Sheff Utd U21,-,Inbound,Transfer,Summer,2023,2023/2024
+Sheffield United,Femi Seriki,22,England Nigeria,Right-Back,€300k,Rotherham United,England Rotherham,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Sheffield United,Iliman Ndiaye,23,Senegal France,Right Winger,€18.00m,Olympique Marseille,France Marseille,€17.00m,Outbound,Transfer,Summer,2023,2023/2024
+Sheffield United,Sander Berge,25,Norway,Defensive Midfield,€20.00m,Burnley FC,England Burnley,€13.90m,Outbound,Transfer,Summer,2023,2023/2024
+Sheffield United,Billy Sharp,37,England,Centre-Forward,€300k,Los Angeles Galaxy,United States LA Galaxy,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Sheffield United,Enda Stevens,32,Ireland,Left-Back,€600k,Stoke City,England Stoke City,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Sheffield United,Oliver Arblaster,19,England,Central Midfield,-,Port Vale FC,England Port Vale,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Sheffield United,Jake Eastwood,26,England,Goalkeeper,€100k,Grimsby Town,England Grimsby Town,?,Outbound,Transfer,Summer,2023,2023/2024
+Sheffield United,Kyron Gordon,21,England,Centre-Back,€250k,Without Club,Without Club,-,Outbound,Transfer,Summer,2023,2023/2024
+Sheffield United,Jack O'Connell,29,England,Centre-Back,€1.20m,Retired,Retired,-,Outbound,Transfer,Summer,2023,2023/2024
+Sheffield United,James McAtee,21,England,Attacking Midfield,€12.00m,Manchester City,England Man City,End of loan 31.05.2024,Outbound,Loan,Summer,2023,2023/2024
+Sheffield United,Mason Holgate,27,Jamaica England,Centre-Back,€5.00m,Everton FC,England Everton,End of loan 31.05.2024,Outbound,Loan,Summer,2023,2023/2024
+Tottenham,Brennan Johnson,22,Wales England,Right Winger,€38.00m,Nottingham Forest,England Nott'm Forest,€55.00m,Inbound,Transfer,Summer,2023,2023/2024
+Tottenham,James Maddison,26,England,Attacking Midfield,€60.00m,Leicester City,England Leicester,€46.30m,Inbound,Transfer,Summer,2023,2023/2024
+Tottenham,Pedro Porro,23,Spain,Right-Back,€40.00m,Sporting CP,Portugal Sporting,€40.00m,Inbound,Transfer,Summer,2023,2023/2024
+Tottenham,Micky van de Ven,22,Netherlands,Centre-Back,€30.00m,VfL Wolfsburg,Germany Wolfsburg,€40.00m,Inbound,Transfer,Summer,2023,2023/2024
+Tottenham,Dejan Kulusevski,23,Sweden North Macedonia,Attacking Midfield,€50.00m,Juventus FC,Italy Juventus,€30.00m,Inbound,Transfer,Summer,2023,2023/2024
+Tottenham,Guglielmo Vicario,26,Italy,Goalkeeper,€16.00m,FC Empoli,Italy FC Empoli,€18.50m,Inbound,Transfer,Summer,2023,2023/2024
+Tottenham,Alejo Veliz,19,Argentina,Centre-Forward,€7.00m,CA Rosario Central,Argentina Rosario Central,€15.00m,Inbound,Transfer,Summer,2023,2023/2024
+Tottenham,Ashley Phillips,18,England Wales,Centre-Back,€2.00m,Blackburn Rovers,England Blackburn,€2.30m,Inbound,Transfer,Summer,2023,2023/2024
+Tottenham,Manor Solomon,23,Israel Portugal,Left Winger,€18.00m,Shakhtar Donetsk,Ukraine Shakhtar D.,free transfer,Inbound,Transfer,Summer,2023,2023/2024
+Tottenham,Dane Scarlett,19,England Jamaica,Centre-Forward,€1.80m,Tottenham Hotspur U21,England Tottenham U21,-,Inbound,Transfer,Summer,2023,2023/2024
+Tottenham,Djed Spence,22,England Jamaica,Left-Back,€10.00m,Stade Rennais FC,France Stade Rennais,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Tottenham,Bryan Gil,22,Spain,Left Winger,€15.00m,Sevilla FC,Spain Sevilla FC,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Tottenham,Joe Rodon,26,Wales,Centre-Back,€8.00m,Leeds United,England Leeds,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Tottenham,Sergio Reguilón,26,Spain,Left-Back,€10.00m,Atlético de Madrid,Spain Atlético,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Tottenham,Harry Winks,27,England,Central Midfield,€10.00m,UC Sampdoria,Italy Sampdoria,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Tottenham,Tanguy Ndombélé,26,France DR Congo,Central Midfield,€22.00m,SSC Napoli,Italy Napoli,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Tottenham,Destiny Udogie,20,Italy Nigeria,Left-Back,€25.00m,Udinese Calcio,Italy Udinese,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Tottenham,Giovani Lo Celso,27,Argentina Italy,Attacking Midfield,€14.00m,Villarreal CF,Spain Villarreal,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Tottenham,Joe Rodon,25,Wales,Centre-Back,€7.00m,Stade Rennais FC,France Stade Rennais,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Tottenham,Sergio Reguilón,27,Spain,Left-Back,€12.00m,Brentford FC,England Brentford,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Tottenham,Japhet Tanganga,25,England DR Congo,Centre-Back,€1.80m,Millwall FC,England Millwall,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Tottenham,Harry Kane,30,England Ireland,Centre-Forward,€90.00m,Bayern Munich,Germany Bayern Munich,€95.00m,Outbound,Transfer,Summer,2023,2023/2024
+Tottenham,Harry Winks,27,England,Central Midfield,€10.00m,Leicester City,England Leicester,€11.60m,Outbound,Transfer,Summer,2023,2023/2024
+Tottenham,Davinson Sánchez,27,Colombia,Centre-Back,€15.00m,Galatasaray,Türkiye Galatasaray,€9.50m,Outbound,Transfer,Summer,2023,2023/2024
+Tottenham,Djed Spence,23,England Jamaica,Left-Back,€10.00m,Leeds United,England Leeds,Loan fee: €1.10m,Outbound,Loan,Summer,2023,2023/2024
+Tottenham,Lucas Moura,30,Brazil,Right Winger,€6.00m,São Paulo Futebol Clube,Brazil São Paulo,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Tottenham,Tanguy Ndombélé,26,France DR Congo,Central Midfield,€22.00m,Galatasaray,Türkiye Galatasaray,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Tottenham,Joe Rodon,25,Wales,Centre-Back,€7.00m,Leeds United,England Leeds,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Tottenham,Dane Scarlett,19,England Jamaica,Centre-Forward,€1.80m,Ipswich Town,England Ipswich,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Tottenham,Japhet Tanganga,24,England DR Congo,Centre-Back,€7.00m,FC Augsburg,Germany Augsburg,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Tottenham,Sergio Reguilón,26,Spain,Left-Back,€10.00m,Manchester United,England Man Utd,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Tottenham,Pedro Porro,23,Spain,Right-Back,€40.00m,Sporting CP,Portugal Sporting,End of loan 30.06.2023,Outbound,Loan,Summer,2023,2023/2024
+Tottenham,Arnaut Danjuma,26,Netherlands Nigeria,Left Winger,€25.00m,Villarreal CF,Spain Villarreal,End of loan 30.06.2023,Outbound,Loan,Summer,2023,2023/2024
+Tottenham,Clément Lenglet,28,France,Centre-Back,€10.00m,FC Barcelona,Spain Barcelona,End of loan 30.06.2023,Outbound,Loan,Summer,2023,2023/2024
+Tottenham,Dejan Kulusevski,23,Sweden North Macedonia,Attacking Midfield,€50.00m,Juventus FC,Italy Juventus,End of loan 30.06.2023,Outbound,Loan,Summer,2023,2023/2024
+West Ham United,Mohammed Kudus,23,Ghana,Right Winger,€40.00m,Ajax Amsterdam,Netherlands Ajax,€43.00m,Inbound,Transfer,Summer,2023,2023/2024
+West Ham United,Edson Álvarez,25,Mexico,Defensive Midfield,€35.00m,Ajax Amsterdam,Netherlands Ajax,€38.00m,Inbound,Transfer,Summer,2023,2023/2024
+West Ham United,James Ward-Prowse,28,England,Central Midfield,€38.00m,Southampton FC,England Southampton,€34.80m,Inbound,Transfer,Summer,2023,2023/2024
+West Ham United,Konstantinos Mavropanos,25,Greece,Centre-Back,€15.00m,VfB Stuttgart,Germany Stuttgart,€20.00m,Inbound,Transfer,Summer,2023,2023/2024
+West Ham United,Andrew Irving,23,Scotland,Central Midfield,€800k,SK Austria Klagenfurt,Austria A. Klagenfurt,€1.76m,Inbound,Transfer,Summer,2023,2023/2024
+West Ham United,Divin Mubama,18,England DR Congo,Centre-Forward,€250k,West Ham United U21,England West Ham U21,-,Inbound,Transfer,Summer,2023,2023/2024
+West Ham United,Arthur Masuaku,29,DR Congo France,Left-Back,€6.00m,Besiktas JK,Türkiye Besiktas,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+West Ham United,Nikola Vlašić,25,Croatia,Attacking Midfield,€17.00m,Torino FC,Italy Torino,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+West Ham United,Flynn Downes,25,England,Defensive Midfield,€9.00m,Southampton FC,England Southampton,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+West Ham United,Declan Rice,24,England Ireland,Central Midfield,€90.00m,Arsenal FC,England Arsenal,€116.60m,Outbound,Transfer,Summer,2023,2023/2024
+West Ham United,Gianluca Scamacca,24,Italy,Centre-Forward,€22.00m,Atalanta BC,Italy Atalanta,€28.00m,Outbound,Transfer,Summer,2023,2023/2024
+West Ham United,Nikola Vlašić,25,Croatia,Attacking Midfield,€17.00m,Torino FC,Italy Torino,€10.60m,Outbound,Transfer,Summer,2023,2023/2024
+West Ham United,Arthur Masuaku,29,DR Congo France,Left-Back,€6.00m,Besiktas JK,Türkiye Besiktas,€2.00m,Outbound,Transfer,Summer,2023,2023/2024
+West Ham United,Manuel Lanzini,30,Argentina Italy,Attacking Midfield,€6.00m,CA River Plate,Argentina River Plate,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+West Ham United,Flynn Downes,24,England,Defensive Midfield,€9.00m,Southampton FC,England Southampton,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+West Ham United,Andrew Irving,23,Scotland,Central Midfield,€800k,SK Austria Klagenfurt,Austria A. Klagenfurt,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Matheus Cunha,24,Brazil,Second Striker,€25.00m,Atlético de Madrid,Spain Atlético,€50.00m,Inbound,Transfer,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Jean-Ricner Bellegarde,25,Haiti France,Central Midfield,€10.00m,RC Strasbourg Alsace,France R. Strasbourg,€15.00m,Inbound,Transfer,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Santiago Bueno,24,Uruguay Italy,Centre-Back,€8.00m,Girona FC,Spain Girona,€12.00m,Inbound,Transfer,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Boubacar Traoré,21,Mali,Defensive Midfield,€5.00m,FC Metz,France FC Metz,€11.00m,Inbound,Transfer,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Enso González,18,Paraguay,Left Winger,€1.90m,Club Libertad Asunción,Paraguay Libertad,€6.00m,Inbound,Transfer,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Tom King,28,Wales England,Goalkeeper,€175k,Northampton Town,England Northampton,free transfer,Inbound,Transfer,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Matt Doherty,31,Ireland,Right-Back,€5.00m,Atlético de Madrid,Spain Atlético,free transfer,Inbound,Transfer,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Tommy Doyle,21,England,Central Midfield,€7.00m,Manchester City,England Man City,loan transfer,Inbound,Loan,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Joe Hodge,21,Ireland England,Defensive Midfield,€1.50m,Queens Park Rangers,England QPR,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Bendegúz Bolla,23,Hungary,Right-Back,€2.70m,Grasshopper Club Zurich,Switzerland Grasshoppers,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Chem Campbell,21,Wales England,Attacking Midfield,€900k,Wycombe Wanderers,England Wycombe,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Luke Cundle,22,England,Central Midfield,€5.00m,Stoke City,England Stoke City,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Chiquinho,23,Portugal Cape Verde,Left Winger,€2.00m,Stoke City,England Stoke City,End of loan 31.08.2023,Inbound,Loan,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Ki-Jana Hoever,22,Netherlands Suriname,Right-Back,€4.50m,Stoke City,England Stoke City,End of loan 31.05.2024,Inbound,Loan,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Fábio Silva,20,Portugal,Centre-Forward,€13.00m,PSV Eindhoven,Netherlands PSV,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Gonçalo Guedes,26,Portugal,Left Winger,€23.00m,SL Benfica,Portugal Benfica,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Bruno Jordão,24,Portugal,Defensive Midfield,€1.30m,CD Santa Clara,Portugal Santa Clara,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Conor Coady,30,England,Centre-Back,€12.00m,Everton FC,England Everton,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Hayao Kawabe,27,Japan,Central Midfield,€2.80m,Grasshopper Club Zurich,Switzerland Grasshoppers,End of loan 30.06.2023,Inbound,Loan,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Matheus Nunes,25,Portugal Brazil,Central Midfield,€45.00m,Manchester City,England Man City,€62.00m,Outbound,Transfer,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Rúben Neves,26,Portugal,Defensive Midfield,€40.00m,Al-Hilal SFC,Saudi Arabia Al-Hilal,€55.00m,Outbound,Transfer,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Nathan Collins,22,Ireland,Centre-Back,€22.00m,Brentford FC,England Brentford,€26.85m,Outbound,Transfer,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Conor Coady,30,England,Centre-Back,€12.00m,Leicester City,England Leicester,€8.70m,Outbound,Transfer,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Raúl Jiménez,32,Mexico,Centre-Forward,€6.00m,Fulham FC,England Fulham,€6.40m,Outbound,Transfer,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Ryan Giles,23,England,Left-Back,€9.00m,Luton Town,England Luton,€5.85m,Outbound,Transfer,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Hayao Kawabe,27,Japan,Central Midfield,€2.80m,Standard Liège,Belgium Standard Liège,€1.50m,Outbound,Transfer,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Daniel Podence,27,Portugal,Left Winger,€20.00m,Olympiacos Piraeus,Greece Olympiacos,Loan fee: €1.50m,Outbound,Loan,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Matija Sarkic,26,Montenegro England,Goalkeeper,€2.00m,Millwall FC,England Millwall,€1.40m,Outbound,Transfer,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Adama Traoré,27,Spain Mali,Right Winger,€10.00m,Fulham FC,England Fulham,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Wovlerhampton Wanderers,João Moutinho,36,Portugal,Central Midfield,€1.50m,SC Braga,Portugal Braga,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Diego Costa,34,Spain Brazil,Centre-Forward,€2.00m,Botafogo de Futebol e Regatas,Brazil Botafogo,free transfer,Outbound,Transfer,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Chem Campbell,20,Wales England,Attacking Midfield,€1.00m,Charlton Athletic,England Charlton,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Luke Cundle,21,England,Central Midfield,€3.00m,Plymouth Argyle,England Plymouth,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Chiquinho,23,Portugal Cape Verde,Left Winger,€2.00m,Stoke City,England Stoke City,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Bendegúz Bolla,23,Hungary,Right-Back,€2.70m,Servette FC,Switzerland Servette FC,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Ki-Jana Hoever,21,Netherlands Suriname,Right-Back,€3.50m,Stoke City,England Stoke City,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Gonçalo Guedes,26,Portugal,Left Winger,€23.00m,SL Benfica,Portugal Benfica,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Chiquinho,23,Portugal Cape Verde,Left Winger,€2.00m,FC Famalicão,Portugal Famalicão,loan transfer,Outbound,Loan,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Tommy Doyle,22,England,Central Midfield,€10.00m,Manchester City,England Man City,End of loan 31.05.2024,Outbound,Loan,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Matheus Cunha,24,Brazil,Second Striker,€25.00m,Atlético de Madrid,Spain Atlético,End of loan 30.06.2023,Outbound,Loan,Summer,2023,2023/2024
+Wovlerhampton Wanderers,Boubacar Traoré,21,Mali,Defensive Midfield,€5.00m,FC Metz,France FC Metz,End of loan 30.06.2023,Outbound,Loan,Summer,2023,2023/2024
+Arsenal,Marquinhos,20,Brazil,Right Winger,€7.00m,FC Nantes,France FC Nantes,End of loan 12.01.2024,Inbound,Loan,Winter,2024,2023/2024
+Arsenal,Rúnar Alex Rúnarsson,28,Iceland,Goalkeeper,€800k,Cardiff City,England Cardiff,End of loan 31.01.2024,Inbound,Loan,Winter,2024,2023/2024
+Arsenal,Marquinhos,20,Brazil,Right Winger,€7.00m,FC Nantes,France FC Nantes,End of loan 12.01.2024,Outbound,Loan,Winter,2024,2023/2024
+Arsenal,Rúnar Alex Rúnarsson,28,Iceland,Goalkeeper,€800k,Cardiff City,England Cardiff,End of loan 31.01.2024,Outbound,Loan,Winter,2024,2023/2024
+Aston Villa,Morgan Rogers,21,England,Attacking Midfield,€2.80m,Middlesbrough FC,England Middlesbrough,€9.40m,Inbound,Transfer,Winter,2024,2023/2024
+Aston Villa,Kosta Nedeljkovic,18,Serbia,Right-Back,€2.50m,Red Star Belgrade,Serbia Red Star,€7.60m,Inbound,Transfer,Winter,2024,2023/2024
+Aston Villa,Joe Gauci,23,Australia New Zealand,Goalkeeper,€550k,Adelaide United,Australia Adelaide United,€1.50m,Inbound,Transfer,Winter,2024,2023/2024
+Aston Villa,Kaine Kesler-Hayden,21,England,Right-Back,€2.20m,Aston Villa U21,England Aston Villa U21,-,Inbound,Transfer,Winter,2024,2023/2024
+Aston Villa,Leander Dendoncker,28,Belgium,Defensive Midfield,€11.00m,SSC Napoli,Italy Napoli,Loan fee: €608k,Outbound,Loan,Winter,2024,2023/2024
+Aston Villa,Bertrand Traoré,28,Burkina Faso,Right Winger,€10.00m,Villarreal CF,Spain Villarreal,free transfer,Outbound,Transfer,Winter,2024,2023/2024
+Aston Villa,Kosta Nedeljkovic,18,Serbia,Right-Back,€2.50m,Red Star Belgrade,Serbia Red Star,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Aston Villa,Filip Marschall,20,England Poland,Goalkeeper,€800k,Milton Keynes Dons,England MK Dons,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+AFC Bournemouth,Enes Ünal,26,Türkiye,Centre-Forward,€25.00m,Getafe CF,Spain Getafe,loan transfer,Inbound,Loan,Winter,2024,2023/2024
+AFC Bournemouth,James Hill,22,England,Centre-Back,€2.00m,Blackburn Rovers,England Blackburn,End of loan 10.01.2024,Inbound,Loan,Winter,2024,2023/2024
+AFC Bournemouth,Romain Faivre,25,France Algeria,Attacking Midfield,€15.00m,FC Lorient,France FC Lorient,End of loan 31.01.2024,Inbound,Loan,Winter,2024,2023/2024
+AFC Bournemouth,Hamed Traoré,23,Cote d'Ivoire,Left Winger,€18.00m,SSC Napoli,Italy Napoli,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+AFC Bournemouth,Joe Rothwell,29,England Scotland,Central Midfield,€4.00m,Southampton FC,England Southampton,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+AFC Bournemouth,Emiliano Marcondes,28,Denmark Brazil,Attacking Midfield,€1.50m,Hibernian FC,Scotland Hibernian FC,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+AFC Bournemouth,David Brooks,26,Wales England,Right Winger,€9.00m,Southampton FC,England Southampton,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+AFC Bournemouth,Kieffer Moore,31,Wales England,Centre-Forward,€2.50m,Ipswich Town,England Ipswich,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+AFC Bournemouth,Gavin Kilkenny,24,Ireland,Central Midfield,€300k,Fleetwood Town,England Fleetwood,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Brentford,Yunus Konak,18,Türkiye,Defensive Midfield,€1.80m,Sivasspor,Türkiye Sivasspor,€4.50m,Inbound,Transfer,Winter,2024,2023/2024
+Brentford,Hákon Valdimarsson,22,Iceland,Goalkeeper,€1.80m,IF Elfsborg,Sweden Elfsborg,€3.00m,Inbound,Transfer,Winter,2024,2023/2024
+Brentford,Sergio Reguilón,27,Spain,Left-Back,€10.00m,Tottenham Hotspur,England Tottenham,loan transfer,Inbound,Loan,Winter,2024,2023/2024
+Brentford,Ryan Trevitt,20,England,Central Midfield,€275k,Exeter City,England Exeter City,End of loan 08.01.2024,Inbound,Loan,Winter,2024,2023/2024
+Brentford,Myles Peart-Harris,21,Jamaica England,Attacking Midfield,€700k,Portsmouth FC,England Portsmouth,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Brentford,Charlie Goode,28,England,Centre-Back,€500k,Wigan Athletic,England Wigan,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Brighton & Hove Albion,Valentín Barco,19,Argentina,Central Midfield,€13.00m,CA Boca Juniors,Argentina Boca Juniors,€9.15m,Inbound,Transfer,Winter,2024,2023/2024
+Brighton & Hove Albion,Jeremy Sarmiento,21,Ecuador England,Left Winger,€4.00m,West Bromwich Albion,England West Brom,End of loan 01.01.2024,Inbound,Loan,Winter,2024,2023/2024
+Brighton & Hove Albion,Jensen Weir,21,England Scotland,Central Midfield,€300k,Blackpool FC,England Blackpool,End of loan 01.01.2024,Inbound,Loan,Winter,2024,2023/2024
+Brighton & Hove Albion,Yasin Ayari,20,Sweden Tunisia,Central Midfield,€5.00m,Coventry City,England Coventry,End of loan 04.01.2024,Inbound,Loan,Winter,2024,2023/2024
+Brighton & Hove Albion,Jeremy Sarmiento,21,Ecuador England,Left Winger,€4.00m,Ipswich Town,England Ipswich,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Brighton & Hove Albion,Yasin Ayari,20,Sweden Tunisia,Central Midfield,€5.00m,Blackburn Rovers,England Blackburn,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Brighton & Hove Albion,Jensen Weir,21,England Scotland,Central Midfield,€300k,Port Vale FC,England Port Vale,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Brighton & Hove Albion,Mahmoud Dahoud,28,Syria Germany,Central Midfield,€14.00m,VfB Stuttgart,Germany Stuttgart,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Burnley,David Datro Fofana,21,Cote d'Ivoire,Centre-Forward,€8.00m,Chelsea FC,England Chelsea,loan transfer,Inbound,Loan,Winter,2024,2023/2024
+Burnley,Maxime Estève,21,France,Centre-Back,€7.00m,Montpellier HSC,France Montpellier,loan transfer,Inbound,Loan,Winter,2024,2023/2024
+Burnley,Lorenz Assignon,23,France Togo,Right-Back,€10.00m,Stade Rennais FC,France Stade Rennais,loan transfer,Inbound,Loan,Winter,2024,2023/2024
+Burnley,Dara Costelloe,21,Ireland,Left Winger,€325k,St. Johnstone FC,Scotland St. Johnstone,End of loan 31.12.2023,Inbound,Loan,Winter,2024,2023/2024
+Burnley,Scott Twine,24,England,Attacking Midfield,€3.00m,Hull City,England Hull City,End of loan 14.01.2024,Inbound,Loan,Winter,2024,2023/2024
+Burnley,Owen Dodgson,20,England,Left-Back,€300k,Barnsley FC,England Barnsley,End of loan 01.01.2024,Inbound,Loan,Winter,2024,2023/2024
+Burnley,Denis Franchi,21,Italy,Goalkeeper,€250k,Ternana Calcio,Italy Ternana,free transfer,Outbound,Transfer,Winter,2024,2023/2024
+Burnley,Anass Zaroury,23,Morocco Belgium,Left Winger,€9.00m,Hull City,England Hull City,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Burnley,Scott Twine,24,England,Attacking Midfield,€3.00m,Bristol City,England Bristol City,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Burnley,Owen Dodgson,20,England,Left-Back,€300k,Dundee FC,Scotland Dundee FC,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Burnley,Darko Churlinov,23,North Macedonia,Left Winger,€2.00m,FC Schalke 04,Germany FC Schalke 04,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Burnley,CJ Egan-Riley,21,England Ireland,Centre-Back,€2.00m,PSV Eindhoven U21,Netherlands PSV U21,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Burnley,Connor Roberts,28,Wales,Right-Back,€7.00m,Leeds United,England Leeds,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Burnley,Dara Costelloe,21,Ireland,Left Winger,€325k,Dundee FC,Scotland Dundee FC,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Burnley,Michael Obafemi,23,Ireland Nigeria,Centre-Forward,€3.50m,Millwall FC,England Millwall,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Chelsea,Alfie Gilchrist,19,England,Right-Back,-,Chelsea FC U21,England Chelsea U21,-,Inbound,Transfer,Winter,2024,2023/2024
+Chelsea,David Datro Fofana,21,Cote d'Ivoire,Centre-Forward,€8.00m,1.FC Union Berlin,Germany Union Berlin,End of loan 11.01.2024,Inbound,Loan,Winter,2024,2023/2024
+Chelsea,Cesare Casadei,21,Italy,Central Midfield,€10.00m,Leicester City,England Leicester,End of loan 19.01.2024,Inbound,Loan,Winter,2024,2023/2024
+Chelsea,Andrey Santos,19,Brazil,Central Midfield,€14.00m,Nottingham Forest,England Nott'm Forest,End of loan 03.01.2024,Inbound,Loan,Winter,2024,2023/2024
+Chelsea,Diego Moreira,19,Belgium Portugal,Left Midfield,€3.00m,Olympique Lyon,France Lyon,End of loan 22.01.2024,Inbound,Loan,Winter,2024,2023/2024
+Chelsea,Armando Broja,22,Albania England,Centre-Forward,€28.00m,Fulham FC,England Fulham,Loan fee: €4.70m,Outbound,Loan,Winter,2024,2023/2024
+Chelsea,Ian Maatsen,21,Netherlands Suriname,Left-Back,€20.00m,Borussia Dortmund,Germany Dortmund,Loan fee: €2.30m,Outbound,Loan,Winter,2024,2023/2024
+Chelsea,David Datro Fofana,21,Cote d'Ivoire,Centre-Forward,€8.00m,Burnley FC,England Burnley,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Chelsea,Andrey Santos,19,Brazil,Central Midfield,€14.00m,RC Strasbourg Alsace,France R. Strasbourg,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Chelsea,Lucas Bergström,21,Finland,Goalkeeper,€800k,IF Brommapojkarna,Sweden Brommapojkarna,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Crystal Palace,Adam Wharton,19,England,Defensive Midfield,€10.00m,Blackburn Rovers,England Blackburn,€21.10m,Inbound,Transfer,Winter,2024,2023/2024
+Crystal Palace,Daniel Muñoz,27,Colombia,Right-Back,€10.00m,KRC Genk,Belgium Genk,€8.00m,Inbound,Transfer,Winter,2024,2023/2024
+Crystal Palace,Luke Plange,21,England,Centre-Forward,€1.20m,Carlisle United,England Carlisle United,End of loan 04.01.2024,Inbound,Loan,Winter,2024,2023/2024
+Crystal Palace,Malcolm Ebiowei,20,England Netherlands,Right Winger,€3.00m,RWD Molenbeek,Belgium RWDM,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Crystal Palace,Luke Plange,21,England,Centre-Forward,€1.20m,HJK Helsinki,Finland HJK Helsinki,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Everton,Mason Holgate,27,Jamaica England,Centre-Back,€5.00m,Southampton FC,England Southampton,End of loan 31.01.2024,Inbound,Loan,Winter,2024,2023/2024
+Everton,Mason Holgate,27,Jamaica England,Centre-Back,€5.00m,Sheffield United,England Sheff Utd,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Fulham,Armando Broja,22,Albania England,Centre-Forward,€28.00m,Chelsea FC,England Chelsea,Loan fee: €4.70m,Inbound,Loan,Winter,2024,2023/2024
+Fulham,Carlos Vinícius,28,Brazil,Centre-Forward,€6.00m,Galatasaray,Türkiye Galatasaray,Loan fee: €600k,Outbound,Loan,Winter,2024,2023/2024
+Fulham,Tyrese Francois,23,Australia England,Central Midfield,€500k,Vejle Boldklub,Denmark Vejle BK,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Liverpool,Rhys Williams,22,England Jamaica,Centre-Back,€1.80m,Aberdeen FC,Scotland Aberdeen FC,End of loan 03.01.2024,Inbound,Loan,Winter,2024,2023/2024
+Liverpool,Fábio Carvalho,21,Portugal England,Attacking Midfield,€14.00m,RB Leipzig,Germany Leipzig,End of loan 31.12.2023,Inbound,Loan,Winter,2024,2023/2024
+Liverpool,Nat Phillips,26,England,Centre-Back,€4.00m,Celtic FC,Scotland Celtic,End of loan 03.01.2024,Inbound,Loan,Winter,2024,2023/2024
+Liverpool,Rhys Williams,22,England Jamaica,Centre-Back,€1.80m,Port Vale FC,England Port Vale,End of loan 01.02.2024,Inbound,Loan,Winter,2024,2023/2024
+Liverpool,Marcelo Pitaluga,21,Brazil Germany,Goalkeeper,€400k,St. Patrick's Athletic,Ireland St. Pat's,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Liverpool,Vitezslav Jaros,22,Czech Republic,Goalkeeper,€250k,SK Sturm Graz,Austria Sturm Graz,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Liverpool,Fábio Carvalho,21,Portugal England,Attacking Midfield,€14.00m,Hull City,England Hull City,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Liverpool,Rhys Williams,22,England Jamaica,Centre-Back,€1.80m,Port Vale FC,England Port Vale,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Liverpool,Nat Phillips,26,England,Centre-Back,€4.00m,Cardiff City,England Cardiff,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Luton Town,Daiki Hashioka,24,Japan,Right-Back,€2.00m,Sint-Truidense VV,Belgium Sint-Truiden,€2.00m,Inbound,Transfer,Winter,2024,2023/2024
+Luton Town,Tom Holmes,23,England,Centre-Back,€3.50m,Reading FC,England Reading,€1.15m,Inbound,Transfer,Winter,2024,2023/2024
+Luton Town,Elliot Thorpe,23,Wales England,Attacking Midfield,€200k,Shrewsbury Town,England Shrewsbury,End of loan 08.01.2024,Inbound,Loan,Winter,2024,2023/2024
+Luton Town,Fred Onyedinma,27,Nigeria England,Right Midfield,€500k,Rotherham United,England Rotherham,End of loan 10.01.2024,Inbound,Loan,Winter,2024,2023/2024
+Luton Town,Joe Taylor,21,Wales England,Centre-Forward,€350k,Colchester United,England Colchester Utd.,End of loan 02.01.2024,Inbound,Loan,Winter,2024,2023/2024
+Luton Town,Aribim Pepple,21,Canada England,Centre-Forward,€100k,Bromley FC,England Bromley,End of loan 08.01.2024,Inbound,Loan,Winter,2024,2023/2024
+Luton Town,Dion Pereira,24,Antigua and Barbuda England,Left Winger,€175k,Sutton United,England Sutton Utd,End of loan 09.01.2024,Inbound,Loan,Winter,2024,2023/2024
+Luton Town,Tom Holmes,23,England,Centre-Back,€3.50m,Reading FC,England Reading,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Luton Town,Joe Taylor,21,Wales England,Centre-Forward,€350k,Lincoln City,England Lincoln City,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Luton Town,Dion Pereira,24,Antigua and Barbuda England,Left Winger,€175k,Dagenham & Redbridge FC,England Dag & Red FC,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Luton Town,Ryan Giles,24,England,Left-Back,€4.50m,Hull City,England Hull City,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Luton Town,Aribim Pepple,21,Canada England,Centre-Forward,€100k,Inverness Caledonian Thistle FC,Scotland Inverness CT,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Manchester City,Claudio Echeverri,18,Argentina,Attacking Midfield,€12.00m,CA River Plate,Argentina River Plate,€18.50m,Inbound,Transfer,Winter,2024,2023/2024
+Manchester City,Josh Wilson-Esbrand,21,England Jamaica,Left-Back,€2.00m,Stade Reims,France Stade Reims,End of loan 31.01.2024,Inbound,Loan,Winter,2024,2023/2024
+Manchester City,Slobodan Tedic,23,Serbia Montenegro,Centre-Forward,€500k,Charlton Athletic,England Charlton,End of loan 05.01.2024,Inbound,Loan,Winter,2024,2023/2024
+Manchester City,Kalvin Phillips,28,England Jamaica,Defensive Midfield,€28.00m,West Ham United,England West Ham,Loan fee: €7.00m,Outbound,Loan,Winter,2024,2023/2024
+Manchester City,Zack Steffen,28,United States,Goalkeeper,€2.50m,Colorado Rapids,United States Colorado,free transfer,Outbound,Transfer,Winter,2024,2023/2024
+Manchester City,Slobodan Tedic,23,Serbia Montenegro,Centre-Forward,€500k,FK Cukaricki,Serbia Cukaricki,free transfer,Outbound,Transfer,Winter,2024,2023/2024
+Manchester City,Claudio Echeverri,18,Argentina,Attacking Midfield,€12.00m,CA River Plate,Argentina River Plate,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Manchester City,Josh Wilson-Esbrand,21,England Jamaica,Left-Back,€2.00m,Cardiff City,England Cardiff,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Manchester United,Willy Kambwala,19,France DR Congo,Centre-Back,€2.00m,Manchester United U21,England Man Utd U21,-,Inbound,Transfer,Winter,2024,2023/2024
+Manchester United,Omari Forson,19,England Ghana,Right Winger,€1.00m,Manchester United U21,England Man Utd U21,-,Inbound,Transfer,Winter,2024,2023/2024
+Manchester United,Álvaro Carreras,20,Spain,Left-Back,€7.00m,Granada CF,Spain Granada CF,End of loan 14.01.2024,Inbound,Loan,Winter,2024,2023/2024
+Manchester United,Donny van de Beek,26,Netherlands,Central Midfield,€9.00m,Eintracht Frankfurt,Germany Frankfurt,Loan fee: €3.00m,Outbound,Loan,Winter,2024,2023/2024
+Manchester United,Jadon Sancho,23,England Jamaica,Left Winger,€25.00m,Borussia Dortmund,Germany Dortmund,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Manchester United,Hannibal,20,Tunisia France,Attacking Midfield,€12.00m,Sevilla FC,Spain Sevilla FC,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Manchester United,Álvaro Carreras,20,Spain,Left-Back,€7.00m,SL Benfica,Portugal Benfica,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Manchester United,Facundo Pellistri,22,Uruguay Spain,Right Winger,€10.00m,Granada CF,Spain Granada CF,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Manchester United,Sergio Reguilón,27,Spain,Left-Back,€10.00m,Tottenham Hotspur,England Tottenham,End of loan 04.01.2024,Outbound,Loan,Winter,2024,2023/2024
+Newcastle United,Joe White,21,England,Attacking Midfield,€300k,Crewe Alexandra,England Crewe Alexandra,End of loan 14.01.2024,Inbound,Loan,Winter,2024,2023/2024
+Newcastle United,Isaac Hayden,28,Jamaica England,Defensive Midfield,€3.00m,Standard Liège,Belgium Standard Liège,End of loan 11.01.2024,Inbound,Loan,Winter,2024,2023/2024
+Newcastle United,Javier Manquillo,29,Spain,Right-Back,€2.00m,Celta de Vigo,Spain Celta de Vigo,free transfer,Outbound,Transfer,Winter,2024,2023/2024
+Newcastle United,Isaac Hayden,28,Jamaica England,Defensive Midfield,€3.00m,Queens Park Rangers,England QPR,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Nottingham Forest,Matz Sels,31,Belgium,Goalkeeper,€7.00m,RC Strasbourg Alsace,France R. Strasbourg,€6.50m,Inbound,Transfer,Winter,2024,2023/2024
+Nottingham Forest,Giovanni Reyna,21,United States Portugal,Attacking Midfield,€20.00m,Borussia Dortmund,Germany Dortmund,Loan fee: €1.00m,Inbound,Loan,Winter,2024,2023/2024
+Nottingham Forest,Rodrigo Ribeiro,18,Portugal,Centre-Forward,€3.00m,Sporting CP,Portugal Sporting,loan transfer,Inbound,Loan,Winter,2024,2023/2024
+Nottingham Forest,Richie Laryea,28,Canada Ghana,Right-Back,€2.50m,Vancouver Whitecaps FC,United States Vancouver,End of loan 31.12.2023,Inbound,Loan,Winter,2024,2023/2024
+Nottingham Forest,Ui-jo Hwang,31,"Korea, South",Centre-Forward,€3.00m,Norwich City,England Norwich,End of loan 09.01.2024,Inbound,Loan,Winter,2024,2023/2024
+Nottingham Forest,Gustavo Scarpa,29,Brazil Italy,Attacking Midfield,€6.00m,Olympiacos Piraeus,Greece Olympiacos,End of loan 31.12.2023,Inbound,Loan,Winter,2024,2023/2024
+Nottingham Forest,Alex Mighten,21,England United States,Left Winger,€600k,KV Kortrijk,Belgium KV Kortrijk,End of loan 09.01.2024,Inbound,Loan,Winter,2024,2023/2024
+Nottingham Forest,Emmanuel Dennis,26,Nigeria,Centre-Forward,€5.50m,Basaksehir FK,Türkiye Basaksehir,End of loan 23.01.2024,Inbound,Loan,Winter,2024,2023/2024
+Nottingham Forest,Jonathan Panzo,23,England Cote d'Ivoire,Centre-Back,€1.20m,Cardiff City,England Cardiff,End of loan 15.01.2024,Inbound,Loan,Winter,2024,2023/2024
+Nottingham Forest,Orel Mangala,25,Belgium DR Congo,Defensive Midfield,€22.00m,Olympique Lyon,France Lyon,Loan fee: €11.70m,Outbound,Loan,Winter,2024,2023/2024
+Nottingham Forest,Gustavo Scarpa,30,Brazil Italy,Attacking Midfield,€6.00m,Clube Atlético Mineiro,Brazil Atlético-MG,€5.00m,Outbound,Transfer,Winter,2024,2023/2024
+Nottingham Forest,Richie Laryea,29,Canada Ghana,Right-Back,€2.50m,Toronto FC,United States Toronto,€700k,Outbound,Transfer,Winter,2024,2023/2024
+Nottingham Forest,Joe Worrall,27,England,Centre-Back,€12.00m,Besiktas JK,Türkiye Besiktas,Loan fee: €500k,Outbound,Loan,Winter,2024,2023/2024
+Nottingham Forest,Serge Aurier,31,Cote d'Ivoire,Right-Back,€7.00m,Galatasaray,Türkiye Galatasaray,€100k,Outbound,Transfer,Winter,2024,2023/2024
+Nottingham Forest,Ethan Horvath,28,United States,Goalkeeper,€1.50m,Cardiff City,England Cardiff,?,Outbound,Transfer,Winter,2024,2023/2024
+Nottingham Forest,Ui-jo Hwang,31,"Korea, South",Centre-Forward,€3.00m,Alanyaspor,Türkiye Alanyaspor,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Nottingham Forest,Emmanuel Dennis,26,Nigeria,Centre-Forward,€5.50m,Watford FC,England Watford,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Nottingham Forest,Jonathan Panzo,23,England Cote d'Ivoire,Centre-Back,€1.20m,Standard Liège,Belgium Standard Liège,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Nottingham Forest,Scott McKenna,27,Scotland,Centre-Back,€10.00m,FC Copenhagen,Denmark Copenhagen,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Nottingham Forest,Alex Mighten,21,England United States,Left Winger,€600k,Port Vale FC,England Port Vale,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Nottingham Forest,Brandon Aguilera,20,Costa Rica,Attacking Midfield,€300k,Bristol Rovers,England Bristol Rovers,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Nottingham Forest,Andrey Santos,19,Brazil,Central Midfield,€14.00m,Chelsea FC,England Chelsea,End of loan 03.01.2024,Outbound,Loan,Winter,2024,2023/2024
+Sheffield United,Ivo Grbic,28,Croatia,Goalkeeper,€3.50m,Atlético de Madrid,Spain Atlético,€2.50m,Inbound,Transfer,Winter,2024,2023/2024
+Sheffield United,Ben Brereton Díaz,24,Chile England,Centre-Forward,€7.00m,Villarreal CF,Spain Villarreal,loan transfer,Inbound,Loan,Winter,2024,2023/2024
+Sheffield United,Mason Holgate,27,Jamaica England,Centre-Back,€5.00m,Everton FC,England Everton,loan transfer,Inbound,Loan,Winter,2024,2023/2024
+Sheffield United,Oliver Arblaster,19,England,Central Midfield,€450k,Port Vale FC,England Port Vale,End of loan 29.12.2023,Inbound,Loan,Winter,2024,2023/2024
+Sheffield United,John Fleck,32,Scotland,Central Midfield,€900k,Blackburn Rovers,England Blackburn,free transfer,Outbound,Transfer,Winter,2024,2023/2024
+Sheffield United,Bénie Traoré,21,Cote d'Ivoire,Left Winger,€4.00m,FC Nantes,France FC Nantes,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Sheffield United,Femi Seriki,21,England Nigeria,Right-Back,€300k,Rotherham United,England Rotherham,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Sheffield United,Ismaila Coulibaly,23,Mali,Central Midfield,€900k,AIK,Sweden AIK,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Sheffield United,Luke Thomas,22,England,Left-Back,€10.00m,Leicester City,England Leicester,End of loan 12.01.2024,Outbound,Loan,Winter,2024,2023/2024
+Tottenham Hotspur,Radu Drăgușin,21,Romania,Centre-Back,€20.00m,Genoa CFC,Italy Genoa,€25.00m,Inbound,Transfer,Winter,2024,2023/2024
+Tottenham Hotspur,Timo Werner,27,Germany,Left Winger,€17.00m,RB Leipzig,Germany Leipzig,loan transfer,Inbound,Loan,Winter,2024,2023/2024
+Tottenham Hotspur,Djed Spence,23,England Jamaica,Left-Back,€8.00m,Leeds United,England Leeds,End of loan 04.01.2024,Inbound,Loan,Winter,2024,2023/2024
+Tottenham Hotspur,Dane Scarlett,19,England Jamaica,Centre-Forward,€1.80m,Ipswich Town,England Ipswich,End of loan 27.12.2023,Inbound,Loan,Winter,2024,2023/2024
+Tottenham Hotspur,Sergio Reguilón,27,Spain,Left-Back,€10.00m,Manchester United,England Man Utd,End of loan 04.01.2024,Inbound,Loan,Winter,2024,2023/2024
+Tottenham Hotspur,Japhet Tanganga,24,England DR Congo,Centre-Back,€3.00m,FC Augsburg,Germany Augsburg,End of loan 17.01.2024,Inbound,Loan,Winter,2024,2023/2024
+Tottenham Hotspur,Eric Dier,29,England Portugal,Centre-Back,€12.00m,Bayern Munich,Germany Bayern Munich,Loan fee: €3.50m,Outbound,Loan,Winter,2024,2023/2024
+Tottenham Hotspur,Hugo Lloris,37,France,Goalkeeper,€1.50m,Los Angeles FC,United States LAFC,free transfer,Outbound,Transfer,Winter,2024,2023/2024
+Tottenham Hotspur,Djed Spence,23,England Jamaica,Left-Back,€8.00m,Genoa CFC,Italy Genoa,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Tottenham Hotspur,Ashley Phillips,18,England Wales,Centre-Back,€2.00m,Plymouth Argyle,England Plymouth,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Tottenham Hotspur,Sergio Reguilón,27,Spain,Left-Back,€10.00m,Brentford FC,England Brentford,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Tottenham Hotspur,Japhet Tanganga,24,England DR Congo,Centre-Back,€3.00m,Millwall FC,England Millwall,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Tottenham Hotspur,Ivan Perišić,34,Croatia,Left Winger,€4.00m,HNK Hajduk Split,Croatia Hajduk Split,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Tottenham Hotspur,Alejo Veliz,20,Argentina,Centre-Forward,€11.00m,Sevilla FC,Spain Sevilla FC,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+West Ham United,Kalvin Phillips,28,England Jamaica,Defensive Midfield,€28.00m,Manchester City,England Man City,Loan fee: €7.00m,Inbound,Loan,Winter,2024,2023/2024
+West Ham United,Pablo Fornals,27,Spain,Central Midfield,€17.00m,Real Betis Balompié,Spain Real Betis,€8.00m,Outbound,Transfer,Winter,2024,2023/2024
+West Ham United,Saïd Benrahma,28,Algeria France,Left Winger,€22.00m,Olympique Lyon,France Lyon,Loan fee: €6.00m,Outbound,Loan,Winter,2024,2023/2024
+West Ham United,Conor Coventry,23,Ireland England,Defensive Midfield,€1.50m,Charlton Athletic,England Charlton,€1.16m,Outbound,Transfer,Winter,2024,2023/2024
+West Ham United,Thilo Kehrer,27,Germany Burundi,Centre-Back,€9.00m,AS Monaco,France Monaco,Loan fee: €500k,Outbound,Loan,Winter,2024,2023/2024
+Wolverhampton Wanderers,Noha Lemina,18,Gabon France,Attacking Midfield,€500k,Paris Saint-Germain,France PSG,loan transfer,Inbound,Loan,Winter,2024,2023/2024
+Wolverhampton Wanderers,Nathan Fraser,18,Ireland England,Centre-Forward,€1.00m,Wolverhampton Wanderers U21,England Wolves U21,-,Inbound,Transfer,Winter,2024,2023/2024
+Wolverhampton Wanderers,Tawanda Chirewa,20,Zimbabwe England,Attacking Midfield,€100k,Wolverhampton Wanderers U21,England Wolves U21,-,Inbound,Transfer,Winter,2024,2023/2024
+Wolverhampton Wanderers,Yerson Mosquera,22,Colombia,Centre-Back,€3.50m,FC Cincinnati,United States Cincinnati,End of loan 31.12.2023,Inbound,Loan,Winter,2024,2023/2024
+Wolverhampton Wanderers,Luke Cundle,21,England,Central Midfield,€4.00m,Plymouth Argyle,England Plymouth,End of loan 07.01.2024,Inbound,Loan,Winter,2024,2023/2024
+Wolverhampton Wanderers,Chem Campbell,21,Wales England,Attacking Midfield,€900k,Charlton Athletic,England Charlton,End of loan 15.01.2024,Inbound,Loan,Winter,2024,2023/2024
+Wolverhampton Wanderers,Gonçalo Guedes,27,Portugal,Left Winger,€18.00m,SL Benfica,Portugal Benfica,End of loan 18.01.2024,Inbound,Loan,Winter,2024,2023/2024
+Wolverhampton Wanderers,Jonny Otto,29,Spain,Right-Back,€8.00m,PAOK Thessaloniki,Greece PAOK,free transfer,Outbound,Transfer,Winter,2024,2023/2024
+Wolverhampton Wanderers,Bruno Jordão,25,Portugal,Defensive Midfield,€1.00m,Radomiak Radom,Poland Radomiak,free transfer,Outbound,Transfer,Winter,2024,2023/2024
+Wolverhampton Wanderers,Fábio Silva,21,Portugal,Centre-Forward,€13.00m,Rangers FC,Scotland Rangers,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Wolverhampton Wanderers,Sasa Kalajdzic,26,Austria,Centre-Forward,€11.00m,Eintracht Frankfurt,Germany Frankfurt,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Wolverhampton Wanderers,Luke Cundle,21,England,Central Midfield,€4.00m,Stoke City,England Stoke City,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Wolverhampton Wanderers,Gonçalo Guedes,27,Portugal,Left Winger,€18.00m,Villarreal CF,Spain Villarreal,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Wolverhampton Wanderers,Yerson Mosquera,22,Colombia,Centre-Back,€3.50m,Villarreal CF,Spain Villarreal,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Wolverhampton Wanderers,Joe Hodge,21,Ireland England,Defensive Midfield,€1.80m,Queens Park Rangers,England QPR,loan transfer,Outbound,Loan,Winter,2024,2023/2024
+Wolverhampton Wanderers,Chem Campbell,21,Wales England,Attacking Midfield,€900k,Wycombe Wanderers,England Wycombe,loan transfer,Outbound,Loan,Winter,2024,2023/2024

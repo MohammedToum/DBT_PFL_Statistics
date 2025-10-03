@@ -23,32 +23,7 @@ repos:
       - id: mypy
         args: ["--config-file=pyproject.toml"]
 
-  # ---------- SQL: sqlfluff (dbt-aware linter) ----------
-  - repo: https://github.com/sqlfluff/sqlfluff
-    rev: 3.4.2
-    hooks:
-      - id: sqlfluff-lint
-        name: sqlfluff lint (dbt)
-        args:
-          - "--config=.sqlfluff"
-          - "--dialect=postgres"   # ← fallback that SQLFluff always knows
-        files: "^(dbt/nodes/|.*\\.(sql|dq|jinja)$)"
-        additional_dependencies:
-          - sqlfluff-templater-dbt==3.4.2
-          - dbt-core==1.10.13
-          - dbt-duckdb==1.9.6
-      - id: sqlfluff-fix
-        name: sqlfluff fix (dbt)
-        args:
-          - "--config=.sqlfluff"
-          - "--dialect=postgres"   # ← same here
-        files: "^(dbt/nodes/|.*\\.(sql|dq|jinja)$)"
-        additional_dependencies:
-          - sqlfluff-templater-dbt==3.4.2
-          - dbt-core==1.10.13
-          - dbt-duckdb==1.9.6
-
-  # ---------- SQL: sqlfmt (jinja-aware formatter) ----------
+  # ---------- SQL: sqlfmt (jinja-aware formatter) — RUNS ON COMMIT ----------
   - repo: local
     hooks:
       - id: sqlfmt
@@ -59,12 +34,43 @@ repos:
         files: "^dbt/models/.*\\.sql$"
         args: ["--line-length", "100"]
 
+  # ---------- SQL: sqlfluff (dbt-aware) ----------
+  - repo: https://github.com/sqlfluff/sqlfluff
+    rev: 3.4.2
+    hooks:
+      # FIX = manual only (so it won't modify files during commit)
+      - id: sqlfluff-fix
+        name: sqlfluff fix (dbt)
+        stages: [manual]               # <— run manually when needed
+        args:
+          - "--config=.sqlfluff"
+          - "--dialect=duckdb"
+        files: "^(dbt/nodes/|.*\\.(sql|dq|jinja)$)"
+        additional_dependencies:
+          - sqlfluff-templater-dbt==3.4.2
+          - dbt-core==1.10.13
+          - dbt-duckdb==1.9.6
+        exclude: ^(target/|dbt_packages/|logs/)
+
+      # LINT = last in commit, check-only
+      - id: sqlfluff-lint
+        name: sqlfluff lint (dbt)
+        args:
+          - "--config=.sqlfluff"
+          - "--dialect=duckdb"
+        files: "^(dbt/nodes/|.*\\.(sql|dq|jinja)$)"
+        additional_dependencies:
+          - sqlfluff-templater-dbt==3.4.2
+          - dbt-core==1.10.13
+          - dbt-duckdb==1.9.6
+        exclude: ^(target/|dbt_packages/|logs/)
+
   # ---------- dbt project checks ----------
   - repo: https://github.com/dbt-checkpoint/dbt-checkpoint
     rev: v2.0.7
     hooks:
       - id: dbt-parse
-        stages: [manual]   # run manually: pre-commit run dbt-parse
+        stages: [manual]
       - id: check-model-has-description
         pass_filenames: false
       - id: check-model-has-tests
