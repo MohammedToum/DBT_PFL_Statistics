@@ -1,8 +1,8 @@
 version: 2
 
 models:
-  - name: ≈
-    description: "This staging model cleans and prepares example data."
+  - name: stg_transfers
+    description: "This staging model cleans and prepares transfer data."
     columns:
       - name: club_name
         data_type: varchar
@@ -55,10 +55,63 @@ models:
         data_type: varchar
         description: "Season this transfer took place"
 
-  - name: mart_example
-    description: "This mart aggregates example data for analytics."
+  - name: stg_countries
+    tests:
+      - dbt_utils.unique_combination_of_columns:
+          combination_of_columns: [country_name, country_iso2]
+  - name: stg_players
     columns:
-      - name: mart_check
-        description: "Check column for mart validation."
+      - name: player_id
+        tests: [not_null, unique]
+  - name: dim_clubs
+    columns:
+      - name: club_sk
+        tests: [not_null, unique]
+      - name: club_name
+        tests: [not_null]
+  - name: dim_countries
+    columns:
+      - name: country_sk
+        tests: [not_null, unique]
+      - name: country_name
+        tests: [not_null]
+  - name: dim_players
+    columns:
+      - name: player_sk
+        tests: [not_null, unique]
+      - name: player_id
+        tests: [not_null, unique]
+  - name: fct_transfers
+    columns:
+      - name: transfer_sk
+        tests: [not_null, unique]
+      - name: player_sk
         tests:
-          - not_null
+          - relationships:
+              to: ref('dim_players')
+              field: player_sk
+      - name: from_club_sk
+        tests:
+          - relationships:
+              to: ref('dim_club')
+              field: club_sk
+      - name: to_club_sk
+        tests:
+          - relationships:
+              to: ref('dim_club')
+              field: club_sk
+
+sources:
+  - name: raw
+    schema: main    # change if your DuckDB schema differs
+    tables:
+      - name: raw_transfers
+
+
+  # - name: mart_example
+  #   description: "This mart aggregates example data for analytics."
+  #   columns:
+  #     - name: mart_check
+  #       description: "Check column for mart validation."
+  #       tests:
+  #         - not_null
