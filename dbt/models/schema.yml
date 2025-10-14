@@ -93,12 +93,12 @@ models:
       - name: from_club_sk
         tests:
           - relationships:
-              to: ref('dim_club')
+              to: ref('dim_clubs')
               field: club_sk
       - name: to_club_sk
         tests:
           - relationships:
-              to: ref('dim_club')
+              to: ref('dim_clubs')
               field: club_sk
 
 sources:

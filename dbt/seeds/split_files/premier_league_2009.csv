@@ -1,0 +1,939 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_type,transfer_movement,transfer_period,fee_cleaned,year,season
+Manchester United,Antonio Valencia,23,Right-Back,Wigan,€18.80m,Transfer,in,Summer,18.8,2009,2009/2010
+Manchester United,Mame Diouf,21,Centre-Forward,Molde,€4.50m,Transfer,in,Summer,4.5,2009,2009/2010
+Manchester United,Gabriel Obertan,20,Attacking Midfield,G. Bordeaux,€4.00m,Transfer,in,Summer,4,2009,2009/2010
+Manchester United,Michael Owen,29,Centre-Forward,Newcastle,free transfer,Transfer,in,Summer,0,2009,2009/2010
+Manchester United,Scott Moffatt,18,Centre-Back,Man Utd U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Manchester United,Fraizer Campbell,21,Centre-Forward,Spurs,"End of loanJun 12, 2009",Loan,in,Summer,NA,2009,2009/2010
+Manchester United,Scott Moffatt,18,Centre-Back,Altrincham,"End of loanOct 1, 2009",Loan,in,Summer,NA,2009,2009/2010
+Manchester United,Tom Heaton,24,Goalkeeper,Wycombe,"End of loanMay 31, 2010",Loan,in,Summer,NA,2009,2009/2010
+Manchester United,Tom Cleverley,20,Central Midfield,Watford,"End of loanMay 31, 2010",Loan,in,Summer,NA,2009,2009/2010
+Manchester United,Sam Hewson,21,Central Midfield,Bury,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Manchester United,Cristiano Ronaldo,24,Centre-Forward,Real Madrid,€94.00m,Transfer,out,Summer,94,2009,2009/2010
+Manchester United,Fraizer Campbell,21,Centre-Forward,Sunderland,€4.10m,Transfer,out,Summer,4.1,2009,2009/2010
+Manchester United,Manucho,26,Centre-Forward,Real Valladolid,€2.75m,Transfer,out,Summer,2.75,2009,2009/2010
+Manchester United,Lee Martin,22,Attacking Midfield,Ipswich,€2.25m,Transfer,out,Summer,2.25,2009,2009/2010
+Manchester United,Mame Diouf,21,Centre-Forward,Molde,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Manchester United,David Gray,21,Right-Back,Plymouth,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Manchester United,Scott Moffatt,18,Centre-Back,Altrincham,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Manchester United,Tom Cleverley,20,Central Midfield,Watford,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Manchester United,Tom Heaton,23,Goalkeeper,QPR,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Manchester United,Danny Simpson,22,Right-Back,Newcastle,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Manchester United,Rodrigo Possebon,20,Central Midfield,SC Braga,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Liverpool FC,Glen Johnson,24,Right-Back,Portsmouth,€20.50m,Transfer,in,Summer,20.5,2009,2009/2010
+Liverpool FC,Alberto Aquilani,25,Central Midfield,AS Roma,€20.00m,Transfer,in,Summer,20,2009,2009/2010
+Liverpool FC,Sotiris Kyrgiakos,30,Centre-Back,AEK Athens,€3.00m,Transfer,in,Summer,3,2009,2009/2010
+Liverpool FC,Dani Pacheco,18,Left Winger,Liverpool U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Liverpool FC,Jay Spearing,20,Defensive Midfield,Liverpool Res.,-,Transfer,in,Summer,NA,2009,2009/2010
+Liverpool FC,Lauri Dalla Valle,17,Centre-Forward,Liverpool U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Liverpool FC,Robbie Threlfall,20,Left-Back,Northampton,"End of loanSep 1, 2009",Loan,in,Summer,NA,2009,2009/2010
+Liverpool FC,Nathan Eccleston,19,Centre-Forward,Huddersfield,"End of loanMay 19, 2010",Loan,in,Summer,NA,2009,2009/2010
+Liverpool FC,Jay Spearing,21,Defensive Midfield,Leicester,"End of loanMay 31, 2010",Loan,in,Summer,NA,2009,2009/2010
+Liverpool FC,Robbie Threlfall,21,Left-Back,Bradford,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Liverpool FC,Stephen Darby,21,Right-Back,Swindon Town,"End of loanMay 31, 2010",Loan,in,Summer,NA,2009,2009/2010
+Liverpool FC,Andriy Voronin,29,Second Striker,Hertha BSC,"End of loanJun 30, 2009",Loan,in,Summer,NA,2009,2009/2010
+Liverpool FC,Jack Hobbs,20,Centre-Back,Leicester,"End of loanJun 30, 2009",Loan,in,Summer,NA,2009,2009/2010
+Liverpool FC,Sebastián Leto,22,Left Winger,Olympiacos,"End of loanJun 30, 2009",Loan,in,Summer,NA,2009,2009/2010
+Liverpool FC,Miki Roqué,20,Centre-Back,FC Cartagena,"End of loanJun 30, 2009",Loan,in,Summer,NA,2009,2009/2010
+Liverpool FC,Péter Gulácsi,20,Goalkeeper,Tranmere Rovers,"End of loanMay 10, 2010",Loan,in,Summer,NA,2009,2009/2010
+Liverpool FC,Xabi Alonso,27,Defensive Midfield,Real Madrid,€34.50m,Transfer,out,Summer,34.5,2009,2009/2010
+Liverpool FC,Álvaro Arbeloa,26,Right-Back,Real Madrid,€4.00m,Transfer,out,Summer,4,2009,2009/2010
+Liverpool FC,Sebastián Leto,22,Left Winger,Panathinaikos,€4.00m,Transfer,out,Summer,4,2009,2009/2010
+Liverpool FC,Charles Itandje,26,Goalkeeper,AO Kavala,Loan fee:€300Th.,Loan,out,Summer,0.3,2009,2009/2010
+Liverpool FC,Miki Roqué,20,Centre-Back,Betis B,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Liverpool FC,Jermaine Pennant,26,Right Winger,Real Zaragoza,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Liverpool FC,Sami Hyypiä,35,Centre-Back,Bay. Leverkusen,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Liverpool FC,Jack Hobbs,20,Centre-Back,Leicester,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Liverpool FC,Astrit Ajdarevic,19,Central Midfield,Leicester,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Liverpool FC,David Martin,23,Goalkeeper,Tranmere Rovers,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Liverpool FC,Robbie Threlfall,20,Left-Back,Darlington,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Liverpool FC,Robbie Threlfall,20,Left-Back,Northampton,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Liverpool FC,András Simon,19,Centre-Forward,Córdoba CF,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Liverpool FC,Krisztián Németh,20,Centre-Forward,AEK Athens,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Liverpool FC,Ryan Crowther,20,Right Winger,Without Club,-,Transfer,out,Summer,NA,2009,2009/2010
+Liverpool FC,Godwin Antwi,21,Centre-Back,Without Club,-,Transfer,out,Summer,NA,2009,2009/2010
+Chelsea FC,Yuri Zhirkov,25,Left-Back,CSKA Moscow,€21.00m,Transfer,in,Summer,21,2009,2009/2010
+Chelsea FC,Daniel Sturridge,19,Centre-Forward,Man City,€7.25m,Transfer,in,Summer,7.25,2009,2009/2010
+Chelsea FC,Nemanja Matić,21,Defensive Midfield,MFK Košice,€1.75m,Transfer,in,Summer,1.75,2009,2009/2010
+Chelsea FC,Ross Turnbull,24,Goalkeeper,Middlesbrough,free transfer,Transfer,in,Summer,0,2009,2009/2010
+Chelsea FC,Jeffrey Bruma,17,Centre-Back,Chelsea U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Chelsea FC,Fabio Borini,18,Left Winger,Chelsea U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Chelsea FC,Patrick van Aanholt,18,Left-Back,Chelsea U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Chelsea FC,Ryan Bertrand,20,Left-Back,Reading,"End of loanMay 31, 2010",Loan,in,Summer,NA,2009,2009/2010
+Chelsea FC,Claudio Pizarro,30,Centre-Forward,Werder Bremen,"End of loanJun 30, 2009",Loan,in,Summer,NA,2009,2009/2010
+Chelsea FC,Michael Mancienne,22,Centre-Back,Wolves,"End of loanMay 31, 2010",Loan,in,Summer,NA,2009,2009/2010
+Chelsea FC,Scott Sinclair,21,Left Winger,Wigan,"End of loanMay 31, 2010",Loan,in,Summer,NA,2009,2009/2010
+Chelsea FC,Franco Di Santo,21,Centre-Forward,Blackburn,"End of loanMay 31, 2010",Loan,in,Summer,NA,2009,2009/2010
+Chelsea FC,Ben Sahar,19,Centre-Forward,De Graafschap,"End of loanJun 30, 2009",Loan,in,Summer,NA,2009,2009/2010
+Chelsea FC,Andriy Shevchenko,32,Centre-Forward,AC Milan,"End of loanJun 30, 2009",Loan,in,Summer,NA,2009,2009/2010
+Chelsea FC,Claudio Pizarro,30,Centre-Forward,Werder Bremen,€2.00m,Transfer,out,Summer,2,2009,2009/2010
+Chelsea FC,Ben Sahar,19,Centre-Forward,Espanyol,€1.00m,Transfer,out,Summer,1,2009,2009/2010
+Chelsea FC,Miroslav Stoch,19,Left Winger,Twente FC,Loan fee:€800Th.,Loan,out,Summer,0.8,2009,2009/2010
+Chelsea FC,Andriy Shevchenko,32,Centre-Forward,Dynamo Kyiv,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Chelsea FC,Mineiro,34,Defensive Midfield,FC Schalke 04,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Chelsea FC,Ryan Bertrand,19,Left-Back,Reading,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Chelsea FC,Franco Di Santo,20,Centre-Forward,Blackburn,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Chelsea FC,Scott Sinclair,20,Left Winger,Wigan,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Chelsea FC,Patrick van Aanholt,18,Left-Back,Coventry,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Chelsea FC,Michael Mancienne,21,Centre-Back,Wolves,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Chelsea FC,Ricardo Quaresma,25,Right Winger,Inter,"End of loanJun 30, 2009",Loan,out,Summer,NA,2009,2009/2010
+Arsenal FC,Thomas Vermaelen,23,Centre-Back,Ajax,€12.00m,Transfer,in,Summer,12,2009,2009/2010
+Arsenal FC,Jay Emmanuel-Thomas,18,Centre-Forward,Arsenal U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Arsenal FC,Kerrea Gilbert,23,Right-Back,Peterborough,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Arsenal FC,Jack Wilshere,18,Central Midfield,Bolton,"End of loanMay 30, 2010",Loan,in,Summer,NA,2009,2009/2010
+Arsenal FC,Henri Lansbury,19,Central Midfield,Watford,"End of loanMay 30, 2010",Loan,in,Summer,NA,2009,2009/2010
+Arsenal FC,Wojciech Szczesny,20,Goalkeeper,Brentford,"End of loanMay 30, 2010",Loan,in,Summer,NA,2009,2009/2010
+Arsenal FC,Philippe Senderos,25,Centre-Back,Everton,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Arsenal FC,Gavin Hoyte,18,Right-Back,Watford,"End of loanJun 1, 2009",Loan,in,Summer,NA,2009,2009/2010
+Arsenal FC,Philippe Senderos,24,Centre-Back,AC Milan,"End of loanJun 30, 2009",Loan,in,Summer,NA,2009,2009/2010
+Arsenal FC,Pedro Botelho,19,Left-Back,UD Salamanca,"End of loanJun 30, 2009",Loan,in,Summer,NA,2009,2009/2010
+Arsenal FC,Emmanuel Adebayor,25,Centre-Forward,Man City,€29.00m,Transfer,out,Summer,29,2009,2009/2010
+Arsenal FC,Kolo Touré,28,Centre-Back,Man City,€18.70m,Transfer,out,Summer,18.7,2009,2009/2010
+Arsenal FC,Amaury Bischoff,22,Central Midfield,Coimbra,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Arsenal FC,Pedro Botelho,19,Left-Back,Celta de Vigo,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Arsenal FC,Jay Emmanuel-Thomas,18,Centre-Forward,Blackpool,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Arsenal FC,Henri Lansbury,18,Central Midfield,Watford,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Arsenal FC,Gavin Hoyte,19,Right-Back,Brighton,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Everton FC,Diniyar Bilyaletdinov,24,Attacking Midfield,Loko Moscow,€10.00m,Transfer,in,Summer,10,2009,2009/2010
+Everton FC,Johnny Heitinga,25,Centre-Back,Atlético Madrid,€6.80m,Transfer,in,Summer,6.8,2009,2009/2010
+Everton FC,Sylvain Distin,31,Centre-Back,Portsmouth,€6.50m,Transfer,in,Summer,6.5,2009,2009/2010
+Everton FC,Anton Peterlin,22,Central Midfield,Ventura County,free transfer,Transfer,in,Summer,0,2009,2009/2010
+Everton FC,Lucas Neill,31,Centre-Back,Without Club,-,Transfer,in,Summer,NA,2009,2009/2010
+Everton FC,Jose Baxter,17,Attacking Midfield,Everton U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Everton FC,Kieran Agard,19,Centre-Forward,Everton Res.,-,Transfer,in,Summer,NA,2009,2009/2010
+Everton FC,John Ruddy,22,Goalkeeper,Crewe Alexandra,"End of loanJun 30, 2009",Loan,in,Summer,NA,2009,2009/2010
+Everton FC,Lukas Jutkiewicz,21,Centre-Forward,Motherwell FC,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Everton FC,John Ruddy,23,Goalkeeper,Motherwell FC,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Everton FC,Seamus Coleman,21,Right-Back,Blackpool,"End of loanMay 31, 2010",Loan,in,Summer,NA,2009,2009/2010
+Everton FC,James Vaughan,21,Centre-Forward,Leicester,"End of loanMay 31, 2010",Loan,in,Summer,NA,2009,2009/2010
+Everton FC,Joleon Lescott,27,Centre-Back,Man City,€27.50m,Transfer,out,Summer,27.5,2009,2009/2010
+Everton FC,Lars Jacobsen,29,Right-Back,Blackburn,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Everton FC,John Paul Kissock,19,Left Midfield,Hamilton Acad.,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Everton FC,Lukas Jutkiewicz,20,Centre-Forward,Motherwell FC,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Everton FC,James Vaughan,21,Centre-Forward,Derby,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Everton FC,John Ruddy,22,Goalkeeper,Motherwell FC,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Everton FC,Andy van der Meyde,29,Right Winger,Without Club,-,Transfer,out,Summer,NA,2009,2009/2010
+Everton FC,Nuno Valente,34,Left-Back,Retired,-,Transfer,out,Summer,NA,2009,2009/2010
+Everton FC,Segundo Castillo,27,Defensive Midfield,Red Star,"End of loanJun 30, 2009",Loan,out,Summer,NA,2009,2009/2010
+Everton FC,Philippe Senderos,25,Centre-Back,Arsenal,"End of loanMay 1, 2010",Loan,out,Summer,NA,2009,2009/2010
+Aston Villa,Stewart Downing,24,Left Midfield,Middlesbrough,€13.00m,Transfer,in,Summer,13,2009,2009/2010
+Aston Villa,Fabian Delph,19,Central Midfield,Leeds,€9.50m,Transfer,in,Summer,9.5,2009,2009/2010
+Aston Villa,Stephen Warnock,27,Left-Back,Blackburn,€9.00m,Transfer,in,Summer,9,2009,2009/2010
+Aston Villa,Richard Dunne,29,Centre-Back,Man City,€6.80m,Transfer,in,Summer,6.8,2009,2009/2010
+Aston Villa,James Collins,26,Centre-Back,West Ham,€5.70m,Transfer,in,Summer,5.7,2009,2009/2010
+Aston Villa,Habib Bèye,31,Right-Back,Newcastle,€2.90m,Transfer,in,Summer,2.9,2009,2009/2010
+Aston Villa,Andy Marshall,34,Goalkeeper,Coventry,free transfer,Transfer,in,Summer,0,2009,2009/2010
+Aston Villa,Jonathan Hogg,20,Central Midfield,Aston Villa U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Aston Villa,Shane Lowry,20,Centre-Back,Aston Villa U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Aston Villa,Marc Albrighton,19,Right Midfield,Aston Villa Res.,-,Transfer,in,Summer,NA,2009,2009/2010
+Aston Villa,David Bevan,20,Goalkeeper,Aston Villa U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Aston Villa,Nicky Shorey,29,Left-Back,Fulham,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Aston Villa,Shane Lowry,20,Centre-Back,Leeds,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Aston Villa,Eric Lichaj,21,Right-Back,Leyton Orient,"End of loanMay 31, 2010",Loan,in,Summer,NA,2009,2009/2010
+Aston Villa,David Bevan,20,Goalkeeper,Ilkeston Town,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Aston Villa,Gareth Barry,28,Defensive Midfield,Man City,€13.90m,Transfer,out,Summer,13.9,2009,2009/2010
+Aston Villa,Zat Knight,29,Centre-Back,Bolton,€4.70m,Transfer,out,Summer,4.7,2009,2009/2010
+Aston Villa,Sam Williams,22,Centre-Forward,Yeovil Town,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Aston Villa,Stuart Taylor,28,Goalkeeper,Man City,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Aston Villa,David Bevan,20,Goalkeeper,Ilkeston Town,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Aston Villa,Eric Lichaj,20,Right-Back,Lincoln City,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Aston Villa,Shane Lowry,20,Centre-Back,Plymouth,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Aston Villa,Marlon Harewood,30,Centre-Forward,Newcastle,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Aston Villa,Martin Laursen,31,Centre-Back,Retired,-,Transfer,out,Summer,NA,2009,2009/2010
+Fulham FC,Damien Duff,30,Right Midfield,Newcastle,€4.00m,Transfer,in,Summer,4,2009,2009/2010
+Fulham FC,Björn Helge Riise,26,Right Midfield,Lillestrøm,€2.00m,Transfer,in,Summer,2,2009,2009/2010
+Fulham FC,David Elm,26,Centre-Forward,Kalmar FF,€600Th.,Transfer,in,Summer,0.6,2009,2009/2010
+Fulham FC,Kagisho Dikgacoi,24,Central Midfield,Golden Arrows,€300Th.,Transfer,in,Summer,0.3,2009,2009/2010
+Fulham FC,Stephen Kelly,25,Right-Back,Birmingham,free transfer,Transfer,in,Summer,0,2009,2009/2010
+Fulham FC,Jonathan Greening,30,Central Midfield,West Brom,loan transfer,Loan,in,Summer,NA,2009,2009/2010
+Fulham FC,Stefan Payne,17,Centre-Forward,Sutton Utd,€30Th.,Transfer,in,Summer,0.03,2009,2009/2010
+Fulham FC,Matthew Saunders,20,Central Midfield,Lincoln City,?,Transfer,in,Summer,NA,2009,2009/2010
+Fulham FC,Matthew Saunders,19,Central Midfield,Fulham U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Fulham FC,Andranik Teymourian,26,Central Midfield,Barnsley FC,"End of loanJun 30, 2009",Loan,in,Summer,NA,2009,2009/2010
+Fulham FC,Ki-hyeon Seol,30,Right Winger,Al-Hilal SFC,"End of loanJun 30, 2009",Loan,in,Summer,NA,2009,2009/2010
+Fulham FC,Eddie Johnson,26,Centre-Forward,Aris Saloniki,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Fulham FC,Diomansy Kamara,29,Right Winger,Celtic,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Fulham FC,Toni Kallio,31,Centre-Back,Sheff Utd,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Fulham FC,King Gyan,21,Defensive Midfield,Germ. Beerschot,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Fulham FC,Collins John,23,Centre-Forward,KSV Roeselare,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Fulham FC,Hameur Bouazza,24,Right Winger,Sivasspor,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Fulham FC,Elliot Omozusi,20,Right-Back,Charlton,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Fulham FC,Adam Watts,21,Centre-Back,Lincoln City,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Fulham FC,Fredrik Stoor Siekkinen,25,Right-Back,Derby,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Fulham FC,Stefan Payne,18,Centre-Forward,Sutton Utd,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Fulham FC,Adrian Leijer,23,Centre-Back,Melbourne,?,Transfer,out,Summer,NA,2009,2009/2010
+Fulham FC,Moritz Volz,26,Right-Back,Without Club,-,Transfer,out,Summer,NA,2009,2009/2010
+Fulham FC,Julian Gray,29,Centre-Forward,Without Club,-,Transfer,out,Summer,NA,2009,2009/2010
+Fulham FC,Giles Barnes,20,Centre-Forward,Derby,"End of loanJun 30, 2009",Loan,out,Summer,NA,2009,2009/2010
+Fulham FC,Olivier Dacourt,34,Defensive Midfield,Inter,"End of loanJun 30, 2009",Loan,out,Summer,NA,2009,2009/2010
+Fulham FC,Nicky Shorey,29,Left-Back,Aston Villa,"End of loanMay 1, 2010",Loan,out,Summer,NA,2009,2009/2010
+Tottenham Hotspur,Peter Crouch,28,Centre-Forward,Portsmouth,€10.50m,Transfer,in,Summer,10.5,2009,2009/2010
+Tottenham Hotspur,Sébastien Bassong,23,Centre-Back,Newcastle,€9.30m,Transfer,in,Summer,9.3,2009,2009/2010
+Tottenham Hotspur,Kyle Naughton,20,Right-Back,Sheff Utd,€5.90m,Transfer,in,Summer,5.9,2009,2009/2010
+Tottenham Hotspur,Kyle Walker,19,Right-Back,Sheff Utd,€5.90m,Transfer,in,Summer,5.9,2009,2009/2010
+Tottenham Hotspur,Niko Kranjcar,25,Attacking Midfield,Portsmouth,€2.80m,Transfer,in,Summer,2.8,2009,2009/2010
+Tottenham Hotspur,Jimmy Walker,36,Goalkeeper,West Ham,free transfer,Transfer,in,Summer,0,2009,2009/2010
+Tottenham Hotspur,Oscar Jansson,18,Goalkeeper,Spurs U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Tottenham Hotspur,Ryan Mason,18,Central Midfield,Spurs U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Tottenham Hotspur,Steven Caulker,17,Centre-Back,Spurs U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Tottenham Hotspur,Ryan Mason,18,Central Midfield,Yeovil Town,"End of loanMay 31, 2010",Loan,in,Summer,NA,2009,2009/2010
+Tottenham Hotspur,Adam Smith,19,Right-Back,Torquay,"End of loanMay 31, 2010",Loan,in,Summer,NA,2009,2009/2010
+Tottenham Hotspur,David Button,20,Goalkeeper,Dag & Red FC,"End of loanJun 30, 2009",Loan,in,Summer,NA,2009,2009/2010
+Tottenham Hotspur,Jonathan Obika,19,Centre-Forward,Millwall,"End of loanMay 11, 2010",Loan,in,Summer,NA,2009,2009/2010
+Tottenham Hotspur,Kyle Naughton,21,Right-Back,Middlesbrough,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Tottenham Hotspur,Adel Taarabt,21,Central Midfield,QPR,"End of loanMay 31, 2010",Loan,in,Summer,NA,2009,2009/2010
+Tottenham Hotspur,Alan Hutton,25,Right-Back,Sunderland,"End of loanMay 31, 2010",Loan,in,Summer,NA,2009,2009/2010
+Tottenham Hotspur,Robbie Keane,29,Centre-Forward,Celtic,"End of loanMay 31, 2010",Loan,in,Summer,NA,2009,2009/2010
+Tottenham Hotspur,Adam Smith,18,Right-Back,Wycombe,"End of loanSep 6, 2009",Loan,in,Summer,NA,2009,2009/2010
+Tottenham Hotspur,Ben Alnwick,22,Goalkeeper,Norwich,"End of loanSep 1, 2009",Loan,in,Summer,NA,2009,2009/2010
+Tottenham Hotspur,David Hutton,19,midfield,Cheltenham,"End of loanJun 30, 2009",Loan,in,Summer,NA,2009,2009/2010
+Tottenham Hotspur,Giovani dos Santos,20,Second Striker,Ipswich,"End of loanJun 30, 2009",Loan,in,Summer,NA,2009,2009/2010
+Tottenham Hotspur,Kevin-Prince Boateng,22,Attacking Midfield,Bor. Dortmund,"End of loanJun 30, 2009",Loan,in,Summer,NA,2009,2009/2010
+Tottenham Hotspur,Darren Bent,25,Centre-Forward,Sunderland,€11.80m,Transfer,out,Summer,11.8,2009,2009/2010
+Tottenham Hotspur,Didier Zokora,28,Defensive Midfield,Sevilla FC,€9.00m,Transfer,out,Summer,9,2009,2009/2010
+Tottenham Hotspur,Kevin-Prince Boateng,22,Attacking Midfield,Portsmouth,€4.50m,Transfer,out,Summer,4.5,2009,2009/2010
+Tottenham Hotspur,Chris Gunter,19,Right-Back,Nottm Forest,€2.00m,Transfer,out,Summer,2,2009,2009/2010
+Tottenham Hotspur,Pascal Chimbonda,30,Centre-Back,Blackburn,€1.70m,Transfer,out,Summer,1.7,2009,2009/2010
+Tottenham Hotspur,Gilberto,33,Left Midfield,Cruzeiro,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Tottenham Hotspur,Cian Hughton,20,Right-Back,Lincoln City,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Tottenham Hotspur,David Hutton,19,midfield,Cheltenham,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Tottenham Hotspur,Ricardo Rocha,30,Centre-Back,Standard Liège,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Tottenham Hotspur,Ben Alnwick,22,Goalkeeper,Norwich,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Tottenham Hotspur,Jamie O'Hara,22,Central Midfield,Portsmouth,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Tottenham Hotspur,Oscar Jansson,18,Goalkeeper,Exeter City,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Tottenham Hotspur,Steven Caulker,17,Centre-Back,Yeovil Town,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Tottenham Hotspur,Ryan Mason,18,Central Midfield,Yeovil Town,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Tottenham Hotspur,Kyle Walker,19,Right-Back,Sheff Utd,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Tottenham Hotspur,Adel Taarabt,20,Central Midfield,QPR,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Tottenham Hotspur,David Button,20,Goalkeeper,Crewe Alexandra,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Tottenham Hotspur,Jonathan Obika,18,Centre-Forward,Yeovil Town,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Tottenham Hotspur,Adam Smith,18,Right-Back,Wycombe,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Tottenham Hotspur,Danny Rose,19,Left-Back,Peterborough,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Tottenham Hotspur,Simon Dawkins,21,Left Winger,Without Club,-,Transfer,out,Summer,NA,2009,2009/2010
+Tottenham Hotspur,Fraizer Campbell,21,Centre-Forward,Man Utd,"End of loanJun 12, 2009",Loan,out,Summer,NA,2009,2009/2010
+West Ham United,Alessandro Diamanti,26,Attacking Midfield,AS Livorno,€6.80m,Transfer,in,Summer,6.8,2009,2009/2010
+West Ham United,Radoslav Kovac,29,Centre-Back,Spartak Moscow,€3.80m,Transfer,in,Summer,3.8,2009,2009/2010
+West Ham United,Hérita Ilunga,27,Left-Back,Toulouse,€3.50m,Transfer,in,Summer,3.5,2009,2009/2010
+West Ham United,Manuel da Costa,23,Centre-Back,Fiorentina,€2.70m,Transfer,in,Summer,2.7,2009,2009/2010
+West Ham United,Fabio Daprelà,18,Centre-Back,Grasshoppers,€1.20m,Transfer,in,Summer,1.2,2009,2009/2010
+West Ham United,Luis Jiménez,25,Attacking Midfield,Inter,Loan fee:€600Th.,Loan,in,Summer,0.6,2009,2009/2010
+West Ham United,Péter Kurucz,21,Goalkeeper,Újpest FC,€450Th.,Transfer,in,Summer,0.45,2009,2009/2010
+West Ham United,Danny Uchechi,19,Attacking Midfield,Charlton,free transfer,Transfer,in,Summer,0,2009,2009/2010
+West Ham United,Guillermo Franco,32,Centre-Forward,Villarreal,free transfer,Transfer,in,Summer,0,2009,2009/2010
+West Ham United,Frank Nouble,17,Centre-Forward,Chelsea U18,?,Transfer,in,Summer,NA,2009,2009/2010
+West Ham United,Tony Brookes,18,Centre-Back,West Ham U18,-,Transfer,in,Summer,NA,2009,2009/2010
+West Ham United,Danny Kearns,17,Right Midfield,West Ham U18,-,Transfer,in,Summer,NA,2009,2009/2010
+West Ham United,Frank Nouble,18,Centre-Forward,Swindon Town,"End of loanMay 31, 2010",Loan,in,Summer,NA,2009,2009/2010
+West Ham United,Jordan Spence,19,Right-Back,Scunthorpe Utd.,"End of loanMay 6, 2010",Loan,in,Summer,NA,2009,2009/2010
+West Ham United,Julien Faubert,25,Right-Back,Real Madrid,"End of loanJun 30, 2009",Loan,in,Summer,NA,2009,2009/2010
+West Ham United,Carlos Tévez,25,Second Striker,Man City,€29.00m,Transfer,out,Summer,29,2009,2009/2010
+West Ham United,Savio Nsereko,20,Right Winger,Fiorentina,€6.20m,Transfer,out,Summer,6.2,2009,2009/2010
+West Ham United,James Collins,26,Centre-Back,Aston Villa,€5.70m,Transfer,out,Summer,5.7,2009,2009/2010
+West Ham United,Kyel Reid,21,Left Winger,Sheff Utd,€400Th.,Transfer,out,Summer,0.4,2009,2009/2010
+West Ham United,Jimmy Walker,36,Goalkeeper,Spurs,free transfer,Transfer,out,Summer,0,2009,2009/2010
+West Ham United,Lee Bowyer,32,Central Midfield,Birmingham,free transfer,Transfer,out,Summer,0,2009,2009/2010
+West Ham United,Diego Tristán,33,Centre-Forward,Cádiz CF,free transfer,Transfer,out,Summer,0,2009,2009/2010
+West Ham United,Wálter López,23,Left-Back,CA Cerro,free transfer,Transfer,out,Summer,0,2009,2009/2010
+West Ham United,Jordan Spence,19,Right-Back,Scunthorpe Utd.,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+West Ham United,Freddie Sears,19,Second Striker,Crystal Palace,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+West Ham United,Lucas Neill,31,Centre-Back,Without Club,-,Transfer,out,Summer,NA,2009,2009/2010
+West Ham United,Jan Lastuvka,26,Goalkeeper,Shakhtar D.,"End of loanJun 30, 2009",Loan,out,Summer,NA,2009,2009/2010
+West Ham United,Hérita Ilunga,27,Left-Back,Toulouse,"End of loanJun 30, 2009",Loan,out,Summer,NA,2009,2009/2010
+West Ham United,Mido,27,Centre-Forward,Middlesbrough,"End of loanMay 1, 2010",Loan,out,Summer,NA,2009,2009/2010
+West Ham United,Radoslav Kovac,29,Centre-Back,Spartak Moscow,"End of loanJun 30, 2009",Loan,out,Summer,NA,2009,2009/2010
+West Ham United,Péter Kurucz,21,Goalkeeper,Újpest FC,"End of loanJun 30, 2009",Loan,out,Summer,NA,2009,2009/2010
+West Ham United,David Di Michele,33,Centre-Forward,Torino,"End of loanJun 30, 2009",Loan,out,Summer,NA,2009,2009/2010
+Manchester City,Carlos Tévez,25,Second Striker,West Ham,€29.00m,Transfer,in,Summer,29,2009,2009/2010
+Manchester City,Emmanuel Adebayor,25,Centre-Forward,Arsenal,€29.00m,Transfer,in,Summer,29,2009,2009/2010
+Manchester City,Joleon Lescott,27,Centre-Back,Everton,€27.50m,Transfer,in,Summer,27.5,2009,2009/2010
+Manchester City,Roque Santa Cruz,27,Centre-Forward,Blackburn,€21.20m,Transfer,in,Summer,21.2,2009,2009/2010
+Manchester City,Kolo Touré,28,Centre-Back,Arsenal,€18.70m,Transfer,in,Summer,18.7,2009,2009/2010
+Manchester City,Gareth Barry,28,Defensive Midfield,Aston Villa,€13.90m,Transfer,in,Summer,13.9,2009,2009/2010
+Manchester City,Sylvinho,35,Left-Back,Barcelona,free transfer,Transfer,in,Summer,0,2009,2009/2010
+Manchester City,Stuart Taylor,28,Goalkeeper,Aston Villa,free transfer,Transfer,in,Summer,0,2009,2009/2010
+Manchester City,Javan Vidal,20,Right-Back,Man City Res.,-,Transfer,in,Summer,NA,2009,2009/2010
+Manchester City,Benjani,31,Centre-Forward,Sunderland,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Manchester City,Joe Hart,23,Goalkeeper,Birmingham,"End of loanMay 31, 2010",Loan,in,Summer,NA,2009,2009/2010
+Manchester City,Kelvin Etuhu,21,Defensive Midfield,Cardiff,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Manchester City,Shay Logan,22,Right-Back,Tranmere Rovers,"End of loanMay 31, 2010",Loan,in,Summer,NA,2009,2009/2010
+Manchester City,Ryan McGivern,20,Left-Back,Leicester,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Manchester City,Daniel Sturridge,19,Centre-Forward,Chelsea,€7.25m,Transfer,out,Summer,7.25,2009,2009/2010
+Manchester City,Elano,28,Attacking Midfield,Galatasaray,€7.00m,Transfer,out,Summer,7,2009,2009/2010
+Manchester City,Richard Dunne,29,Centre-Back,Aston Villa,€6.80m,Transfer,out,Summer,6.8,2009,2009/2010
+Manchester City,Gelson Fernandes,22,Defensive Midfield,Saint-Étienne,€3.50m,Transfer,out,Summer,3.5,2009,2009/2010
+Manchester City,Ched Evans,20,Centre-Forward,Sheff Utd,€3.50m,Transfer,out,Summer,3.5,2009,2009/2010
+Manchester City,Kasper Schmeichel,22,Goalkeeper,Notts County,€1.75m,Transfer,out,Summer,1.75,2009,2009/2010
+Manchester City,Joe Hart,22,Goalkeeper,Birmingham,Loan fee:€1.15m,Loan,out,Summer,1.15,2009,2009/2010
+Manchester City,Tal Ben Haim,27,Centre-Back,Portsmouth,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Manchester City,Richard Martin,21,Goalkeeper,Yeovil Town,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Manchester City,Darius Vassell,29,Centre-Forward,Ankaragücü,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Manchester City,Felipe Caicedo,20,Centre-Forward,Sporting CP,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Manchester City,Ryan McGivern,19,Left-Back,Leicester,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Manchester City,Donal McDermott,19,Attacking Midfield,Chesterfield FC,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Manchester City,Kelvin Etuhu,21,Defensive Midfield,Cardiff,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Manchester City,Shay Logan,21,Right-Back,Tranmere Rovers,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Manchester City,Valeri Bozhinov,23,Centre-Forward,Parma,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Manchester City,Danny Mills,32,Right-Back,Retired,-,Transfer,out,Summer,NA,2009,2009/2010
+Manchester City,Michael Ball,29,Left-Back,Without Club,-,Transfer,out,Summer,NA,2009,2009/2010
+Manchester City,Dietmar Hamann,35,Defensive Midfield,Without Club,-,Transfer,out,Summer,NA,2009,2009/2010
+Manchester City,Gláuber,25,Centre-Back,Without Club,-,Transfer,out,Summer,NA,2009,2009/2010
+Wigan Athletic,James McCarthy,18,Central Midfield,Hamilton Acad.,€5.10m,Transfer,in,Summer,5.1,2009,2009/2010
+Wigan Athletic,Mohamed Diamé,22,Defensive Midfield,Rayo Vallecano,€3.00m,Transfer,in,Summer,3,2009,2009/2010
+Wigan Athletic,Jordi Gómez,24,Central Midfield,Espanyol,€2.45m,Transfer,in,Summer,2.45,2009,2009/2010
+Wigan Athletic,Jason Scotland,30,Centre-Forward,Swansea,€2.30m,Transfer,in,Summer,2.3,2009,2009/2010
+Wigan Athletic,Antonio Amaya,26,Centre-Back,Rayo Vallecano,€800Th.,Transfer,in,Summer,0.8,2009,2009/2010
+Wigan Athletic,Scott Sinclair,20,Left Winger,Chelsea,loan transfer,Loan,in,Summer,NA,2009,2009/2010
+Wigan Athletic,Hendry Thomas,24,Defensive Midfield,CD Olimpia,?,Transfer,in,Summer,NA,2009,2009/2010
+Wigan Athletic,Jordan Mustoe,18,Left-Back,Wigan U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Wigan Athletic,Marlon King,29,Centre-Forward,Middlesbrough,"End of loanJun 30, 2009",Loan,in,Summer,NA,2009,2009/2010
+Wigan Athletic,Tomasz Cywka,21,Defensive Midfield,Derby,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Wigan Athletic,Rachid Bouaouzan,25,Left Midfield,NEC Nijmegen,"End of loanJun 30, 2009",Loan,in,Summer,NA,2009,2009/2010
+Wigan Athletic,Antonio Valencia,23,Right-Back,Man Utd,€18.80m,Transfer,out,Summer,18.8,2009,2009/2010
+Wigan Athletic,Lee Cattermole,21,Defensive Midfield,Sunderland,€7.00m,Transfer,out,Summer,7,2009,2009/2010
+Wigan Athletic,Lewis Montrose,20,Central Midfield,Wycombe,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Wigan Athletic,Michael Brown,32,Central Midfield,Portsmouth,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Wigan Athletic,Ben Watson,24,Central Midfield,QPR,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Wigan Athletic,Craig Mahon,20,Left Winger,Without Club,-,Transfer,out,Summer,NA,2009,2009/2010
+Wigan Athletic,Marlon King,29,Centre-Forward,Without Club,-,Transfer,out,Summer,NA,2009,2009/2010
+Wigan Athletic,Henri Camara,32,Centre-Forward,Without Club,-,Transfer,out,Summer,NA,2009,2009/2010
+Wigan Athletic,Antoine Sibierski,34,Attacking Midfield,Retired,-,Transfer,out,Summer,NA,2009,2009/2010
+Wigan Athletic,Scott Sinclair,21,Left Winger,Chelsea,"End of loanMay 31, 2010",Loan,out,Summer,NA,2009,2009/2010
+Wigan Athletic,Amr Zaki,26,Centre-Forward,Zamalek,"End of loanJun 30, 2009",Loan,out,Summer,NA,2009,2009/2010
+Stoke City,Robert Huth,24,Centre-Back,Middlesbrough,€7.00m,Transfer,in,Summer,7,2009,2009/2010
+Stoke City,Tuncay Sanli,27,Left Winger,Middlesbrough,€5.70m,Transfer,in,Summer,5.7,2009,2009/2010
+Stoke City,Dean Whitehead,27,Central Midfield,Sunderland,€3.50m,Transfer,in,Summer,3.5,2009,2009/2010
+Stoke City,Danny Collins,29,Centre-Back,Sunderland,€3.10m,Transfer,in,Summer,3.1,2009,2009/2010
+Stoke City,Diego Arismendi,21,Defensive Midfield,Nacional,€3.00m,Transfer,in,Summer,3,2009,2009/2010
+Stoke City,Ben Marshall,18,Right Midfield,Crewe U18,free transfer,Transfer,in,Summer,0,2009,2009/2010
+Stoke City,Matty Lund,18,Central Midfield,Crewe U18,free transfer,Transfer,in,Summer,0,2009,2009/2010
+Stoke City,Ben Marshall,18,Right Midfield,Northampton,"End of loanOct 1, 2009",Loan,in,Summer,NA,2009,2009/2010
+Stoke City,Diego Arismendi,22,Defensive Midfield,Brighton,"End of loanMay 31, 2010",Loan,in,Summer,NA,2009,2009/2010
+Stoke City,Tom Soares,23,Central Midfield,Sheff Wed,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Stoke City,Ben Marshall,19,Right Midfield,Carlisle United,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Stoke City,Michael Tonge,27,Central Midfield,Derby,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Stoke City,Steve Simonsen,31,Goalkeeper,Sheff Utd,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Stoke City,Ryan Shotton,21,Centre-Back,Barnsley FC,"End of loanMay 31, 2010",Loan,in,Summer,NA,2009,2009/2010
+Stoke City,Carl Dickinson,23,Left-Back,Barnsley FC,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Stoke City,Seyi Olofinjana,29,Central Midfield,Hull City,€3.50m,Transfer,out,Summer,3.5,2009,2009/2010
+Stoke City,Tom Thorley,19,Central Midfield,Stafford Rangers,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Stoke City,Ibrahima Sonko,28,Centre-Back,Hull City,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Stoke City,Richard Cresswell,32,Centre-Forward,Sheff Utd,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Stoke City,Carl Dickinson,22,Left-Back,Barnsley FC,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Stoke City,Ryan Shotton,20,Centre-Back,Barnsley FC,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Stoke City,Andrew Davies,24,Centre-Back,Sheff Utd,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Stoke City,Ben Marshall,18,Right Midfield,Northampton,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Stoke City,Danzelle St Louis-Hamilton,19,Goalkeeper,Vauxhall Motors,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Stoke City,Marc Grocott,19,Centre-Forward,Without Club,-,Transfer,out,Summer,NA,2009,2009/2010
+Stoke City,Dominic Matteo,35,Left-Back,Retired,-,Transfer,out,Summer,NA,2009,2009/2010
+Stoke City,Vincent Péricard,26,Centre-Forward,Without Club,-,Transfer,out,Summer,NA,2009,2009/2010
+Bolton Wanderers,Zat Knight,29,Centre-Back,Aston Villa,€4.70m,Transfer,in,Summer,4.7,2009,2009/2010
+Bolton Wanderers,Chung-yong Lee,21,Right Winger,FC Seoul,€2.50m,Transfer,in,Summer,2.5,2009,2009/2010
+Bolton Wanderers,Sam Ricketts,27,Right-Back,Hull City,€2.40m,Transfer,in,Summer,2.4,2009,2009/2010
+Bolton Wanderers,Mark Connolly,17,Centre-Back,Wolves U18,€1.20m,Transfer,in,Summer,1.2,2009,2009/2010
+Bolton Wanderers,Sean Davis,29,Defensive Midfield,Portsmouth,free transfer,Transfer,in,Summer,0,2009,2009/2010
+Bolton Wanderers,Paul Robinson,30,Centre-Back,West Brom,loan transfer,Loan,in,Summer,NA,2009,2009/2010
+Bolton Wanderers,Ivan Klasnic,29,Centre-Forward,FC Nantes,loan transfer,Loan,in,Summer,NA,2009,2009/2010
+Bolton Wanderers,Stuart McDonald,NA,Central Midfield,Bolton U23,-,Transfer,in,Summer,NA,2009,2009/2010
+Bolton Wanderers,Rhys Bennett,17,Centre-Back,Bolton U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Bolton Wanderers,Chris Stokes,18,Centre-Back,Bolton U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Bolton Wanderers,Michael O'Halloran,18,Right Winger,Bolton U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Bolton Wanderers,Danny Ward,18,Centre-Forward,Bolton U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Bolton Wanderers,Ádám Bogdán,22,Goalkeeper,Crewe Alexandra,"End of loanOct 1, 2009",Loan,in,Summer,NA,2009,2009/2010
+Bolton Wanderers,Mark Connolly,18,Centre-Back,St. Johnstone,"End of loanMay 31, 2010",Loan,in,Summer,NA,2009,2009/2010
+Bolton Wanderers,Tope Obadeyi,20,Left Winger,Rochdale,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Bolton Wanderers,Nicky Hunt,26,Centre-Back,Derby,"End of loanMay 31, 2010",Loan,in,Summer,NA,2009,2009/2010
+Bolton Wanderers,Danny Ward,19,Centre-Forward,Swindon Town,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Bolton Wanderers,Sam Sheridan,19,Central Midfield,Altrincham,"End of loanOct 22, 2009",Loan,in,Summer,NA,2009,2009/2010
+Bolton Wanderers,Blerim Dzemaili,23,Central Midfield,Torino,"End of loanJun 30, 2009",Loan,in,Summer,NA,2009,2009/2010
+Bolton Wanderers,Blerim Dzemaili,23,Central Midfield,Torino,€2.00m,Transfer,out,Summer,2,2009,2009/2010
+Bolton Wanderers,Sam Sheridan,19,Central Midfield,Altrincham,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Bolton Wanderers,Tope Obadeyi,19,Left Winger,Swindon Town,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Bolton Wanderers,Ádám Bogdán,21,Goalkeeper,Crewe Alexandra,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Bolton Wanderers,James Sinclair,21,Right-Back,Without Club,-,Transfer,out,Summer,NA,2009,2009/2010
+Bolton Wanderers,Jack Wilshere,18,Central Midfield,Arsenal,"End of loanMay 30, 2010",Loan,out,Summer,NA,2009,2009/2010
+Bolton Wanderers,Ariza Makukula,28,Centre-Forward,Benfica,"End of loanJun 30, 2009",Loan,out,Summer,NA,2009,2009/2010
+Bolton Wanderers,Sébastien Puygrenier,27,Centre-Back,Zenit S-Pb,"End of loanJun 30, 2009",Loan,out,Summer,NA,2009,2009/2010
+Bolton Wanderers,Ebi Smolarek,28,Centre-Forward,Racing,"End of loanJun 30, 2009",Loan,out,Summer,NA,2009,2009/2010
+Portsmouth FC,Kevin-Prince Boateng,22,Attacking Midfield,Spurs,€4.50m,Transfer,in,Summer,4.5,2009,2009/2010
+Portsmouth FC,Mike Williamson,25,Centre-Back,Watford,€2.30m,Transfer,in,Summer,2.3,2009,2009/2010
+Portsmouth FC,Tommy Smith,29,Centre-Forward,Watford,€2.00m,Transfer,in,Summer,2,2009,2009/2010
+Portsmouth FC,Aruna Dindane,28,Second Striker,Lens,Loan fee:€500Th.,Loan,in,Summer,0.5,2009,2009/2010
+Portsmouth FC,Frédéric Piquionne,30,Centre-Forward,Olympique Lyon,Loan fee:€500Th.,Loan,in,Summer,0.5,2009,2009/2010
+Portsmouth FC,Hassan Yebda,25,Central Midfield,Benfica,Loan fee:€480Th.,Loan,in,Summer,0.48,2009,2009/2010
+Portsmouth FC,Aaron Mokoena,28,Centre-Back,Blackburn,free transfer,Transfer,in,Summer,0,2009,2009/2010
+Portsmouth FC,Tal Ben Haim,27,Centre-Back,Man City,free transfer,Transfer,in,Summer,0,2009,2009/2010
+Portsmouth FC,Michael Brown,32,Central Midfield,Wigan,free transfer,Transfer,in,Summer,0,2009,2009/2010
+Portsmouth FC,Steve Finnan,33,Right-Back,Espanyol,free transfer,Transfer,in,Summer,0,2009,2009/2010
+Portsmouth FC,Jamie O'Hara,22,Central Midfield,Spurs,loan transfer,Loan,in,Summer,NA,2009,2009/2010
+Portsmouth FC,Anthony Vanden Borre,21,Right-Back,Genoa,loan transfer,Loan,in,Summer,NA,2009,2009/2010
+Portsmouth FC,Antti Niemi,37,Goalkeeper,Career break,-,Transfer,in,Summer,NA,2009,2009/2010
+Portsmouth FC,Tom Kilbey,18,Defensive Midfield,Portsmouth U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Portsmouth FC,Danny Webber,27,Centre-Forward,Without Club,-,Transfer,in,Summer,NA,2009,2009/2010
+Portsmouth FC,Paris Cowan-Hall,18,Right Winger,Portsmouth U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Portsmouth FC,Marlon Pack,18,Central Midfield,Portsmouth U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Portsmouth FC,Luke Wilkinson,17,defence,Portsmouth U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Portsmouth FC,Djimi Traoré,29,Centre-Back,Birmingham,"End of loanJun 1, 2009",Loan,in,Summer,NA,2009,2009/2010
+Portsmouth FC,Tom Kilbey,18,Defensive Midfield,Dag & Red FC,"End of loanOct 1, 2009",Loan,in,Summer,NA,2009,2009/2010
+Portsmouth FC,Paris Cowan-Hall,19,Right Winger,Grimsby Town,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Portsmouth FC,Matt Ritchie,20,Left-Back,Swindon Town,"End of loanMay 15, 2010",Loan,in,Summer,NA,2009,2009/2010
+Portsmouth FC,David Nugent,25,Centre-Forward,Burnley,"End of loanMay 31, 2010",Loan,in,Summer,NA,2009,2009/2010
+Portsmouth FC,Marlon Pack,18,Central Midfield,Wycombe,"End of loanOct 28, 2009",Loan,in,Summer,NA,2009,2009/2010
+Portsmouth FC,Glen Johnson,24,Right-Back,Liverpool,€20.50m,Transfer,out,Summer,20.5,2009,2009/2010
+Portsmouth FC,Peter Crouch,28,Centre-Forward,Spurs,€10.50m,Transfer,out,Summer,10.5,2009,2009/2010
+Portsmouth FC,Sylvain Distin,31,Centre-Back,Everton,€6.50m,Transfer,out,Summer,6.5,2009,2009/2010
+Portsmouth FC,Niko Kranjcar,25,Attacking Midfield,Spurs,€2.80m,Transfer,out,Summer,2.8,2009,2009/2010
+Portsmouth FC,Martin Cranie,22,Centre-Back,Coventry,€1.00m,Transfer,out,Summer,1,2009,2009/2010
+Portsmouth FC,Arnold Mvuemba,24,Defensive Midfield,FC Lorient,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Portsmouth FC,Sol Campbell,34,Centre-Back,Notts County,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Portsmouth FC,Jerome Thomas,26,Left Winger,West Brom,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Portsmouth FC,Noé Pamarot,30,Centre-Back,Hércules CF,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Portsmouth FC,Glen Little,33,Right Midfield,Sheff Utd,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Portsmouth FC,Sean Davis,29,Defensive Midfield,Bolton,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Portsmouth FC,Djimi Traoré,29,Centre-Back,Monaco,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Portsmouth FC,Torric Jebrin,18,Attacking Midfield,Zulte Waregem,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Portsmouth FC,Tom Kilbey,18,Defensive Midfield,Dag & Red FC,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Portsmouth FC,Asmir Begovic,22,Goalkeeper,Ipswich,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Portsmouth FC,Marlon Pack,18,Central Midfield,Wycombe,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Portsmouth FC,David Nugent,24,Centre-Forward,Burnley,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Portsmouth FC,Matt Ritchie,19,Left-Back,Notts County,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Portsmouth FC,Callum Reynolds,19,Centre-Back,Luton,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Portsmouth FC,Laurén,32,Right-Back,Without Club,-,Transfer,out,Summer,NA,2009,2009/2010
+Portsmouth FC,Theofanis Gekas,29,Centre-Forward,Bay. Leverkusen,"End of loanJun 30, 2009",Loan,out,Summer,NA,2009,2009/2010
+Portsmouth FC,Pelé,21,Central Midfield,FC Porto,"End of loanJun 30, 2009",Loan,out,Summer,NA,2009,2009/2010
+Portsmouth FC,Scott Harris,23,Central Midfield,Redhill,,Transfer,out,Summer,NA,2009,2009/2010
+Blackburn Rovers,Nikola Kalinic,21,Centre-Forward,Hajduk Split,€7.00m,Transfer,in,Summer,7,2009,2009/2010
+Blackburn Rovers,Gaël Givet,27,Centre-Back,Marseille,€4.00m,Transfer,in,Summer,4,2009,2009/2010
+Blackburn Rovers,Pascal Chimbonda,30,Centre-Back,Spurs,€1.70m,Transfer,in,Summer,1.7,2009,2009/2010
+Blackburn Rovers,Steven Nzonzi,20,Defensive Midfield,Amiens SC,€580Th.,Transfer,in,Summer,0.58,2009,2009/2010
+Blackburn Rovers,Míchel Salgado,33,Right-Back,Real Madrid,free transfer,Transfer,in,Summer,0,2009,2009/2010
+Blackburn Rovers,Lars Jacobsen,29,Right-Back,Everton,free transfer,Transfer,in,Summer,0,2009,2009/2010
+Blackburn Rovers,Elrio van Heerden,25,Attacking Midfield,Club Brugge,free transfer,Transfer,in,Summer,0,2009,2009/2010
+Blackburn Rovers,Franco Di Santo,20,Centre-Forward,Chelsea,loan transfer,Loan,in,Summer,NA,2009,2009/2010
+Blackburn Rovers,Michael Hall,18,Left-Back,Blackburn U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Blackburn Rovers,Andy Haworth,20,Right Midfield,Blackburn U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Blackburn Rovers,Gavin Gunning,18,Centre-Back,Blackburn U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Blackburn Rovers,Gearoid Morrissey,17,Central Midfield,Blackburn U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Blackburn Rovers,Junior Hoilett,19,Left Winger,Blackburn Res.,-,Transfer,in,Summer,NA,2009,2009/2010
+Blackburn Rovers,Aaron Doran,18,Right Midfield,Blackburn U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Blackburn Rovers,Johnny Flynn,20,Centre-Back,Accrington,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Blackburn Rovers,Gavin Gunning,19,Centre-Back,Rotherham,"End of loanMay 31, 2010",Loan,in,Summer,NA,2009,2009/2010
+Blackburn Rovers,Alan Judge,21,Attacking Midfield,Plymouth,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Blackburn Rovers,Alex Marrow,20,Central Midfield,Oldham Athletic,"End of loanMay 31, 2010",Loan,in,Summer,NA,2009,2009/2010
+Blackburn Rovers,Andy Haworth,21,Right Midfield,Bury,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Blackburn Rovers,Andy Haworth,21,Right Midfield,Rochdale,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Blackburn Rovers,Zurab Khizanishvili,28,Centre-Back,Reading,"End of loanMay 31, 2010",Loan,in,Summer,NA,2009,2009/2010
+Blackburn Rovers,Frank Fielding,22,Goalkeeper,Rochdale,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Blackburn Rovers,Frank Fielding,21,Goalkeeper,Leeds,"End of loanOct 1, 2009",Loan,in,Summer,NA,2009,2009/2010
+Blackburn Rovers,Johnny Flynn,19,Centre-Back,Chester City,"End of loanOct 1, 2009",Loan,in,Summer,NA,2009,2009/2010
+Blackburn Rovers,Matt Derbyshire,23,Centre-Forward,Olympiacos,"End of loanJun 30, 2009",Loan,in,Summer,NA,2009,2009/2010
+Blackburn Rovers,Gavin Gunning,18,Centre-Back,Tranmere Rovers,"End of loanSep 6, 2009",Loan,in,Summer,NA,2009,2009/2010
+Blackburn Rovers,Steven Reid,29,Right-Back,West Brom,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Blackburn Rovers,Roque Santa Cruz,27,Centre-Forward,Man City,€21.20m,Transfer,out,Summer,21.2,2009,2009/2010
+Blackburn Rovers,Stephen Warnock,27,Left-Back,Aston Villa,€9.00m,Transfer,out,Summer,9,2009,2009/2010
+Blackburn Rovers,Matt Derbyshire,23,Centre-Forward,Olympiacos,€3.00m,Transfer,out,Summer,3,2009,2009/2010
+Blackburn Rovers,Paul Gallagher,24,Central Midfield,Leicester,€850Th.,Transfer,out,Summer,0.85,2009,2009/2010
+Blackburn Rovers,Andreas Arestidou,19,Goalkeeper,Shrewsbury,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Blackburn Rovers,Jon Bateson,19,Right-Back,Bradford,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Blackburn Rovers,Bryan Hodge,21,Central Midfield,Partick Thistle,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Blackburn Rovers,Aaron Mokoena,28,Centre-Back,Portsmouth,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Blackburn Rovers,André Ooijer,34,Centre-Back,PSV Eindhoven,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Blackburn Rovers,Alex Marrow,19,Central Midfield,Oldham Athletic,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Blackburn Rovers,Nick Blackman,19,Centre-Forward,Oldham Athletic,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Blackburn Rovers,Mark Bunn,24,Goalkeeper,Sheff Utd,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Blackburn Rovers,Zurab Khizanishvili,27,Centre-Back,Newcastle,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Blackburn Rovers,Keith Treacy,20,Left Midfield,Sheff Utd,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Blackburn Rovers,Gavin Gunning,18,Centre-Back,Tranmere Rovers,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Blackburn Rovers,Frank Fielding,21,Goalkeeper,Leeds,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Blackburn Rovers,Aaron Doran,18,Right Midfield,MK Dons,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Blackburn Rovers,Johnny Flynn,19,Centre-Back,Chester City,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Blackburn Rovers,Tugay Kerimoglu,38,Defensive Midfield,Retired,-,Transfer,out,Summer,NA,2009,2009/2010
+Blackburn Rovers,Carlos Villanueva,23,Attacking Midfield,Audax Italiano,"End of loanJun 30, 2009",Loan,out,Summer,NA,2009,2009/2010
+Blackburn Rovers,Franco Di Santo,21,Centre-Forward,Chelsea,"End of loanMay 31, 2010",Loan,out,Summer,NA,2009,2009/2010
+Blackburn Rovers,Gaël Givet,27,Centre-Back,Marseille,"End of loanJun 30, 2009",Loan,out,Summer,NA,2009,2009/2010
+Sunderland AFC,Michael Turner,25,Centre-Back,Hull City,€13.60m,Transfer,in,Summer,13.6,2009,2009/2010
+Sunderland AFC,Darren Bent,25,Centre-Forward,Spurs,€11.80m,Transfer,in,Summer,11.8,2009,2009/2010
+Sunderland AFC,Lee Cattermole,21,Defensive Midfield,Wigan,€7.00m,Transfer,in,Summer,7,2009,2009/2010
+Sunderland AFC,Lorik Cana,25,Defensive Midfield,Marseille,€5.80m,Transfer,in,Summer,5.8,2009,2009/2010
+Sunderland AFC,Fraizer Campbell,21,Centre-Forward,Man Utd,€4.10m,Transfer,in,Summer,4.1,2009,2009/2010
+Sunderland AFC,John Mensah,26,Centre-Back,Olympique Lyon,Loan fee:€1.50m,Loan,in,Summer,1.5,2009,2009/2010
+Sunderland AFC,Oumare Tounkara,19,Centre-Forward,CS Sedan B,free transfer,Transfer,in,Summer,0,2009,2009/2010
+Sunderland AFC,Paulo da Silva,29,Centre-Back,Toluca,free transfer,Transfer,in,Summer,0,2009,2009/2010
+Sunderland AFC,Jack Colback,19,Defensive Midfield,Sunderland Res.,-,Transfer,in,Summer,NA,2009,2009/2010
+Sunderland AFC,Adam Reed,18,Defensive Midfield,Sunderland U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Sunderland AFC,Ryan Noble,18,Centre-Forward,Sunderland U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Sunderland AFC,Boudewijn Zenden,33,Left Winger,Without Club,-,Transfer,in,Summer,NA,2009,2009/2010
+Sunderland AFC,Roy O'Donovan,24,Centre-Forward,Southend United,"End of loanOct 1, 2009",Loan,in,Summer,NA,2009,2009/2010
+Sunderland AFC,Jordan Cook,19,Second Striker,Darlington,"End of loanSep 18, 2009",Loan,in,Summer,NA,2009,2009/2010
+Sunderland AFC,Jean-Yves M'voto,21,Centre-Back,Southend United,"End of loanMay 31, 2010",Loan,in,Summer,NA,2009,2009/2010
+Sunderland AFC,Ryan Noble,18,Centre-Forward,Watford,"End of loanMay 31, 2010",Loan,in,Summer,NA,2009,2009/2010
+Sunderland AFC,Teemu Tainio,30,Defensive Midfield,Birmingham,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Sunderland AFC,David Healy,30,Centre-Forward,Ipswich,"End of loanMay 31, 2010",Loan,in,Summer,NA,2009,2009/2010
+Sunderland AFC,Roy O'Donovan,24,Centre-Forward,Hartlepool,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Sunderland AFC,Martyn Waghorn,20,Centre-Forward,Leicester,"End of loanMay 31, 2010",Loan,in,Summer,NA,2009,2009/2010
+Sunderland AFC,Michael Chopra,25,Centre-Forward,Cardiff,€4.70m,Transfer,out,Summer,4.7,2009,2009/2010
+Sunderland AFC,Dean Whitehead,27,Central Midfield,Stoke City,€3.50m,Transfer,out,Summer,3.5,2009,2009/2010
+Sunderland AFC,Danny Collins,29,Centre-Back,Stoke City,€3.10m,Transfer,out,Summer,3.1,2009,2009/2010
+Sunderland AFC,Grant Leadbitter,23,Central Midfield,Ipswich,€3.00m,Transfer,out,Summer,3,2009,2009/2010
+Sunderland AFC,Paul McShane,23,Centre-Back,Hull City,€2.50m,Transfer,out,Summer,2.5,2009,2009/2010
+Sunderland AFC,Greg Halford,24,Centre-Back,Wolves,€2.40m,Transfer,out,Summer,2.4,2009,2009/2010
+Sunderland AFC,Carlos Edwards,30,Right-Back,Ipswich,€1.50m,Transfer,out,Summer,1.5,2009,2009/2010
+Sunderland AFC,Anthony Stokes,21,Centre-Forward,Hibernian FC,€575Th.,Transfer,out,Summer,0.575,2009,2009/2010
+Sunderland AFC,Arnau Riera,28,Left Winger,Atl. Baleares,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Sunderland AFC,Nick Colgan,35,Goalkeeper,Grimsby Town,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Sunderland AFC,Jean-Yves M'voto,20,Centre-Back,Southend United,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Sunderland AFC,Roy O'Donovan,24,Centre-Forward,Southend United,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Sunderland AFC,Teemu Tainio,29,Defensive Midfield,Birmingham,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Sunderland AFC,Jack Colback,19,Defensive Midfield,Ipswich,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Sunderland AFC,Martyn Waghorn,19,Centre-Forward,Leicester,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Sunderland AFC,Jordan Cook,19,Second Striker,Darlington,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Sunderland AFC,Darren Ward,35,Goalkeeper,Retired,-,Transfer,out,Summer,NA,2009,2009/2010
+Sunderland AFC,David Connolly,32,attack,Without Club,-,Transfer,out,Summer,NA,2009,2009/2010
+Sunderland AFC,Dwight Yorke,37,Centre-Forward,Retired,-,Transfer,out,Summer,NA,2009,2009/2010
+Sunderland AFC,Alan Hutton,25,Right-Back,Spurs,"End of loanMay 31, 2010",Loan,out,Summer,NA,2009,2009/2010
+Sunderland AFC,Benjani,31,Centre-Forward,Man City,"End of loanMay 1, 2010",Loan,out,Summer,NA,2009,2009/2010
+Sunderland AFC,Djibril Cissé,27,Centre-Forward,Marseille,"End of loanJun 30, 2009",Loan,out,Summer,NA,2009,2009/2010
+Hull City,Stephen Hunt,28,Left Midfield,Reading,€4.00m,Transfer,in,Summer,4,2009,2009/2010
+Hull City,Seyi Olofinjana,29,Central Midfield,Stoke City,€3.50m,Transfer,in,Summer,3.5,2009,2009/2010
+Hull City,Paul McShane,23,Centre-Back,Sunderland,€2.50m,Transfer,in,Summer,2.5,2009,2009/2010
+Hull City,Steven Mouyokolo,22,Centre-Back,US Boulogne,€2.15m,Transfer,in,Summer,2.15,2009,2009/2010
+Hull City,Kamel Ghilas,25,Second Striker,Celta de Vigo,€2.00m,Transfer,in,Summer,2,2009,2009/2010
+Hull City,Jan Vennegoor of Hesselink,30,Centre-Forward,Celtic,free transfer,Transfer,in,Summer,0,2009,2009/2010
+Hull City,Ibrahima Sonko,28,Centre-Back,Stoke City,loan transfer,Loan,in,Summer,NA,2009,2009/2010
+Hull City,Jozy Altidore,19,Centre-Forward,Villarreal,loan transfer,Loan,in,Summer,NA,2009,2009/2010
+Hull City,Tom Cairney,18,Central Midfield,Hull U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Hull City,Liam Cooper,17,Centre-Back,Hull U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Hull City,Jamie Devitt,19,Attacking Midfield,Darlington,"End of loanOct 18, 2009",Loan,in,Summer,NA,2009,2009/2010
+Hull City,Mark Oxley,19,Goalkeeper,Grimsby Town,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Hull City,Nicky Featherstone,21,Central Midfield,Grimsby Town,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Hull City,Will Atkinson,21,Central Midfield,Rochdale,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Hull City,Michael Turner,25,Centre-Back,Sunderland,€13.60m,Transfer,out,Summer,13.6,2009,2009/2010
+Hull City,Sam Ricketts,27,Right-Back,Bolton,€2.40m,Transfer,out,Summer,2.4,2009,2009/2010
+Hull City,Ryan France,28,Right Winger,Sheff Utd,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Hull City,Michael Bridges,30,Centre-Forward,MK Dons,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Hull City,James Bennett,20,Central Midfield,Darlington,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Hull City,John Welsh,25,Central Midfield,Tranmere Rovers,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Hull City,Matty Plummer,20,Centre-Back,Darlington,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Hull City,Dean Windass,40,Centre-Forward,Darlington,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Hull City,Nathan Doyle,22,Defensive Midfield,Barnsley FC,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Hull City,Mark Oxley,19,Goalkeeper,Walsall,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Hull City,Bryan Hughes,33,Attacking Midfield,Derby,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Hull City,Jamie Devitt,19,Attacking Midfield,Shrewsbury,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Hull City,Caleb Folan,26,Centre-Forward,Middlesbrough,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Hull City,Jamie Devitt,19,Attacking Midfield,Darlington,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Wolverhampton Wanderers,Kevin Doyle,25,Centre-Forward,Reading,€7.60m,Transfer,in,Summer,7.6,2009,2009/2010
+Wolverhampton Wanderers,Ronald Zubar,23,Centre-Back,Marseille,€3.00m,Transfer,in,Summer,3,2009,2009/2010
+Wolverhampton Wanderers,Nenad Milijas,26,Central Midfield,Red Star,€2.80m,Transfer,in,Summer,2.8,2009,2009/2010
+Wolverhampton Wanderers,Greg Halford,24,Centre-Back,Sunderland,€2.40m,Transfer,in,Summer,2.4,2009,2009/2010
+Wolverhampton Wanderers,Stefan Maierhofer,27,Centre-Forward,Rapid Vienna,€2.00m,Transfer,in,Summer,2,2009,2009/2010
+Wolverhampton Wanderers,Andrew Surman,22,Central Midfield,Southampton,€1.40m,Transfer,in,Summer,1.4,2009,2009/2010
+Wolverhampton Wanderers,Segundo Castillo,27,Defensive Midfield,Red Star,Loan fee:€250Th.,Loan,in,Summer,0.25,2009,2009/2010
+Wolverhampton Wanderers,Marcus Hahnemann,37,Goalkeeper,Reading,free transfer,Transfer,in,Summer,0,2009,2009/2010
+Wolverhampton Wanderers,Michael Mancienne,21,Centre-Back,Chelsea,loan transfer,Loan,in,Summer,NA,2009,2009/2010
+Wolverhampton Wanderers,David Davis,18,Central Midfield,Wolves U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Wolverhampton Wanderers,Sam Winnall,18,Centre-Forward,Wolves U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Wolverhampton Wanderers,Scott Malone,18,Left-Back,Újpest FC,"End of loanJun 30, 2009",Loan,in,Summer,NA,2009,2009/2010
+Wolverhampton Wanderers,George Friend,21,Left-Back,Millwall,"End of loanSep 1, 2009",Loan,in,Summer,NA,2009,2009/2010
+Wolverhampton Wanderers,Jason Shackell,26,Centre-Back,Doncaster,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Wolverhampton Wanderers,George Friend,22,Left-Back,Exeter City,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Wolverhampton Wanderers,Carl Ikeme,23,Goalkeeper,QPR,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Wolverhampton Wanderers,Matt Hill,29,Left-Back,QPR,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Wolverhampton Wanderers,Scott Malone,19,Left-Back,Southend United,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Wolverhampton Wanderers,Dan Jones,23,Left-Back,Bristol Rovers,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Wolverhampton Wanderers,Darren Potter,24,Central Midfield,Sheff Wed,€400Th.,Transfer,out,Summer,0.4,2009,2009/2010
+Wolverhampton Wanderers,Neill Collins,25,Centre-Back,Preston,€240Th.,Transfer,out,Summer,0.24,2009,2009/2010
+Wolverhampton Wanderers,Elliott Bennett,20,Right Midfield,Brighton,€230Th.,Transfer,out,Summer,0.23,2009,2009/2010
+Wolverhampton Wanderers,Alex Melbourne,19,Right-Back,Wulfrunians,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Wolverhampton Wanderers,Lewis Gobern,24,Right Winger,MK Dons,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Wolverhampton Wanderers,David Davis,18,Central Midfield,Darlington,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Wolverhampton Wanderers,Carl Ikeme,23,Goalkeeper,Charlton,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Wolverhampton Wanderers,Jason Shackell,25,Centre-Back,Doncaster,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Wolverhampton Wanderers,Sam Vokes,19,Centre-Forward,Leeds,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Wolverhampton Wanderers,George Friend,21,Left-Back,Scunthorpe Utd.,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Wolverhampton Wanderers,Dan Jones,22,Left-Back,Notts County,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Wolverhampton Wanderers,Mark Little,20,Right-Back,Chesterfield FC,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Wolverhampton Wanderers,Darren Ward,30,Centre-Back,Millwall,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Wolverhampton Wanderers,George Friend,21,Left-Back,Millwall,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Wolverhampton Wanderers,Liam Hughes,20,Centre-Forward,Retired,-,Transfer,out,Summer,NA,2009,2009/2010
+Wolverhampton Wanderers,Michael Mancienne,22,Centre-Back,Chelsea,"End of loanMay 31, 2010",Loan,out,Summer,NA,2009,2009/2010
+Birmingham City,Roger Johnson,26,Centre-Back,Cardiff,€5.90m,Transfer,in,Summer,5.9,2009,2009/2010
+Birmingham City,Scott Dann,22,Centre-Back,Coventry,€4.00m,Transfer,in,Summer,4,2009,2009/2010
+Birmingham City,Barry Ferguson,31,Defensive Midfield,Rangers,€1.20m,Transfer,in,Summer,1.2,2009,2009/2010
+Birmingham City,Joe Hart,22,Goalkeeper,Man City,Loan fee:€1.15m,Loan,in,Summer,1.15,2009,2009/2010
+Birmingham City,Christian Benítez,23,Centre-Forward,Santos Laguna,Loan fee:€900Th.,Loan,in,Summer,0.9,2009,2009/2010
+Birmingham City,Jay O'Shea,20,Central Midfield,Galway United,€100Th.,Transfer,in,Summer,0.1,2009,2009/2010
+Birmingham City,Grégory Vignal,28,Left-Back,Lens,free transfer,Transfer,in,Summer,0,2009,2009/2010
+Birmingham City,Lee Bowyer,32,Central Midfield,West Ham,free transfer,Transfer,in,Summer,0,2009,2009/2010
+Birmingham City,Teemu Tainio,29,Defensive Midfield,Sunderland,loan transfer,Loan,in,Summer,NA,2009,2009/2010
+Birmingham City,Giovanny Espinoza,32,Centre-Back,CSD del Valle,loan transfer,Loan,in,Summer,NA,2009,2009/2010
+Birmingham City,Jordon Mutch,17,Central Midfield,Birmingham U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Birmingham City,Jake Jervis,17,Right Winger,Birmingham U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Birmingham City,Dan Preston,17,Centre-Back,Birmingham U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Birmingham City,Robin Shroot,21,Attacking Midfield,Burton Albion,"End of loanOct 1, 2009",Loan,in,Summer,NA,2009,2009/2010
+Birmingham City,Marcus Bent,31,Centre-Forward,QPR,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Birmingham City,Gary McSheffrey,27,Left Winger,Leeds,"End of loanMay 31, 2010",Loan,in,Summer,NA,2009,2009/2010
+Birmingham City,Artur Krysiak,20,Goalkeeper,Burton Albion,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Birmingham City,Jay O'Shea,21,Central Midfield,Middlesbrough,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Birmingham City,Jake Jervis,18,Right Winger,Hereford Utd.,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Birmingham City,Semih Aydilek,20,Centre-Forward,Motherwell FC,"End of loanJun 30, 2009",Loan,in,Summer,NA,2009,2009/2010
+Birmingham City,Stephen Kelly,25,Right-Back,Fulham,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Birmingham City,Mehdi Nafti,30,Defensive Midfield,Aris Saloniki,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Birmingham City,Radhi Jaidi,33,Centre-Back,Southampton,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Birmingham City,Michael McKerr,19,Right-Back,Oldham Athletic,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Birmingham City,Jamie O'Brien,19,Central Midfield,Bradford,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Birmingham City,Semih Aydilek,20,Centre-Forward,Kayserispor,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Birmingham City,Artur Krysiak,19,Goalkeeper,Burton Albion,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Birmingham City,Marcus Bent,31,Centre-Forward,Middlesbrough,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Birmingham City,Robin Shroot,21,Attacking Midfield,Burton Albion,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Birmingham City,Krystian Pearce,19,Centre-Back,Peterborough,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Birmingham City,Djimi Traoré,29,Centre-Back,Portsmouth,"End of loanJun 1, 2009",Loan,out,Summer,NA,2009,2009/2010
+Birmingham City,Carlo Costly,26,Centre-Forward,GKS Belchatow,"End of loanJun 30, 2009",Loan,out,Summer,NA,2009,2009/2010
+Birmingham City,Teemu Tainio,30,Defensive Midfield,Sunderland,"End of loanMay 1, 2010",Loan,out,Summer,NA,2009,2009/2010
+Birmingham City,Joe Hart,23,Goalkeeper,Man City,"End of loanMay 31, 2010",Loan,out,Summer,NA,2009,2009/2010
+Birmingham City,Kemy Agustien,22,Defensive Midfield,AZ Alkmaar,"End of loanJun 30, 2009",Loan,out,Summer,NA,2009,2009/2010
+Burnley FC,Steven Fletcher,22,Centre-Forward,Hibernian FC,€4.70m,Transfer,in,Summer,4.7,2009,2009/2010
+Burnley FC,André Bikey,24,defence,Reading,€3.25m,Transfer,in,Summer,3.25,2009,2009/2010
+Burnley FC,Tyrone Mears,26,Right-Back,Derby,€590Th.,Transfer,in,Summer,0.59,2009,2009/2010
+Burnley FC,Brian Easton,21,Left-Back,Hamilton Acad.,€400Th.,Transfer,in,Summer,0.4,2009,2009/2010
+Burnley FC,David Edgar,22,Centre-Back,Newcastle,€350Th.,Transfer,in,Summer,0.35,2009,2009/2010
+Burnley FC,Martin Fearon,20,Goalkeeper,Accrington,free transfer,Transfer,in,Summer,0,2009,2009/2010
+Burnley FC,Jonathan Lund,20,Goalkeeper,Grimsby Town,free transfer,Transfer,in,Summer,0,2009,2009/2010
+Burnley FC,David Nugent,24,Centre-Forward,Portsmouth,loan transfer,Loan,in,Summer,NA,2009,2009/2010
+Burnley FC,Richard Eckersley,20,Right-Back,Man Utd Res.,?,Transfer,in,Summer,NA,2009,2009/2010
+Burnley FC,Fernando Guerrero,20,Left Winger,Independiente,loan transfer,Loan,in,Summer,NA,2009,2009/2010
+Burnley FC,Chris Lynch,18,Centre-Back,Burnley U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Burnley FC,Benjamin Hoskin,18,defence,Burnley U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Burnley FC,Chris Anderson,18,Central Midfield,Burnley U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Burnley FC,Alex-Ray Harvey,19,Central Midfield,Burnley U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Burnley FC,Wes Fletcher,18,Centre-Forward,Burnley U18,-,Transfer,in,Summer,NA,2009,2009/2010
+Burnley FC,Gábor Király,33,Goalkeeper,Bay. Leverkusen,"End of loanJun 30, 2009",Loan,in,Summer,NA,2009,2009/2010
+Burnley FC,Brian Easton,22,Left-Back,Hamilton Acad.,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Burnley FC,Jonathan Lund,21,Goalkeeper,Barnsley FC,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Burnley FC,David Edgar,23,Centre-Back,Swansea,"End of loanMay 31, 2010",Loan,in,Summer,NA,2009,2009/2010
+Burnley FC,Richard Eckersley,21,Right-Back,Plymouth,"End of loanMay 1, 2010",Loan,in,Summer,NA,2009,2009/2010
+Burnley FC,Remco van der Schaaf,30,Centre-Back,Bröndby IF,"End of loanJun 30, 2009",Loan,in,Summer,NA,2009,2009/2010
+Burnley FC,Besart Berisha,24,Centre-Forward,Arm. Bielefeld,€90Th.,Transfer,out,Summer,0.09,2009,2009/2010
+Burnley FC,Kevin Okanga-Ajwang,17,Centre-Back,Sparta Oborniki,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Burnley FC,Alan Mahon,31,Left Midfield,Tranmere Rovers,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Burnley FC,Gábor Király,33,Goalkeeper,1860 Munich,free transfer,Transfer,out,Summer,0,2009,2009/2010
+Burnley FC,Alex MacDonald,19,Right Midfield,Falkirk,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Burnley FC,Chris Lynch,18,Centre-Back,Chester City,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Burnley FC,Adam Kay,19,Central Midfield,Chester City,loan transfer,Loan,out,Summer,NA,2009,2009/2010
+Burnley FC,Jack Cork,20,Defensive Midfield,Chelsea Res.,"End of loanMay 31, 2010",Loan,out,Summer,NA,2009,2009/2010
+Burnley FC,David Nugent,25,Centre-Forward,Portsmouth,"End of loanMay 31, 2010",Loan,out,Summer,NA,2009,2009/2010
+Manchester United,Rodrigo Possebon,20,Central Midfield,SC Braga,"End of loanDec 31, 2009",Loan,in,Winter,NA,2009,2009/2010
+Manchester United,Mame Diouf,22,Centre-Forward,Molde,"End of loanDec 31, 2009",Loan,in,Winter,NA,2009,2009/2010
+Manchester United,Tom Heaton,23,Goalkeeper,QPR,"End of loanNov 8, 2009",Loan,in,Winter,NA,2009,2009/2010
+Manchester United,Danny Simpson,22,Right-Back,Newcastle,"End of loanDec 31, 2009",Loan,in,Winter,NA,2009,2009/2010
+Manchester United,Tom Heaton,23,Goalkeeper,Rochdale,"End of loanJan 31, 2010",Loan,in,Winter,NA,2009,2009/2010
+Manchester United,Danny Welbeck,19,Centre-Forward,Preston,"End of loanMar 16, 2010",Loan,in,Winter,NA,2009,2009/2010
+Manchester United,David Gray,21,Right-Back,Plymouth,"End of loanDec 31, 2009",Loan,in,Winter,NA,2009,2009/2010
+Manchester United,Danny Simpson,23,Right-Back,Newcastle,€865Th.,Transfer,out,Winter,0.865,2009,2009/2010
+Manchester United,Zoran Tosic,22,Right Winger,1. FC Köln,Loan fee:€500Th.,Loan,out,Winter,0.5,2009,2009/2010
+Manchester United,Tom Heaton,23,Goalkeeper,Rochdale,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Manchester United,Danny Welbeck,19,Centre-Forward,Preston,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Manchester United,Tom Heaton,23,Goalkeeper,Wycombe,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Manchester United,Sam Hewson,21,Central Midfield,Bury,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Liverpool FC,Maxi Rodríguez,29,Left Winger,Atlético Madrid,free transfer,Transfer,in,Winter,0,2009,2009/2010
+Liverpool FC,Robbie Threlfall,20,Left-Back,Darlington,"End of loanNov 1, 2009",Loan,in,Winter,NA,2009,2009/2010
+Liverpool FC,David Martin,23,Goalkeeper,Tranmere Rovers,"End of loanNov 1, 2009",Loan,in,Winter,NA,2009,2009/2010
+Liverpool FC,David Martin,23,Goalkeeper,Leeds,"End of loanJan 1, 2010",Loan,in,Winter,NA,2009,2009/2010
+Liverpool FC,David Martin,24,Goalkeeper,Derby,"End of loanApr 12, 2010",Loan,in,Winter,NA,2009,2009/2010
+Liverpool FC,Andrea Dossena,28,Left Midfield,SSC Napoli,€3.75m,Transfer,out,Winter,3.75,2009,2009/2010
+Liverpool FC,Andriy Voronin,30,Second Striker,Dinamo Moscow,€2.00m,Transfer,out,Winter,2,2009,2009/2010
+Liverpool FC,Craig Lindfield,21,Right Winger,Macclesfield,free transfer,Transfer,out,Winter,0,2009,2009/2010
+Liverpool FC,David Martin,23,Goalkeeper,Leeds,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Liverpool FC,Nathan Eccleston,19,Centre-Forward,Huddersfield,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Liverpool FC,Stephen Darby,21,Right-Back,Swindon Town,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Liverpool FC,David Martin,24,Goalkeeper,Derby,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Liverpool FC,Robbie Threlfall,21,Left-Back,Bradford,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Liverpool FC,Jay Spearing,21,Defensive Midfield,Leicester,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Liverpool FC,Péter Gulácsi,19,Goalkeeper,Tranmere Rovers,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Chelsea FC,Patrick van Aanholt,19,Left-Back,Coventry,"End of loanDec 31, 2009",Loan,in,Winter,NA,2009,2009/2010
+Chelsea FC,Patrick van Aanholt,19,Left-Back,Newcastle,"End of loanFeb 28, 2010",Loan,in,Winter,NA,2009,2009/2010
+Chelsea FC,Patrick van Aanholt,19,Left-Back,Newcastle,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Arsenal FC,Craig Eastmond,19,Defensive Midfield,Arsenal U18,-,Transfer,in,Winter,NA,2009,2009/2010
+Arsenal FC,Sol Campbell,35,Centre-Back,Without Club,-,Transfer,in,Winter,NA,2009,2009/2010
+Arsenal FC,Jay Emmanuel-Thomas,18,Centre-Forward,Blackpool,"End of loanNov 17, 2009",Loan,in,Winter,NA,2009,2009/2010
+Arsenal FC,Wojciech Szczesny,19,Goalkeeper,Brentford,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Arsenal FC,Kerrea Gilbert,22,Right-Back,Peterborough,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Arsenal FC,Philippe Senderos,24,Centre-Back,Everton,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Arsenal FC,Jack Wilshere,18,Central Midfield,Bolton,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Arsenal FC,Jay Emmanuel-Thomas,19,Centre-Forward,Doncaster,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Arsenal FC,Mark Randall,20,Central Midfield,MK Dons,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Everton FC,Philippe Senderos,24,Centre-Back,Arsenal,loan transfer,Loan,in,Winter,NA,2009,2009/2010
+Everton FC,Landon Donovan,27,Second Striker,Los Angeles,loan transfer,Loan,in,Winter,NA,2009,2009/2010
+Everton FC,James Vaughan,21,Centre-Forward,Derby,"End of loanDec 18, 2009",Loan,in,Winter,NA,2009,2009/2010
+Everton FC,Lucas Neill,31,Centre-Back,Galatasaray,€840Th.,Transfer,out,Winter,0.84,2009,2009/2010
+Everton FC,James Vaughan,21,Centre-Forward,Leicester,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Everton FC,Seamus Coleman,21,Right-Back,Blackpool,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Everton FC,Landon Donovan,28,Second Striker,Los Angeles,"End of loanMar 14, 2010",Loan,out,Winter,NA,2009,2009/2010
+Everton FC,Jô,22,Centre-Forward,Man City,"End of loanJan 20, 2010",Loan,out,Winter,NA,2009,2009/2010
+Aston Villa,Marlon Harewood,30,Centre-Forward,Newcastle,"End of loanDec 31, 2009",Loan,in,Winter,NA,2009,2009/2010
+Aston Villa,Nicky Shorey,28,Left-Back,Nottm Forest,"End of loanJan 1, 2010",Loan,in,Winter,NA,2009,2009/2010
+Aston Villa,Shane Lowry,20,Centre-Back,Plymouth,"End of loanDec 1, 2009",Loan,in,Winter,NA,2009,2009/2010
+Aston Villa,Jonathan Hogg,21,Central Midfield,Darlington,"End of loanJan 3, 2010",Loan,in,Winter,NA,2009,2009/2010
+Aston Villa,Isaiah Osbourne,22,Central Midfield,Middlesbrough,"End of loanFeb 6, 2010",Loan,in,Winter,NA,2009,2009/2010
+Aston Villa,Eric Lichaj,21,Right-Back,Lincoln City,"End of loanJan 2, 2010",Loan,in,Winter,NA,2009,2009/2010
+Aston Villa,Craig Gardner,23,Central Midfield,Birmingham,€3.50m,Transfer,out,Winter,3.5,2009,2009/2010
+Aston Villa,Isaiah Osbourne,22,Central Midfield,Middlesbrough,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Aston Villa,Jonathan Hogg,20,Central Midfield,Darlington,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Aston Villa,Nicky Shorey,28,Left-Back,Nottm Forest,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Aston Villa,Nicky Shorey,28,Left-Back,Fulham,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Aston Villa,Shane Lowry,20,Centre-Back,Leeds,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Aston Villa,Eric Lichaj,21,Right-Back,Leyton Orient,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Fulham FC,Stefano Okaka,20,Centre-Forward,AS Roma,Loan fee:€175Th.,Loan,in,Winter,0.175,2009,2009/2010
+Fulham FC,Nicky Shorey,28,Left-Back,Aston Villa,loan transfer,Loan,in,Winter,NA,2009,2009/2010
+Fulham FC,Adam Watts,21,Centre-Back,Lincoln City,"End of loanDec 1, 2009",Loan,in,Winter,NA,2009,2009/2010
+Fulham FC,Michael Uwezu,19,Attacking Midfield,Lincoln City,"End of loanFeb 1, 2010",Loan,in,Winter,NA,2009,2009/2010
+Fulham FC,Toni Kallio,31,Centre-Back,Sheff Utd,"End of loanDec 1, 2009",Loan,in,Winter,NA,2009,2009/2010
+Fulham FC,Fredrik Stoor Siekkinen,25,Right-Back,Derby,"End of loanDec 31, 2009",Loan,in,Winter,NA,2009,2009/2010
+Fulham FC,Wayne Brown,21,Attacking Midfield,Bristol Rovers,"End of loanMar 1, 2010",Loan,in,Winter,NA,2009,2009/2010
+Fulham FC,Stefan Payne,18,Centre-Forward,Sutton Utd,"End of loanDec 1, 2009",Loan,in,Winter,NA,2009,2009/2010
+Fulham FC,David Stockdale,24,Goalkeeper,Plymouth,"End of loanApr 30, 2010",Loan,in,Winter,NA,2009,2009/2010
+Fulham FC,Elliot Omozusi,21,Right-Back,Charlton,"End of loanJan 1, 2010",Loan,in,Winter,NA,2009,2009/2010
+Fulham FC,Matthew Saunders,20,Central Midfield,Lincoln City,"End of loanFeb 1, 2010",Loan,in,Winter,NA,2009,2009/2010
+Fulham FC,Wayne Brown,21,Attacking Midfield,TPS,"End of loanNov 1, 2009",Loan,in,Winter,NA,2009,2009/2010
+Fulham FC,Ki-hyeon Seol,30,Right Winger,Pohang Steelers,free transfer,Transfer,out,Winter,0,2009,2009/2010
+Fulham FC,Toni Kallio,31,Centre-Back,Sheff Utd,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Fulham FC,Toni Kallio,31,Centre-Back,Sheff Utd,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Fulham FC,Wayne Brown,21,Attacking Midfield,Bristol Rovers,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Fulham FC,Matthew Saunders,20,Central Midfield,Lincoln City,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Fulham FC,Michael Uwezu,19,Attacking Midfield,Lincoln City,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Fulham FC,Eddie Johnson,25,Centre-Forward,Aris Saloniki,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Fulham FC,Diomansy Kamara,29,Right Winger,Celtic,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Fulham FC,David Stockdale,24,Goalkeeper,Plymouth,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Fulham FC,Adam Watts,21,Centre-Back,Lincoln City,?,Transfer,out,Winter,NA,2009,2009/2010
+Fulham FC,Rob Milsom,23,Left-Back,TPS,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Fulham FC,Matthew Saunders,20,Central Midfield,Lincoln City,-,Transfer,out,Winter,NA,2009,2009/2010
+Tottenham Hotspur,Younès Kaboul,23,Centre-Back,Portsmouth,€5.90m,Transfer,in,Winter,5.9,2009,2009/2010
+Tottenham Hotspur,Eidur Gudjohnsen,31,Centre-Forward,Monaco,loan transfer,Loan,in,Winter,NA,2009,2009/2010
+Tottenham Hotspur,Kyle Walker,19,Right-Back,Sheff Utd,"End of loanFeb 1, 2010",Loan,in,Winter,NA,2009,2009/2010
+Tottenham Hotspur,John Bostock,17,Central Midfield,Brentford,"End of loanJan 1, 2010",Loan,in,Winter,NA,2009,2009/2010
+Tottenham Hotspur,Oscar Jansson,19,Goalkeeper,Exeter City,"End of loanDec 31, 2009",Loan,in,Winter,NA,2009,2009/2010
+Tottenham Hotspur,David Button,20,Goalkeeper,Crewe Alexandra,"End of loanNov 1, 2009",Loan,in,Winter,NA,2009,2009/2010
+Tottenham Hotspur,Danny Rose,19,Left-Back,Peterborough,"End of loanNov 11, 2009",Loan,in,Winter,NA,2009,2009/2010
+Tottenham Hotspur,Tomas Pekhart,20,Centre-Forward,Slavia Prague,"End of loanDec 31, 2009",Loan,in,Winter,NA,2009,2009/2010
+Tottenham Hotspur,Jonathan Obika,19,Centre-Forward,Yeovil Town,"End of loanFeb 10, 2010",Loan,in,Winter,NA,2009,2009/2010
+Tottenham Hotspur,Robbie Keane,29,Centre-Forward,Celtic,Loan fee:€1.20m,Loan,out,Winter,1.2,2009,2009/2010
+Tottenham Hotspur,Tomas Pekhart,20,Centre-Forward,FK Jablonec,€800Th.,Transfer,out,Winter,0.8,2009,2009/2010
+Tottenham Hotspur,Giovani dos Santos,20,Second Striker,Galatasaray,Loan fee:€700Th.,Loan,out,Winter,0.7,2009,2009/2010
+Tottenham Hotspur,Jonathan Obika,19,Centre-Forward,Millwall,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Tottenham Hotspur,John Bostock,17,Central Midfield,Brentford,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Tottenham Hotspur,David Button,20,Goalkeeper,Shrewsbury,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Tottenham Hotspur,Adam Smith,18,Right-Back,Torquay,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Tottenham Hotspur,Alan Hutton,25,Right-Back,Sunderland,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Tottenham Hotspur,Kyle Naughton,21,Right-Back,Middlesbrough,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+West Ham United,Benni McCarthy,32,Centre-Forward,Blackburn,€2.60m,Transfer,in,Winter,2.6,2009,2009/2010
+West Ham United,Ilan,29,Centre-Forward,Saint-Étienne,free transfer,Transfer,in,Winter,0,2009,2009/2010
+West Ham United,Mido,26,Centre-Forward,Middlesbrough,loan transfer,Loan,in,Winter,NA,2009,2009/2010
+West Ham United,Freddie Sears,20,Second Striker,Coventry,"End of loanApr 23, 2010",Loan,in,Winter,NA,2009,2009/2010
+West Ham United,Frank Nouble,18,Centre-Forward,West Brom,"End of loanMar 8, 2010",Loan,in,Winter,NA,2009,2009/2010
+West Ham United,Nigel Quashie,31,Central Midfield,MK Dons,"End of loanDec 1, 2009",Loan,in,Winter,NA,2009,2009/2010
+West Ham United,Freddie Sears,20,Second Striker,Crystal Palace,"End of loanDec 28, 2009",Loan,in,Winter,NA,2009,2009/2010
+West Ham United,Marek Stech,19,Goalkeeper,Bournemouth,"End of loanDec 18, 2009",Loan,in,Winter,NA,2009,2009/2010
+West Ham United,Nigel Quashie,31,Central Midfield,QPR,free transfer,Transfer,out,Winter,0,2009,2009/2010
+West Ham United,Nigel Quashie,31,Central Midfield,MK Dons,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+West Ham United,Marek Stech,19,Goalkeeper,Bournemouth,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+West Ham United,Frank Nouble,18,Centre-Forward,Swindon Town,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+West Ham United,Frank Nouble,18,Centre-Forward,West Brom,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+West Ham United,Freddie Sears,20,Second Striker,Coventry,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+West Ham United,Dean Ashton,26,Centre-Forward,Retired,-,Transfer,out,Winter,NA,2009,2009/2010
+West Ham United,Calum Davenport,27,defence,Without Club,-,Transfer,out,Winter,NA,2009,2009/2010
+West Ham United,Luis Jiménez,25,Attacking Midfield,Inter,"End of loanJan 31, 2010",Loan,out,Winter,NA,2009,2009/2010
+Manchester City,Adam Johnson,22,Right Winger,Middlesbrough,€8.00m,Transfer,in,Winter,8,2009,2009/2010
+Manchester City,Patrick Vieira,33,Defensive Midfield,Inter,free transfer,Transfer,in,Winter,0,2009,2009/2010
+Manchester City,Márton Fülöp,26,Goalkeeper,Sunderland,loan transfer,Loan,in,Winter,NA,2009,2009/2010
+Manchester City,David González,27,Goalkeeper,Without Club,-,Transfer,in,Winter,NA,2009,2009/2010
+Manchester City,Felipe Caicedo,21,Centre-Forward,Sporting CP,"End of loanDec 31, 2009",Loan,in,Winter,NA,2009,2009/2010
+Manchester City,Jô,22,Centre-Forward,Everton,"End of loanJan 20, 2010",Loan,in,Winter,NA,2009,2009/2010
+Manchester City,Donal McDermott,20,Attacking Midfield,Chesterfield FC,"End of loanNov 7, 2009",Loan,in,Winter,NA,2009,2009/2010
+Manchester City,Javan Vidal,20,Right-Back,Derby,"End of loanMar 1, 2010",Loan,in,Winter,NA,2009,2009/2010
+Manchester City,Felipe Caicedo,21,Centre-Forward,Málaga CF,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Manchester City,Jô,22,Centre-Forward,Galatasaray,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Manchester City,Vladimir Weiss,20,Left Winger,Bolton,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Manchester City,Donal McDermott,20,Attacking Midfield,Scunthorpe Utd.,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Manchester City,Robinho,26,Left Winger,Santos FC,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Manchester City,Javan Vidal,20,Right-Back,Derby,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Manchester City,Benjani,31,Centre-Forward,Sunderland,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Manchester City,John Guidetti,17,Centre-Forward,Brommapojkarna,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Wigan Athletic,Victor Moses,19,Right Midfield,Crystal Palace,€3.00m,Transfer,in,Winter,3,2009,2009/2010
+Wigan Athletic,Gary Caldwell,27,Centre-Back,Celtic,€1.10m,Transfer,in,Winter,1.1,2009,2009/2010
+Wigan Athletic,Marcelo Moreno,22,Centre-Forward,Shakhtar D.,Loan fee:€685Th.,Loan,in,Winter,0.685,2009,2009/2010
+Wigan Athletic,Steve Gohouri,28,Centre-Back,Bor. M'gladbach,free transfer,Transfer,in,Winter,0,2009,2009/2010
+Wigan Athletic,Vladimir Stojkovic,26,Goalkeeper,Sporting CP,loan transfer,Loan,in,Winter,NA,2009,2009/2010
+Wigan Athletic,Ben Watson,24,Central Midfield,QPR,"End of loanJan 1, 2010",Loan,in,Winter,NA,2009,2009/2010
+Wigan Athletic,Ben Watson,24,Central Midfield,West Brom,"End of loanApr 1, 2010",Loan,in,Winter,NA,2009,2009/2010
+Wigan Athletic,Daniël de Ridder,25,Left Winger,Hapoel Tel Aviv,Loan fee:€180Th.,Loan,out,Winter,0.18,2009,2009/2010
+Wigan Athletic,Erik Edman,31,Left-Back,Helsingborg,free transfer,Transfer,out,Winter,0,2009,2009/2010
+Wigan Athletic,Olivier Kapo,29,Attacking Midfield,US Boulogne,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Wigan Athletic,Ben Watson,24,Central Midfield,West Brom,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Wigan Athletic,Tomasz Cywka,21,Defensive Midfield,Derby,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Wigan Athletic,Rachid Bouaouzan,26,Left Midfield,Helsingborg,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Wigan Athletic,Won-hee Cho,26,Defensive Midfield,Suwon Bluewings,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Stoke City,Asmir Begovic,22,Goalkeeper,Portsmouth,€3.75m,Transfer,in,Winter,3.75,2009,2009/2010
+Stoke City,Louis Moult,17,Centre-Forward,Stoke U18,-,Transfer,in,Winter,NA,2009,2009/2010
+Stoke City,Richard Cresswell,32,Centre-Forward,Sheff Utd,"End of loanDec 31, 2009",Loan,in,Winter,NA,2009,2009/2010
+Stoke City,Danzelle St Louis-Hamilton,19,Goalkeeper,Vauxhall Motors,"End of loanDec 31, 2009",Loan,in,Winter,NA,2009,2009/2010
+Stoke City,Ben Marshall,18,Right Midfield,Cheltenham,"End of loanDec 31, 2009",Loan,in,Winter,NA,2009,2009/2010
+Stoke City,Dave Kitson,29,Centre-Forward,Middlesbrough,"End of loanDec 1, 2009",Loan,in,Winter,NA,2009,2009/2010
+Stoke City,Michael Tonge,26,Central Midfield,Preston,"End of loanDec 1, 2009",Loan,in,Winter,NA,2009,2009/2010
+Stoke City,Andrew Davies,24,Centre-Back,Sheff Utd,"End of loanDec 1, 2009",Loan,in,Winter,NA,2009,2009/2010
+Stoke City,Leon Cort,30,Centre-Back,Burnley,€1.80m,Transfer,out,Winter,1.8,2009,2009/2010
+Stoke City,Richard Cresswell,32,Centre-Forward,Sheff Utd,€1.20m,Transfer,out,Winter,1.2,2009,2009/2010
+Stoke City,Ben Marshall,18,Right Midfield,Cheltenham,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Stoke City,Dave Kitson,29,Centre-Forward,Middlesbrough,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Stoke City,Michael Tonge,26,Central Midfield,Preston,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Stoke City,Tom Soares,23,Central Midfield,Sheff Wed,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Stoke City,Andy Griffin,30,Right-Back,Reading,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Stoke City,Steve Simonsen,30,Goalkeeper,Sheff Utd,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Stoke City,Diego Arismendi,22,Defensive Midfield,Brighton,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Stoke City,Michael Tonge,26,Central Midfield,Derby,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Stoke City,Ben Marshall,18,Right Midfield,Carlisle United,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Stoke City,Danzelle St Louis-Hamilton,19,Goalkeeper,Without Club,-,Transfer,out,Winter,NA,2009,2009/2010
+Bolton Wanderers,Paul Robinson,31,Centre-Back,West Brom,€1.20m,Transfer,in,Winter,1.2,2009,2009/2010
+Bolton Wanderers,Stuart Holden,24,Central Midfield,Houston,free transfer,Transfer,in,Winter,0,2009,2009/2010
+Bolton Wanderers,Vladimir Weiss,20,Left Winger,Man City,loan transfer,Loan,in,Winter,NA,2009,2009/2010
+Bolton Wanderers,Jack Wilshere,18,Central Midfield,Arsenal,loan transfer,Loan,in,Winter,NA,2009,2009/2010
+Bolton Wanderers,Tope Obadeyi,20,Left Winger,Swindon Town,"End of loanNov 1, 2009",Loan,in,Winter,NA,2009,2009/2010
+Bolton Wanderers,Chris Stokes,19,Centre-Back,Crewe Alexandra,"End of loanApr 1, 2010",Loan,in,Winter,NA,2009,2009/2010
+Bolton Wanderers,Danny Ward,18,Centre-Forward,Swindon Town,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Bolton Wanderers,Nicky Hunt,26,Centre-Back,Derby,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Bolton Wanderers,Mark Connolly,18,Centre-Back,St. Johnstone,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Bolton Wanderers,Chris Stokes,18,Centre-Back,Crewe Alexandra,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Bolton Wanderers,Tope Obadeyi,20,Left Winger,Rochdale,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Bolton Wanderers,Paul Robinson,30,Centre-Back,West Brom,"End of loanDec 1, 2009",Loan,out,Winter,NA,2009,2009/2010
+Portsmouth FC,Quincy Owusu-Abeyie,23,Left Winger,Spartak Moscow,Loan fee:€280Th.,Loan,in,Winter,0.28,2009,2009/2010
+Portsmouth FC,Dusko Tosic,25,Centre-Back,Werder Bremen,free transfer,Transfer,in,Winter,0,2009,2009/2010
+Portsmouth FC,Ricardo Rocha,31,Centre-Back,Standard Liège,free transfer,Transfer,in,Winter,0,2009,2009/2010
+Portsmouth FC,Luke Wilkinson,18,defence,Northampton,"End of loanFeb 1, 2010",Loan,in,Winter,NA,2009,2009/2010
+Portsmouth FC,Callum Reynolds,20,Centre-Back,Luton,"End of loanDec 31, 2009",Loan,in,Winter,NA,2009,2009/2010
+Portsmouth FC,Luke Wilkinson,18,defence,Eastleigh,"End of loanApr 1, 2010",Loan,in,Winter,NA,2009,2009/2010
+Portsmouth FC,Matt Ritchie,20,Left-Back,Notts County,"End of loanDec 31, 2009",Loan,in,Winter,NA,2009,2009/2010
+Portsmouth FC,Asmir Begovic,22,Goalkeeper,Ipswich,"End of loanNov 22, 2009",Loan,in,Winter,NA,2009,2009/2010
+Portsmouth FC,Younès Kaboul,23,Centre-Back,Spurs,€5.90m,Transfer,out,Winter,5.9,2009,2009/2010
+Portsmouth FC,Asmir Begovic,22,Goalkeeper,Stoke City,€3.75m,Transfer,out,Winter,3.75,2009,2009/2010
+Portsmouth FC,Mike Williamson,26,Centre-Back,Newcastle,€1.10m,Transfer,out,Winter,1.1,2009,2009/2010
+Portsmouth FC,Dusko Tosic,25,Centre-Back,QPR,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Portsmouth FC,Matt Ritchie,20,Left-Back,Swindon Town,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Portsmouth FC,Paris Cowan-Hall,19,Right Winger,Grimsby Town,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Portsmouth FC,Luke Wilkinson,18,defence,Northampton,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Portsmouth FC,Marlon Pack,18,Central Midfield,Dag & Red FC,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Portsmouth FC,Luke Wilkinson,18,defence,Eastleigh,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Portsmouth FC,Antti Niemi,37,Goalkeeper,Retired,-,Transfer,out,Winter,NA,2009,2009/2010
+Portsmouth FC,Linvoy Primus,36,Centre-Back,Retired,-,Transfer,out,Winter,NA,2009,2009/2010
+Portsmouth FC,Quincy Owusu-Abeyie,23,Left Winger,Spartak Moscow,"End of loanMar 1, 2010",Loan,out,Winter,NA,2009,2009/2010
+Blackburn Rovers,Amine Linganzi,20,Central Midfield,Saint-Étienne,free transfer,Transfer,in,Winter,0,2009,2009/2010
+Blackburn Rovers,Yildiray Bastürk,31,Attacking Midfield,VfB Stuttgart,free transfer,Transfer,in,Winter,0,2009,2009/2010
+Blackburn Rovers,Grant Hanley,18,Centre-Back,Blackburn U18,-,Transfer,in,Winter,NA,2009,2009/2010
+Blackburn Rovers,Phil Jones,17,Centre-Back,Blackburn Res.,-,Transfer,in,Winter,NA,2009,2009/2010
+Blackburn Rovers,Andy Haworth,21,Right Midfield,Gateshead,"End of loanDec 1, 2009",Loan,in,Winter,NA,2009,2009/2010
+Blackburn Rovers,Aaron Doran,18,Right Midfield,MK Dons,"End of loanNov 1, 2009",Loan,in,Winter,NA,2009,2009/2010
+Blackburn Rovers,Steven Reid,28,Right-Back,QPR,"End of loanDec 1, 2009",Loan,in,Winter,NA,2009,2009/2010
+Blackburn Rovers,Mark Bunn,25,Goalkeeper,Sheff Utd,"End of loanMar 1, 2010",Loan,in,Winter,NA,2009,2009/2010
+Blackburn Rovers,Zurab Khizanishvili,28,Centre-Back,Newcastle,"End of loanDec 31, 2009",Loan,in,Winter,NA,2009,2009/2010
+Blackburn Rovers,Aaron Doran,18,Right Midfield,Leyton Orient,"End of loanMar 1, 2010",Loan,in,Winter,NA,2009,2009/2010
+Blackburn Rovers,Nick Blackman,20,Centre-Forward,Oldham Athletic,"End of loanJan 4, 2010",Loan,in,Winter,NA,2009,2009/2010
+Blackburn Rovers,Keith Treacy,21,Left Midfield,Sheff Utd,"End of loanDec 1, 2009",Loan,in,Winter,NA,2009,2009/2010
+Blackburn Rovers,Benni McCarthy,32,Centre-Forward,West Ham,€2.60m,Transfer,out,Winter,2.6,2009,2009/2010
+Blackburn Rovers,Gearoid Morrissey,18,Central Midfield,Cork City,free transfer,Transfer,out,Winter,0,2009,2009/2010
+Blackburn Rovers,Elrio van Heerden,26,Attacking Midfield,Sivasspor,free transfer,Transfer,out,Winter,0,2009,2009/2010
+Blackburn Rovers,Gavin Gunning,18,Centre-Back,Rotherham,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Blackburn Rovers,Steven Reid,28,Right-Back,West Brom,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Blackburn Rovers,Aaron Doran,18,Right Midfield,Leyton Orient,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Blackburn Rovers,Andy Haworth,21,Right Midfield,Rochdale,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Blackburn Rovers,Zurab Khizanishvili,27,Centre-Back,Reading,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Blackburn Rovers,Frank Fielding,21,Goalkeeper,Rochdale,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Blackburn Rovers,Johnny Flynn,19,Centre-Back,Accrington,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Blackburn Rovers,Steven Reid,28,Right-Back,QPR,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Blackburn Rovers,Andy Haworth,20,Right Midfield,Gateshead,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Blackburn Rovers,Keith Treacy,21,Left Midfield,Preston,?,Transfer,out,Winter,NA,2009,2009/2010
+Sunderland AFC,Matthew Kilgallon,26,Centre-Back,Sheff Utd,€2.30m,Transfer,in,Winter,2.3,2009,2009/2010
+Sunderland AFC,Alan Hutton,25,Right-Back,Spurs,loan transfer,Loan,in,Winter,NA,2009,2009/2010
+Sunderland AFC,Benjani,31,Centre-Forward,Man City,loan transfer,Loan,in,Winter,NA,2009,2009/2010
+Sunderland AFC,Russell Anderson,31,Centre-Back,Derby,free transfer,Transfer,out,Winter,0,2009,2009/2010
+Sunderland AFC,Daryl Murphy,26,Centre-Forward,Ipswich,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Sunderland AFC,Nyron Nosworthy,29,Centre-Back,Sheff Utd,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Sunderland AFC,David Healy,30,Centre-Forward,Ipswich,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Sunderland AFC,Roy O'Donovan,24,Centre-Forward,Hartlepool,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Sunderland AFC,Ryan Noble,18,Centre-Forward,Watford,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Sunderland AFC,Márton Fülöp,26,Goalkeeper,Man City,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Hull City,Amr Zaki,26,Centre-Forward,Zamalek,Loan fee:€700Th.,Loan,in,Winter,0.7,2009,2009/2010
+Hull City,Mark Oxley,19,Goalkeeper,Walsall,"End of loanDec 31, 2009",Loan,in,Winter,NA,2009,2009/2010
+Hull City,Caleb Folan,27,Centre-Forward,Middlesbrough,"End of loanDec 31, 2009",Loan,in,Winter,NA,2009,2009/2010
+Hull City,Nathan Doyle,22,Defensive Midfield,Barnsley FC,"End of loanDec 1, 2009",Loan,in,Winter,NA,2009,2009/2010
+Hull City,Jamie Devitt,19,Attacking Midfield,Shrewsbury,"End of loanDec 27, 2009",Loan,in,Winter,NA,2009,2009/2010
+Hull City,Bryan Hughes,33,Attacking Midfield,Derby,"End of loanNov 23, 2009",Loan,in,Winter,NA,2009,2009/2010
+Hull City,Daniel Cousin,32,Centre-Forward,AE Larisa,Loan fee:€200Th.,Loan,out,Winter,0.2,2009,2009/2010
+Hull City,Tony Warner,35,Goalkeeper,Charlton,free transfer,Transfer,out,Winter,0,2009,2009/2010
+Hull City,Nathan Doyle,22,Defensive Midfield,Barnsley FC,free transfer,Transfer,out,Winter,0,2009,2009/2010
+Hull City,Will Atkinson,21,Central Midfield,Rochdale,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Hull City,Ryan Kendall,20,attack,Bradford,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Hull City,Jamie Devitt,19,Attacking Midfield,Grimsby Town,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Hull City,Mark Oxley,19,Goalkeeper,Grimsby Town,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Hull City,Nicky Featherstone,21,Central Midfield,Grimsby Town,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Hull City,Péter Halmosi,30,Left Midfield,Haladás,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Hull City,Bryan Hughes,33,Attacking Midfield,Without Club,-,Transfer,out,Winter,NA,2009,2009/2010
+Hull City,Amr Zaki,27,Centre-Forward,Zamalek,"End of loanApr 1, 2010",Loan,out,Winter,NA,2009,2009/2010
+Wolverhampton Wanderers,Aaron McCarey,17,Goalkeeper,Monaghan United,free transfer,Transfer,in,Winter,0,2009,2009/2010
+Wolverhampton Wanderers,Geoffrey Mujangi Bia,20,Right Winger,RSC Charleroi,loan transfer,Loan,in,Winter,NA,2009,2009/2010
+Wolverhampton Wanderers,Adlène Guédioura,24,Central Midfield,RSC Charleroi,loan transfer,Loan,in,Winter,NA,2009,2009/2010
+Wolverhampton Wanderers,Chris Iwelumo,31,Centre-Forward,Bristol City,"End of loanMar 14, 2010",Loan,in,Winter,NA,2009,2009/2010
+Wolverhampton Wanderers,Stefan Maierhofer,27,Centre-Forward,Bristol City,"End of loanApr 8, 2010",Loan,in,Winter,NA,2009,2009/2010
+Wolverhampton Wanderers,Dan Jones,22,Left-Back,Notts County,"End of loanDec 1, 2009",Loan,in,Winter,NA,2009,2009/2010
+Wolverhampton Wanderers,Mark Little,21,Right-Back,Chesterfield FC,"End of loanMar 1, 2010",Loan,in,Winter,NA,2009,2009/2010
+Wolverhampton Wanderers,David Davis,18,Central Midfield,Darlington,"End of loanNov 25, 2009",Loan,in,Winter,NA,2009,2009/2010
+Wolverhampton Wanderers,Carl Ikeme,23,Goalkeeper,Sheff Utd,"End of loanDec 26, 2009",Loan,in,Winter,NA,2009,2009/2010
+Wolverhampton Wanderers,Sam Vokes,20,Centre-Forward,Leeds,"End of loanDec 1, 2009",Loan,in,Winter,NA,2009,2009/2010
+Wolverhampton Wanderers,Darren Ward,31,Centre-Back,Millwall,"End of loanDec 31, 2009",Loan,in,Winter,NA,2009,2009/2010
+Wolverhampton Wanderers,George Friend,22,Left-Back,Scunthorpe Utd.,"End of loanNov 1, 2009",Loan,in,Winter,NA,2009,2009/2010
+Wolverhampton Wanderers,Carl Ikeme,23,Goalkeeper,Charlton,"End of loanNov 25, 2009",Loan,in,Winter,NA,2009,2009/2010
+Wolverhampton Wanderers,Darren Ward,31,Centre-Back,Millwall,free transfer,Transfer,out,Winter,0,2009,2009/2010
+Wolverhampton Wanderers,Mark Little,21,Right-Back,Peterborough,free transfer,Transfer,out,Winter,0,2009,2009/2010
+Wolverhampton Wanderers,Scott Malone,18,Left-Back,Southend United,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Wolverhampton Wanderers,Carl Ikeme,23,Goalkeeper,Sheff Utd,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Wolverhampton Wanderers,Stefan Maierhofer,27,Centre-Forward,Bristol City,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Wolverhampton Wanderers,George Friend,22,Left-Back,Exeter City,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Wolverhampton Wanderers,Carl Ikeme,23,Goalkeeper,QPR,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Wolverhampton Wanderers,Dan Jones,23,Left-Back,Bristol Rovers,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Wolverhampton Wanderers,Matt Hill,28,Left-Back,QPR,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Wolverhampton Wanderers,Chris Iwelumo,31,Centre-Forward,Bristol City,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Birmingham City,Craig Gardner,23,Central Midfield,Aston Villa,€3.50m,Transfer,in,Winter,3.5,2009,2009/2010
+Birmingham City,Míchel Madera,24,Central Midfield,Sporting Gijón,€3.30m,Transfer,in,Winter,3.3,2009,2009/2010
+Birmingham City,Dan Preston,18,Centre-Back,Hereford Utd.,"End of loanMar 26, 2010",Loan,in,Winter,NA,2009,2009/2010
+Birmingham City,Marcus Bent,31,Centre-Forward,Middlesbrough,"End of loanDec 31, 2009",Loan,in,Winter,NA,2009,2009/2010
+Birmingham City,Jordon Mutch,18,Central Midfield,Hereford Utd.,"End of loanJan 3, 2010",Loan,in,Winter,NA,2009,2009/2010
+Birmingham City,Krystian Pearce,20,Centre-Back,Peterborough,"End of loanJan 11, 2010",Loan,in,Winter,NA,2009,2009/2010
+Birmingham City,Krystian Pearce,20,Centre-Back,Huddersfield,€400Th.,Transfer,out,Winter,0.4,2009,2009/2010
+Birmingham City,Martin Taylor,30,Centre-Back,Watford,free transfer,Transfer,out,Winter,0,2009,2009/2010
+Birmingham City,Damien Johnson,31,Central Midfield,Plymouth,free transfer,Transfer,out,Winter,0,2009,2009/2010
+Birmingham City,Jordon Mutch,17,Central Midfield,Hereford Utd.,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Birmingham City,Dan Preston,18,Centre-Back,Hereford Utd.,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Birmingham City,Jordon Mutch,18,Central Midfield,Doncaster,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Birmingham City,Gary McSheffrey,27,Left Winger,Leeds,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Birmingham City,Marcus Bent,31,Centre-Forward,QPR,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Birmingham City,Jake Jervis,18,Right Winger,Hereford Utd.,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Birmingham City,Franck Queudrue,31,Left-Back,Colchester Utd.,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Birmingham City,Jay O'Shea,21,Central Midfield,Middlesbrough,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Birmingham City,Giovanny Espinoza,32,Centre-Back,CSD del Valle,"End of loanDec 31, 2009",Loan,out,Winter,NA,2009,2009/2010
+Burnley FC,Danny Fox,23,Left-Back,Celtic,€2.10m,Transfer,in,Winter,2.1,2009,2009/2010
+Burnley FC,Leon Cort,30,Centre-Back,Stoke City,€1.80m,Transfer,in,Winter,1.8,2009,2009/2010
+Burnley FC,Kevin Long,19,Centre-Back,Cork City,€350Th.,Transfer,in,Winter,0.35,2009,2009/2010
+Burnley FC,Nicky Weaver,30,Goalkeeper,Dundee United,free transfer,Transfer,in,Winter,0,2009,2009/2010
+Burnley FC,Jack Cork,20,Defensive Midfield,Chelsea Res.,loan transfer,Loan,in,Winter,NA,2009,2009/2010
+Burnley FC,Frédéric Nimani,21,Centre-Forward,Monaco,loan transfer,Loan,in,Winter,NA,2009,2009/2010
+Burnley FC,Alex MacDonald,19,Right Midfield,Falkirk,"End of loanDec 31, 2009",Loan,in,Winter,NA,2009,2009/2010
+Burnley FC,Jonathan Lund,21,Goalkeeper,Rotherham,"End of loanMar 1, 2010",Loan,in,Winter,NA,2009,2009/2010
+Burnley FC,Chris Lynch,18,Centre-Back,Chester City,"End of loanJan 1, 2010",Loan,in,Winter,NA,2009,2009/2010
+Burnley FC,Jay Rodríguez,20,Centre-Forward,Barnsley FC,"End of loanFeb 28, 2010",Loan,in,Winter,NA,2009,2009/2010
+Burnley FC,Wes Fletcher,18,Centre-Forward,Grimsby Town,"End of loanFeb 1, 2010",Loan,in,Winter,NA,2009,2009/2010
+Burnley FC,Adam Kay,19,Central Midfield,Chester City,"End of loanMar 1, 2010",Loan,in,Winter,NA,2009,2009/2010
+Burnley FC,Jay Rodríguez,20,Centre-Forward,Barnsley FC,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Burnley FC,David Edgar,22,Centre-Back,Swansea,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Burnley FC,Jonathan Lund,21,Goalkeeper,Barnsley FC,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Burnley FC,Richard Eckersley,20,Right-Back,Plymouth,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Burnley FC,Jonathan Lund,21,Goalkeeper,Rotherham,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Burnley FC,Brian Easton,21,Left-Back,Hamilton Acad.,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Burnley FC,Remco van der Schaaf,30,Centre-Back,Bröndby IF,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Burnley FC,Wes Fletcher,18,Centre-Forward,Grimsby Town,loan transfer,Loan,out,Winter,NA,2009,2009/2010
+Burnley FC,Christian Kalvenes,33,Left-Back,Without Club,-,Transfer,out,Winter,NA,2009,2009/2010
+Burnley FC,Fernando Guerrero,20,Left Winger,Independiente,"End of loanMar 1, 2010",Loan,out,Winter,NA,2009,2009/2010

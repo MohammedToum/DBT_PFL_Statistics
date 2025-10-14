@@ -1,3 +1,6 @@
+{{ config(enabled=false) }}
+
+
 CREATE OR REPLACE VIEW staging.unmapped_clubs AS
 SELECT DISTINCT
   UPPER(TRIM(club_involved_name)) AS key_norm

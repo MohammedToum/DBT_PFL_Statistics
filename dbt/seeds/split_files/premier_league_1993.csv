@@ -1,0 +1,446 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_type,transfer_movement,transfer_period,fee_cleaned,year,season
+Aston Villa,Andy Townsend,29,Central Midfield,Chelsea,€2.40m,Transfer,in,Summer,2.4,1993,1993/1994
+Aston Villa,Guy Whittingham,28,Centre-Forward,Portsmouth,€1.80m,Transfer,in,Summer,1.8,1993,1993/1994
+Aston Villa,Gordon Cowans,34,midfield,Blackburn,free transfer,Transfer,in,Summer,0,1993,1993/1994
+Aston Villa,Paul Browne,18,Centre-Back,Aston Villa U18,-,Transfer,in,Summer,NA,1993,1993/1994
+Aston Villa,Chris Boden,20,defence,Barnsley FC,"End of loanMay 31, 1994",Loan,in,Summer,NA,1993,1993/1994
+Aston Villa,Michael Oakes,20,Goalkeeper,Scarborough Athletic,"End of loanMay 1, 1994",Loan,in,Summer,NA,1993,1993/1994
+Aston Villa,Dariusz Kubicki,30,Right-Back,Sunderland,"End of loanMay 31, 1994",Loan,in,Summer,NA,1993,1993/1994
+Aston Villa,Guy Whittingham,29,Centre-Forward,Wolves,"End of loanMay 31, 1994",Loan,in,Summer,NA,1993,1993/1994
+Aston Villa,Graham Fenton,20,Second Striker,West Brom,"End of loanMay 31, 1994",Loan,in,Summer,NA,1993,1993/1994
+Aston Villa,Mark Blake,22,midfield,Portsmouth,€501Th.,Transfer,out,Summer,0.501,1993,1993/1994
+Aston Villa,Martin Carruthers,20,Centre-Forward,Stoke City,€420Th.,Transfer,out,Summer,0.42,1993,1993/1994
+Aston Villa,Henrik Larsen,27,Attacking Midfield,Waldh. Mannheim,free transfer,Transfer,out,Summer,0,1993,1993/1994
+Aston Villa,Cyrille Regis,35,Centre-Forward,Wolves,free transfer,Transfer,out,Summer,0,1993,1993/1994
+Aston Villa,Chris Boden,20,defence,Barnsley FC,loan transfer,Loan,out,Summer,NA,1993,1993/1994
+Norwich City,Spencer Prior,22,Centre-Back,Southend United,€250Th.,Transfer,in,Summer,0.25,1993,1993/1994
+Norwich City,Scott Howie,21,Goalkeeper,Clyde FC,?,Transfer,in,Summer,NA,1993,1993/1994
+Norwich City,Ade Akinbiyi,18,Centre-Forward,Norwich U18,-,Transfer,in,Summer,NA,1993,1993/1994
+Norwich City,Andy Marshall,18,Goalkeeper,Norwich U18,-,Transfer,in,Summer,NA,1993,1993/1994
+Norwich City,Deryn Brace,18,Left-Back,Norwich U18,-,Transfer,in,Summer,NA,1993,1993/1994
+Norwich City,Lee Power,21,Centre-Forward,Sunderland,"End of loanOct 14, 1993",Loan,in,Summer,NA,1993,1993/1994
+Norwich City,David Phillips,30,Right Midfield,Nottm Forest,€500Th.,Transfer,out,Summer,0.5,1993,1993/1994
+Norwich City,Mark Peters,21,defence,Peterborough,free transfer,Transfer,out,Summer,0,1993,1993/1994
+Norwich City,Lee Power,21,Centre-Forward,Sunderland,loan transfer,Loan,out,Summer,NA,1993,1993/1994
+Norwich City,Lee Power,21,Centre-Forward,Portsmouth,loan transfer,Loan,out,Summer,NA,1993,1993/1994
+Oldham Athletic,Ole Björn Sundgot,21,Centre-Forward,Molde,free transfer,Transfer,in,Summer,0,1993,1993/1994
+Oldham Athletic,Rick Holden,28,Left Midfield,Man City,?,Transfer,in,Summer,NA,1993,1993/1994
+Oldham Athletic,Richard Graham,18,Centre-Back,Unknown,?,Transfer,in,Summer,NA,1993,1993/1994
+Oldham Athletic,Paul Rickers,18,midfield,Unknown,?,Transfer,in,Summer,NA,1993,1993/1994
+Oldham Athletic,Gary Walsh,25,Goalkeeper,Man Utd,loan transfer,Loan,in,Summer,NA,1993,1993/1994
+Oldham Athletic,Andy Barlow,28,Left-Back,Bradford,"End of loanMay 31, 1994",Loan,in,Summer,NA,1993,1993/1994
+Oldham Athletic,Ian Marshall,27,Centre-Forward,Ipswich,€1.13m,Transfer,out,Summer,1.13,1993,1993/1994
+Oldham Athletic,Tore Pedersen,24,Centre-Back,Brann,?,Transfer,out,Summer,NA,1993,1993/1994
+Oldham Athletic,Orpheo Keizerweerd,24,Centre-Forward,Rodez AF,"End of loanJun 30, 1993",Loan,out,Summer,NA,1993,1993/1994
+Queens Park Rangers,Steve Yates,23,defence,Bristol Rovers,€820Th.,Transfer,in,Summer,0.82,1993,1993/1994
+Queens Park Rangers,Trevor Sinclair,20,Left Winger,Blackpool,?,Transfer,in,Summer,NA,1993,1993/1994
+Queens Park Rangers,Danny Dichio,18,Centre-Forward,QPR U18,-,Transfer,in,Summer,NA,1993,1993/1994
+Queens Park Rangers,Alan McCarthy,22,defence,Plymouth,"End of loanMay 31, 1994",Loan,in,Summer,NA,1993,1993/1994
+Queens Park Rangers,Dennis Bailey,28,attack,Watford,"End of loanMay 31, 1994",Loan,in,Summer,NA,1993,1993/1994
+Queens Park Rangers,Andy Sinton,27,Left Midfield,Sheff Wed,€3.35m,Transfer,out,Summer,3.35,1993,1993/1994
+Queens Park Rangers,Garry Thompson,33,attack,Cardiff,free transfer,Transfer,out,Summer,0,1993,1993/1994
+Queens Park Rangers,Danny Dichio,18,Centre-Forward,Barnet,loan transfer,Loan,out,Summer,NA,1993,1993/1994
+Queens Park Rangers,Dennis Bailey,27,attack,Charlton,loan transfer,Loan,out,Summer,NA,1993,1993/1994
+Queens Park Rangers,Tony Witter,29,Centre-Back,Millwall,"End of loanSep 13, 1993",Loan,out,Summer,NA,1993,1993/1994
+Sheffield Wednesday,Andy Sinton,27,Left Midfield,QPR,€3.35m,Transfer,in,Summer,3.35,1993,1993/1994
+Sheffield Wednesday,Des Walker,27,Centre-Back,Sampdoria,€3.00m,Transfer,in,Summer,3,1993,1993/1994
+Sheffield Wednesday,Andy Pearce,27,Centre-Back,Coventry,€600Th.,Transfer,in,Summer,0.6,1993,1993/1994
+Sheffield Wednesday,Adem Poric,20,Central Midfield,St. George Saints,€72Th.,Transfer,in,Summer,0.072,1993,1993/1994
+Sheffield Wednesday,Brian Linighan,19,Centre-Back,Sheff Wed U23,-,Transfer,in,Summer,NA,1993,1993/1994
+Sheffield Wednesday,Richie Barker,18,Centre-Forward,Sheff Wed U18,-,Transfer,in,Summer,NA,1993,1993/1994
+Sheffield Wednesday,Nigel Jemson,24,attack,Grimsby Town,"End of loanMay 31, 1994",Loan,in,Summer,NA,1993,1993/1994
+Sheffield Wednesday,Paul Warhurst,23,Centre-Back,Blackburn,€3.75m,Transfer,out,Summer,3.75,1993,1993/1994
+Sheffield Wednesday,John Harkes,26,Right Midfield,Derby,€1.20m,Transfer,out,Summer,1.2,1993,1993/1994
+Sheffield Wednesday,Peter Shirtliff,32,Centre-Back,Wolves,€287Th.,Transfer,out,Summer,0.287,1993,1993/1994
+Sheffield Wednesday,Viv Anderson,36,Right-Back,Barnsley FC,free transfer,Transfer,out,Summer,0,1993,1993/1994
+Sheffield Wednesday,Danny Wilson,33,midfield,Barnsley FC,?,Transfer,out,Summer,NA,1993,1993/1994
+Sheffield Wednesday,Phil King,25,Left-Back,Notts County,loan transfer,Loan,out,Summer,NA,1993,1993/1994
+Sheffield Wednesday,Nigel Jemson,24,attack,Grimsby Town,loan transfer,Loan,out,Summer,NA,1993,1993/1994
+Wimbledon FC,Alan Kimble,26,Left-Back,Cambridge Utd.,€210Th.,Transfer,in,Summer,0.21,1993,1993/1994
+Wimbledon FC,Gary Blissett,29,Centre-Forward,Brentford,?,Transfer,in,Summer,NA,1993,1993/1994
+Wimbledon FC,Aidan Newhouse,22,attack,Port Vale,"End of loanMay 31, 1994",Loan,in,Summer,NA,1993,1993/1994
+Wimbledon FC,Justin Skinner,21,Left-Back,Bournemouth,"End of loanMay 31, 1994",Loan,in,Summer,NA,1993,1993/1994
+Wimbledon FC,Steve Cotterill,29,attack,Bournemouth,€102Th.,Transfer,out,Summer,0.102,1993,1993/1994
+Wimbledon FC,Steve Finnan,17,Right-Back,Welling Utd.,?,Transfer,out,Summer,NA,1993,1993/1994
+Wimbledon FC,Terry Gibson,30,attack,Peterborough,?,Transfer,out,Summer,NA,1993,1993/1994
+Wimbledon FC,Timothy Alexander,19,Centre-Back,Barnet,?,Transfer,out,Summer,NA,1993,1993/1994
+Coventry City,Mick Harford,34,Centre-Forward,Sunderland,€225Th.,Transfer,in,Summer,0.225,1993,1993/1994
+Coventry City,Paul Williams,23,defence,Stockport,€185Th.,Transfer,in,Summer,0.185,1993,1993/1994
+Coventry City,Julian Darby,25,midfield,Bolton,€180Th.,Transfer,in,Summer,0.18,1993,1993/1994
+Coventry City,Steve Morgan,24,Left-Back,Plymouth,€135Th.,Transfer,in,Summer,0.135,1993,1993/1994
+Coventry City,John Gayle,29,Centre-Forward,Birmingham,€120Th.,Transfer,in,Summer,0.12,1993,1993/1994
+Coventry City,Ally Pickering,26,defence,Rotherham,€100Th.,Transfer,in,Summer,0.1,1993,1993/1994
+Coventry City,Tim Dalton,27,Goalkeeper,Ernest Borel,?,Transfer,in,Summer,NA,1993,1993/1994
+Coventry City,Leigh Jenkinson,23,Central Midfield,Hull City,?,Transfer,in,Summer,NA,1993,1993/1994
+Coventry City,Zbigniew Kruszyński,32,midfield,Brentford,?,Transfer,in,Summer,NA,1993,1993/1994
+Coventry City,Willie Boland,17,Central Midfield,Coventry U18,-,Transfer,in,Summer,NA,1993,1993/1994
+Coventry City,Peter Billing,28,Centre-Back,Port Vale,"End of loanJun 30, 1993",Loan,in,Summer,NA,1993,1993/1994
+Coventry City,Andy Pearce,27,Centre-Back,Sheff Wed,€600Th.,Transfer,out,Summer,0.6,1993,1993/1994
+Coventry City,Terry Fleming,20,midfield,Northampton,free transfer,Transfer,out,Summer,0,1993,1993/1994
+Coventry City,Chris Greenman,24,defence,Peterborough,free transfer,Transfer,out,Summer,0,1993,1993/1994
+Coventry City,Steve Williams,18,Goalkeeper,Cardiff,free transfer,Transfer,out,Summer,0,1993,1993/1994
+Coventry City,Billy Woods,19,Left Midfield,Cork City,free transfer,Transfer,out,Summer,0,1993,1993/1994
+Coventry City,Martyn Booty,22,Right-Back,Crewe Alexandra,free transfer,Transfer,out,Summer,0,1993,1993/1994
+Coventry City,Peter Billing,28,Centre-Back,Port Vale,€40Th.,Transfer,out,Summer,0.04,1993,1993/1994
+Coventry City,Craig Middleton,22,Left Midfield,Cambridge Utd.,?,Transfer,out,Summer,NA,1993,1993/1994
+Coventry City,Tim Dalton,27,Goalkeeper,Bangor,?,Transfer,out,Summer,NA,1993,1993/1994
+Coventry City,Micky Gynn,31,midfield,Stoke City,?,Transfer,out,Summer,NA,1993,1993/1994
+Coventry City,Kevin Gallacher,26,Right Winger,Blackburn,?,Transfer,out,Summer,NA,1993,1993/1994
+Coventry City,Brian Borrows,32,Right-Back,Bristol City,loan transfer,Loan,out,Summer,NA,1993,1993/1994
+Coventry City,Kenny Sansom,34,Left-Back,Retired,-,Transfer,out,Summer,NA,1993,1993/1994
+Manchester United,Roy Keane,21,Defensive Midfield,Nottm Forest,€8.50m,Transfer,in,Summer,8.5,1993,1993/1994
+Manchester United,Robbie Savage,18,Central Midfield,Man Utd U18,-,Transfer,in,Summer,NA,1993,1993/1994
+Manchester United,Keith Gillespie,18,Right Midfield,Man Utd U18,-,Transfer,in,Summer,NA,1993,1993/1994
+Manchester United,David Beckham,18,Right Midfield,Man Utd U18,-,Transfer,in,Summer,NA,1993,1993/1994
+Manchester United,Chris Casper,18,Centre-Back,Man Utd U18,-,Transfer,in,Summer,NA,1993,1993/1994
+Manchester United,John O'Kane,18,Right-Back,Man Utd U18,-,Transfer,in,Summer,NA,1993,1993/1994
+Manchester United,Neil Whitworth,22,Centre-Back,Blackpool,"End of loanMay 31, 1994",Loan,in,Summer,NA,1993,1993/1994
+Manchester United,Danny Wallace,29,Attacking Midfield,Birmingham,€300Th.,Transfer,out,Summer,0.3,1993,1993/1994
+Manchester United,Brian Carey,25,Centre-Back,Leicester,€293Th.,Transfer,out,Summer,0.293,1993,1993/1994
+Manchester United,Keith Gillespie,18,Right Midfield,Wigan,loan transfer,Loan,out,Summer,NA,1993,1993/1994
+Manchester United,Neil Whitworth,20,Centre-Back,Rotherham,loan transfer,Loan,out,Summer,NA,1993,1993/1994
+Manchester United,Russell Beardsmore,24,Central Midfield,Bournemouth,?,Transfer,out,Summer,NA,1993,1993/1994
+Manchester United,Gary Walsh,25,Goalkeeper,Oldham Athletic,loan transfer,Loan,out,Summer,NA,1993,1993/1994
+Newcastle United,Peter Beardsley,32,Second Striker,Everton,€1.70m,Transfer,in,Summer,1.7,1993,1993/1994
+Newcastle United,Scott Sellars,27,Left Midfield,Leeds,€700Th.,Transfer,in,Summer,0.7,1993,1993/1994
+Newcastle United,Mike Hooper,29,Goalkeeper,Liverpool,€628Th.,Transfer,in,Summer,0.628,1993,1993/1994
+Newcastle United,Malcolm Allen,26,Centre-Forward,Millwall,€350Th.,Transfer,in,Summer,0.35,1993,1993/1994
+Newcastle United,Alex Mathie,24,Centre-Forward,Morton,€320Th.,Transfer,in,Summer,0.32,1993,1993/1994
+Newcastle United,Nikodimos Papavasiliou,22,Left Winger,OFI Crete FC,€180Th.,Transfer,in,Summer,0.18,1993,1993/1994
+Newcastle United,Michael Jeffrey,21,Centre-Forward,Doncaster,€100Th.,Transfer,in,Summer,0.1,1993,1993/1994
+Newcastle United,John Burridge,41,Goalkeeper,Hibernian FC,free transfer,Transfer,in,Summer,0,1993,1993/1994
+Newcastle United,Steve Harper,18,Goalkeeper,Seaham Red Star,free transfer,Transfer,in,Summer,0,1993,1993/1994
+Newcastle United,Matty Appleby,22,Defensive Midfield,Darlington,"End of loanMay 31, 1994",Loan,in,Summer,NA,1993,1993/1994
+Newcastle United,Gavin Peacock,25,midfield,Chelsea,€1.70m,Transfer,out,Summer,1.7,1993,1993/1994
+Newcastle United,David Kelly,27,Centre-Forward,Wolves,€829Th.,Transfer,out,Summer,0.829,1993,1993/1994
+Newcastle United,Tommy Wright,29,Goalkeeper,Nottm Forest,€675Th.,Transfer,out,Summer,0.675,1993,1993/1994
+Newcastle United,Alan Thompson,19,Left Midfield,Bolton,€375Th.,Transfer,out,Summer,0.375,1993,1993/1994
+Newcastle United,Mark Stimson,25,Left-Back,Portsmouth,€115Th.,Transfer,out,Summer,0.115,1993,1993/1994
+Newcastle United,David Roche,22,midfield,Doncaster,€100Th.,Transfer,out,Summer,0.1,1993,1993/1994
+Newcastle United,Kevin Sheedy,33,Left Midfield,Blackpool,free transfer,Transfer,out,Summer,0,1993,1993/1994
+Newcastle United,John Burridge,41,Goalkeeper,Scarborough,free transfer,Transfer,out,Summer,0,1993,1993/1994
+Newcastle United,Gavin Maguire,25,Centre-Back,Portsmouth,"End of loanJun 30, 1993",Loan,out,Summer,NA,1993,1993/1994
+Newcastle United,Brian Reid,23,Centre-Back,Rangers,"End of loanMay 31, 1994",Loan,out,Summer,NA,1993,1993/1994
+Ipswich Town,Steve Sedgley,26,Central Midfield,Spurs,€1.25m,Transfer,in,Summer,1.25,1993,1993/1994
+Ipswich Town,Ian Marshall,27,Centre-Forward,Oldham Athletic,€1.13m,Transfer,in,Summer,1.13,1993,1993/1994
+Ipswich Town,Paul Mason,29,midfield,Aberdeen FC,?,Transfer,in,Summer,NA,1993,1993/1994
+Ipswich Town,Neil Gregory,21,Centre-Forward,Chesterfield FC,"End of loanMay 31, 1994",Loan,in,Summer,NA,1993,1993/1994
+Ipswich Town,Jason Dozzell,25,Central Midfield,Spurs,€2.40m,Transfer,out,Summer,2.4,1993,1993/1994
+Ipswich Town,Vlado Bozinoski,29,Central Midfield,Paços Ferreira,?,Transfer,out,Summer,NA,1993,1993/1994
+Chelsea FC,Gavin Peacock,25,midfield,Newcastle,€1.70m,Transfer,in,Summer,1.7,1993,1993/1994
+Chelsea FC,Mark Stein,27,Centre-Forward,Stoke City,€1.66m,Transfer,in,Summer,1.66,1993,1993/1994
+Chelsea FC,Jakob Kjeldbjerg,23,Centre-Back,Silkeborg IF,€480Th.,Transfer,in,Summer,0.48,1993,1993/1994
+Chelsea FC,Andy Dow,20,Left-Back,Dundee FC,?,Transfer,in,Summer,NA,1993,1993/1994
+Chelsea FC,Glenn Hoddle,35,Attacking Midfield,Swindon Town,?,Transfer,in,Summer,NA,1993,1993/1994
+Chelsea FC,Michael Duberry,17,Centre-Back,Chelsea U18,-,Transfer,in,Summer,NA,1993,1993/1994
+Chelsea FC,Anthony Barness,20,Right-Back,Middlesbrough,"End of loanSep 1, 1993",Loan,in,Summer,NA,1993,1993/1994
+Chelsea FC,Nick Colgan,20,Goalkeeper,Crewe Alexandra,"End of loanMay 1, 1994",Loan,in,Summer,NA,1993,1993/1994
+Chelsea FC,Steve Livingstone,24,Centre-Forward,Port Vale,"End of loanOct 28, 1993",Loan,in,Summer,NA,1993,1993/1994
+Chelsea FC,Kevin Hitchcock,30,Goalkeeper,West Ham,"End of loanJun 30, 1993",Loan,in,Summer,NA,1993,1993/1994
+Chelsea FC,Andy Townsend,29,Central Midfield,Aston Villa,€2.40m,Transfer,out,Summer,2.4,1993,1993/1994
+Chelsea FC,Graham Stuart,22,Attacking Midfield,Everton,€1.28m,Transfer,out,Summer,1.28,1993,1993/1994
+Chelsea FC,Ian Pearce,19,Centre-Back,Blackburn,€450Th.,Transfer,out,Summer,0.45,1993,1993/1994
+Chelsea FC,Steve Livingstone,24,Centre-Forward,Grimsby Town,€150Th.,Transfer,out,Summer,0.15,1993,1993/1994
+Chelsea FC,Alan Dickens,28,Central Midfield,Colchester Utd.,free transfer,Transfer,out,Summer,0,1993,1993/1994
+Chelsea FC,Nick Colgan,19,Goalkeeper,Crewe Alexandra,loan transfer,Loan,out,Summer,NA,1993,1993/1994
+Chelsea FC,Anthony Barness,20,Right-Back,Middlesbrough,loan transfer,Loan,out,Summer,NA,1993,1993/1994
+Chelsea FC,Steve Livingstone,23,Centre-Forward,Port Vale,loan transfer,Loan,out,Summer,NA,1993,1993/1994
+Chelsea FC,Mal Donaghy,36,Left-Back,Retired,-,Transfer,out,Summer,NA,1993,1993/1994
+Chelsea FC,Paul Elliott,30,Centre-Back,Retired,-,Transfer,out,Summer,NA,1993,1993/1994
+Arsenal FC,Eddie McGoldrick,28,Right Winger,Crystal Palace,€1.28m,Transfer,in,Summer,1.28,1993,1993/1994
+Arsenal FC,Adrian Clarke,18,midfield,Arsenal Res.,-,Transfer,in,Summer,NA,1993,1993/1994
+Arsenal FC,Paul Dickov,21,Centre-Forward,Brighton,"End of loanMay 1, 1994",Loan,in,Summer,NA,1993,1993/1994
+Arsenal FC,John Bacon,20,Centre-Forward,Derry City,"End of loanJun 1, 1993",Loan,in,Summer,NA,1993,1993/1994
+Arsenal FC,John Bacon,20,Centre-Forward,Shamrock Rovers,free transfer,Transfer,out,Summer,0,1993,1993/1994
+Arsenal FC,Paul Dickov,20,Centre-Forward,Luton,loan transfer,Loan,out,Summer,NA,1993,1993/1994
+Arsenal FC,David O'Leary,35,Centre-Back,Leeds,?,Transfer,out,Summer,NA,1993,1993/1994
+Arsenal FC,Colin Pates,31,Centre-Back,Brighton,?,Transfer,out,Summer,NA,1993,1993/1994
+Leeds United,Brian Deane,25,Centre-Forward,Sheff Utd,€4.35m,Transfer,in,Summer,4.35,1993,1993/1994
+Leeds United,David O'Leary,35,Centre-Back,Arsenal,?,Transfer,in,Summer,NA,1993,1993/1994
+Leeds United,Mark Ford,17,Defensive Midfield,Leeds U18,-,Transfer,in,Summer,NA,1993,1993/1994
+Leeds United,Ray Wallace,24,Right-Back,Reading,"End of loanMay 31, 1994",Loan,in,Summer,NA,1993,1993/1994
+Leeds United,Frank Strandli,21,Centre-Forward,IK Start,"End of loanJul 31, 1993",Loan,in,Summer,NA,1993,1993/1994
+Leeds United,Dylan Kerr,26,Left-Back,Reading,€883Th.,Transfer,out,Summer,0.883,1993,1993/1994
+Leeds United,Scott Sellars,27,Left Midfield,Newcastle,€700Th.,Transfer,out,Summer,0.7,1993,1993/1994
+Leeds United,David Kerslake,27,Right-Back,Spurs,€563Th.,Transfer,out,Summer,0.563,1993,1993/1994
+Leeds United,Lee Chapman,33,Centre-Forward,Portsmouth,€313Th.,Transfer,out,Summer,0.313,1993,1993/1994
+Leeds United,Carl-Steven Shutt,31,attack,Birmingham,?,Transfer,out,Summer,NA,1993,1993/1994
+Leeds United,Mervyn Day,38,Goalkeeper,Carlisle United,?,Transfer,out,Summer,NA,1993,1993/1994
+West Ham United,Dale Gordon,26,Right Midfield,Rangers,€850Th.,Transfer,in,Summer,0.85,1993,1993/1994
+West Ham United,Simon Webster,29,defence,Charlton,€650Th.,Transfer,in,Summer,0.65,1993,1993/1994
+West Ham United,Lee Chapman,33,Centre-Forward,Portsmouth,€313Th.,Transfer,in,Summer,0.313,1993,1993/1994
+West Ham United,Keith Rowland,21,Left-Back,Bournemouth,€165Th.,Transfer,in,Summer,0.165,1993,1993/1994
+West Ham United,Mike Marsh,24,Central Midfield,Liverpool,free transfer,Transfer,in,Summer,0,1993,1993/1994
+West Ham United,Jeroen Boere,25,Centre-Forward,Go Ahead Eagles,?,Transfer,in,Summer,NA,1993,1993/1994
+West Ham United,David Burrows,24,Left-Back,Liverpool,?,Transfer,in,Summer,NA,1993,1993/1994
+West Ham United,Matthew Rush,22,midfield,Swansea,"End of loanMay 31, 1994",Loan,in,Summer,NA,1993,1993/1994
+West Ham United,Trevor Morley,32,Centre-Forward,Brann,"End of loanSep 1, 1993",Loan,in,Summer,NA,1993,1993/1994
+West Ham United,Daniel Williamson,20,Attacking Midfield,Doncaster,"End of loanMay 31, 1994",Loan,in,Summer,NA,1993,1993/1994
+West Ham United,Mike Small,31,Centre-Forward,Wolves,"End of loanOct 3, 1993",Loan,in,Summer,NA,1993,1993/1994
+West Ham United,Julian Dicks,25,Left-Back,Liverpool,€2.25m,Transfer,out,Summer,2.25,1993,1993/1994
+West Ham United,Dean Edward Martin,21,Right Winger,Kettering,free transfer,Transfer,out,Summer,0,1993,1993/1994
+West Ham United,Mike Small,31,Centre-Forward,Wolves,loan transfer,Loan,out,Summer,NA,1993,1993/1994
+West Ham United,Kevin Keen,26,midfield,Wolves,?,Transfer,out,Summer,NA,1993,1993/1994
+West Ham United,Alex Bunbury,26,Centre-Forward,Marítimo,?,Transfer,out,Summer,NA,1993,1993/1994
+West Ham United,Daniel Williamson,19,Attacking Midfield,Doncaster,loan transfer,Loan,out,Summer,NA,1993,1993/1994
+West Ham United,Gary Kelly,27,Goalkeeper,Bury,"End of loanMay 31, 1994",Loan,out,Summer,NA,1993,1993/1994
+West Ham United,Kevin Hitchcock,30,Goalkeeper,Chelsea,"End of loanJun 30, 1993",Loan,out,Summer,NA,1993,1993/1994
+Swindon Town,Jan Aage Fjörtoft,26,Centre-Forward,Rapid Vienna,€700Th.,Transfer,in,Summer,0.7,1993,1993/1994
+Swindon Town,Adrian Richard Whitbread,21,Centre-Back,Leyton Orient,€623Th.,Transfer,in,Summer,0.623,1993,1993/1994
+Swindon Town,Andy Mutch,29,attack,Wolves,€310Th.,Transfer,in,Summer,0.31,1993,1993/1994
+Swindon Town,Ty Gooden,20,midfield,Wycombe,free transfer,Transfer,in,Summer,0,1993,1993/1994
+Swindon Town,Terry Fenwick,33,Centre-Back,Spurs,?,Transfer,in,Summer,NA,1993,1993/1994
+Swindon Town,Luc Nijholt,31,Centre-Back,Motherwell FC,?,Transfer,in,Summer,NA,1993,1993/1994
+Swindon Town,Brian Marwood,33,Attacking Midfield,Barnet,free transfer,Transfer,out,Summer,0,1993,1993/1994
+Swindon Town,David Mitchell,31,Centre-Forward,Altay SK,?,Transfer,out,Summer,NA,1993,1993/1994
+Swindon Town,Glenn Hoddle,35,Attacking Midfield,Chelsea,?,Transfer,out,Summer,NA,1993,1993/1994
+Swindon Town,Colin Calderwood,28,Centre-Back,Spurs,?,Transfer,out,Summer,NA,1993,1993/1994
+Swindon Town,Shaun Close,26,Centre-Forward,Barnet,?,Transfer,out,Summer,NA,1993,1993/1994
+Swindon Town,Paul Heald,25,Goalkeeper,Leyton Orient,"End of loanMay 31, 1994",Loan,out,Summer,NA,1993,1993/1994
+Sheffield United,Willie Falconer,27,Centre-Forward,Middlesbrough,€600Th.,Transfer,in,Summer,0.6,1993,1993/1994
+Sheffield United,Jonas Wirmola,23,Centre-Back,Spårvägen,free transfer,Transfer,in,Summer,0,1993,1993/1994
+Sheffield United,Chris Kamara,35,Defensive Midfield,Luton,free transfer,Transfer,in,Summer,0,1993,1993/1994
+Sheffield United,Rob Scott,19,Right-Back,Sutton Utd,€25Th.,Transfer,in,Summer,0.025,1993,1993/1994
+Sheffield United,Jostein Flo,28,Centre-Forward,Sogndal IL,?,Transfer,in,Summer,NA,1993,1993/1994
+Sheffield United,Dave Tuttle,21,defence,Spurs,?,Transfer,in,Summer,NA,1993,1993/1994
+Sheffield United,Jamie Hoyland,28,midfield,Bristol City,"End of loanMay 31, 1994",Loan,in,Summer,NA,1993,1993/1994
+Sheffield United,John Gannon,27,midfield,Middlesbrough,"End of loanMay 31, 1994",Loan,in,Summer,NA,1993,1993/1994
+Sheffield United,Brian Deane,25,Centre-Forward,Leeds,€4.35m,Transfer,out,Summer,4.35,1993,1993/1994
+Sheffield United,Nathan Peel,21,Centre-Forward,Burnley,€69Th.,Transfer,out,Summer,0.069,1993,1993/1994
+Sheffield United,Ian Bryson,30,Central Midfield,Barnsley FC,€30Th.,Transfer,out,Summer,0.03,1993,1993/1994
+Sheffield United,Jim Leighton,34,Goalkeeper,Hibernian FC,?,Transfer,out,Summer,NA,1993,1993/1994
+Sheffield United,Tom Cowan,23,Left-Back,Stoke City,?,Transfer,out,Summer,NA,1993,1993/1994
+Sheffield United,Mike Lake,26,midfield,Wrexham,?,Transfer,out,Summer,NA,1993,1993/1994
+Manchester City,Alan Kernaghan,26,Centre-Back,Middlesbrough,€2.40m,Transfer,in,Summer,2.4,1993,1993/1994
+Manchester City,Carl Griffiths,21,Centre-Forward,Shrewsbury,€600Th.,Transfer,in,Summer,0.6,1993,1993/1994
+Manchester City,Alfons Groenendijk,29,Defensive Midfield,Ajax,€341Th.,Transfer,in,Summer,0.341,1993,1993/1994
+Manchester City,Rae Ingram,18,defence,Man City U18,-,Transfer,in,Summer,NA,1993,1993/1994
+Manchester City,Jim Whitley,18,midfield,Man City U18,-,Transfer,in,Summer,NA,1993,1993/1994
+Manchester City,Martyn Margetson,22,Goalkeeper,Bolton,"End of loanMay 1, 1994",Loan,in,Summer,NA,1993,1993/1994
+Manchester City,Adrian Mike,20,attack,Linköpings FF,"End of loanMay 31, 1994",Loan,in,Summer,NA,1993,1993/1994
+Manchester City,Peter Reid,37,Defensive Midfield,Southampton,free transfer,Transfer,out,Summer,0,1993,1993/1994
+Manchester City,Kare Ingebrigtsen,27,Defensive Midfield,Rosenborg,?,Transfer,out,Summer,NA,1993,1993/1994
+Manchester City,Ray Ranson,33,Right-Back,Reading,?,Transfer,out,Summer,NA,1993,1993/1994
+Manchester City,Rick Holden,28,Left Midfield,Oldham Athletic,?,Transfer,out,Summer,NA,1993,1993/1994
+Manchester City,Adrian Mike,19,attack,Linköpings FF,loan transfer,Loan,out,Summer,NA,1993,1993/1994
+Southampton FC,Paul Allen,30,Right Midfield,Spurs,€660Th.,Transfer,in,Summer,0.66,1993,1993/1994
+Southampton FC,Simon Charlton,21,Left-Back,Huddersfield,€350Th.,Transfer,in,Summer,0.35,1993,1993/1994
+Southampton FC,Peter Reid,37,Defensive Midfield,Man City,free transfer,Transfer,in,Summer,0,1993,1993/1994
+Southampton FC,Derek Allan,18,Centre-Back,Ayr United,?,Transfer,in,Summer,NA,1993,1993/1994
+Southampton FC,Colin Cramb,19,Centre-Forward,Hamilton Acad.,?,Transfer,in,Summer,NA,1993,1993/1994
+Southampton FC,Matthew Robinson,18,Left-Back,Southampton U18,-,Transfer,in,Summer,NA,1993,1993/1994
+Southampton FC,Rory Hamill,17,Centre-Forward,Coleraine U20,-,Transfer,in,Summer,NA,1993,1993/1994
+Southampton FC,Kevin Moore,35,defence,Bristol Rovers,"End of loanJun 30, 1993",Loan,in,Summer,NA,1993,1993/1994
+Southampton FC,Micky Adams,32,Left-Back,Stoke City,"End of loanMay 1, 1994",Loan,in,Summer,NA,1993,1993/1994
+Southampton FC,David Speedie,33,Centre-Forward,Leicester,?,Transfer,out,Summer,NA,1993,1993/1994
+Southampton FC,Stuart Gray,33,Central Midfield,Retired,-,Transfer,out,Summer,NA,1993,1993/1994
+Blackburn Rovers,Paul Warhurst,23,Centre-Back,Sheff Wed,€3.75m,Transfer,in,Summer,3.75,1993,1993/1994
+Blackburn Rovers,Ian Pearce,19,Centre-Back,Chelsea,€450Th.,Transfer,in,Summer,0.45,1993,1993/1994
+Blackburn Rovers,Kevin Gallacher,26,Right Winger,Coventry,?,Transfer,in,Summer,NA,1993,1993/1994
+Blackburn Rovers,Andy Morrison,22,Centre-Back,Plymouth,?,Transfer,in,Summer,NA,1993,1993/1994
+Blackburn Rovers,Simon Ireland,22,midfield,Mansfield Town,"End of loanMay 31, 1994",Loan,in,Summer,NA,1993,1993/1994
+Blackburn Rovers,Tony Dobson,24,midfield,Portsmouth,€188Th.,Transfer,out,Summer,0.188,1993,1993/1994
+Blackburn Rovers,Gordon Cowans,34,midfield,Aston Villa,free transfer,Transfer,out,Summer,0,1993,1993/1994
+Blackburn Rovers,Wayne Burnett,21,midfield,Plymouth,?,Transfer,out,Summer,NA,1993,1993/1994
+Blackburn Rovers,Mickey Evans,20,Centre-Forward,Plymouth,"End of loanJun 30, 1993",Loan,out,Summer,NA,1993,1993/1994
+Tottenham Hotspur,Jason Dozzell,25,Central Midfield,Ipswich,€2.40m,Transfer,in,Summer,2.4,1993,1993/1994
+Tottenham Hotspur,David Kerslake,27,Right-Back,Leeds,€563Th.,Transfer,in,Summer,0.563,1993,1993/1994
+Tottenham Hotspur,Colin Calderwood,28,Centre-Back,Swindon Town,?,Transfer,in,Summer,NA,1993,1993/1994
+Tottenham Hotspur,Garry Brady,16,Central Midfield,Celtic Boys Club,?,Transfer,in,Summer,NA,1993,1993/1994
+Tottenham Hotspur,Andy Quy,16,Goalkeeper,Spurs U18,-,Transfer,in,Summer,NA,1993,1993/1994
+Tottenham Hotspur,Ijah Anderson,17,Left-Back,Spurs U18,-,Transfer,in,Summer,NA,1993,1993/1994
+Tottenham Hotspur,Stephen Carr,16,Right-Back,Spurs U18,-,Transfer,in,Summer,NA,1993,1993/1994
+Tottenham Hotspur,Paul Mahorn,20,attack,Fulham,"End of loanMay 31, 1994",Loan,in,Summer,NA,1993,1993/1994
+Tottenham Hotspur,John Hendry,23,Centre-Forward,Charlton,"End of loanJun 30, 1993",Loan,in,Summer,NA,1993,1993/1994
+Tottenham Hotspur,Peter Beadle,22,attack,Southend United,"End of loanMay 31, 1994",Loan,in,Summer,NA,1993,1993/1994
+Tottenham Hotspur,Stephen Robinson,19,Attacking Midfield,Leyton Orient,"End of loanMay 1, 1994",Loan,in,Summer,NA,1993,1993/1994
+Tottenham Hotspur,Neil Ruddock,25,Centre-Back,Liverpool,€3.00m,Transfer,out,Summer,3,1993,1993/1994
+Tottenham Hotspur,Gordon Durie,27,Centre-Forward,Rangers,€1.80m,Transfer,out,Summer,1.8,1993,1993/1994
+Tottenham Hotspur,Steve Sedgley,26,Central Midfield,Ipswich,€1.25m,Transfer,out,Summer,1.25,1993,1993/1994
+Tottenham Hotspur,Paul Allen,30,Right Midfield,Southampton,€660Th.,Transfer,out,Summer,0.66,1993,1993/1994
+Tottenham Hotspur,Nayim,26,Right Midfield,Real Zaragoza,€300Th.,Transfer,out,Summer,0.3,1993,1993/1994
+Tottenham Hotspur,Ian Hendon,21,Centre-Back,Leyton Orient,€65Th.,Transfer,out,Summer,0.065,1993,1993/1994
+Tottenham Hotspur,Kevin Dearden,23,Goalkeeper,Brentford,free transfer,Transfer,out,Summer,0,1993,1993/1994
+Tottenham Hotspur,Ijah Anderson,18,Left-Back,Southend United,free transfer,Transfer,out,Summer,0,1993,1993/1994
+Tottenham Hotspur,David McDonald,22,defence,Peterborough,free transfer,Transfer,out,Summer,0,1993,1993/1994
+Tottenham Hotspur,Pat van den Hauwe,32,Left-Back,Millwall,free transfer,Transfer,out,Summer,0,1993,1993/1994
+Tottenham Hotspur,Kevin Watson,19,Central Midfield,Brentford,free transfer,Transfer,out,Summer,0,1993,1993/1994
+Tottenham Hotspur,Paul Mahorn,20,attack,Fulham,loan transfer,Loan,out,Summer,NA,1993,1993/1994
+Tottenham Hotspur,Dave Tuttle,21,defence,Sheff Utd,?,Transfer,out,Summer,NA,1993,1993/1994
+Tottenham Hotspur,Terry Fenwick,33,Centre-Back,Swindon Town,?,Transfer,out,Summer,NA,1993,1993/1994
+Tottenham Hotspur,Andy Gray,30,Central Midfield,Atl. Marbella,?,Transfer,out,Summer,NA,1993,1993/1994
+Tottenham Hotspur,Gudni Bergsson,28,Centre-Back,Valur,loan transfer,Loan,out,Summer,NA,1993,1993/1994
+Liverpool FC,Neil Ruddock,25,Centre-Back,Spurs,€3.00m,Transfer,in,Summer,3,1993,1993/1994
+Liverpool FC,Nigel Clough,27,Attacking Midfield,Nottm Forest,€2.75m,Transfer,in,Summer,2.75,1993,1993/1994
+Liverpool FC,Julian Dicks,25,Left-Back,West Ham,€2.25m,Transfer,in,Summer,2.25,1993,1993/1994
+Liverpool FC,Robbie Fowler,18,Centre-Forward,Liverpool U18,-,Transfer,in,Summer,NA,1993,1993/1994
+Liverpool FC,Steve Harkness,22,Left-Back,Huddersfield,"End of loanOct 25, 1993",Loan,in,Summer,NA,1993,1993/1994
+Liverpool FC,Paul Stewart,29,Defensive Midfield,Crystal Palace,"End of loanMay 31, 1994",Loan,in,Summer,NA,1993,1993/1994
+Liverpool FC,Mark Walters,29,Left Midfield,Stoke City,"End of loanMay 31, 1994",Loan,in,Summer,NA,1993,1993/1994
+Liverpool FC,Lee Jones,21,Centre-Forward,Crewe Alexandra,"End of loanMay 31, 1994",Loan,in,Summer,NA,1993,1993/1994
+Liverpool FC,Mike Hooper,29,Goalkeeper,Newcastle,€628Th.,Transfer,out,Summer,0.628,1993,1993/1994
+Liverpool FC,István Kozma,28,Attacking Midfield,Újpest,free transfer,Transfer,out,Summer,0,1993,1993/1994
+Liverpool FC,Mike Marsh,24,Central Midfield,West Ham,free transfer,Transfer,out,Summer,0,1993,1993/1994
+Liverpool FC,Steve Harkness,22,Left-Back,Huddersfield,loan transfer,Loan,out,Summer,NA,1993,1993/1994
+Liverpool FC,David Burrows,24,Left-Back,West Ham,?,Transfer,out,Summer,NA,1993,1993/1994
+Liverpool FC,Lee Jones,20,Centre-Forward,Crewe Alexandra,loan transfer,Loan,out,Summer,NA,1993,1993/1994
+Everton FC,Graham Stuart,22,Attacking Midfield,Chelsea,€1.28m,Transfer,in,Summer,1.28,1993,1993/1994
+Everton FC,Brett Angell,25,Centre-Forward,Southend United,loan transfer,Loan,in,Summer,NA,1993,1993/1994
+Everton FC,Paul Holmes,25,midfield,Birmingham,?,Transfer,in,Summer,NA,1993,1993/1994
+Everton FC,Tony Grant,18,Defensive Midfield,Everton U18,-,Transfer,in,Summer,NA,1993,1993/1994
+Everton FC,Peter Beardsley,32,Second Striker,Newcastle,€1.70m,Transfer,out,Summer,1.7,1993,1993/1994
+Everton FC,Mo Johnston,30,Centre-Forward,Heart of Midl.,free transfer,Transfer,out,Summer,0,1993,1993/1994
+Everton FC,Alan Harper,32,Centre-Back,Luton,free transfer,Transfer,out,Summer,0,1993,1993/1994
+Everton FC,Iain Jenkins,20,Right-Back,Chester City,?,Transfer,out,Summer,NA,1993,1993/1994
+Everton FC,Brett Angell,25,Centre-Forward,Southend United,"End of loanSep 1, 1993",Loan,out,Summer,NA,1993,1993/1994
+Aston Villa,Scott Murray,19,Right Midfield,Fraserburgh,€50Th.,Transfer,in,Winter,0.05,1993,1993/1994
+Aston Villa,Gordon Cowans,35,midfield,Derby,€230Th.,Transfer,out,Winter,0.23,1993,1993/1994
+Aston Villa,Michael Oakes,20,Goalkeeper,Scarborough Athletic,loan transfer,Loan,out,Winter,NA,1993,1993/1994
+Aston Villa,Frank McAvennie,34,Centre-Forward,Celtic,?,Transfer,out,Winter,NA,1993,1993/1994
+Aston Villa,Lee Williams,21,midfield,Peterborough,?,Transfer,out,Winter,NA,1993,1993/1994
+Aston Villa,Guy Whittingham,29,Centre-Forward,Wolves,loan transfer,Loan,out,Winter,NA,1993,1993/1994
+Aston Villa,Dariusz Kubicki,30,Right-Back,Sunderland,loan transfer,Loan,out,Winter,NA,1993,1993/1994
+Aston Villa,Graham Fenton,19,Second Striker,West Brom,loan transfer,Loan,out,Winter,NA,1993,1993/1994
+Norwich City,Neil Adams,28,Right-Back,Oldham Athletic,€375Th.,Transfer,in,Winter,0.375,1993,1993/1994
+Norwich City,Mark Walton,24,Goalkeeper,Dundee United,"End of loanDec 31, 1993",Loan,in,Winter,NA,1993,1993/1994
+Norwich City,Lee Power,21,Centre-Forward,Portsmouth,"End of loanMar 7, 1994",Loan,in,Winter,NA,1993,1993/1994
+Norwich City,Ade Akinbiyi,19,Centre-Forward,Hereford Utd.,"End of loanFeb 1, 1994",Loan,in,Winter,NA,1993,1993/1994
+Norwich City,Ruel Fox,26,Right Winger,Newcastle,€2.50m,Transfer,out,Winter,2.5,1993,1993/1994
+Norwich City,Lee Power,21,Centre-Forward,Bradford,€200Th.,Transfer,out,Winter,0.2,1993,1993/1994
+Norwich City,Deryn Brace,19,Left-Back,Wrexham,free transfer,Transfer,out,Winter,0,1993,1993/1994
+Norwich City,Ade Akinbiyi,19,Centre-Forward,Hereford Utd.,loan transfer,Loan,out,Winter,NA,1993,1993/1994
+Norwich City,Mark Walton,24,Goalkeeper,Bolton,?,Transfer,out,Winter,NA,1993,1993/1994
+Norwich City,Mark Walton,24,Goalkeeper,Dundee United,loan transfer,Loan,out,Winter,NA,1993,1993/1994
+Oldham Athletic,Sean McCarthy,26,attack,Bradford,€628Th.,Transfer,in,Winter,0.628,1993,1993/1994
+Oldham Athletic,Tore Pedersen,24,Centre-Back,Brann,?,Transfer,in,Winter,NA,1993,1993/1994
+Oldham Athletic,Neil Adams,28,Right-Back,Norwich,€375Th.,Transfer,out,Winter,0.375,1993,1993/1994
+Oldham Athletic,Neil Tolson,20,Centre-Forward,Bradford,?,Transfer,out,Winter,NA,1993,1993/1994
+Oldham Athletic,Gunnar Halle,28,Right-Back,Lillestrøm,loan transfer,Loan,out,Winter,NA,1993,1993/1994
+Oldham Athletic,Andy Barlow,27,Left-Back,Bradford,loan transfer,Loan,out,Winter,NA,1993,1993/1994
+Queens Park Rangers,Danny Dichio,19,Centre-Forward,Barnet,"End of loanFeb 1, 1994",Loan,in,Winter,NA,1993,1993/1994
+Queens Park Rangers,Alan McCarthy,22,defence,Watford,"End of loanFeb 10, 1994",Loan,in,Winter,NA,1993,1993/1994
+Queens Park Rangers,Dennis Bailey,28,attack,Charlton,"End of loanDec 31, 1993",Loan,in,Winter,NA,1993,1993/1994
+Queens Park Rangers,Alan McCarthy,21,defence,Watford,loan transfer,Loan,out,Winter,NA,1993,1993/1994
+Queens Park Rangers,Alan McCarthy,22,defence,Plymouth,loan transfer,Loan,out,Winter,NA,1993,1993/1994
+Queens Park Rangers,Dennis Bailey,28,attack,Watford,loan transfer,Loan,out,Winter,NA,1993,1993/1994
+Queens Park Rangers,Robbie Herrera,23,Left-Back,Fulham,€48Th.,Transfer,out,Winter,0.048,1993,1993/1994
+Sheffield Wednesday,Simon Coleman,25,Centre-Back,Derby,€382Th.,Transfer,in,Winter,0.382,1993,1993/1994
+Wimbledon FC,Marcus Gayle,23,Centre-Forward,Brentford,€375Th.,Transfer,in,Winter,0.375,1993,1993/1994
+Wimbledon FC,Greg Berry,23,midfield,Millwall,€250Th.,Transfer,out,Winter,0.25,1993,1993/1994
+Wimbledon FC,Aidan Newhouse,21,attack,Port Vale,loan transfer,Loan,out,Winter,NA,1993,1993/1994
+Wimbledon FC,Justin Skinner,21,Left-Back,Bournemouth,loan transfer,Loan,out,Winter,NA,1993,1993/1994
+Wimbledon FC,Perry Digweed,34,Goalkeeper,Watford,?,Transfer,out,Winter,NA,1993,1993/1994
+Wimbledon FC,Steve Anthrobus,25,Centre-Forward,Peterborough,loan transfer,Loan,out,Winter,NA,1993,1993/1994
+Coventry City,Chris Marsden,24,Left Midfield,Huddersfield,loan transfer,Loan,in,Winter,NA,1993,1993/1994
+Coventry City,Paul Williams,24,defence,West Brom,"End of loanDec 31, 1993",Loan,in,Winter,NA,1993,1993/1994
+Coventry City,Paul Williams,24,defence,West Brom,loan transfer,Loan,out,Winter,NA,1993,1993/1994
+Coventry City,Zbigniew Kruszyński,33,midfield,Peterborough,?,Transfer,out,Winter,NA,1993,1993/1994
+Coventry City,Chris Marsden,25,Left Midfield,Huddersfield,"End of loanJan 10, 1994",Loan,out,Winter,NA,1993,1993/1994
+Manchester United,Ben Thornley,18,Left Winger,Man Utd Res.,-,Transfer,in,Winter,NA,1993,1993/1994
+Manchester United,Keith Gillespie,18,Right Midfield,Wigan,"End of loanNov 1, 1993",Loan,in,Winter,NA,1993,1993/1994
+Manchester United,Neil Whitworth,21,Centre-Back,Rotherham,"End of loanNov 6, 1993",Loan,in,Winter,NA,1993,1993/1994
+Manchester United,Simon Davies,19,midfield,Exeter City,"End of loanDec 31, 1993",Loan,in,Winter,NA,1993,1993/1994
+Manchester United,Darren Ferguson,21,Central Midfield,Wolves,€375Th.,Transfer,out,Winter,0.375,1993,1993/1994
+Manchester United,Neil Whitworth,21,Centre-Back,Blackpool,loan transfer,Loan,out,Winter,NA,1993,1993/1994
+Manchester United,Lee Martin,25,Left-Back,Celtic,?,Transfer,out,Winter,NA,1993,1993/1994
+Manchester United,Simon Davies,19,midfield,Exeter City,loan transfer,Loan,out,Winter,NA,1993,1993/1994
+Newcastle United,Ruel Fox,26,Right Winger,Norwich,€2.50m,Transfer,in,Winter,2.5,1993,1993/1994
+Newcastle United,Chris Holland,18,Central Midfield,Preston,€119Th.,Transfer,in,Winter,0.119,1993,1993/1994
+Newcastle United,Brian Reid,23,Centre-Back,Rangers,loan transfer,Loan,in,Winter,NA,1993,1993/1994
+Newcastle United,Kevin Brock,31,midfield,Cardiff,"End of loanApr 26, 1994",Loan,in,Winter,NA,1993,1993/1994
+Newcastle United,Kevin Scott,27,Centre-Back,Spurs,€1.10m,Transfer,out,Winter,1.1,1993,1993/1994
+Newcastle United,Brian Kilcline,31,Centre-Back,Swindon Town,€113Th.,Transfer,out,Winter,0.113,1993,1993/1994
+Newcastle United,Matty Appleby,21,Defensive Midfield,Darlington,loan transfer,Loan,out,Winter,NA,1993,1993/1994
+Newcastle United,Kevin Brock,31,midfield,Cardiff,loan transfer,Loan,out,Winter,NA,1993,1993/1994
+Ipswich Town,Neil Gregory,21,Centre-Forward,Chesterfield FC,loan transfer,Loan,out,Winter,NA,1993,1993/1994
+Ipswich Town,Steve Whitton,33,Right Winger,Colchester Utd.,€13Th.,Transfer,out,Winter,0.013,1993,1993/1994
+Chelsea FC,Dave Beasant,34,Goalkeeper,Southampton,€380Th.,Transfer,out,Winter,0.38,1993,1993/1994
+Chelsea FC,Damian Matthew,23,Central Midfield,Crystal Palace,€187Th.,Transfer,out,Winter,0.187,1993,1993/1994
+Arsenal FC,Paul Dickov,21,Centre-Forward,Luton,"End of loanDec 1, 1993",Loan,in,Winter,NA,1993,1993/1994
+Arsenal FC,Anders Limpar,28,Attacking Midfield,Everton,€1.90m,Transfer,out,Winter,1.9,1993,1993/1994
+Arsenal FC,Neil Heaney,22,Right Winger,Southampton,€380Th.,Transfer,out,Winter,0.38,1993,1993/1994
+Arsenal FC,Paul Dickov,21,Centre-Forward,Brighton,loan transfer,Loan,out,Winter,NA,1993,1993/1994
+Arsenal FC,Pal Lydersen,28,Left-Back,IK Start,?,Transfer,out,Winter,NA,1993,1993/1994
+Leeds United,John Pemberton,28,Centre-Back,Sheff Utd,€313Th.,Transfer,in,Winter,0.313,1993,1993/1994
+Leeds United,David White,26,Right Winger,Man City,?,Transfer,in,Winter,NA,1993,1993/1994
+Leeds United,David Batty,25,Defensive Midfield,Blackburn,€3.78m,Transfer,out,Winter,3.78,1993,1993/1994
+Leeds United,David Rocastle,26,Attacking Midfield,Man City,€2.40m,Transfer,out,Winter,2.4,1993,1993/1994
+Leeds United,Frank Strandli,21,Centre-Forward,Brann,€150Th.,Transfer,out,Winter,0.15,1993,1993/1994
+Leeds United,Mel Sterland,32,Right-Back,Boston Utd,?,Transfer,out,Winter,NA,1993,1993/1994
+Leeds United,Ray Wallace,24,Right-Back,Reading,loan transfer,Loan,out,Winter,NA,1993,1993/1994
+West Ham United,Gary Kelly,27,Goalkeeper,Bury,loan transfer,Loan,in,Winter,NA,1993,1993/1994
+West Ham United,Malcolm McPherson,19,Centre-Forward,Yeovil Town,€36Th.,Transfer,in,Winter,0.036,1993,1993/1994
+West Ham United,Paul Mitchell,22,Central Midfield,Bournemouth,?,Transfer,in,Winter,NA,1993,1993/1994
+West Ham United,Colin Foster,29,Centre-Back,Notts County,"End of loanMar 22, 1994",Loan,in,Winter,NA,1993,1993/1994
+West Ham United,Mark Robson,24,midfield,Charlton,€155Th.,Transfer,out,Winter,0.155,1993,1993/1994
+West Ham United,Colin Foster,29,Centre-Back,Watford,€125Th.,Transfer,out,Winter,0.125,1993,1993/1994
+West Ham United,Clive Allen,32,Centre-Forward,Millwall,€85Th.,Transfer,out,Winter,0.085,1993,1993/1994
+West Ham United,Paul Marquis,21,Centre-Back,Doncaster,free transfer,Transfer,out,Winter,0,1993,1993/1994
+West Ham United,Mitchell Thomas,29,Left-Back,Luton,free transfer,Transfer,out,Winter,0,1993,1993/1994
+West Ham United,Mike Small,31,Centre-Forward,Häcken,free transfer,Transfer,out,Winter,0,1993,1993/1994
+West Ham United,Colin Foster,29,Centre-Back,Notts County,loan transfer,Loan,out,Winter,NA,1993,1993/1994
+West Ham United,Matthew Rush,22,midfield,Swansea,loan transfer,Loan,out,Winter,NA,1993,1993/1994
+West Ham United,Jeroen Boere,26,Centre-Forward,Portsmouth,loan transfer,Loan,out,Winter,NA,1993,1993/1994
+Swindon Town,Brian Kilcline,31,Centre-Back,Newcastle,€113Th.,Transfer,in,Winter,0.113,1993,1993/1994
+Swindon Town,Paul Heald,25,Goalkeeper,Leyton Orient,loan transfer,Loan,in,Winter,NA,1993,1993/1994
+Swindon Town,Craig Maskell,25,Centre-Forward,Southampton,€350Th.,Transfer,out,Winter,0.35,1993,1993/1994
+Swindon Town,Micky Hazard,33,Central Midfield,Spurs,€55Th.,Transfer,out,Winter,0.055,1993,1993/1994
+Sheffield United,Nathan Blake,21,Centre-Forward,Cardiff,€420Th.,Transfer,in,Winter,0.42,1993,1993/1994
+Sheffield United,Bobby Davison,34,attack,Leicester,free transfer,Transfer,in,Winter,0,1993,1993/1994
+Sheffield United,Roger Nilsen,24,Centre-Back,Viking FK,?,Transfer,in,Winter,NA,1993,1993/1994
+Sheffield United,Tom Cowan,24,Left-Back,Stoke City,?,Transfer,in,Winter,NA,1993,1993/1994
+Sheffield United,Carl Muggleton,25,Goalkeeper,Leicester,loan transfer,Loan,in,Winter,NA,1993,1993/1994
+Sheffield United,John Pemberton,28,Centre-Back,Leeds,€313Th.,Transfer,out,Winter,0.313,1993,1993/1994
+Sheffield United,Jamie Hoyland,28,midfield,Bristol City,loan transfer,Loan,out,Winter,NA,1993,1993/1994
+Sheffield United,Willie Falconer,27,Centre-Forward,Celtic,?,Transfer,out,Winter,NA,1993,1993/1994
+Sheffield United,John Gannon,26,midfield,Middlesbrough,loan transfer,Loan,out,Winter,NA,1993,1993/1994
+Sheffield United,Carl Muggleton,25,Goalkeeper,Leicester,"End of loanJan 10, 1994",Loan,out,Winter,NA,1993,1993/1994
+Manchester City,David Rocastle,26,Attacking Midfield,Leeds,€2.40m,Transfer,in,Winter,2.4,1993,1993/1994
+Manchester City,Uwe Rösler,25,Centre-Forward,1.FC Nuremberg,€1.00m,Transfer,in,Winter,1,1993,1993/1994
+Manchester City,Paul Walsh,31,Centre-Forward,Portsmouth,€850Th.,Transfer,in,Winter,0.85,1993,1993/1994
+Manchester City,Steffen Karl,23,Defensive Midfield,Bor. Dortmund,free transfer,Transfer,in,Winter,0,1993,1993/1994
+Manchester City,Peter Beagrie,28,Left Winger,Everton,?,Transfer,in,Winter,NA,1993,1993/1994
+Manchester City,Carl-Steven Shutt,32,attack,Birmingham,?,Transfer,in,Winter,NA,1993,1993/1994
+Manchester City,Martyn Margetson,22,Goalkeeper,Bristol Rovers,"End of loanDec 31, 1993",Loan,in,Winter,NA,1993,1993/1994
+Manchester City,Martyn Margetson,22,Goalkeeper,Bristol Rovers,loan transfer,Loan,out,Winter,NA,1993,1993/1994
+Manchester City,Martyn Margetson,22,Goalkeeper,Bolton,loan transfer,Loan,out,Winter,NA,1993,1993/1994
+Manchester City,David White,26,Right Winger,Leeds,?,Transfer,out,Winter,NA,1993,1993/1994
+Southampton FC,Jim Magilton,24,Right Midfield,Oxford United,€800Th.,Transfer,in,Winter,0.8,1993,1993/1994
+Southampton FC,Neil Heaney,22,Right Winger,Arsenal,€380Th.,Transfer,in,Winter,0.38,1993,1993/1994
+Southampton FC,Dave Beasant,34,Goalkeeper,Chelsea,€380Th.,Transfer,in,Winter,0.38,1993,1993/1994
+Southampton FC,Craig Maskell,25,Centre-Forward,Swindon Town,€350Th.,Transfer,in,Winter,0.35,1993,1993/1994
+Southampton FC,Tim Flowers,26,Goalkeeper,Blackburn,€3.80m,Transfer,out,Winter,3.8,1993,1993/1994
+Southampton FC,Paul Moody,26,Centre-Forward,Oxford United,€70Th.,Transfer,out,Winter,0.07,1993,1993/1994
+Southampton FC,Peter Reid,37,Defensive Midfield,Notts County,free transfer,Transfer,out,Winter,0,1993,1993/1994
+Southampton FC,Micky Adams,32,Left-Back,Stoke City,loan transfer,Loan,out,Winter,NA,1993,1993/1994
+Southampton FC,Perry Groves,28,Left Winger,Dag & Red FC,?,Transfer,out,Winter,NA,1993,1993/1994
+Southampton FC,Glenn Cockerill,34,Central Midfield,Leyton Orient,?,Transfer,out,Winter,NA,1993,1993/1994
+Southampton FC,Oleksiy Cherednyk,33,Defensive Midfield,Chornomorets,?,Transfer,out,Winter,NA,1993,1993/1994
+Blackburn Rovers,Tim Flowers,26,Goalkeeper,Southampton,€3.80m,Transfer,in,Winter,3.8,1993,1993/1994
+Blackburn Rovers,David Batty,25,Defensive Midfield,Leeds,€3.78m,Transfer,in,Winter,3.78,1993,1993/1994
+Blackburn Rovers,Peter Thorne,20,Centre-Forward,Wigan,"End of loanMar 1, 1994",Loan,in,Winter,NA,1993,1993/1994
+Blackburn Rovers,Patrik Andersson,22,Centre-Back,Bor. M'gladbach,€550Th.,Transfer,out,Winter,0.55,1993,1993/1994
+Blackburn Rovers,Peter Thorne,20,Centre-Forward,Wigan,loan transfer,Loan,out,Winter,NA,1993,1993/1994
+Blackburn Rovers,Simon Ireland,22,midfield,Mansfield Town,loan transfer,Loan,out,Winter,NA,1993,1993/1994
+Tottenham Hotspur,Kevin Scott,27,Centre-Back,Newcastle,€1.10m,Transfer,in,Winter,1.1,1993,1993/1994
+Tottenham Hotspur,Ronny Rosenthal,30,Left Winger,Liverpool,€300Th.,Transfer,in,Winter,0.3,1993,1993/1994
+Tottenham Hotspur,Micky Hazard,33,Central Midfield,Swindon Town,€55Th.,Transfer,in,Winter,0.055,1993,1993/1994
+Tottenham Hotspur,Chris Day,18,Goalkeeper,Spurs U18,-,Transfer,in,Winter,NA,1993,1993/1994
+Tottenham Hotspur,Lee Hodges,20,Left Midfield,Wycombe,"End of loanJan 17, 1994",Loan,in,Winter,NA,1993,1993/1994
+Tottenham Hotspur,Stephen Robinson,19,Attacking Midfield,Leyton Orient,loan transfer,Loan,out,Winter,NA,1993,1993/1994
+Tottenham Hotspur,Lee Hodges,20,Left Midfield,Wycombe,loan transfer,Loan,out,Winter,NA,1993,1993/1994
+Tottenham Hotspur,Peter Beadle,21,attack,Southend United,loan transfer,Loan,out,Winter,NA,1993,1993/1994
+Liverpool FC,Mark Gayle,24,Goalkeeper,Crewe Alexandra,loan transfer,Loan,in,Winter,NA,1993,1993/1994
+Liverpool FC,Ronny Rosenthal,30,Left Winger,Spurs,€300Th.,Transfer,out,Winter,0.3,1993,1993/1994
+Liverpool FC,Paul Stewart,29,Defensive Midfield,Crystal Palace,loan transfer,Loan,out,Winter,NA,1993,1993/1994
+Liverpool FC,Mark Walters,29,Left Midfield,Stoke City,loan transfer,Loan,out,Winter,NA,1993,1993/1994
+Liverpool FC,Stig Inge Björnebye,24,Left-Back,Rosenborg,loan transfer,Loan,out,Winter,NA,1993,1993/1994
+Liverpool FC,Nick Tanner,28,Centre-Back,Retired,-,Transfer,out,Winter,NA,1993,1993/1994
+Liverpool FC,Mark Gayle,24,Goalkeeper,Crewe Alexandra,"End of loanMar 25, 1994",Loan,out,Winter,NA,1993,1993/1994
+Everton FC,Anders Limpar,28,Attacking Midfield,Arsenal,€1.90m,Transfer,in,Winter,1.9,1993,1993/1994
+Everton FC,Brett Angell,25,Centre-Forward,Southend United,€500Th.,Transfer,in,Winter,0.5,1993,1993/1994
+Everton FC,Joe Parkinson,22,midfield,Bournemouth,€375Th.,Transfer,in,Winter,0.375,1993,1993/1994
+Everton FC,Brett Angell,25,Centre-Forward,Southend United,loan transfer,Loan,in,Winter,NA,1993,1993/1994
+Everton FC,Peter Beagrie,28,Left Winger,Man City,?,Transfer,out,Winter,NA,1993,1993/1994
+Everton FC,Billy Kenny,20,midfield,Unknown,?,Transfer,out,Winter,NA,1993,1993/1994
+Everton FC,Brett Angell,25,Centre-Forward,Southend United,"End of loanDec 31, 1993",Loan,out,Winter,NA,1993,1993/1994

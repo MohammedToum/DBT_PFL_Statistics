@@ -1,0 +1,542 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_type,transfer_movement,transfer_period,fee_cleaned,year,season
+Aston Villa,Sasa Curcic,24,Defensive Midfield,Bolton,€6.00m,Transfer,in,Summer,6,1996,1996/1997
+Aston Villa,Julian Joachim,21,Centre-Forward,Leicester,€2.10m,Transfer,in,Summer,2.1,1996,1996/1997
+Aston Villa,Nélson,24,Right-Back,Sporting CP,?,Transfer,in,Summer,NA,1996,1996/1997
+Aston Villa,David Hughes,18,Left-Back,Aston Villa U18,-,Transfer,in,Summer,NA,1996,1996/1997
+Aston Villa,Adam Rachel,19,Goalkeeper,Aston Villa U18,-,Transfer,in,Summer,NA,1996,1996/1997
+Aston Villa,Phil King,28,Left-Back,West Brom,"End of loanJun 30, 1996",Loan,in,Summer,NA,1996,1996/1997
+Aston Villa,Paul McGrath,36,Centre-Back,Derby,€125Th.,Transfer,out,Summer,0.125,1996,1996/1997
+Aston Villa,Franz Carr,30,Right Winger,Reggiana,free transfer,Transfer,out,Summer,0,1996,1996/1997
+Aston Villa,Neil Davis,23,attack,Wycombe,loan transfer,Loan,out,Summer,NA,1996,1996/1997
+Aston Villa,Paul Browne,21,Centre-Back,Raith Rovers,?,Transfer,out,Summer,NA,1996,1996/1997
+Sheffield Wednesday,Andy Booth,22,Centre-Forward,Huddersfield,€3.90m,Transfer,in,Summer,3.9,1996,1996/1997
+Sheffield Wednesday,Patrick Blondeau,29,Right-Back,Monaco,€2.60m,Transfer,in,Summer,2.6,1996,1996/1997
+Sheffield Wednesday,Wayne Collins,27,Central Midfield,Crewe Alexandra,€900Th.,Transfer,in,Summer,0.9,1996,1996/1997
+Sheffield Wednesday,Scott Oakes,NA,attack,Luton,€640Th.,Transfer,in,Summer,0.64,1996,1996/1997
+Sheffield Wednesday,Matt Clarke,22,Goalkeeper,Rotherham,€400Th.,Transfer,in,Summer,0.4,1996,1996/1997
+Sheffield Wednesday,Benny Carbone,25,Second Striker,Inter,?,Transfer,in,Summer,NA,1996,1996/1997
+Sheffield Wednesday,Orlando Trustfull,25,Defensive Midfield,Feyenoord,?,Transfer,in,Summer,NA,1996,1996/1997
+Sheffield Wednesday,Mike Williams,26,attack,Huddersfield,"End of loanOct 26, 1996",Loan,in,Summer,NA,1996,1996/1997
+Sheffield Wednesday,Simon Weaver,18,Centre-Back,Sheff Wed U18,-,Transfer,in,Summer,NA,1996,1996/1997
+Sheffield Wednesday,Ryan Anthony Jones,22,midfield,Scunthorpe Utd.,"End of loanJun 30, 1996",Loan,in,Summer,NA,1996,1996/1997
+Sheffield Wednesday,Richie Barker,21,Centre-Forward,Ards FC,"End of loanJun 1, 1996",Loan,in,Summer,NA,1996,1996/1997
+Sheffield Wednesday,Darko Kovacevic,22,Centre-Forward,Real Sociedad,€8.00m,Transfer,out,Summer,8,1996,1996/1997
+Sheffield Wednesday,Lance Key,28,Goalkeeper,Dundee United,free transfer,Transfer,out,Summer,0,1996,1996/1997
+Sheffield Wednesday,Marc Degryse,30,Centre-Forward,PSV Eindhoven,?,Transfer,out,Summer,NA,1996,1996/1997
+Sheffield Wednesday,Mike Williams,26,attack,Huddersfield,loan transfer,Loan,out,Summer,NA,1996,1996/1997
+Sheffield Wednesday,Chris Waddle,35,Attacking Midfield,Without Club,-,Transfer,out,Summer,NA,1996,1996/1997
+Leicester City,Kasey Keller,26,Goalkeeper,Millwall,€1.35m,Transfer,in,Summer,1.35,1996,1996/1997
+Leicester City,Muzzy Izzet,21,Attacking Midfield,Chelsea,€1.20m,Transfer,in,Summer,1.2,1996,1996/1997
+Leicester City,Ian Marshall,30,Centre-Forward,Ipswich,€1.20m,Transfer,in,Summer,1.2,1996,1996/1997
+Leicester City,Spencer Prior,25,Centre-Back,Norwich,€700Th.,Transfer,in,Summer,0.7,1996,1996/1997
+Leicester City,Sascha Lenhart,22,attack,Royal Antwerp,free transfer,Transfer,in,Summer,0,1996,1996/1997
+Leicester City,Stuart Campbell,18,Defensive Midfield,Leicester U18,-,Transfer,in,Summer,NA,1996,1996/1997
+Leicester City,Stuart Wilson,18,Attacking Midfield,Leicester U18,-,Transfer,in,Summer,NA,1996,1996/1997
+Leicester City,Julian Joachim,21,Centre-Forward,Aston Villa,€2.10m,Transfer,out,Summer,2.1,1996,1996/1997
+Leicester City,Iwan Roberts,28,Centre-Forward,Wolves,€1.49m,Transfer,out,Summer,1.49,1996,1996/1997
+Leicester City,Brian Carey,28,Centre-Back,Wrexham,€117Th.,Transfer,out,Summer,0.117,1996,1996/1997
+Leicester City,Neil Lewis,22,defence,Peterborough,€94Th.,Transfer,out,Summer,0.094,1996,1996/1997
+Leicester City,Mark Blake,25,midfield,Walsall,free transfer,Transfer,out,Summer,0,1996,1996/1997
+Leicester City,Mark Robins,26,Centre-Forward,FC Copenhagen,loan transfer,Loan,out,Summer,NA,1996,1996/1997
+Leicester City,Phil Gee,31,attack,Hednesford,?,Transfer,out,Summer,NA,1996,1996/1997
+Leicester City,Zeljko Kalac,23,Goalkeeper,Sydney United,?,Transfer,out,Summer,NA,1996,1996/1997
+Wimbledon FC,Ben Thatcher,20,Left-Back,Millwall,€2.64m,Transfer,in,Summer,2.64,1996,1996/1997
+Wimbledon FC,Duncan Jupp,21,Right-Back,Fulham,€240Th.,Transfer,in,Summer,0.24,1996,1996/1997
+Wimbledon FC,Peter Hawkins,17,Left-Back,Wimbledon U19,-,Transfer,in,Summer,NA,1996,1996/1997
+Wimbledon FC,Carl Cort,18,Centre-Forward,Wimbledon U19,-,Transfer,in,Summer,NA,1996,1996/1997
+Wimbledon FC,Damien Francis,17,Central Midfield,Wimbledon U19,-,Transfer,in,Summer,NA,1996,1996/1997
+Wimbledon FC,Gary Elkins,30,Left-Back,Swindon Town,€120Th.,Transfer,out,Summer,0.12,1996,1996/1997
+Wimbledon FC,Hans Segers,34,Goalkeeper,Wolves,free transfer,Transfer,out,Summer,0,1996,1996/1997
+Wimbledon FC,Justin Skinner,23,Left-Back,Aylesbury Utd.,?,Transfer,out,Summer,NA,1996,1996/1997
+Wimbledon FC,Grant Payne,20,attack,Woking,?,Transfer,out,Summer,NA,1996,1996/1997
+Wimbledon FC,Mark Thomas,21,midfield,Unknown,?,Transfer,out,Summer,NA,1996,1996/1997
+Wimbledon FC,Lenny Piper,18,midfield,Gillingham FC,?,Transfer,out,Summer,NA,1996,1996/1997
+Wimbledon FC,Steve Talboys,29,midfield,Watford,?,Transfer,out,Summer,NA,1996,1996/1997
+Wimbledon FC,Andy Thorn,29,Centre-Back,Heart of Midl.,?,Transfer,out,Summer,NA,1996,1996/1997
+Wimbledon FC,Gerald Dobbs,25,midfield,Dover Athletic,?,Transfer,out,Summer,NA,1996,1996/1997
+Wimbledon FC,Roger Joseph,30,defence,Chelsea,?,Transfer,out,Summer,NA,1996,1996/1997
+Wimbledon FC,Gary Blissett,32,Centre-Forward,Sembawang,?,Transfer,out,Summer,NA,1996,1996/1997
+Wimbledon FC,Danny Hodges,19,defence,Unknown,?,Transfer,out,Summer,NA,1996,1996/1997
+Wimbledon FC,John Cheesewright,23,Goalkeeper,Colchester Utd.,"End of loanJun 30, 1996",Loan,out,Summer,NA,1996,1996/1997
+Coventry City,Régis Genaux,22,Right-Back,Standard Liège,€1.05m,Transfer,in,Summer,1.05,1996,1996/1997
+Coventry City,Michael O'Neill,26,Attacking Midfield,Hibernian FC,€750Th.,Transfer,in,Summer,0.75,1996,1996/1997
+Coventry City,Gary McAllister,31,Central Midfield,Leeds,€250Th.,Transfer,in,Summer,0.25,1996,1996/1997
+Coventry City,Eoin Jess,25,Second Striker,Aberdeen FC,?,Transfer,in,Summer,NA,1996,1996/1997
+Coventry City,Simon Haworth,20,Centre-Forward,Cardiff,?,Transfer,in,Summer,NA,1996,1996/1997
+Coventry City,Craig Faulconbridge,18,Centre-Forward,Coventry U18,-,Transfer,in,Summer,NA,1996,1996/1997
+Coventry City,John Andrews,17,defence,Coventry U18,-,Transfer,in,Summer,NA,1996,1996/1997
+Coventry City,Steve Morgan,27,Left-Back,Bristol Rovers,"End of loanJun 30, 1996",Loan,in,Summer,NA,1996,1996/1997
+Coventry City,Paul Cook,29,Central Midfield,Tranmere Rovers,€500Th.,Transfer,out,Summer,0.5,1996,1996/1997
+Coventry City,Ally Pickering,29,defence,Stoke City,€350Th.,Transfer,out,Summer,0.35,1996,1996/1997
+Coventry City,Nii Lamptey,21,Attacking Midfield,AC Venezia 1907,free transfer,Transfer,out,Summer,0,1996,1996/1997
+Coventry City,Steve Morgan,27,Left-Back,Wigan,free transfer,Transfer,out,Summer,0,1996,1996/1997
+Coventry City,David Rennie,31,Defensive Midfield,Northampton,free transfer,Transfer,out,Summer,0,1996,1996/1997
+Coventry City,Eoin Jess,25,Second Striker,Aberdeen FC,?,Transfer,out,Summer,NA,1996,1996/1997
+Coventry City,Brian Borrows,35,Right-Back,Swindon Town,loan transfer,Loan,out,Summer,NA,1996,1996/1997
+Coventry City,David Busst,29,defence,Retired,-,Transfer,out,Summer,NA,1996,1996/1997
+Coventry City,Lee Hurst,25,midfield,Career break,-,Transfer,out,Summer,NA,1996,1996/1997
+Manchester United,Karel Poborsky,24,Right Midfield,Slavia Prague,€4.00m,Transfer,in,Summer,4,1996,1996/1997
+Manchester United,Ole Gunnar Solskjaer,23,Second Striker,Molde,€2.50m,Transfer,in,Summer,2.5,1996,1996/1997
+Manchester United,Jordi Cruyff,22,Attacking Midfield,Barcelona,€2.50m,Transfer,in,Summer,2.5,1996,1996/1997
+Manchester United,Ronny Johnsen,27,Centre-Back,Besiktas,€2.23m,Transfer,in,Summer,2.23,1996,1996/1997
+Manchester United,Raimond van der Gouw,33,Goalkeeper,Vitesse,free transfer,Transfer,in,Summer,0,1996,1996/1997
+Manchester United,Wes Brown,16,Centre-Back,Man Utd U18,-,Transfer,in,Summer,NA,1996,1996/1997
+Manchester United,Jon Macken,18,Centre-Forward,Man Utd U18,-,Transfer,in,Summer,NA,1996,1996/1997
+Manchester United,Robert Trees,18,Right Midfield,Man Utd U18,-,Transfer,in,Summer,NA,1996,1996/1997
+Manchester United,Stuart Brightwell,17,Right Midfield,Man Utd U18,-,Transfer,in,Summer,NA,1996,1996/1997
+Manchester United,Pat McGibbon,22,Centre-Back,Swansea,"End of loanSep 1, 1996",Loan,in,Summer,NA,1996,1996/1997
+Manchester United,Lee Sharpe,25,Left Midfield,Leeds,€6.75m,Transfer,out,Summer,6.75,1996,1996/1997
+Manchester United,Tony Coton,35,Goalkeeper,Sunderland,€675Th.,Transfer,out,Summer,0.675,1996,1996/1997
+Manchester United,Jovan Kirovski,20,Right Winger,Bor. Dortmund,free transfer,Transfer,out,Summer,0,1996,1996/1997
+Manchester United,Paul Parker,32,Right-Back,Derby,free transfer,Transfer,out,Summer,0,1996,1996/1997
+Manchester United,Jody Banim,18,attack,Trafford,free transfer,Transfer,out,Summer,0,1996,1996/1997
+Manchester United,Steve Bruce,35,Centre-Back,Birmingham,?,Transfer,out,Summer,NA,1996,1996/1997
+Manchester United,Pat McGibbon,22,Centre-Back,Swansea,loan transfer,Loan,out,Summer,NA,1996,1996/1997
+Manchester United,Simon Davies,22,midfield,Huddersfield,loan transfer,Loan,out,Summer,NA,1996,1996/1997
+Manchester United,John O'Kane,21,Right-Back,Bury,loan transfer,Loan,out,Summer,NA,1996,1996/1997
+Manchester United,Eric Cantona,30,Second Striker,Retired,-,Transfer,out,Summer,NA,1996,1996/1997
+Newcastle United,Alan Shearer,25,Centre-Forward,Blackburn,€18.00m,Transfer,in,Summer,18,1996,1996/1997
+Newcastle United,Aaron Hughes,16,Centre-Back,Newcastle U18,-,Transfer,in,Summer,NA,1996,1996/1997
+Newcastle United,Paul Arnison,18,Right-Back,Newcastle U18,-,Transfer,in,Summer,NA,1996,1996/1997
+Newcastle United,Stuart Elliott,18,midfield,Newcastle U18,-,Transfer,in,Summer,NA,1996,1996/1997
+Newcastle United,Chris Holland,21,Central Midfield,Birmingham,"End of loanOct 28, 1996",Loan,in,Summer,NA,1996,1996/1997
+Newcastle United,Darren Huckerby,20,Right Winger,Millwall,"End of loanOct 1, 1996",Loan,in,Summer,NA,1996,1996/1997
+Newcastle United,Lee Clark,23,Right Winger,Sunderland,€3.25m,Transfer,out,Summer,3.25,1996,1996/1997
+Newcastle United,Chris Holland,21,Central Midfield,Birmingham,€714Th.,Transfer,out,Summer,0.714,1996,1996/1997
+Newcastle United,Jim Crawford,23,Right Midfield,Rotherham,loan transfer,Loan,out,Summer,NA,1996,1996/1997
+Newcastle United,Chris Holland,20,Central Midfield,Birmingham,loan transfer,Loan,out,Summer,NA,1996,1996/1997
+Newcastle United,Darren Huckerby,20,Right Winger,Millwall,loan transfer,Loan,out,Summer,NA,1996,1996/1997
+Nottingham Forest,Pierre van Hooijdonk,26,Centre-Forward,Celtic,€6.00m,Transfer,in,Summer,6,1996,1996/1997
+Nottingham Forest,Dean Saunders,32,Centre-Forward,Galatasaray,€1.70m,Transfer,in,Summer,1.7,1996,1996/1997
+Nottingham Forest,Chris Allen,23,Left Winger,Oxford United,€485Th.,Transfer,in,Summer,0.485,1996,1996/1997
+Nottingham Forest,Brian O'Neil,24,Centre-Back,Celtic,loan transfer,Loan,in,Summer,NA,1996,1996/1997
+Nottingham Forest,Nikola Jerkan,31,Centre-Back,Real Oviedo,?,Transfer,in,Summer,NA,1996,1996/1997
+Nottingham Forest,Andy Todd,17,Left Midfield,Nottingham U18,-,Transfer,in,Summer,NA,1996,1996/1997
+Nottingham Forest,Andy Dawson,17,Left-Back,Nottingham U18,-,Transfer,in,Summer,NA,1996,1996/1997
+Nottingham Forest,Richard Hodgson,17,midfield,Nottingham U18,-,Transfer,in,Summer,NA,1996,1996/1997
+Nottingham Forest,Jason Lee,25,Centre-Forward,Grimsby Town,"End of loanMay 1, 1997",Loan,in,Summer,NA,1996,1996/1997
+Nottingham Forest,Vance Warner,21,defence,Grimsby Town,"End of loanJun 1, 1996",Loan,in,Summer,NA,1996,1996/1997
+Nottingham Forest,Steve Blatherwick,23,Centre-Back,Reading,"End of loanMay 31, 1997",Loan,in,Summer,NA,1996,1996/1997
+Nottingham Forest,Neil Webb,32,Central Midfield,Grimsby Town,free transfer,Transfer,out,Summer,0,1996,1996/1997
+Nottingham Forest,Craig Armstrong,21,Left-Back,Gillingham FC,loan transfer,Loan,out,Summer,NA,1996,1996/1997
+Nottingham Forest,Kingsley Black,28,Left Midfield,Grimsby Town,€30Th.,Transfer,out,Summer,0.03,1996,1996/1997
+Nottingham Forest,Lutz Pfannenstiel,23,Goalkeeper,Orlando Pirates,loan transfer,Loan,out,Summer,NA,1996,1996/1997
+Nottingham Forest,Tommy Wright,33,Goalkeeper,Reading,loan transfer,Loan,out,Summer,NA,1996,1996/1997
+Nottingham Forest,Andrea Silenzi,30,Centre-Forward,AC Venezia 1907,loan transfer,Loan,out,Summer,NA,1996,1996/1997
+Nottingham Forest,Robert Rosario,30,attack,Career break,-,Transfer,out,Summer,NA,1996,1996/1997
+Middlesbrough FC,Fabrizio Ravanelli,27,Centre-Forward,Juventus,€9.78m,Transfer,in,Summer,9.78,1996,1996/1997
+Middlesbrough FC,Mikkel Beck,23,Centre-Forward,SC Fortuna Köln,free transfer,Transfer,in,Summer,0,1996,1996/1997
+Middlesbrough FC,Paul Connor,17,Centre-Forward,Boro U18,-,Transfer,in,Summer,NA,1996,1996/1997
+Middlesbrough FC,Micky Cummins,18,Left Midfield,Boro U18,-,Transfer,in,Summer,NA,1996,1996/1997
+Middlesbrough FC,Craig Harrison,18,defence,Boro U18,-,Transfer,in,Summer,NA,1996,1996/1997
+Middlesbrough FC,Anthony Ormerod,17,Right Winger,Boro U18,-,Transfer,in,Summer,NA,1996,1996/1997
+Middlesbrough FC,Steve Baker,17,Right-Back,Boro U18,-,Transfer,in,Summer,NA,1996,1996/1997
+Middlesbrough FC,Ben Roberts,21,Goalkeeper,Bradford,"End of loanSep 1, 1996",Loan,in,Summer,NA,1996,1996/1997
+Middlesbrough FC,Alan Miller,27,Goalkeeper,West Brom,"End of loanMay 1, 1997",Loan,in,Summer,NA,1996,1996/1997
+Middlesbrough FC,Nick Barmby,22,Left Midfield,Everton,€8.00m,Transfer,out,Summer,8,1996,1996/1997
+Middlesbrough FC,Graham Kavanagh,22,Central Midfield,Stoke City,€375Th.,Transfer,out,Summer,0.375,1996,1996/1997
+Middlesbrough FC,John Hendrie,32,Right Winger,Barnsley FC,€287Th.,Transfer,out,Summer,0.287,1996,1996/1997
+Middlesbrough FC,Paul Wilkinson,31,Centre-Forward,Barnsley FC,free transfer,Transfer,out,Summer,0,1996,1996/1997
+Middlesbrough FC,Ben Roberts,21,Goalkeeper,Bradford,loan transfer,Loan,out,Summer,NA,1996,1996/1997
+Middlesbrough FC,Jamie Pollock,22,Defensive Midfield,CA Osasuna,?,Transfer,out,Summer,NA,1996,1996/1997
+Middlesbrough FC,Mark Summerbell,19,midfield,Cork City,loan transfer,Loan,out,Summer,NA,1996,1996/1997
+Chelsea FC,Roberto Di Matteo,26,Central Midfield,Lazio,€5.50m,Transfer,in,Summer,5.5,1996,1996/1997
+Chelsea FC,Frank Leboeuf,28,Centre-Back,R. Strasbourg,€3.45m,Transfer,in,Summer,3.45,1996,1996/1997
+Chelsea FC,Gianluca Vialli,31,Centre-Forward,Juventus,free transfer,Transfer,in,Summer,0,1996,1996/1997
+Chelsea FC,Frode Grodas,31,Goalkeeper,Lillestrøm,?,Transfer,in,Summer,NA,1996,1996/1997
+Chelsea FC,Joe Sheerin,18,attack,Unknown,?,Transfer,in,Summer,NA,1996,1996/1997
+Chelsea FC,Chris Zoricich,27,defence,Welling Utd.,?,Transfer,in,Summer,NA,1996,1996/1997
+Chelsea FC,Roger Joseph,30,defence,Wimbledon FC,?,Transfer,in,Summer,NA,1996,1996/1997
+Chelsea FC,Neil Clement,17,Centre-Back,Chelsea U18,-,Transfer,in,Summer,NA,1996,1996/1997
+Chelsea FC,Paul Furlong,27,Centre-Forward,Birmingham,€2.25m,Transfer,out,Summer,2.25,1996,1996/1997
+Chelsea FC,Muzzy Izzet,21,Attacking Midfield,Leicester,€1.20m,Transfer,out,Summer,1.2,1996,1996/1997
+Chelsea FC,Anthony Barness,23,Right-Back,Charlton,€200Th.,Transfer,out,Summer,0.2,1996,1996/1997
+Chelsea FC,Nigel Spackman,35,Central Midfield,Sheff Utd,free transfer,Transfer,out,Summer,0,1996,1996/1997
+Chelsea FC,Erland Johnsen,30,Centre-Back,Rosenborg,free transfer,Transfer,out,Summer,0,1996,1996/1997
+Chelsea FC,Andy Dow,23,Left-Back,Hibernian FC,?,Transfer,out,Summer,NA,1996,1996/1997
+Chelsea FC,Glenn Hoddle,38,Attacking Midfield,Retired,-,Transfer,out,Summer,NA,1996,1996/1997
+Chelsea FC,Jakob Kjeldbjerg,27,Centre-Back,Retired,-,Transfer,out,Summer,NA,1996,1996/1997
+Arsenal FC,Patrick Vieira,20,Defensive Midfield,Milan,€5.35m,Transfer,in,Summer,5.35,1996,1996/1997
+Arsenal FC,John Lukic,35,Goalkeeper,Leeds,free transfer,Transfer,in,Summer,0,1996,1996/1997
+Arsenal FC,Rémi Garde,30,Defensive Midfield,R. Strasbourg,?,Transfer,in,Summer,NA,1996,1996/1997
+Arsenal FC,Gavin McGowan,20,Right-Back,Arsenal Res.,-,Transfer,in,Summer,NA,1996,1996/1997
+Arsenal FC,Jason Crowe,17,Right-Back,Arsenal U18,-,Transfer,in,Summer,NA,1996,1996/1997
+Arsenal FC,Paul Dickov,23,Centre-Forward,Man City,€1.50m,Transfer,out,Summer,1.5,1996,1996/1997
+Arsenal FC,Eddie McGoldrick,31,Right Winger,Man City,€450Th.,Transfer,out,Summer,0.45,1996,1996/1997
+Arsenal FC,John Jensen,31,Central Midfield,Bröndby IF,free transfer,Transfer,out,Summer,0,1996,1996/1997
+Arsenal FC,Roy O'Brien,21,midfield,Wigan,?,Transfer,out,Summer,NA,1996,1996/1997
+Arsenal FC,Chris Kiwomya,26,Centre-Forward,AC Le Havre,loan transfer,Loan,out,Summer,NA,1996,1996/1997
+Arsenal FC,Adrian Clarke,21,midfield,Rotherham,loan transfer,Loan,out,Summer,NA,1996,1996/1997
+Arsenal FC,Mark Flatts,23,midfield,Retired,-,Transfer,out,Summer,NA,1996,1996/1997
+Leeds United,Lee Sharpe,25,Left Midfield,Man Utd,€6.75m,Transfer,in,Summer,6.75,1996,1996/1997
+Leeds United,Lee Bowyer,19,Central Midfield,Charlton,€3.80m,Transfer,in,Summer,3.8,1996,1996/1997
+Leeds United,Nigel Martyn,29,Goalkeeper,Crystal Palace,€3.35m,Transfer,in,Summer,3.35,1996,1996/1997
+Leeds United,Derek Lilley,22,Centre-Forward,Morton,€750Th.,Transfer,in,Summer,0.75,1996,1996/1997
+Leeds United,Gunnar Halle,30,Right-Back,Oldham Athletic,€575Th.,Transfer,in,Summer,0.575,1996,1996/1997
+Leeds United,Ian Rush,34,Centre-Forward,Liverpool,free transfer,Transfer,in,Summer,0,1996,1996/1997
+Leeds United,Mark Hateley,34,Centre-Forward,QPR,loan transfer,Loan,in,Summer,NA,1996,1996/1997
+Leeds United,Tomas Brolin,26,Centre-Forward,FC Zürich,"End of loanSep 1, 1996",Loan,in,Summer,NA,1996,1996/1997
+Leeds United,Paul Evans,22,Goalkeeper,Crystal Palace,"End of loanJun 30, 1996",Loan,in,Summer,NA,1996,1996/1997
+Leeds United,Gary McAllister,31,Central Midfield,Coventry,€250Th.,Transfer,out,Summer,0.25,1996,1996/1997
+Leeds United,John Lukic,35,Goalkeeper,Arsenal,free transfer,Transfer,out,Summer,0,1996,1996/1997
+Leeds United,Nathan Lowndes,19,Centre-Forward,Watford,free transfer,Transfer,out,Summer,0,1996,1996/1997
+Leeds United,John Pemberton,32,Centre-Back,Unknown,free transfer,Transfer,out,Summer,0,1996,1996/1997
+Leeds United,Nigel Worthington,34,Left-Back,Stoke City,?,Transfer,out,Summer,NA,1996,1996/1997
+Leeds United,Andy Brown,19,Left-Back,Hull City,?,Transfer,out,Summer,NA,1996,1996/1997
+Leeds United,David White,28,Right Winger,Sheff Utd,?,Transfer,out,Summer,NA,1996,1996/1997
+Leeds United,Philemon Masinga,27,Centre-Forward,FC St. Gallen,?,Transfer,out,Summer,NA,1996,1996/1997
+Leeds United,Tomas Brolin,26,Centre-Forward,FC Zürich,loan transfer,Loan,out,Summer,NA,1996,1996/1997
+Leeds United,Rob Bowman,20,Right-Back,Leeds Reserves,-,Transfer,out,Summer,NA,1996,1996/1997
+Leeds United,Mark Hateley,34,Centre-Forward,QPR,"End of loanOct 19, 1996",Loan,out,Summer,NA,1996,1996/1997
+West Ham United,Richard Hall,24,Centre-Back,Southampton,€1.70m,Transfer,in,Summer,1.7,1996,1996/1997
+West Ham United,Florin Raducioiu,26,Centre-Forward,Espanyol,Loan fee:€1.60m,Loan,in,Summer,1.6,1996,1996/1997
+West Ham United,Stan Lazaridis,23,Left Midfield,West Adelaide SC,€450Th.,Transfer,in,Summer,0.45,1996,1996/1997
+West Ham United,Scott Mean,22,midfield,Bournemouth,€150Th.,Transfer,in,Summer,0.15,1996,1996/1997
+West Ham United,Mark Bowen,32,Left-Back,Norwich,free transfer,Transfer,in,Summer,0,1996,1996/1997
+West Ham United,Paulo Futre,30,Left Winger,Milan,free transfer,Transfer,in,Summer,0,1996,1996/1997
+West Ham United,Lee Boylan,17,Centre-Forward,West Ham U18,-,Transfer,in,Summer,NA,1996,1996/1997
+West Ham United,Chris Coyne,17,Centre-Back,West Ham U18,-,Transfer,in,Summer,NA,1996,1996/1997
+West Ham United,David Partridge,17,Centre-Back,West Ham U18,-,Transfer,in,Summer,NA,1996,1996/1997
+West Ham United,Lee Hodges,18,Left Midfield,West Ham U18,-,Transfer,in,Summer,NA,1996,1996/1997
+West Ham United,Tony Cottee,31,Centre-Forward,Selangor FC,€1.13m,Transfer,out,Summer,1.13,1996,1996/1997
+West Ham United,Adrian Richard Whitbread,25,Centre-Back,Portsmouth,€311Th.,Transfer,out,Summer,0.311,1996,1996/1997
+West Ham United,Mark Watson,22,attack,Bournemouth,€81Th.,Transfer,out,Summer,0.081,1996,1996/1997
+West Ham United,Simon Webster,32,defence,St Albans City,free transfer,Transfer,out,Summer,0,1996,1996/1997
+West Ham United,Les Sealey,38,Goalkeeper,Leyton Orient,free transfer,Transfer,out,Summer,0,1996,1996/1997
+West Ham United,Alvin Martin,37,Centre-Back,Leyton Orient,free transfer,Transfer,out,Summer,0,1996,1996/1997
+West Ham United,Ilie Dumitrescu,27,Left Winger,América,free transfer,Transfer,out,Summer,0,1996,1996/1997
+West Ham United,Lee Hodges,18,Left Midfield,Exeter City,loan transfer,Loan,out,Summer,NA,1996,1996/1997
+West Ham United,Robbie Slater,31,Central Midfield,Southampton,?,Transfer,out,Summer,NA,1996,1996/1997
+West Ham United,Kenny Brown,28,defence,Birmingham,?,Transfer,out,Summer,NA,1996,1996/1997
+West Ham United,Malcolm McPherson,21,Centre-Forward,Brentford,?,Transfer,out,Summer,NA,1996,1996/1997
+West Ham United,Emmanuel Omoyinmi,18,Centre-Forward,Bournemouth,loan transfer,Loan,out,Summer,NA,1996,1996/1997
+West Ham United,Dani,19,Attacking Midfield,Sporting CP,"End of loanJun 30, 1996",Loan,out,Summer,NA,1996,1996/1997
+Sunderland AFC,Lee Clark,23,Right Winger,Newcastle,€3.25m,Transfer,in,Summer,3.25,1996,1996/1997
+Sunderland AFC,Alex Rae,26,Central Midfield,Millwall,€1.50m,Transfer,in,Summer,1.5,1996,1996/1997
+Sunderland AFC,Niall Quinn,29,Centre-Forward,Man City,€1.30m,Transfer,in,Summer,1.3,1996,1996/1997
+Sunderland AFC,Tony Coton,35,Goalkeeper,Man Utd,€675Th.,Transfer,in,Summer,0.675,1996,1996/1997
+Sunderland AFC,Lionel Perez,29,Goalkeeper,G. Bordeaux,€230Th.,Transfer,in,Summer,0.23,1996,1996/1997
+Sunderland AFC,Darren Williams,19,Right-Back,York City,€75Th.,Transfer,in,Summer,0.075,1996,1996/1997
+Sunderland AFC,Chris Tate,18,attack,York City,?,Transfer,in,Summer,NA,1996,1996/1997
+Sunderland AFC,Paul Heckingbottom,18,Left-Back,Sunderland U18,-,Transfer,in,Summer,NA,1996,1996/1997
+Sunderland AFC,Paul Beavers,18,attack,Sunderland U18,-,Transfer,in,Summer,NA,1996,1996/1997
+Sunderland AFC,Sam Aiston,20,midfield,Chester City,"End of loanMay 31, 1997",Loan,in,Summer,NA,1996,1996/1997
+Sunderland AFC,Alec Chamberlain,32,Goalkeeper,Watford,€60Th.,Transfer,out,Summer,0.06,1996,1996/1997
+Sunderland AFC,Gordon Armstrong,29,Central Midfield,Bury,free transfer,Transfer,out,Summer,0,1996,1996/1997
+Sunderland AFC,Brian Atkinson,25,Left Midfield,Darlington,free transfer,Transfer,out,Summer,0,1996,1996/1997
+Sunderland AFC,John Kay,32,defence,Preston,free transfer,Transfer,out,Summer,0,1996,1996/1997
+Sunderland AFC,Brett Angell,27,Centre-Forward,Stockport,loan transfer,Loan,out,Summer,NA,1996,1996/1997
+Sunderland AFC,Phil Gray,27,Centre-Forward,AS Nancy,?,Transfer,out,Summer,NA,1996,1996/1997
+Southampton FC,Egil Östenstad,24,Centre-Forward,Viking FK,€800Th.,Transfer,in,Summer,0.8,1996,1996/1997
+Southampton FC,Claus Lundekvam,23,Centre-Back,Brann,€600Th.,Transfer,in,Summer,0.6,1996,1996/1997
+Southampton FC,Graham Potter,21,Left-Back,Stoke City,€313Th.,Transfer,in,Summer,0.313,1996,1996/1997
+Southampton FC,Garry Monk,17,Centre-Back,Torquay,free transfer,Transfer,in,Summer,0,1996,1996/1997
+Southampton FC,Russell Watkinson,18,midfield,Woking,free transfer,Transfer,in,Summer,0,1996,1996/1997
+Southampton FC,Eyal Berkovic,24,Attacking Midfield,Maccabi Haifa,loan transfer,Loan,in,Summer,NA,1996,1996/1997
+Southampton FC,Robbie Slater,31,Central Midfield,West Ham,?,Transfer,in,Summer,NA,1996,1996/1997
+Southampton FC,Richard Dryden,27,Centre-Back,Bristol City,?,Transfer,in,Summer,NA,1996,1996/1997
+Southampton FC,Chris Woods,36,Goalkeeper,Colorado,?,Transfer,in,Summer,NA,1996,1996/1997
+Southampton FC,Ulrich van Gobbel,25,Right-Back,Galatasaray,?,Transfer,in,Summer,NA,1996,1996/1997
+Southampton FC,Steve Basham,18,Centre-Forward,Southampton U18,-,Transfer,in,Summer,NA,1996,1996/1997
+Southampton FC,Christer Warren,22,midfield,Brighton,"End of loanOct 19, 1996",Loan,in,Summer,NA,1996,1996/1997
+Southampton FC,Christer Warren,22,midfield,Fulham,"End of loanMay 31, 1997",Loan,in,Summer,NA,1996,1996/1997
+Southampton FC,Richard Hall,24,Centre-Back,West Ham,€1.70m,Transfer,out,Summer,1.7,1996,1996/1997
+Southampton FC,Neil Shipperley,21,Centre-Forward,Crystal Palace,€1.40m,Transfer,out,Summer,1.4,1996,1996/1997
+Southampton FC,Tommy Widdrington,24,Central Midfield,Grimsby Town,€336Th.,Transfer,out,Summer,0.336,1996,1996/1997
+Southampton FC,Bruce Grobbelaar,38,Goalkeeper,Plymouth,free transfer,Transfer,out,Summer,0,1996,1996/1997
+Southampton FC,Mark Walters,32,Left Midfield,Swindon Town,free transfer,Transfer,out,Summer,0,1996,1996/1997
+Southampton FC,Frankie Bennett,27,Centre-Forward,Shrewsbury,loan transfer,Loan,out,Summer,NA,1996,1996/1997
+Southampton FC,Christer Warren,22,midfield,Brighton,loan transfer,Loan,out,Summer,NA,1996,1996/1997
+Southampton FC,Derek Allan,21,Centre-Back,Brighton,?,Transfer,out,Summer,NA,1996,1996/1997
+Southampton FC,Barry Venison,33,Right-Back,Retired,-,Transfer,out,Summer,NA,1996,1996/1997
+Blackburn Rovers,Georgios Donis,26,Right Winger,Panathinaikos,free transfer,Transfer,in,Summer,0,1996,1996/1997
+Blackburn Rovers,Damien Duff,17,Right Midfield,Blackburn U18,-,Transfer,in,Summer,NA,1996,1996/1997
+Blackburn Rovers,Niklas Gudmundsson,25,Left Winger,Ipswich,"End of loanMay 31, 1997",Loan,in,Summer,NA,1996,1996/1997
+Blackburn Rovers,Alan Shearer,25,Centre-Forward,Newcastle,€18.00m,Transfer,out,Summer,18,1996,1996/1997
+Blackburn Rovers,Mike Newell,31,Centre-Forward,Birmingham,€921Th.,Transfer,out,Summer,0.921,1996,1996/1997
+Blackburn Rovers,Bobby Mimms,32,Goalkeeper,Crystal Palace,free transfer,Transfer,out,Summer,0,1996,1996/1997
+Tottenham Hotspur,Allan Nielsen,25,Central Midfield,Bröndby IF,€2.00m,Transfer,in,Summer,2,1996,1996/1997
+Tottenham Hotspur,Espen Baardsen,18,Goalkeeper,SF United,?,Transfer,in,Summer,NA,1996,1996/1997
+Tottenham Hotspur,Simon Brown,19,Goalkeeper,Spurs U18,-,Transfer,in,Summer,NA,1996,1996/1997
+Tottenham Hotspur,Mark Arber,18,Centre-Back,Spurs U18,-,Transfer,in,Summer,NA,1996,1996/1997
+Tottenham Hotspur,Paul McVeigh,18,Left Winger,Spurs U18,-,Transfer,in,Summer,NA,1996,1996/1997
+Tottenham Hotspur,Mark Gower,17,Central Midfield,Spurs U18,-,Transfer,in,Summer,NA,1996,1996/1997
+Tottenham Hotspur,Simon Webb,18,Left-Back,Spurs U18,-,Transfer,in,Summer,NA,1996,1996/1997
+Tottenham Hotspur,Jason Cundy,26,Centre-Back,Bristol City,"End of loanSep 15, 1996",Loan,in,Summer,NA,1996,1996/1997
+Tottenham Hotspur,Steve Slade,20,attack,QPR,€435Th.,Transfer,out,Summer,0.435,1996,1996/1997
+Tottenham Hotspur,Chris Day,20,Goalkeeper,Crystal Palace,€350Th.,Transfer,out,Summer,0.35,1996,1996/1997
+Tottenham Hotspur,Andy Turner,21,midfield,Portsmouth,€313Th.,Transfer,out,Summer,0.313,1996,1996/1997
+Tottenham Hotspur,Jason Cundy,26,Centre-Back,Bristol City,loan transfer,Loan,out,Summer,NA,1996,1996/1997
+Tottenham Hotspur,Jason Cundy,26,Centre-Back,Ipswich,loan transfer,Loan,out,Summer,NA,1996,1996/1997
+Tottenham Hotspur,Owen Coll,20,Centre-Back,Bournemouth,?,Transfer,out,Summer,NA,1996,1996/1997
+Tottenham Hotspur,Gerry McMahon,22,Central Midfield,Stoke City,?,Transfer,out,Summer,NA,1996,1996/1997
+Tottenham Hotspur,Erik Thorstvedt,34,Goalkeeper,Retired,-,Transfer,out,Summer,NA,1996,1996/1997
+Liverpool FC,Patrik Berger,22,Attacking Midfield,Bor. Dortmund,€3.50m,Transfer,in,Summer,3.5,1996,1996/1997
+Liverpool FC,Bjørn Tore Kvarme,24,Centre-Back,Rosenborg,free transfer,Transfer,in,Summer,0,1996,1996/1997
+Liverpool FC,Haukur Ingi Gudnason,19,Centre-Forward,Keflavík,?,Transfer,in,Summer,NA,1996,1996/1997
+Liverpool FC,David Thompson,18,Right Midfield,Liverpool U18,-,Transfer,in,Summer,NA,1996,1996/1997
+Liverpool FC,Jamie Carragher,18,Centre-Back,Liverpool U18,-,Transfer,in,Summer,NA,1996,1996/1997
+Liverpool FC,Lee Jones,24,Centre-Forward,Tranmere Rovers,"End of loanMay 31, 1997",Loan,in,Summer,NA,1996,1996/1997
+Liverpool FC,Phil Charnock,21,Central Midfield,Crewe Alexandra,free transfer,Transfer,out,Summer,0,1996,1996/1997
+Liverpool FC,Stephen Pears,34,Goalkeeper,Hartlepool,free transfer,Transfer,out,Summer,0,1996,1996/1997
+Liverpool FC,Ian Rush,34,Centre-Forward,Leeds,free transfer,Transfer,out,Summer,0,1996,1996/1997
+Liverpool FC,Ian Foster,19,Centre-Forward,Hereford Utd.,free transfer,Transfer,out,Summer,0,1996,1996/1997
+Liverpool FC,David Larmour,18,Right Winger,Doncaster,?,Transfer,out,Summer,NA,1996,1996/1997
+Liverpool FC,Andy Harris,19,Right Midfield,Southend United,?,Transfer,out,Summer,NA,1996,1996/1997
+Everton FC,Nick Barmby,22,Left Midfield,Middlesbrough,€8.00m,Transfer,in,Summer,8,1996,1996/1997
+Everton FC,Paul Gerrard,23,Goalkeeper,Oldham Athletic,€1.50m,Transfer,in,Summer,1.5,1996,1996/1997
+Everton FC,Danny Cadamarteri,16,Right Winger,Everton U18,-,Transfer,in,Summer,NA,1996,1996/1997
+Everton FC,Richard Dunne,16,Centre-Back,Everton U18,-,Transfer,in,Summer,NA,1996,1996/1997
+Everton FC,Phil Jevons,16,Centre-Forward,Everton U18,-,Transfer,in,Summer,NA,1996,1996/1997
+Everton FC,Matt Jackson,24,Right-Back,QPR,"End of loanSep 1, 1996",Loan,in,Summer,NA,1996,1996/1997
+Everton FC,Paul Holmes,28,midfield,West Brom,"End of loanJun 30, 1996",Loan,in,Summer,NA,1996,1996/1997
+Everton FC,Jamie Speare,20,Goalkeeper,Darlington,"End of loanMay 1, 1997",Loan,in,Summer,NA,1996,1996/1997
+Everton FC,Vinny Samways,27,Central Midfield,UD Las Palmas,€2.65m,Transfer,out,Summer,2.65,1996,1996/1997
+Everton FC,Daniel Amokachi,23,Centre-Forward,Besiktas,€2.00m,Transfer,out,Summer,2,1996,1996/1997
+Everton FC,Gary Ablett,30,Centre-Back,Birmingham,€440Th.,Transfer,out,Summer,0.44,1996,1996/1997
+Everton FC,Matt Jackson,24,Right-Back,QPR,loan transfer,Loan,out,Summer,NA,1996,1996/1997
+Everton FC,Matt Jackson,24,Right-Back,Birmingham,loan transfer,Loan,out,Summer,NA,1996,1996/1997
+Everton FC,Barry Horne,34,Defensive Midfield,Birmingham,?,Transfer,out,Summer,NA,1996,1996/1997
+Everton FC,Paul Holmes,28,midfield,West Brom,?,Transfer,out,Summer,NA,1996,1996/1997
+Everton FC,Jason Kearton,27,Goalkeeper,Crewe Alexandra,?,Transfer,out,Summer,NA,1996,1996/1997
+Derby County,Chris Powell,26,Left-Back,Crystal Palace,€1.25m,Transfer,in,Summer,1.25,1996,1996/1997
+Derby County,Christian Dailly,22,Centre-Back,Dundee United,€750Th.,Transfer,in,Summer,0.75,1996,1996/1997
+Derby County,Paul McGrath,36,Centre-Back,Aston Villa,€125Th.,Transfer,in,Summer,0.125,1996,1996/1997
+Derby County,Paul Parker,32,Right-Back,Man Utd,free transfer,Transfer,in,Summer,0,1996,1996/1997
+Derby County,Matt Carbon,21,Centre-Back,Lincoln City,free transfer,Transfer,in,Summer,0,1996,1996/1997
+Derby County,Paul Trollope,24,Attacking Midfield,Grimsby Town,"End of loanOct 1, 1996",Loan,in,Summer,NA,1996,1996/1997
+Derby County,Christophe Remy,24,Left-Back,AJ Auxerre,?,Transfer,in,Summer,NA,1996,1996/1997
+Derby County,Mauricio Solís,23,Left Midfield,Herediano,?,Transfer,in,Summer,NA,1996,1996/1997
+Derby County,Martin Taylor,29,Goalkeeper,Crewe Alexandra,"End of loanOct 15, 1996",Loan,in,Summer,NA,1996,1996/1997
+Derby County,Darren Wassall,28,defence,Birmingham,"End of loanMay 30, 1997",Loan,in,Summer,NA,1996,1996/1997
+Derby County,Ian Ashbee,20,Defensive Midfield,Thróttur,"End of loanOct 1, 1996",Loan,in,Summer,NA,1996,1996/1997
+Derby County,Darren Wassall,28,defence,Birmingham,€188Th.,Transfer,out,Summer,0.188,1996,1996/1997
+Derby County,Darren Wrack,20,Central Midfield,Grimsby Town,€150Th.,Transfer,out,Summer,0.15,1996,1996/1997
+Derby County,Martin Taylor,30,Goalkeeper,Wycombe,free transfer,Transfer,out,Summer,0,1996,1996/1997
+Derby County,David Preece,33,Left Midfield,Cambridge Utd.,free transfer,Transfer,out,Summer,0,1996,1996/1997
+Derby County,Steve Sutton,35,Goalkeeper,Birmingham,free transfer,Transfer,out,Summer,0,1996,1996/1997
+Derby County,Andy Quy,20,Goalkeeper,Grimsby Town,free transfer,Transfer,out,Summer,0,1996,1996/1997
+Derby County,Robin van der Laan,28,Attacking Midfield,Wolves,loan transfer,Loan,out,Summer,NA,1996,1996/1997
+Derby County,Marco Gabbiadini,28,Centre-Forward,Birmingham,loan transfer,Loan,out,Summer,NA,1996,1996/1997
+Derby County,Ian Ashbee,19,Defensive Midfield,Thróttur,loan transfer,Loan,out,Summer,NA,1996,1996/1997
+Derby County,Martin Taylor,29,Goalkeeper,Crewe Alexandra,loan transfer,Loan,out,Summer,NA,1996,1996/1997
+Derby County,Darren Wassall,28,defence,Man City,loan transfer,Loan,out,Summer,NA,1996,1996/1997
+Derby County,Glyn Hodges,33,Left Winger,Sing Tao,?,Transfer,out,Summer,NA,1996,1996/1997
+Derby County,Paul Trollope,24,Attacking Midfield,Crystal Palace,loan transfer,Loan,out,Summer,NA,1996,1996/1997
+Derby County,Paul Trollope,24,Attacking Midfield,Grimsby Town,loan transfer,Loan,out,Summer,NA,1996,1996/1997
+Aston Villa,Neil Davis,23,attack,Wycombe,"End of loanDec 31, 1996",Loan,in,Winter,NA,1996,1996/1997
+Aston Villa,Tommy Johnson,26,Centre-Forward,Celtic,€3.45m,Transfer,out,Winter,3.45,1996,1996/1997
+Aston Villa,Carl Tiler,27,Centre-Back,Sheff Utd,€812Th.,Transfer,out,Winter,0.812,1996,1996/1997
+Aston Villa,Phil King,29,Left-Back,Swindon Town,free transfer,Transfer,out,Winter,0,1996,1996/1997
+Sheffield Wednesday,David Billington,17,defence,Peterborough,€600Th.,Transfer,in,Winter,0.6,1996,1996/1997
+Sheffield Wednesday,Mike Williams,27,attack,Peterborough,"End of loanApr 19, 1997",Loan,in,Winter,NA,1996,1996/1997
+Sheffield Wednesday,Simon Weaver,19,Centre-Back,Doncaster,"End of loanMar 1, 1997",Loan,in,Winter,NA,1996,1996/1997
+Sheffield Wednesday,John Sheridan,32,Central Midfield,Bolton,"End of loanDec 18, 1996",Loan,in,Winter,NA,1996,1996/1997
+Sheffield Wednesday,John Sheridan,32,Central Midfield,Birmingham,"End of loanNov 12, 1996",Loan,in,Winter,NA,1996,1996/1997
+Sheffield Wednesday,Adem Poric,23,Central Midfield,Southend United,"End of loanMar 8, 1997",Loan,in,Winter,NA,1996,1996/1997
+Sheffield Wednesday,John Sheridan,32,Central Midfield,Bolton,€225Th.,Transfer,out,Winter,0.225,1996,1996/1997
+Sheffield Wednesday,Mark Bright,34,Centre-Forward,FC Sion,€88Th.,Transfer,out,Winter,0.088,1996,1996/1997
+Sheffield Wednesday,Simon Weaver,19,Centre-Back,Doncaster,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Sheffield Wednesday,John Sheridan,32,Central Midfield,Bolton,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Sheffield Wednesday,Adem Poric,23,Central Midfield,Southend United,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Sheffield Wednesday,Mike Williams,27,attack,Peterborough,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Leicester City,Matt Elliott,28,Centre-Back,Oxford United,€2.40m,Transfer,in,Winter,2.4,1996,1996/1997
+Leicester City,Steve Guppy,27,Left Winger,Port Vale,€1.19m,Transfer,in,Winter,1.19,1996,1996/1997
+Leicester City,Rob Ullathorne,25,Left-Back,CA Osasuna,€900Th.,Transfer,in,Winter,0.9,1996,1996/1997
+Leicester City,Stuart Slater,27,midfield,Ipswich,?,Transfer,in,Winter,NA,1996,1996/1997
+Leicester City,Mark Robins,26,Centre-Forward,FC Copenhagen,"End of loanDec 1, 1996",Loan,in,Winter,NA,1996,1996/1997
+Leicester City,Paul Hyde,33,Goalkeeper,Leyton Orient,free transfer,Transfer,out,Winter,0,1996,1996/1997
+Leicester City,Colin Hill,33,Centre-Back,Trelleborg,?,Transfer,out,Winter,NA,1996,1996/1997
+Wimbledon FC,Carl Cort,19,Centre-Forward,Lincoln City,"End of loanMar 1, 1997",Loan,in,Winter,NA,1996,1996/1997
+Wimbledon FC,Carl Cort,19,Centre-Forward,Lincoln City,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Coventry City,Gary Breen,23,Centre-Back,Birmingham,€3.75m,Transfer,in,Winter,3.75,1996,1996/1997
+Coventry City,Oleksandr Yevtushok,26,Centre-Back,Dnipro,€1.20m,Transfer,in,Winter,1.2,1996,1996/1997
+Coventry City,Darren Huckerby,20,Right Winger,Newcastle,€1.00m,Transfer,in,Winter,1,1996,1996/1997
+Coventry City,Iyseden Christie,20,Centre-Forward,Bournemouth,"End of loanDec 1, 1996",Loan,in,Winter,NA,1996,1996/1997
+Coventry City,Régis Genaux,23,Right-Back,Udinese,€1.15m,Transfer,out,Winter,1.15,1996,1996/1997
+Coventry City,Iyseden Christie,20,Centre-Forward,Mansfield Town,free transfer,Transfer,out,Winter,0,1996,1996/1997
+Coventry City,Iyseden Christie,19,Centre-Forward,Bournemouth,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Manchester United,Kevin Pilkington,23,Goalkeeper,Rotherham,"End of loanApr 19, 1997",Loan,in,Winter,NA,1996,1996/1997
+Manchester United,Simon Davies,22,midfield,Huddersfield,"End of loanNov 1, 1996",Loan,in,Winter,NA,1996,1996/1997
+Manchester United,John O'Kane,22,Right-Back,Bury,"End of loanMar 31, 1997",Loan,in,Winter,NA,1996,1996/1997
+Manchester United,Michael Appleton,21,midfield,Grimsby Town,"End of loanMar 15, 1997",Loan,in,Winter,NA,1996,1996/1997
+Manchester United,Pat McGibbon,23,Centre-Back,Wigan,€563Th.,Transfer,out,Winter,0.563,1996,1996/1997
+Manchester United,Kevin Pilkington,22,Goalkeeper,Rotherham,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Manchester United,Michael Appleton,21,midfield,Grimsby Town,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Newcastle United,Steve Harper,22,Goalkeeper,Stockport,"End of loanApr 1, 1997",Loan,in,Winter,NA,1996,1996/1997
+Newcastle United,Steve Harper,21,Goalkeeper,Gateshead,"End of loanDec 1, 1996",Loan,in,Winter,NA,1996,1996/1997
+Newcastle United,Jim Crawford,23,Right Midfield,Rotherham,"End of loanNov 23, 1996",Loan,in,Winter,NA,1996,1996/1997
+Newcastle United,Paul Brayson,19,Centre-Forward,Swansea,"End of loanMar 31, 1997",Loan,in,Winter,NA,1996,1996/1997
+Newcastle United,Stuart Elliott,19,midfield,Hull City,"End of loanMar 31, 1997",Loan,in,Winter,NA,1996,1996/1997
+Newcastle United,Paul Kitson,26,Centre-Forward,West Ham,€3.50m,Transfer,out,Winter,3.5,1996,1996/1997
+Newcastle United,Darren Huckerby,20,Right Winger,Coventry,€1.00m,Transfer,out,Winter,1,1996,1996/1997
+Newcastle United,Steve Harper,21,Goalkeeper,Stockport,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Newcastle United,Steve Harper,21,Goalkeeper,Gateshead,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Newcastle United,Paul Brayson,19,Centre-Forward,Swansea,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Newcastle United,Stuart Elliott,19,midfield,Hull City,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Nottingham Forest,Ian Thomas-Moore,20,Centre-Forward,Tranmere Rovers,€1.50m,Transfer,in,Winter,1.5,1996,1996/1997
+Nottingham Forest,Nigel Clough,30,Attacking Midfield,Man City,loan transfer,Loan,in,Winter,NA,1996,1996/1997
+Nottingham Forest,Marlon Harewood,17,Centre-Forward,Nottingham U18,-,Transfer,in,Winter,NA,1996,1996/1997
+Nottingham Forest,Jason Lee,25,Centre-Forward,Charlton,"End of loanMar 1, 1997",Loan,in,Winter,NA,1996,1996/1997
+Nottingham Forest,Lutz Pfannenstiel,23,Goalkeeper,Orlando Pirates,"End of loanDec 1, 1996",Loan,in,Winter,NA,1996,1996/1997
+Nottingham Forest,Steve Guinan,21,Centre-Forward,Burnley,"End of loanApr 1, 1997",Loan,in,Winter,NA,1996,1996/1997
+Nottingham Forest,Tommy Wright,33,Goalkeeper,Reading,"End of loanDec 1, 1996",Loan,in,Winter,NA,1996,1996/1997
+Nottingham Forest,Craig Armstrong,21,Left-Back,Gillingham FC,"End of loanDec 1, 1996",Loan,in,Winter,NA,1996,1996/1997
+Nottingham Forest,Tommy Wright,33,Goalkeeper,Man City,"End of loanFeb 1, 1997",Loan,in,Winter,NA,1996,1996/1997
+Nottingham Forest,Craig Armstrong,21,Left-Back,Watford,"End of loanFeb 1, 1997",Loan,in,Winter,NA,1996,1996/1997
+Nottingham Forest,Bobby Howe,23,Central Midfield,Ipswich,"End of loanFeb 8, 1997",Loan,in,Winter,NA,1996,1996/1997
+Nottingham Forest,Tommy Wright,33,Goalkeeper,Man City,€675Th.,Transfer,out,Winter,0.675,1996,1996/1997
+Nottingham Forest,Bobby Howe,23,Central Midfield,Ipswich,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Nottingham Forest,Craig Armstrong,21,Left-Back,Watford,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Nottingham Forest,Steve Guinan,21,Centre-Forward,Burnley,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Nottingham Forest,Jason Lee,25,Centre-Forward,Charlton,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Nottingham Forest,Jason Lee,25,Centre-Forward,Grimsby Town,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Nottingham Forest,Lutz Pfannenstiel,23,Goalkeeper,Sembawang,?,Transfer,out,Winter,NA,1996,1996/1997
+Nottingham Forest,Steve Blatherwick,23,Centre-Back,Reading,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Nottingham Forest,Tommy Wright,33,Goalkeeper,Man City,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Nottingham Forest,Nigel Clough,30,Attacking Midfield,Man City,"End of loanMar 15, 1997",Loan,out,Winter,NA,1996,1996/1997
+Nottingham Forest,Brian O'Neil,24,Centre-Back,Celtic,"End of loanDec 1, 1996",Loan,out,Winter,NA,1996,1996/1997
+Middlesbrough FC,Mark Schwarzer,24,Goalkeeper,Bradford,€2.50m,Transfer,in,Winter,2.5,1996,1996/1997
+Middlesbrough FC,Vladimir Kinder,27,Centre-Back,Slo. Bratislava,?,Transfer,in,Winter,NA,1996,1996/1997
+Middlesbrough FC,Alan Miller,26,Goalkeeper,Grimsby Town,"End of loanFeb 1, 1997",Loan,in,Winter,NA,1996,1996/1997
+Middlesbrough FC,Mark Summerbell,20,midfield,Cork City,"End of loanNov 1, 1996",Loan,in,Winter,NA,1996,1996/1997
+Middlesbrough FC,Keith O'Halloran,21,Central Midfield,Cardiff,"End of loanDec 31, 1996",Loan,in,Winter,NA,1996,1996/1997
+Middlesbrough FC,Chris Freestone,25,attack,Carlisle United,"End of loanMar 29, 1997",Loan,in,Winter,NA,1996,1996/1997
+Middlesbrough FC,Alan Miller,26,Goalkeeper,Huddersfield,"End of loanJan 1, 1997",Loan,in,Winter,NA,1996,1996/1997
+Middlesbrough FC,Jan Aage Fjörtoft,29,Centre-Forward,Sheff Utd,€975Th.,Transfer,out,Winter,0.975,1996,1996/1997
+Middlesbrough FC,Keith O'Halloran,21,Central Midfield,St. Johnstone,€62Th.,Transfer,out,Winter,0.062,1996,1996/1997
+Middlesbrough FC,Keith O'Halloran,21,Central Midfield,Cardiff,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Middlesbrough FC,Chris Freestone,25,attack,Carlisle United,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Middlesbrough FC,Branco,32,Left-Back,Mogi Mirim,?,Transfer,out,Winter,NA,1996,1996/1997
+Middlesbrough FC,Alan Miller,26,Goalkeeper,Grimsby Town,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Middlesbrough FC,Alan Miller,26,Goalkeeper,Huddersfield,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Middlesbrough FC,Alan Miller,26,Goalkeeper,West Brom,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Chelsea FC,Gianfranco Zola,30,Second Striker,AC Parma,€6.20m,Transfer,in,Winter,6.2,1996,1996/1997
+Chelsea FC,Danny Granville,22,Left-Back,Cambridge Utd.,€415Th.,Transfer,in,Winter,0.415,1996,1996/1997
+Chelsea FC,Craig Forrest,29,Goalkeeper,Ipswich,loan transfer,Loan,in,Winter,NA,1996,1996/1997
+Chelsea FC,Paul Parker,32,Right-Back,Fulham,?,Transfer,in,Winter,NA,1996,1996/1997
+Chelsea FC,Mark Stein,30,Centre-Forward,Stoke City,"End of loanJan 22, 1997",Loan,in,Winter,NA,1996,1996/1997
+Chelsea FC,Gavin Peacock,29,midfield,QPR,"End of loanDec 22, 1996",Loan,in,Winter,NA,1996,1996/1997
+Chelsea FC,David Rocastle,29,Attacking Midfield,Norwich,"End of loanMar 1, 1997",Loan,in,Winter,NA,1996,1996/1997
+Chelsea FC,Gavin Peacock,29,midfield,QPR,€940Th.,Transfer,out,Winter,0.94,1996,1996/1997
+Chelsea FC,John Spencer,26,Centre-Forward,QPR,free transfer,Transfer,out,Winter,0,1996,1996/1997
+Chelsea FC,Gavin Peacock,29,midfield,QPR,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Chelsea FC,David Rocastle,29,Attacking Midfield,Norwich,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Chelsea FC,Roger Joseph,31,defence,Leyton Orient,?,Transfer,out,Winter,NA,1996,1996/1997
+Chelsea FC,Terry Phelan,29,Left-Back,Everton,?,Transfer,out,Winter,NA,1996,1996/1997
+Chelsea FC,Mark Stein,30,Centre-Forward,Stoke City,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Chelsea FC,Craig Forrest,29,Goalkeeper,Ipswich,"End of loanApr 1, 1997",Loan,out,Winter,NA,1996,1996/1997
+Arsenal FC,Nicolas Anelka,17,Centre-Forward,Paris SG,€760Th.,Transfer,in,Winter,0.76,1996,1996/1997
+Arsenal FC,Gavin McGowan,21,Right-Back,Luton,"End of loanApr 5, 1997",Loan,in,Winter,NA,1996,1996/1997
+Arsenal FC,Adrian Clarke,22,midfield,Rotherham,"End of loanDec 1, 1996",Loan,in,Winter,NA,1996,1996/1997
+Arsenal FC,John Hartson,21,Centre-Forward,West Ham,€5.00m,Transfer,out,Winter,5,1996,1996/1997
+Arsenal FC,Steve Morrow,26,Right-Back,QPR,€750Th.,Transfer,out,Winter,0.75,1996,1996/1997
+Arsenal FC,David Hillier,26,Central Midfield,Portsmouth,€320Th.,Transfer,out,Winter,0.32,1996,1996/1997
+Arsenal FC,Andy Linighan,34,Centre-Back,Crystal Palace,€125Th.,Transfer,out,Winter,0.125,1996,1996/1997
+Arsenal FC,Gavin McGowan,21,Right-Back,Luton,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Arsenal FC,Glenn Helder,28,Left Winger,Benfica,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Arsenal FC,Adrian Clarke,22,midfield,Southend United,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Leeds United,Robert Molenaar,27,Centre-Back,FC Volendam,€1.40m,Transfer,in,Winter,1.4,1996,1996/1997
+Leeds United,Pierre Laurent,26,Centre-Forward,SC Bastia,free transfer,Transfer,in,Winter,0,1996,1996/1997
+Leeds United,Paul Beesley,31,Centre-Back,Man City,€600Th.,Transfer,out,Winter,0.6,1996,1996/1997
+Leeds United,Mark Tinkler,22,Central Midfield,York City,€100Th.,Transfer,out,Winter,0.1,1996,1996/1997
+Leeds United,Tomas Brolin,27,Centre-Forward,AC Parma,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Leeds United,Paul Evans,23,Goalkeeper,Bradford,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+West Ham United,John Hartson,21,Centre-Forward,Arsenal,€5.00m,Transfer,in,Winter,5,1996,1996/1997
+West Ham United,Paul Kitson,26,Centre-Forward,Newcastle,€3.50m,Transfer,in,Winter,3.5,1996,1996/1997
+West Ham United,Steve Lomas,23,Central Midfield,Man City,€2.40m,Transfer,in,Winter,2.4,1996,1996/1997
+West Ham United,Mike Newell,31,Centre-Forward,Birmingham,loan transfer,Loan,in,Winter,NA,1996,1996/1997
+West Ham United,Les Sealey,39,Goalkeeper,Leyton Orient,?,Transfer,in,Winter,NA,1996,1996/1997
+West Ham United,Porfírio,23,Centre-Forward,Sporting CP,loan transfer,Loan,in,Winter,NA,1996,1996/1997
+West Ham United,Lee Hodges,19,Left Midfield,Leyton Orient,"End of loanMar 16, 1997",Loan,in,Winter,NA,1996,1996/1997
+West Ham United,Lee Hodges,18,Left Midfield,Exeter City,"End of loanDec 14, 1996",Loan,in,Winter,NA,1996,1996/1997
+West Ham United,Emmanuel Omoyinmi,18,Centre-Forward,Bournemouth,"End of loanNov 10, 1996",Loan,in,Winter,NA,1996,1996/1997
+West Ham United,Rio Ferdinand,18,Centre-Back,Bournemouth,"End of loanDec 31, 1996",Loan,in,Winter,NA,1996,1996/1997
+West Ham United,Steve Jones,26,Centre-Forward,Charlton,€498Th.,Transfer,out,Winter,0.498,1996,1996/1997
+West Ham United,Peter Shilton,47,Goalkeeper,Leyton Orient,free transfer,Transfer,out,Winter,0,1996,1996/1997
+West Ham United,Mark Bowen,33,Left-Back,Shimizu S-Pulse,free transfer,Transfer,out,Winter,0,1996,1996/1997
+West Ham United,Lee Hodges,18,Left Midfield,Leyton Orient,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+West Ham United,Rio Ferdinand,18,Centre-Back,Bournemouth,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+West Ham United,Mike Newell,31,Centre-Forward,Birmingham,"End of loanDec 31, 1996",Loan,out,Winter,NA,1996,1996/1997
+West Ham United,Florin Raducioiu,26,Centre-Forward,Espanyol,"End of loanJan 1, 1997",Loan,out,Winter,NA,1996,1996/1997
+Sunderland AFC,Jan Eriksson,29,Centre-Back,Helsingborg,€300Th.,Transfer,in,Winter,0.3,1996,1996/1997
+Sunderland AFC,Chris Waddle,36,Attacking Midfield,Bradford,€100Th.,Transfer,in,Winter,0.1,1996,1996/1997
+Sunderland AFC,Allan Johnston,23,Right Midfield,Stade Rennais,?,Transfer,in,Winter,NA,1996,1996/1997
+Sunderland AFC,Brett Angell,28,Centre-Forward,Stockport,"End of loanNov 1, 1996",Loan,in,Winter,NA,1996,1996/1997
+Sunderland AFC,Brett Angell,28,Centre-Forward,Stockport,€120Th.,Transfer,out,Winter,0.12,1996,1996/1997
+Sunderland AFC,Sam Aiston,20,midfield,Chester City,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Sunderland AFC,Steve Brodie,23,Centre-Forward,Scarborough,?,Transfer,out,Winter,NA,1996,1996/1997
+Southampton FC,Mickey Evans,24,Centre-Forward,Plymouth,€780Th.,Transfer,in,Winter,0.78,1996,1996/1997
+Southampton FC,Maik Taylor,25,Goalkeeper,Barnet,€750Th.,Transfer,in,Winter,0.75,1996,1996/1997
+Southampton FC,Ali Dia,31,Centre-Forward,Blyth Spartans,?,Transfer,in,Winter,NA,1996,1996/1997
+Southampton FC,Paul Tisdale,23,midfield,Huddersfield,"End of loanDec 1, 1996",Loan,in,Winter,NA,1996,1996/1997
+Southampton FC,Frankie Bennett,27,Centre-Forward,Shrewsbury,"End of loanNov 12, 1996",Loan,in,Winter,NA,1996,1996/1997
+Southampton FC,Gordon Watson,25,Centre-Forward,Bradford,€660Th.,Transfer,out,Winter,0.66,1996,1996/1997
+Southampton FC,Neil Heaney,24,Right Winger,Man City,€640Th.,Transfer,out,Winter,0.64,1996,1996/1997
+Southampton FC,Graham Potter,21,Left-Back,West Brom,€376Th.,Transfer,out,Winter,0.376,1996,1996/1997
+Southampton FC,Paul Tisdale,23,midfield,Huddersfield,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Southampton FC,Christer Warren,22,midfield,Fulham,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Southampton FC,Frankie Bennett,27,Centre-Forward,Bristol Rovers,€19Th.,Transfer,out,Winter,0.019,1996,1996/1997
+Southampton FC,Ali Dia,31,Centre-Forward,Gateshead,?,Transfer,out,Winter,NA,1996,1996/1997
+Southampton FC,Paul Sheerin,22,Left Midfield,Östersund,?,Transfer,out,Winter,NA,1996,1996/1997
+Southampton FC,Chris Woods,37,Goalkeeper,Retired,-,Transfer,out,Winter,NA,1996,1996/1997
+Blackburn Rovers,Per Pedersen,27,Centre-Forward,Odense BK,?,Transfer,in,Winter,NA,1996,1996/1997
+Blackburn Rovers,Marlon Broomes,19,Centre-Back,Swindon Town,"End of loanMar 1, 1997",Loan,in,Winter,NA,1996,1996/1997
+Blackburn Rovers,Marlon Broomes,19,Centre-Back,Swindon Town,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Blackburn Rovers,Niklas Gudmundsson,25,Left Winger,Ipswich,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Tottenham Hotspur,Steffen Iversen,19,Second Striker,Rosenborg,€3.25m,Transfer,in,Winter,3.25,1996,1996/1997
+Tottenham Hotspur,John Scales,30,Centre-Back,Liverpool,€3.00m,Transfer,in,Winter,3,1996,1996/1997
+Tottenham Hotspur,Ramon Vega,25,Centre-Back,Cagliari Calcio,?,Transfer,in,Winter,NA,1996,1996/1997
+Tottenham Hotspur,Jamie Clapham,21,Left-Back,Leyton Orient,"End of loanFeb 1, 1997",Loan,in,Winter,NA,1996,1996/1997
+Tottenham Hotspur,Jamie Clapham,21,Left-Back,Bristol Rovers,"End of loanApr 1, 1997",Loan,in,Winter,NA,1996,1996/1997
+Tottenham Hotspur,David Kerslake,30,Right-Back,Swindon Town,"End of loanJan 18, 1997",Loan,in,Winter,NA,1996,1996/1997
+Tottenham Hotspur,Kevin Scott,30,Centre-Back,Charlton,"End of loanJan 11, 1997",Loan,in,Winter,NA,1996,1996/1997
+Tottenham Hotspur,Kevin Scott,30,Centre-Back,Norwich,"End of loanFeb 24, 1997",Loan,in,Winter,NA,1996,1996/1997
+Tottenham Hotspur,Jason Cundy,27,Centre-Back,Ipswich,"End of loanNov 30, 1996",Loan,in,Winter,NA,1996,1996/1997
+Tottenham Hotspur,Kevin Scott,30,Centre-Back,Norwich,€350Th.,Transfer,out,Winter,0.35,1996,1996/1997
+Tottenham Hotspur,Jason Cundy,27,Centre-Back,Ipswich,€235Th.,Transfer,out,Winter,0.235,1996,1996/1997
+Tottenham Hotspur,Jamie Clapham,21,Left-Back,Leyton Orient,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Tottenham Hotspur,Jamie Clapham,21,Left-Back,Bristol Rovers,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Tottenham Hotspur,David Kerslake,30,Right-Back,Swindon Town,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Tottenham Hotspur,Kevin Scott,30,Centre-Back,Charlton,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Tottenham Hotspur,Kevin Scott,30,Centre-Back,Norwich,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Liverpool FC,Lee Jones,23,Centre-Forward,Wrexham,"End of loanMar 1, 1997",Loan,in,Winter,NA,1996,1996/1997
+Liverpool FC,John Scales,30,Centre-Back,Spurs,€3.00m,Transfer,out,Winter,3,1996,1996/1997
+Liverpool FC,Lee Jones,23,Centre-Forward,Wrexham,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Liverpool FC,Lee Jones,23,Centre-Forward,Tranmere Rovers,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Everton FC,Claus Thomsen,26,Centre-Back,Ipswich,€1.25m,Transfer,in,Winter,1.25,1996,1996/1997
+Everton FC,Terry Phelan,29,Left-Back,Chelsea,?,Transfer,in,Winter,NA,1996,1996/1997
+Everton FC,John Hills,18,Left-Back,Swansea,"End of loanMar 1, 1997",Loan,in,Winter,NA,1996,1996/1997
+Everton FC,Matt Jackson,25,Right-Back,Birmingham,"End of loanDec 1, 1996",Loan,in,Winter,NA,1996,1996/1997
+Everton FC,Andrey Kanchelskis,27,Right Midfield,Fiorentina,€8.00m,Transfer,out,Winter,8,1996,1996/1997
+Everton FC,John Ebbrell,27,midfield,Sheff Utd,€1.50m,Transfer,out,Winter,1.5,1996,1996/1997
+Everton FC,Matt Jackson,25,Right-Back,Norwich,€675Th.,Transfer,out,Winter,0.675,1996,1996/1997
+Everton FC,Anders Limpar,31,Attacking Midfield,Birmingham,€120Th.,Transfer,out,Winter,0.12,1996,1996/1997
+Everton FC,Neil Moore,24,defence,Norwich,free transfer,Transfer,out,Winter,0,1996,1996/1997
+Everton FC,John Hills,18,Left-Back,Swansea,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Everton FC,Jamie Speare,20,Goalkeeper,Darlington,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Derby County,Paulo Wanchope,20,Centre-Forward,Herediano,€840Th.,Transfer,in,Winter,0.84,1996,1996/1997
+Derby County,Mart Poom,25,Goalkeeper,Portsmouth,€700Th.,Transfer,in,Winter,0.7,1996,1996/1997
+Derby County,Paul Trollope,24,Attacking Midfield,Crystal Palace,"End of loanNov 1, 1996",Loan,in,Winter,NA,1996,1996/1997
+Derby County,Aljosa Asanovic,30,Central Midfield,Hajduk Split,?,Transfer,in,Winter,NA,1996,1996/1997
+Derby County,Marino Rahmberg,22,Centre-Forward,Degerfors,loan transfer,Loan,in,Winter,NA,1996,1996/1997
+Derby County,Marco Gabbiadini,28,Centre-Forward,Birmingham,"End of loanOct 18, 1996",Loan,in,Winter,NA,1996,1996/1997
+Derby County,Marco Gabbiadini,29,Centre-Forward,Oxford United,"End of loanMar 1, 1997",Loan,in,Winter,NA,1996,1996/1997
+Derby County,Sean Flynn,29,midfield,Stoke City,"End of loanApr 1, 1997",Loan,in,Winter,NA,1996,1996/1997
+Derby County,Darren Wassall,28,defence,Man City,"End of loanDec 1, 1996",Loan,in,Winter,NA,1996,1996/1997
+Derby County,Martin Taylor,30,Goalkeeper,Wycombe,"End of loanApr 8, 1997",Loan,in,Winter,NA,1996,1996/1997
+Derby County,Paul Simpson,30,midfield,Sheff Utd,"End of loanDec 31, 1996",Loan,in,Winter,NA,1996,1996/1997
+Derby County,Robin van der Laan,28,Attacking Midfield,Wolves,"End of loanNov 1, 1996",Loan,in,Winter,NA,1996,1996/1997
+Derby County,Jason Kavanagh,25,Right-Back,Wycombe,"End of loanNov 28, 1996",Loan,in,Winter,NA,1996,1996/1997
+Derby County,Kevin Cooper,22,Left Midfield,Stockport,€225Th.,Transfer,out,Winter,0.225,1996,1996/1997
+Derby County,Ian Ashbee,20,Defensive Midfield,Cambridge Utd.,free transfer,Transfer,out,Winter,0,1996,1996/1997
+Derby County,Jason Kavanagh,24,Right-Back,Wycombe,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Derby County,David Preece,32,Left Midfield,Swindon Town,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Derby County,Paul Simpson,30,midfield,Sheff Utd,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Derby County,Martin Taylor,30,Goalkeeper,Wycombe,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Derby County,Sean Flynn,28,midfield,Stoke City,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Derby County,Darren Wassall,28,defence,Birmingham,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Derby County,Marco Gabbiadini,29,Centre-Forward,Oxford United,loan transfer,Loan,out,Winter,NA,1996,1996/1997
+Derby County,Jason Kavanagh,25,Right-Back,Wycombe,€28Th.,Transfer,out,Winter,0.028,1996,1996/1997
+Derby County,Paul Parker,32,Right-Back,Sheff Utd,?,Transfer,out,Winter,NA,1996,1996/1997
+Derby County,Marino Rahmberg,22,Centre-Forward,Degerfors,"End of loanJan 31, 1997",Loan,out,Winter,NA,1996,1996/1997

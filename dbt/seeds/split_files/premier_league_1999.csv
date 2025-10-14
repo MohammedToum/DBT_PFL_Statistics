@@ -1,0 +1,689 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_type,transfer_movement,transfer_period,fee_cleaned,year,season
+Chelsea FC,Chris Sutton,26,Centre-Forward,Blackburn,€15.00m,Transfer,in,Summer,15,1999,1999/2000
+Chelsea FC,Gabriele Ambrosetti,25,Left Midfield,Vicenza,€4.89m,Transfer,in,Summer,4.89,1999,1999/2000
+Chelsea FC,Didier Deschamps,30,Defensive Midfield,Juventus,€2.00m,Transfer,in,Summer,2,1999,1999/2000
+Chelsea FC,Jes Högh,33,Centre-Back,Fenerbahce,€470Th.,Transfer,in,Summer,0.47,1999,1999/2000
+Chelsea FC,Mario Melchiot,22,Right-Back,Ajax,free transfer,Transfer,in,Summer,0,1999,1999/2000
+Chelsea FC,Stuart Reddington,21,defence,Lincoln United,?,Transfer,in,Summer,NA,1999,1999/2000
+Chelsea FC,Carlo Cudicini,25,Goalkeeper,Castel di Sangro,loan transfer,Loan,in,Summer,NA,1999,1999/2000
+Chelsea FC,Leon Knight,16,Centre-Forward,Chelsea U18,-,Transfer,in,Summer,NA,1999,1999/2000
+Chelsea FC,Samuele Dalla Bona,18,Central Midfield,Chelsea U18,-,Transfer,in,Summer,NA,1999,1999/2000
+Chelsea FC,Danny Slatter,18,midfield,Chelsea U18,-,Transfer,in,Summer,NA,1999,1999/2000
+Chelsea FC,Joe Keenan,16,Left-Back,Chelsea U18,-,Transfer,in,Summer,NA,1999,1999/2000
+Chelsea FC,John Terry,19,Centre-Back,Nottm Forest,"End of loanMay 31, 2000",Loan,in,Summer,NA,1999,1999/2000
+Chelsea FC,Mark Nicholls,22,Centre-Forward,Grimsby Town,"End of loanMay 8, 2000",Loan,in,Summer,NA,1999,1999/2000
+Chelsea FC,Michael Duberry,23,Centre-Back,Leeds,€6.75m,Transfer,out,Summer,6.75,1999,1999/2000
+Chelsea FC,Andy Myers,25,Left-Back,Bradford,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Chelsea FC,Dmitri Kharin,30,Goalkeeper,Celtic,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Chelsea FC,Stuart Reddington,22,defence,Kalmar FF,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+Chelsea FC,Eddie Newton,27,Defensive Midfield,Birmingham,?,Transfer,out,Summer,NA,1999,1999/2000
+Chelsea FC,Gianluca Vialli,34,Centre-Forward,Retired,-,Transfer,out,Summer,NA,1999,1999/2000
+Chelsea FC,Carlo Cudicini,26,Goalkeeper,Castel di Sangro,"End of loanMay 1, 2000",Loan,out,Summer,NA,1999,1999/2000
+Sheffield Wednesday,Gilles De Bilde,28,Centre-Forward,PSV Eindhoven,€5.00m,Transfer,in,Summer,5,1999,1999/2000
+Sheffield Wednesday,Gerald Sibon,25,Centre-Forward,Ajax,€3.00m,Transfer,in,Summer,3,1999,1999/2000
+Sheffield Wednesday,Simon Donnelly,24,Right Winger,Celtic,free transfer,Transfer,in,Summer,0,1999,1999/2000
+Sheffield Wednesday,Phil O'Donnell,27,Central Midfield,Celtic,free transfer,Transfer,in,Summer,0,1999,1999/2000
+Sheffield Wednesday,Alex Higgins,17,midfield,Unknown,?,Transfer,in,Summer,NA,1999,1999/2000
+Sheffield Wednesday,Steve Haslam,19,Right-Back,Sheff Wed U18,-,Transfer,in,Summer,NA,1999,1999/2000
+Sheffield Wednesday,Tony Crane,16,defence,Sheff Wed U18,-,Transfer,in,Summer,NA,1999,1999/2000
+Sheffield Wednesday,Junior Agogo,20,Centre-Forward,Oldham Athletic,"End of loanAug 1, 1999",Loan,in,Summer,NA,1999,1999/2000
+Sheffield Wednesday,Junior Agogo,20,Centre-Forward,Chester City,"End of loanOct 1, 1999",Loan,in,Summer,NA,1999,1999/2000
+Sheffield Wednesday,Ritchie Humphreys,21,Defensive Midfield,Scunthorpe Utd.,"End of loanSep 1, 1999",Loan,in,Summer,NA,1999,1999/2000
+Sheffield Wednesday,Matt Clarke,25,Goalkeeper,Bradford,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Sheffield Wednesday,Dejan Stefanovic,24,Centre-Back,OFK Beograd,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Sheffield Wednesday,Neil Sykes,24,Left Midfield,Central United,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Sheffield Wednesday,Guy Whittingham,34,Centre-Forward,Portsmouth,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Sheffield Wednesday,Junior Agogo,19,Centre-Forward,Oldham Athletic,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+Sheffield Wednesday,Ritchie Humphreys,21,Defensive Midfield,Scunthorpe Utd.,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+Sheffield Wednesday,Junior Agogo,20,Centre-Forward,Chester City,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+Sheffield Wednesday,Francesco Sanetti,20,Second Striker,AS Livorno,?,Transfer,out,Summer,NA,1999,1999/2000
+Sheffield Wednesday,Benny Carbone,27,Second Striker,Aston Villa,?,Transfer,out,Summer,NA,1999,1999/2000
+Sheffield Wednesday,Juan Cobian,23,Right-Back,Charlton,?,Transfer,out,Summer,NA,1999,1999/2000
+Sheffield Wednesday,Barry Richardson,30,Goalkeeper,Lincoln City,"End of loanMay 1, 2000",Loan,out,Summer,NA,1999,1999/2000
+Bradford City,David Wetherall,28,Centre-Back,Leeds,€2.10m,Transfer,in,Summer,2.1,1999,1999/2000
+Bradford City,Lee Sharpe,28,Left Midfield,Leeds,€300Th.,Transfer,in,Summer,0.3,1999,1999/2000
+Bradford City,Neil Redfearn,34,Central Midfield,Charlton,€287Th.,Transfer,in,Summer,0.287,1999,1999/2000
+Bradford City,Andy Myers,25,Left-Back,Chelsea,free transfer,Transfer,in,Summer,0,1999,1999/2000
+Bradford City,Dean Saunders,35,Centre-Forward,Benfica,free transfer,Transfer,in,Summer,0,1999,1999/2000
+Bradford City,Matt Clarke,25,Goalkeeper,Sheff Wed,free transfer,Transfer,in,Summer,0,1999,1999/2000
+Bradford City,Bruno Rodriguez,26,Centre-Forward,Paris SG,loan transfer,Loan,in,Summer,NA,1999,1999/2000
+Bradford City,Gunnar Halle,33,Right-Back,Leeds,?,Transfer,in,Summer,NA,1999,1999/2000
+Bradford City,Scott Kerr,17,Central Midfield,Bradford U18,-,Transfer,in,Summer,NA,1999,1999/2000
+Bradford City,Isaiah Rankin,21,Centre-Forward,Birmingham,"End of loanMay 1, 2000",Loan,in,Summer,NA,1999,1999/2000
+Bradford City,Mark Bower,20,Centre-Back,York City,"End of loanMay 8, 2000",Loan,in,Summer,NA,1999,1999/2000
+Bradford City,Lee Todd,27,Left-Back,Walsall,"End of loanSep 30, 1999",Loan,in,Summer,NA,1999,1999/2000
+Bradford City,Gordon Watson,28,Centre-Forward,Bournemouth,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Bradford City,Lee Todd,27,Left-Back,Walsall,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+Bradford City,Robert Steiner,26,attack,QPR,?,Transfer,out,Summer,NA,1999,1999/2000
+Bradford City,Craig Ramage,29,Central Midfield,Notts County,?,Transfer,out,Summer,NA,1999,1999/2000
+Bradford City,Mark Prudhoe,35,Goalkeeper,Darlington,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+Bradford City,Bruno Rodriguez,26,Centre-Forward,Paris SG,"End of loanOct 22, 1999",Loan,out,Summer,NA,1999,1999/2000
+Watford FC,Nordin Wooter,22,Right Winger,Real Zaragoza,€1.40m,Transfer,in,Summer,1.4,1999,1999/2000
+Watford FC,Charlie Miller,23,Attacking Midfield,Rangers,free transfer,Transfer,in,Summer,0,1999,1999/2000
+Watford FC,Richard Johnson,25,midfield,Weston-super-M.,free transfer,Transfer,in,Summer,0,1999,1999/2000
+Watford FC,Dominic Foley,22,Centre-Forward,Wolves,free transfer,Transfer,in,Summer,0,1999,1999/2000
+Watford FC,Mark Williams,28,Centre-Back,Chesterfield FC,free transfer,Transfer,in,Summer,0,1999,1999/2000
+Watford FC,Des Lyttle,27,Right-Back,Nottm Forest,?,Transfer,in,Summer,NA,1999,1999/2000
+Watford FC,Herwig Walker,27,Goalkeeper,Vorwärts Steyr,?,Transfer,in,Summer,NA,1999,1999/2000
+Watford FC,Steve Brooker,18,Centre-Forward,Watford U18,-,Transfer,in,Summer,NA,1999,1999/2000
+Watford FC,Felix Michel Ngonge,32,Right Winger,Huddersfield,"End of loanMay 8, 2000",Loan,in,Summer,NA,1999,1999/2000
+Watford FC,Des Lyttle,28,Right-Back,West Brom,"End of loanMay 8, 2000",Loan,in,Summer,NA,1999,1999/2000
+Watford FC,Darren Bazeley,26,Right-Back,Wolves,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Watford FC,Wayne Andrews,21,attack,St Albans City,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Watford FC,Tony Daley,31,Right Winger,Walsall,?,Transfer,out,Summer,NA,1999,1999/2000
+Watford FC,Alon Hazan,31,Central Midfield,FC Ashdod,?,Transfer,out,Summer,NA,1999,1999/2000
+Watford FC,Ronny Rosenthal,35,Left Winger,Retired,-,Transfer,out,Summer,NA,1999,1999/2000
+Leicester City,Tim Flowers,32,Goalkeeper,Blackburn,€1.80m,Transfer,in,Summer,1.8,1999,1999/2000
+Leicester City,Carl Bacon,18,Right-Back,Unknown,?,Transfer,in,Summer,NA,1999,1999/2000
+Leicester City,Matthew Nurse,17,Goalkeeper,Unknown,?,Transfer,in,Summer,NA,1999,1999/2000
+Leicester City,Alex Mortimer,16,midfield,Unknown,?,Transfer,in,Summer,NA,1999,1999/2000
+Leicester City,Phil Gilchrist,25,Centre-Back,Oxford United,?,Transfer,in,Summer,NA,1999,1999/2000
+Leicester City,Guy Branston,20,Centre-Back,Lincoln City,"End of loanSep 1, 1999",Loan,in,Summer,NA,1999,1999/2000
+Leicester City,Stuart Wilson,22,Attacking Midfield,Sheff Utd,"End of loanMay 8, 2000",Loan,in,Summer,NA,1999,1999/2000
+Leicester City,Jordan Stewart,18,Left-Back,Bristol Rovers,"End of loanMay 31, 2000",Loan,in,Summer,NA,1999,1999/2000
+Leicester City,Stuart Campbell,22,Defensive Midfield,Birmingham,"End of loanMay 1, 2000",Loan,in,Summer,NA,1999,1999/2000
+Leicester City,Graham Fenton,25,Second Striker,Walsall,"End of loanMay 8, 2000",Loan,in,Summer,NA,1999,1999/2000
+Leicester City,Guy Branston,20,Centre-Back,Rotherham,€75Th.,Transfer,out,Summer,0.075,1999,1999/2000
+Leicester City,Gary Neil,20,Centre-Forward,Torquay,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Leicester City,Kasey Keller,29,Goalkeeper,Rayo Vallecano,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Leicester City,Scott Taylor,28,Right Midfield,Wolves,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Leicester City,Guy Branston,20,Centre-Back,Lincoln City,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+Leicester City,Arnar Gunnlaugsson,26,Right Winger,Stoke City,?,Transfer,out,Summer,NA,1999,1999/2000
+Leicester City,Pontus Kamark,30,Centre-Back,AIK,?,Transfer,out,Summer,NA,1999,1999/2000
+Wimbledon FC,Hermann Hreidarsson,24,Centre-Back,Brentford,€3.75m,Transfer,in,Summer,3.75,1999,1999/2000
+Wimbledon FC,Martin Andresen,22,Central Midfield,Stabæk Fotball,€3.00m,Transfer,in,Summer,3,1999,1999/2000
+Wimbledon FC,Walid Badir,25,Defensive Midfield,H. Petah Tikva,€1.50m,Transfer,in,Summer,1.5,1999,1999/2000
+Wimbledon FC,Chris Willmott,21,Centre-Back,Luton,?,Transfer,in,Summer,NA,1999,1999/2000
+Wimbledon FC,Tore Pedersen,29,Centre-Back,E. Frankfurt,?,Transfer,in,Summer,NA,1999,1999/2000
+Wimbledon FC,Kjetil Waehler,23,Centre-Back,FK Lyn,?,Transfer,in,Summer,NA,1999,1999/2000
+Wimbledon FC,Trond Andersen,24,Centre-Back,Molde,?,Transfer,in,Summer,NA,1999,1999/2000
+Wimbledon FC,Wayne Gray,18,Centre-Forward,Wimbledon U19,-,Transfer,in,Summer,NA,1999,1999/2000
+Wimbledon FC,Robert Owusu Ansah,19,midfield,Wimbledon U19,-,Transfer,in,Summer,NA,1999,1999/2000
+Wimbledon FC,Bryn Halliwell,18,Goalkeeper,Wimbledon U19,-,Transfer,in,Summer,NA,1999,1999/2000
+Wimbledon FC,Patrick Agyemang,19,Centre-Forward,Brentford,"End of loanMay 1, 2000",Loan,in,Summer,NA,1999,1999/2000
+Wimbledon FC,Peter Hawkins,21,Left-Back,York City,"End of loanMay 1, 2000",Loan,in,Summer,NA,1999,1999/2000
+Wimbledon FC,Robert Owusu Ansah,20,midfield,Raith Rovers,"End of loanMay 8, 2000",Loan,in,Summer,NA,1999,1999/2000
+Wimbledon FC,Wayne Gray,19,Centre-Forward,Swindon Town,"End of loanMay 1, 2000",Loan,in,Summer,NA,1999,1999/2000
+Wimbledon FC,Chris Perry,26,Centre-Back,Spurs,€6.00m,Transfer,out,Summer,6,1999,1999/2000
+Wimbledon FC,Mark Kennedy,23,Left-Back,Man City,€1.38m,Transfer,out,Summer,1.38,1999,1999/2000
+Wimbledon FC,Efan Ekoku,32,Centre-Forward,Grasshoppers,€1.30m,Transfer,out,Summer,1.3,1999,1999/2000
+Wimbledon FC,Andy Pearce,33,Centre-Back,Aldershot,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Wimbledon FC,Andy Clarke,31,Left Winger,Peterborough,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Wimbledon FC,Patrick Agyemang,18,Centre-Forward,Brentford,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+Wimbledon FC,Andy Futcher,21,defence,Doncaster,?,Transfer,out,Summer,NA,1999,1999/2000
+Wimbledon FC,Brendan Murphy,23,Goalkeeper,Dundalk FC,?,Transfer,out,Summer,NA,1999,1999/2000
+Wimbledon FC,Richard O'Connor,20,Right Midfield,Kingstonian FC,?,Transfer,out,Summer,NA,1999,1999/2000
+Wimbledon FC,Lee Jones,24,Defensive Midfield,Tampere United,?,Transfer,out,Summer,NA,1999,1999/2000
+Wimbledon FC,Peter Fear,25,midfield,Oxford United,?,Transfer,out,Summer,NA,1999,1999/2000
+Coventry City,Robbie Keane,19,Centre-Forward,Wolves,€9.00m,Transfer,in,Summer,9,1999,1999/2000
+Coventry City,Carlton Palmer,33,Defensive Midfield,Nottm Forest,€600Th.,Transfer,in,Summer,0.6,1999,1999/2000
+Coventry City,Runar Normann,21,Left-Back,Lillestrøm,?,Transfer,in,Summer,NA,1999,1999/2000
+Coventry City,Youssef Chippo,26,Central Midfield,FC Porto,?,Transfer,in,Summer,NA,1999,1999/2000
+Coventry City,Raffaele Nuzzo,26,Goalkeeper,Inter,?,Transfer,in,Summer,NA,1999,1999/2000
+Coventry City,Morten Hyldgaard,21,Goalkeeper,Grimsby Town,?,Transfer,in,Summer,NA,1999,1999/2000
+Coventry City,Cédric Roussel,21,Centre-Forward,KAA Gent,loan transfer,Loan,in,Summer,NA,1999,1999/2000
+Coventry City,Chukki Eribenne,18,Centre-Forward,Coventry U18,-,Transfer,in,Summer,NA,1999,1999/2000
+Coventry City,Lee Fowler,16,Central Midfield,Coventry U18,-,Transfer,in,Summer,NA,1999,1999/2000
+Coventry City,Gary Montgomery,16,Goalkeeper,Coventry U18,-,Transfer,in,Summer,NA,1999,1999/2000
+Coventry City,Gary McSheffrey,16,Left Winger,Coventry U18,-,Transfer,in,Summer,NA,1999,1999/2000
+Coventry City,Chris Kirkland,18,Goalkeeper,Coventry U18,-,Transfer,in,Summer,NA,1999,1999/2000
+Coventry City,Graeme Mathie,16,Centre-Back,Coventry U18,-,Transfer,in,Summer,NA,1999,1999/2000
+Coventry City,Chukki Eribenne,19,Centre-Forward,Helsingborg,"End of loanMay 1, 2000",Loan,in,Summer,NA,1999,1999/2000
+Coventry City,Darren Huckerby,23,Right Winger,Leeds,€7.60m,Transfer,out,Summer,7.6,1999,1999/2000
+Coventry City,George Boateng,23,Defensive Midfield,Aston Villa,€6.20m,Transfer,out,Summer,6.2,1999,1999/2000
+Coventry City,Philippe Clement,25,Centre-Back,Club Brugge,€1.15m,Transfer,out,Summer,1.15,1999,1999/2000
+Coventry City,Trond Soltvedt,32,Attacking Midfield,Southampton,€450Th.,Transfer,out,Summer,0.45,1999,1999/2000
+Coventry City,Sam Shilton,21,Left-Back,Hartlepool,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Coventry City,Willie Boland,23,Central Midfield,Cardiff,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Coventry City,Liam Daish,30,Centre-Back,Havant & Water.,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Coventry City,Craig Faulconbridge,21,Centre-Forward,Wrexham,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Coventry City,Andrew Ducros,21,Right Winger,Nuneaton,?,Transfer,out,Summer,NA,1999,1999/2000
+Coventry City,Stefano Gioacchini,22,Second Striker,Cosenza,?,Transfer,out,Summer,NA,1999,1999/2000
+Coventry City,Roland Nilsson,35,Right-Back,Helsingborg,?,Transfer,out,Summer,NA,1999,1999/2000
+Coventry City,Barry Prenderville,22,defence,Ayr United,?,Transfer,out,Summer,NA,1999,1999/2000
+Manchester United,Mikaël Silvestre,22,Left-Back,Inter,€5.70m,Transfer,in,Summer,5.7,1999,1999/2000
+Manchester United,Mark Bosnich,27,Goalkeeper,Aston Villa,free transfer,Transfer,in,Summer,0,1999,1999/2000
+Manchester United,Massimo Taibi,29,Goalkeeper,AC Venezia 1907,free transfer,Transfer,in,Summer,0,1999,1999/2000
+Manchester United,Kalam Mooniaruck,15,attack,Norwich,?,Transfer,in,Summer,NA,1999,1999/2000
+Manchester United,Luke Chadwick,18,Attacking Midfield,Man Utd Res.,-,Transfer,in,Summer,NA,1999,1999/2000
+Manchester United,Danny Webber,17,Centre-Forward,Man Utd U18,-,Transfer,in,Summer,NA,1999,1999/2000
+Manchester United,Kirk Hilton,19,Centre-Back,Royal Antwerp,"End of loanApr 28, 2000",Loan,in,Summer,NA,1999,1999/2000
+Manchester United,Jordi Cruyff,25,Attacking Midfield,Celta de Vigo,"End of loanJun 30, 1999",Loan,in,Summer,NA,1999,1999/2000
+Manchester United,John Curtis,21,Right-Back,Barnsley FC,"End of loanMay 1, 2000",Loan,in,Summer,NA,1999,1999/2000
+Manchester United,Danny Higginbotham,20,Centre-Back,Royal Antwerp,"End of loanJun 30, 1999",Loan,in,Summer,NA,1999,1999/2000
+Manchester United,David Healy,20,Centre-Forward,Port Vale,"End of loanMay 1, 2000",Loan,in,Summer,NA,1999,1999/2000
+Manchester United,Alex Notman,19,Right Winger,Aberdeen FC,"End of loanJun 30, 1999",Loan,in,Summer,NA,1999,1999/2000
+Manchester United,Mike Clegg,22,Right-Back,Wigan,"End of loanMay 7, 2000",Loan,in,Summer,NA,1999,1999/2000
+Manchester United,Michael Twiss,21,Right Midfield,Sheff Utd,"End of loanJun 1, 1999",Loan,in,Summer,NA,1999,1999/2000
+Manchester United,Peter Schmeichel,35,Goalkeeper,Sporting CP,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Manchester United,Kirk Hilton,18,Centre-Back,Royal Antwerp,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+Newcastle United,Kieron Dyer,20,Right Midfield,Ipswich,€9.00m,Transfer,in,Summer,9,1999,1999/2000
+Newcastle United,Alain Goma,26,Centre-Back,Paris SG,€7.00m,Transfer,in,Summer,7,1999,1999/2000
+Newcastle United,Marcelino,27,Centre-Back,RCD Mallorca,€6.70m,Transfer,in,Summer,6.7,1999,1999/2000
+Newcastle United,Diego Gavilán,19,Central Midfield,Cerro Porteño,€3.00m,Transfer,in,Summer,3,1999,1999/2000
+Newcastle United,Kevin Gallacher,32,Right Winger,Blackburn,€800Th.,Transfer,in,Summer,0.8,1999,1999/2000
+Newcastle United,Franck Dumas,31,Centre-Back,Monaco,€750Th.,Transfer,in,Summer,0.75,1999,1999/2000
+Newcastle United,Jonny Brain,16,Goalkeeper,Carlisle United,free transfer,Transfer,in,Summer,0,1999,1999/2000
+Newcastle United,Fumaça,22,Second Striker,Crystal Palace,free transfer,Transfer,in,Summer,0,1999,1999/2000
+Newcastle United,Gary Caldwell,17,Centre-Back,Celtic Boys Club,free transfer,Transfer,in,Summer,0,1999,1999/2000
+Newcastle United,Hélder Cristóvão,28,Centre-Back,Dep. La Coruña,loan transfer,Loan,in,Summer,NA,1999,1999/2000
+Newcastle United,Tommy Wright,35,Goalkeeper,Man City,loan transfer,Loan,in,Summer,NA,1999,1999/2000
+Newcastle United,Lucas Cominelli,22,midfield,Granada CF,loan transfer,Loan,in,Summer,NA,1999,1999/2000
+Newcastle United,Stuart Green,18,Right Winger,Newcastle U18,-,Transfer,in,Summer,NA,1999,1999/2000
+Newcastle United,Stephen Brennan,16,Defensive Midfield,Newcastle U18,-,Transfer,in,Summer,NA,1999,1999/2000
+Newcastle United,Stuart Elliott,22,midfield,Stockport,"End of loanMay 8, 2000",Loan,in,Summer,NA,1999,1999/2000
+Newcastle United,Lionel Perez,33,Goalkeeper,Cambridge Utd.,"End of loanMay 8, 2000",Loan,in,Summer,NA,1999,1999/2000
+Newcastle United,Lionel Perez,32,Goalkeeper,Scunthorpe Utd.,"End of loanOct 29, 1999",Loan,in,Summer,NA,1999,1999/2000
+Newcastle United,Des Hamilton,23,Right Midfield,Norwich,"End of loanMay 8, 2000",Loan,in,Summer,NA,1999,1999/2000
+Newcastle United,Alessandro Pistone,23,Left-Back,AC Venezia 1907,"End of loanJun 30, 1999",Loan,in,Summer,NA,1999,1999/2000
+Newcastle United,James Coppinger,19,Right Midfield,Hartlepool,"End of loanMay 1, 2000",Loan,in,Summer,NA,1999,1999/2000
+Newcastle United,Garry Brady,23,Central Midfield,Norwich,"End of loanMay 1, 2000",Loan,in,Summer,NA,1999,1999/2000
+Newcastle United,Dietmar Hamann,25,Defensive Midfield,Liverpool,€12.00m,Transfer,out,Summer,12,1999,1999/2000
+Newcastle United,Steve Howey,27,Centre-Back,Man City,€4.60m,Transfer,out,Summer,4.6,1999,1999/2000
+Newcastle United,Andreas Andersson,25,Centre-Forward,AIK,€2.75m,Transfer,out,Summer,2.75,1999,1999/2000
+Newcastle United,Georgios Georgiadis,27,Right Winger,PAOK Salonika,€500Th.,Transfer,out,Summer,0.5,1999,1999/2000
+Newcastle United,Philippe Albert,31,Centre-Back,RSC Charleroi,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Newcastle United,Stuart Pearce,37,Left-Back,West Ham,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Newcastle United,Ralf Keidel,22,Right-Back,MSV Duisburg,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Newcastle United,David Terrier,25,Centre-Back,OGC Nice,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Newcastle United,Lionel Perez,32,Goalkeeper,Scunthorpe Utd.,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+Newcastle United,Tommy Wright,35,Goalkeeper,Man City,"End of loanSep 1, 1999",Loan,out,Summer,NA,1999,1999/2000
+Middlesbrough FC,Christian Ziege,27,Left Midfield,Milan,€6.00m,Transfer,in,Summer,6,1999,1999/2000
+Middlesbrough FC,Paul Ince,31,Defensive Midfield,Liverpool,€1.50m,Transfer,in,Summer,1.5,1999,1999/2000
+Middlesbrough FC,Chris Bennion,18,Goalkeeper,Hearts FC U20,free transfer,Transfer,in,Summer,0,1999,1999/2000
+Middlesbrough FC,Juninho Paulista,26,Attacking Midfield,Atlético Madrid,loan transfer,Loan,in,Summer,NA,1999,1999/2000
+Middlesbrough FC,Mark Hudson,18,Central Midfield,Boro U18,-,Transfer,in,Summer,NA,1999,1999/2000
+Middlesbrough FC,Sean Prunty,18,defence,Boro U18,-,Transfer,in,Summer,NA,1999,1999/2000
+Middlesbrough FC,Alun Armstrong,25,Centre-Forward,Huddersfield,"End of loanMay 1, 2000",Loan,in,Summer,NA,1999,1999/2000
+Middlesbrough FC,Steve Baker,21,Right-Back,Darlington,"End of loanMay 27, 2000",Loan,in,Summer,NA,1999,1999/2000
+Middlesbrough FC,Steve Baker,20,Right-Back,Huddersfield,"End of loanAug 30, 1999",Loan,in,Summer,NA,1999,1999/2000
+Middlesbrough FC,Andy Townsend,36,Central Midfield,West Brom,€50Th.,Transfer,out,Summer,0.05,1999,1999/2000
+Middlesbrough FC,Steve Baker,20,Right-Back,Huddersfield,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+Middlesbrough FC,Ross Harrower,16,Goalkeeper,Dunfermline A.,?,Transfer,out,Summer,NA,1999,1999/2000
+Middlesbrough FC,Marco Branca,34,Centre-Forward,FC Luzern,?,Transfer,out,Summer,NA,1999,1999/2000
+Middlesbrough FC,Clayton Blackmore,34,Left-Back,Barnsley FC,?,Transfer,out,Summer,NA,1999,1999/2000
+Middlesbrough FC,Gustavo Lombardi,23,Right-Back,River Plate,?,Transfer,out,Summer,NA,1999,1999/2000
+Middlesbrough FC,Anthony Ormerod,20,Right Winger,York City,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+Arsenal FC,Thierry Henry,21,Centre-Forward,Juventus,€16.10m,Transfer,in,Summer,16.1,1999,1999/2000
+Arsenal FC,Davor Suker,31,Centre-Forward,Real Madrid,€5.40m,Transfer,in,Summer,5.4,1999,1999/2000
+Arsenal FC,Oleg Luzhnyi,30,Right-Back,Dynamo Kyiv,€2.75m,Transfer,in,Summer,2.75,1999,1999/2000
+Arsenal FC,Stefan Malz,27,Left-Back,1860 Munich,€1.15m,Transfer,in,Summer,1.15,1999,1999/2000
+Arsenal FC,Sylvinho,25,Left-Back,Corinthians,free transfer,Transfer,in,Summer,0,1999,1999/2000
+Arsenal FC,Ashley Cole,18,Left-Back,Arsenal Res.,-,Transfer,in,Summer,NA,1999,1999/2000
+Arsenal FC,Rhys Weston,18,Right-Back,Arsenal U18,-,Transfer,in,Summer,NA,1999,1999/2000
+Arsenal FC,Graham Barrett,17,Centre-Forward,Arsenal U18,-,Transfer,in,Summer,NA,1999,1999/2000
+Arsenal FC,Tommy Black,19,Right Midfield,Carlisle United,"End of loanSep 1, 1999",Loan,in,Summer,NA,1999,1999/2000
+Arsenal FC,Ashley Cole,19,Left-Back,Crystal Palace,"End of loanMay 8, 2000",Loan,in,Summer,NA,1999,1999/2000
+Arsenal FC,Alberto Méndez,24,Attacking Midfield,AEK Athens,"End of loanJun 30, 1999",Loan,in,Summer,NA,1999,1999/2000
+Arsenal FC,Ömer Riza,19,Second Striker,ADO Den Haag,"End of loanJun 30, 1999",Loan,in,Summer,NA,1999,1999/2000
+Arsenal FC,Christopher Wreh,24,Centre-Forward,AEK Athens,"End of loanJun 30, 1999",Loan,in,Summer,NA,1999,1999/2000
+Arsenal FC,Nicolas Anelka,20,Centre-Forward,Real Madrid,€35.00m,Transfer,out,Summer,35,1999,1999/2000
+Arsenal FC,Kaba Diawara,23,Centre-Forward,Marseille,€3.50m,Transfer,out,Summer,3.5,1999,1999/2000
+Arsenal FC,Jason Crowe,20,Right-Back,Portsmouth,€1.50m,Transfer,out,Summer,1.5,1999,1999/2000
+Arsenal FC,Steve Bould,36,Centre-Back,Sunderland,€800Th.,Transfer,out,Summer,0.8,1999,1999/2000
+Arsenal FC,Luís Boa Morte,21,Left Midfield,Southampton,€700Th.,Transfer,out,Summer,0.7,1999,1999/2000
+Arsenal FC,Stephen Hughes,23,Defensive Midfield,Fulham,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+Arsenal FC,David Grondin,19,Left-Back,Saint-Étienne,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+Arsenal FC,Tommy Black,19,Right Midfield,Carlisle United,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+Arsenal FC,David Livermore,19,Central Midfield,Millwall,€50Th.,Transfer,out,Summer,0.05,1999,1999/2000
+Arsenal FC,Ömer Riza,19,Second Striker,West Ham,?,Transfer,out,Summer,NA,1999,1999/2000
+Arsenal FC,Alberto Méndez,24,Attacking Midfield,Unterhaching,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+Arsenal FC,Christopher Wreh,24,Centre-Forward,Birmingham,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+Arsenal FC,Rémi Garde,33,Defensive Midfield,Retired,-,Transfer,out,Summer,NA,1999,1999/2000
+Arsenal FC,Fabián Caballero,21,Centre-Forward,Cerro Porteño,"End of loanJun 30, 1999",Loan,out,Summer,NA,1999,1999/2000
+Aston Villa,George Boateng,23,Defensive Midfield,Coventry,€6.20m,Transfer,in,Summer,6.2,1999,1999/2000
+Aston Villa,David James,28,Goalkeeper,Liverpool,€2.40m,Transfer,in,Summer,2.4,1999,1999/2000
+Aston Villa,Najwan Ghrayib,25,Left-Back,Hapoel Haifa,€1.00m,Transfer,in,Summer,1,1999,1999/2000
+Aston Villa,Benny Carbone,27,Second Striker,Sheff Wed,?,Transfer,in,Summer,NA,1999,1999/2000
+Aston Villa,John McGrath,19,Left Midfield,Aston Villa U18,-,Transfer,in,Summer,NA,1999,1999/2000
+Aston Villa,Stan Collymore,28,Centre-Forward,Fulham,"End of loanOct 15, 1999",Loan,in,Summer,NA,1999,1999/2000
+Aston Villa,Neil Tarrant,20,Centre-Forward,Ayr United,"End of loanMay 1, 2000",Loan,in,Summer,NA,1999,1999/2000
+Aston Villa,Darren Byfield,22,Centre-Forward,Northampton,"End of loanSep 1, 1999",Loan,in,Summer,NA,1999,1999/2000
+Aston Villa,Darren Byfield,23,Centre-Forward,Blackpool,"End of loanMay 1, 2000",Loan,in,Summer,NA,1999,1999/2000
+Aston Villa,Riccardo Scimeca,24,Centre-Back,Nottm Forest,€4.50m,Transfer,out,Summer,4.5,1999,1999/2000
+Aston Villa,Michael Oakes,25,Goalkeeper,Wolves,€750Th.,Transfer,out,Summer,0.75,1999,1999/2000
+Aston Villa,Mark Bosnich,27,Goalkeeper,Man Utd,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Aston Villa,Adam Rachel,22,Goalkeeper,Blackpool,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Aston Villa,Reuben Hazell,20,Centre-Back,Tranmere Rovers,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Aston Villa,Darren Byfield,23,Centre-Forward,Cambridge Utd.,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+Aston Villa,Darren Byfield,22,Centre-Forward,Northampton,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+Aston Villa,Lee Collins,21,Left-Back,Stoke City,?,Transfer,out,Summer,NA,1999,1999/2000
+Aston Villa,Simon Grayson,29,Right-Back,Blackburn,?,Transfer,out,Summer,NA,1999,1999/2000
+Aston Villa,David Hughes,21,Left-Back,Shrewsbury,?,Transfer,out,Summer,NA,1999,1999/2000
+Aston Villa,Stan Collymore,28,Centre-Forward,Fulham,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+Leeds United,Darren Huckerby,23,Right Winger,Coventry,€7.60m,Transfer,in,Summer,7.6,1999,1999/2000
+Leeds United,Michael Bridges,20,Centre-Forward,Sunderland,€7.50m,Transfer,in,Summer,7.5,1999,1999/2000
+Leeds United,Michael Duberry,23,Centre-Back,Chelsea,€6.75m,Transfer,in,Summer,6.75,1999,1999/2000
+Leeds United,Danny Mills,22,Right-Back,Charlton,€6.00m,Transfer,in,Summer,6,1999,1999/2000
+Leeds United,Eirik Bakke,21,Central Midfield,Sogndal IL,€2.60m,Transfer,in,Summer,2.6,1999,1999/2000
+Leeds United,Danny Hay,24,Centre-Back,Perth Glory,€280Th.,Transfer,in,Summer,0.28,1999,1999/2000
+Leeds United,Dejan Milosevic,21,Goalkeeper,Perth Glory,€175Th.,Transfer,in,Summer,0.175,1999,1999/2000
+Leeds United,Lee Matthews,21,Central Midfield,Gillingham FC,"End of loanMay 1, 2000",Loan,in,Summer,NA,1999,1999/2000
+Leeds United,Jimmy Floyd Hasselbaink,27,Centre-Forward,Atlético Madrid,€16.70m,Transfer,out,Summer,16.7,1999,1999/2000
+Leeds United,David Wetherall,28,Centre-Back,Bradford,€2.10m,Transfer,out,Summer,2.1,1999,1999/2000
+Leeds United,Danny Granville,24,Left-Back,Man City,€1.40m,Transfer,out,Summer,1.4,1999,1999/2000
+Leeds United,Clyde Wijnhard,25,Centre-Forward,Huddersfield,€1.05m,Transfer,out,Summer,1.05,1999,1999/2000
+Leeds United,Lee Sharpe,28,Left Midfield,Bradford,€300Th.,Transfer,out,Summer,0.3,1999,1999/2000
+Leeds United,Paul Shepherd,21,Centre-Forward,Ayr United,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Leeds United,Derek Lilley,25,Centre-Forward,Oxford United,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Leeds United,Paul Donnelly,19,Right-Back,St. Pat's,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Leeds United,Nuno Santos,26,Goalkeeper,Benfica,?,Transfer,out,Summer,NA,1999,1999/2000
+Leeds United,Gunnar Halle,33,Right-Back,Bradford,?,Transfer,out,Summer,NA,1999,1999/2000
+Leeds United,Willem Korsten,24,Left Winger,Vitesse,"End of loanJun 30, 1999",Loan,out,Summer,NA,1999,1999/2000
+West Ham United,Paulo Wanchope,22,Centre-Forward,Derby,€5.35m,Transfer,in,Summer,5.35,1999,1999/2000
+West Ham United,Jermain Defoe,16,Centre-Forward,Charlton U18,€1.73m,Transfer,in,Summer,1.73,1999,1999/2000
+West Ham United,Igor Stimac,31,Centre-Back,Derby,€700Th.,Transfer,in,Summer,0.7,1999,1999/2000
+West Ham United,Stuart Pearce,37,Left-Back,Newcastle,free transfer,Transfer,in,Summer,0,1999,1999/2000
+West Ham United,Rob Jones,27,Right-Back,Liverpool,free transfer,Transfer,in,Summer,0,1999,1999/2000
+West Ham United,Gary Charles,29,Right-Back,Benfica,?,Transfer,in,Summer,NA,1999,1999/2000
+West Ham United,Ömer Riza,19,Second Striker,Arsenal,?,Transfer,in,Summer,NA,1999,1999/2000
+West Ham United,Romarin Billong,29,Left-Back,Saint-Étienne,?,Transfer,in,Summer,NA,1999,1999/2000
+West Ham United,Shaun Byrne,18,Left-Back,West Ham U18,-,Transfer,in,Summer,NA,1999,1999/2000
+West Ham United,Stevland Angus,18,Centre-Back,West Ham U18,-,Transfer,in,Summer,NA,1999,1999/2000
+West Ham United,Bertie Brayley,17,Centre-Forward,West Ham U18,-,Transfer,in,Summer,NA,1999,1999/2000
+West Ham United,Richard García,17,Second Striker,West Ham U18,-,Transfer,in,Summer,NA,1999,1999/2000
+West Ham United,Terrell Forbes,17,Centre-Back,West Ham U18,-,Transfer,in,Summer,NA,1999,1999/2000
+West Ham United,Michael Carrick,17,Defensive Midfield,West Ham U18,-,Transfer,in,Summer,NA,1999,1999/2000
+West Ham United,Gary Alexander,20,Centre-Forward,Exeter City,"End of loanMay 1, 2000",Loan,in,Summer,NA,1999,1999/2000
+West Ham United,Samassi Abou,27,Centre-Forward,Kilmarnock FC,"End of loanMay 1, 2000",Loan,in,Summer,NA,1999,1999/2000
+West Ham United,Ian Wright,35,Centre-Forward,Nottm Forest,"End of loanOct 26, 1999",Loan,in,Summer,NA,1999,1999/2000
+West Ham United,Grant McCann,19,Central Midfield,Livingston FC,"End of loanSep 1, 1999",Loan,in,Summer,NA,1999,1999/2000
+West Ham United,Alex O'Reilly,19,Goalkeeper,Northampton,"End of loanAug 19, 1999",Loan,in,Summer,NA,1999,1999/2000
+West Ham United,Alex O'Reilly,20,Goalkeeper,Northampton,"End of loanMay 8, 2000",Loan,in,Summer,NA,1999,1999/2000
+West Ham United,Paul Kitson,29,Centre-Forward,Charlton,"End of loanMay 1, 2000",Loan,in,Summer,NA,1999,1999/2000
+West Ham United,Eyal Berkovic,27,Attacking Midfield,Celtic,€8.80m,Transfer,out,Summer,8.8,1999,1999/2000
+West Ham United,Stan Lazaridis,26,Left Midfield,Birmingham,€2.25m,Transfer,out,Summer,2.25,1999,1999/2000
+West Ham United,Lee Hodges,21,Left Midfield,Scunthorpe Utd.,€146Th.,Transfer,out,Summer,0.146,1999,1999/2000
+West Ham United,Ian Wright,35,Centre-Forward,Celtic,free transfer,Transfer,out,Summer,0,1999,1999/2000
+West Ham United,Joe Keith,20,Defensive Midfield,Colchester Utd.,free transfer,Transfer,out,Summer,0,1999,1999/2000
+West Ham United,Lee Boylan,20,Centre-Forward,Trelleborg,free transfer,Transfer,out,Summer,0,1999,1999/2000
+West Ham United,Scott Mean,25,midfield,Bournemouth,free transfer,Transfer,out,Summer,0,1999,1999/2000
+West Ham United,Grant McCann,19,Central Midfield,Livingston FC,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+West Ham United,Alex O'Reilly,20,Goalkeeper,Northampton,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+West Ham United,Alex O'Reilly,19,Goalkeeper,Northampton,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+West Ham United,Terrell Forbes,18,Centre-Back,Bournemouth,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+West Ham United,Samassi Abou,26,Centre-Forward,Walsall,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+West Ham United,Ian Wright,35,Centre-Forward,Nottm Forest,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+West Ham United,Stephen Bywater,18,Goalkeeper,Wycombe,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+West Ham United,Gary Alexander,19,Centre-Forward,Exeter City,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+West Ham United,Emmanuel Omoyinmi,21,Centre-Forward,Gillingham FC,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+West Ham United,Julian Dicks,30,Left-Back,Career break,-,Transfer,out,Summer,NA,1999,1999/2000
+West Ham United,Rob Jones,27,Right-Back,Retired,-,Transfer,out,Summer,NA,1999,1999/2000
+Sunderland AFC,Stefan Schwarz,30,Central Midfield,Valencia,€6.00m,Transfer,in,Summer,6,1999,1999/2000
+Sunderland AFC,Carsten Fredgaard,23,Left-Back,Lyngby BK,€2.20m,Transfer,in,Summer,2.2,1999,1999/2000
+Sunderland AFC,John Oster,20,Central Midfield,Everton,€1.00m,Transfer,in,Summer,1,1999,1999/2000
+Sunderland AFC,Steve Bould,36,Centre-Back,Arsenal,€800Th.,Transfer,in,Summer,0.8,1999,1999/2000
+Sunderland AFC,Éric Roy,31,Defensive Midfield,Marseille,€275Th.,Transfer,in,Summer,0.275,1999,1999/2000
+Sunderland AFC,Thomas Helmer,34,Centre-Back,Bayern Munich,free transfer,Transfer,in,Summer,0,1999,1999/2000
+Sunderland AFC,Michael Ingham,18,Goalkeeper,Cliftonville,€45Th.,Transfer,in,Summer,0.045,1999,1999/2000
+Sunderland AFC,Esteban Lopez,22,Right-Back,Albacete,?,Transfer,in,Summer,NA,1999,1999/2000
+Sunderland AFC,Bica,27,attack,Sport Boys,?,Transfer,in,Summer,NA,1999,1999/2000
+Sunderland AFC,Michael Reddy,19,Centre-Forward,Kilkenny City,?,Transfer,in,Summer,NA,1999,1999/2000
+Sunderland AFC,Sam Aiston,22,midfield,Stoke City,"End of loanOct 5, 1999",Loan,in,Summer,NA,1999,1999/2000
+Sunderland AFC,Gerry Harrison,28,midfield,Burnley,"End of loanMay 8, 2000",Loan,in,Summer,NA,1999,1999/2000
+Sunderland AFC,Kim Heiselberg,21,Centre-Back,Esbjerg fB,"End of loanJun 30, 1999",Loan,in,Summer,NA,1999,1999/2000
+Sunderland AFC,Neil Wainwright,22,Left Winger,Darlington,"End of loanMay 27, 2000",Loan,in,Summer,NA,1999,1999/2000
+Sunderland AFC,Paul Beavers,20,attack,Oldham Athletic,"End of loanJun 1, 1999",Loan,in,Summer,NA,1999,1999/2000
+Sunderland AFC,Allan Johnston,26,Right Midfield,Bolton,"End of loanMay 18, 2000",Loan,in,Summer,NA,1999,1999/2000
+Sunderland AFC,Michael Bridges,20,Centre-Forward,Leeds,€7.50m,Transfer,out,Summer,7.5,1999,1999/2000
+Sunderland AFC,Lee Clark,26,Right Winger,Fulham,€4.50m,Transfer,out,Summer,4.5,1999,1999/2000
+Sunderland AFC,Paul Beavers,20,attack,Oldham Athletic,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Sunderland AFC,Andy Melville,30,Centre-Back,Fulham,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Sunderland AFC,John Mullin,23,Right Winger,Burnley,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Sunderland AFC,Jody Craddock,24,Centre-Back,Sheff Utd,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+Sunderland AFC,Paul Thirlwell,20,Defensive Midfield,Swindon Town,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+Sunderland AFC,Sam Aiston,22,midfield,Stoke City,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+Sunderland AFC,Thomas Helmer,34,Centre-Back,Hertha BSC,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+Sunderland AFC,Michael Ingham,19,Goalkeeper,Carlisle United,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+Sunderland AFC,Martin Smith,24,Centre-Forward,Sheff Utd,?,Transfer,out,Summer,NA,1999,1999/2000
+Sunderland AFC,Bica,27,attack,Walsall,?,Transfer,out,Summer,NA,1999,1999/2000
+Sunderland AFC,Gerry Harrison,27,midfield,Hull City,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+Sunderland AFC,Allan Johnston,25,Right Midfield,Birmingham,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+Sunderland AFC,Kim Heiselberg,21,Centre-Back,Without Club,-,Transfer,out,Summer,NA,1999,1999/2000
+Southampton FC,Jo Tessem,27,Central Midfield,Molde,€900Th.,Transfer,in,Summer,0.9,1999,1999/2000
+Southampton FC,Imants Bleidelis,23,Right Midfield,Skonto,€875Th.,Transfer,in,Summer,0.875,1999,1999/2000
+Southampton FC,Luís Boa Morte,21,Left Midfield,Arsenal,€700Th.,Transfer,in,Summer,0.7,1999,1999/2000
+Southampton FC,Tahar El Khalej,31,Centre-Back,Benfica,€500Th.,Transfer,in,Summer,0.5,1999,1999/2000
+Southampton FC,Trond Soltvedt,32,Attacking Midfield,Coventry,€450Th.,Transfer,in,Summer,0.45,1999,1999/2000
+Southampton FC,Dean Richards,25,Centre-Back,Wolves,free transfer,Transfer,in,Summer,0,1999,1999/2000
+Southampton FC,Kevin Davies,22,Centre-Forward,Blackburn,?,Transfer,in,Summer,NA,1999,1999/2000
+Southampton FC,Richard Dryden,30,Centre-Back,Stoke City,?,Transfer,in,Summer,NA,1999,1999/2000
+Southampton FC,Kevin Gibbens,19,midfield,Stockport,?,Transfer,in,Summer,NA,1999,1999/2000
+Southampton FC,Dani Rodrigues,19,Left Winger,Farense,?,Transfer,in,Summer,NA,1999,1999/2000
+Southampton FC,Andy Williams,21,defence,Swindon Town,"End of loanSep 1, 1999",Loan,in,Summer,NA,1999,1999/2000
+Southampton FC,Phil Warner,21,Right-Back,Brentford,"End of loanMay 1, 2000",Loan,in,Summer,NA,1999,1999/2000
+Southampton FC,Garry Monk,20,Centre-Back,Stockport,"End of loanOct 1, 1999",Loan,in,Summer,NA,1999,1999/2000
+Southampton FC,Patrice Kobenan Tano,16,attack,KSK Beveren,,Transfer,in,Summer,NA,1999,1999/2000
+Southampton FC,Scott Marshall,26,Centre-Back,Brentford,€375Th.,Transfer,out,Summer,0.375,1999,1999/2000
+Southampton FC,Andy Williams,21,defence,Swindon Town,€80Th.,Transfer,out,Summer,0.08,1999,1999/2000
+Southampton FC,Ken Monkou,34,Centre-Back,Huddersfield,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Southampton FC,Garry Monk,20,Centre-Back,Stockport,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+Southampton FC,Phil Warner,20,Right-Back,Brentford,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+Southampton FC,Steve Basham,21,Centre-Forward,Preston,?,Transfer,out,Summer,NA,1999,1999/2000
+Southampton FC,Alessandro Atzeni,19,Centre-Forward,Genoa,?,Transfer,out,Summer,NA,1999,1999/2000
+Southampton FC,Russell Watkinson,21,midfield,Aldershot,?,Transfer,out,Summer,NA,1999,1999/2000
+Southampton FC,Michael Stensgaard,24,Goalkeeper,FC Copenhagen,?,Transfer,out,Summer,NA,1999,1999/2000
+Southampton FC,Kevin Gibbens,19,midfield,Stockport,?,Transfer,out,Summer,NA,1999,1999/2000
+Southampton FC,Egil Östenstad,27,Centre-Forward,Blackburn,?,Transfer,out,Summer,NA,1999,1999/2000
+Southampton FC,John Beresford,33,Left-Back,Birmingham,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+Southampton FC,Andy Williams,21,defence,Swindon Town,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+Southampton FC,Shayne Bradley,19,attack,Exeter City,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+Tottenham Hotspur,Chris Perry,26,Centre-Back,Wimbledon FC,€6.00m,Transfer,in,Summer,6,1999,1999/2000
+Tottenham Hotspur,Öyvind Leonhardsen,28,Attacking Midfield,Liverpool,€4.50m,Transfer,in,Summer,4.5,1999,1999/2000
+Tottenham Hotspur,Willem Korsten,24,Left Winger,Vitesse,€1.70m,Transfer,in,Summer,1.7,1999,1999/2000
+Tottenham Hotspur,Matthew Etherington,17,Left Midfield,Peterborough,€750Th.,Transfer,in,Summer,0.75,1999,1999/2000
+Tottenham Hotspur,Yannick Kamanan,17,Centre-Forward,Le Mans UC 72,?,Transfer,in,Summer,NA,1999,1999/2000
+Tottenham Hotspur,John Piercy,19,midfield,Tottenham Res.,-,Transfer,in,Summer,NA,1999,1999/2000
+Tottenham Hotspur,David Lee,19,midfield,Spurs U18,-,Transfer,in,Summer,NA,1999,1999/2000
+Tottenham Hotspur,Peter Crouch,19,Centre-Forward,IFK Hässleholm,"End of loanMay 1, 2000",Loan,in,Summer,NA,1999,1999/2000
+Tottenham Hotspur,Allan Nielsen,29,Central Midfield,Wolves,"End of loanMay 1, 2000",Loan,in,Summer,NA,1999,1999/2000
+Tottenham Hotspur,Rory Allen,21,attack,Portsmouth,€1.50m,Transfer,out,Summer,1.5,1999,1999/2000
+Tottenham Hotspur,Ian Stonebridge,17,attack,Plymouth,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Tottenham Hotspur,Simon Brown,22,Goalkeeper,Colchester Utd.,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Tottenham Hotspur,Alan Marriott,20,Goalkeeper,Lincoln City,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Tottenham Hotspur,Clive Wilson,37,Left-Back,Cambridge Utd.,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Tottenham Hotspur,Andy Sinton,33,Left Midfield,Wolves,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Tottenham Hotspur,Roger Nilsen,29,Centre-Back,Grazer AK,?,Transfer,out,Summer,NA,1999,1999/2000
+Tottenham Hotspur,Simon Webb,21,Left-Back,Leyton Orient,?,Transfer,out,Summer,NA,1999,1999/2000
+Liverpool FC,Dietmar Hamann,25,Defensive Midfield,Newcastle,€12.00m,Transfer,in,Summer,12,1999,1999/2000
+Liverpool FC,Vladimir Smicer,26,Attacking Midfield,Lens,€6.80m,Transfer,in,Summer,6.8,1999,1999/2000
+Liverpool FC,Sander Westerveld,24,Goalkeeper,Vitesse,€6.00m,Transfer,in,Summer,6,1999,1999/2000
+Liverpool FC,Stéphane Henchoz,24,Centre-Back,Blackburn,€5.40m,Transfer,in,Summer,5.4,1999,1999/2000
+Liverpool FC,Sami Hyypiä,25,Centre-Back,Willem II,€3.90m,Transfer,in,Summer,3.9,1999,1999/2000
+Liverpool FC,Titi Camara,26,Centre-Forward,Marseille,€3.90m,Transfer,in,Summer,3.9,1999,1999/2000
+Liverpool FC,Erik Meijer,29,Centre-Forward,Bay. Leverkusen,free transfer,Transfer,in,Summer,0,1999,1999/2000
+Liverpool FC,Ian Dunbavin,19,Goalkeeper,Liverpool U18,-,Transfer,in,Summer,NA,1999,1999/2000
+Liverpool FC,Leyton Maxwell,19,Central Midfield,Liverpool Res.,-,Transfer,in,Summer,NA,1999,1999/2000
+Liverpool FC,Tony Warner,25,Goalkeeper,Aberdeen FC,"End of loanJun 30, 1999",Loan,in,Summer,NA,1999,1999/2000
+Liverpool FC,Stig Inge Björnebye,30,Left-Back,Bröndby IF,"End of loanMay 1, 2000",Loan,in,Summer,NA,1999,1999/2000
+Liverpool FC,Jon Newby,21,Centre-Forward,Crewe Alexandra,"End of loanMay 8, 2000",Loan,in,Summer,NA,1999,1999/2000
+Liverpool FC,Jörgen Nielsen,28,Goalkeeper,Wolves,"End of loanJun 30, 1999",Loan,in,Summer,NA,1999,1999/2000
+Liverpool FC,Öyvind Leonhardsen,28,Attacking Midfield,Spurs,€4.50m,Transfer,out,Summer,4.5,1999,1999/2000
+Liverpool FC,David James,28,Goalkeeper,Aston Villa,€2.40m,Transfer,out,Summer,2.4,1999,1999/2000
+Liverpool FC,Sean Dundee,26,Centre-Forward,VfB Stuttgart,€1.50m,Transfer,out,Summer,1.5,1999,1999/2000
+Liverpool FC,Paul Ince,31,Defensive Midfield,Middlesbrough,€1.50m,Transfer,out,Summer,1.5,1999,1999/2000
+Liverpool FC,Bjørn Tore Kvarme,27,Centre-Back,Saint-Étienne,€1.40m,Transfer,out,Summer,1.4,1999,1999/2000
+Liverpool FC,Karl-Heinz Riedle,34,Centre-Forward,Fulham,€275Th.,Transfer,out,Summer,0.275,1999,1999/2000
+Liverpool FC,Tony Warner,25,Goalkeeper,Millwall,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Liverpool FC,Jamie Cassidy,21,midfield,Cambridge Utd.,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Liverpool FC,Rob Jones,27,Right-Back,West Ham,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Liverpool FC,Steve McManaman,27,Right Midfield,Real Madrid,free transfer,Transfer,out,Summer,0,1999,1999/2000
+Liverpool FC,Jean-Michel Ferri,30,Defensive Midfield,FC Sochaux,?,Transfer,out,Summer,NA,1999,1999/2000
+Liverpool FC,Haukur Ingi Gudnason,21,Centre-Forward,KR Reykjavík,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+Everton FC,Kevin Campbell,29,Centre-Forward,Trabzonspor,€4.50m,Transfer,in,Summer,4.5,1999,1999/2000
+Everton FC,Abel Xavier,26,Right-Back,PSV Eindhoven,€2.10m,Transfer,in,Summer,2.1,1999,1999/2000
+Everton FC,Mark Pembridge,28,Left Midfield,Benfica,€1.00m,Transfer,in,Summer,1,1999,1999/2000
+Everton FC,Tommy Johnson,28,Centre-Forward,Celtic,loan transfer,Loan,in,Summer,NA,1999,1999/2000
+Everton FC,Richard Gough,37,Centre-Back,San Jose,?,Transfer,in,Summer,NA,1999,1999/2000
+Everton FC,Gary Dempsey,18,Central Midfield,Everton U18,-,Transfer,in,Summer,NA,1999,1999/2000
+Everton FC,Thomas Myhre,26,Goalkeeper,Birmingham,"End of loanMay 1, 2000",Loan,in,Summer,NA,1999,1999/2000
+Everton FC,Olivier Dacourt,24,Defensive Midfield,Lens,€6.00m,Transfer,out,Summer,6,1999,1999/2000
+Everton FC,Ibrahima Bakayoko,22,Centre-Forward,Marseille,€6.00m,Transfer,out,Summer,6,1999,1999/2000
+Everton FC,Marco Materazzi,25,Centre-Back,Perugia,€4.13m,Transfer,out,Summer,4.13,1999,1999/2000
+Everton FC,Craig Short,31,Centre-Back,Blackburn,€2.55m,Transfer,out,Summer,2.55,1999,1999/2000
+Everton FC,John Oster,20,Central Midfield,Sunderland,€1.00m,Transfer,out,Summer,1,1999,1999/2000
+Everton FC,Terry Phelan,32,Left-Back,Crystal Palace,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+Everton FC,Tony Grant,24,Defensive Midfield,Tranmere Rovers,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+Everton FC,Michael Branch,21,Centre-Forward,Birmingham,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+Everton FC,Kevin Campbell,29,Centre-Forward,Trabzonspor,"End of loanJun 30, 1999",Loan,out,Summer,NA,1999,1999/2000
+Derby County,Seth Johnson,20,Central Midfield,Crewe Alexandra,€4.50m,Transfer,in,Summer,4.5,1999,1999/2000
+Derby County,Lee Morris,19,Centre-Forward,Sheff Utd,€4.20m,Transfer,in,Summer,4.2,1999,1999/2000
+Derby County,Andy Oakes,22,Goalkeeper,Hull City,€500Th.,Transfer,in,Summer,0.5,1999,1999/2000
+Derby County,Avi Nimni,27,Attacking Midfield,M. Tel Aviv,loan transfer,Loan,in,Summer,NA,1999,1999/2000
+Derby County,Chris Riggott,18,Centre-Back,Derby U18,-,Transfer,in,Summer,NA,1999,1999/2000
+Derby County,Ian Evatt,17,Centre-Back,Derby U18,-,Transfer,in,Summer,NA,1999,1999/2000
+Derby County,Andy Oakes,22,Goalkeeper,Port Vale,"End of loanSep 10, 1999",Loan,in,Summer,NA,1999,1999/2000
+Derby County,Richard Knight,20,Goalkeeper,Birmingham,"End of loanSep 22, 1999",Loan,in,Summer,NA,1999,1999/2000
+Derby County,Richard Knight,20,Goalkeeper,Oxford United,"End of loanMay 8, 2000",Loan,in,Summer,NA,1999,1999/2000
+Derby County,Paulo Wanchope,22,Centre-Forward,West Ham,€5.35m,Transfer,out,Summer,5.35,1999,1999/2000
+Derby County,Igor Stimac,31,Centre-Back,West Ham,€700Th.,Transfer,out,Summer,0.7,1999,1999/2000
+Derby County,Andy Oakes,22,Goalkeeper,Port Vale,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+Derby County,Richard Knight,20,Goalkeeper,Hull City,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+Derby County,Richard Knight,20,Goalkeeper,Birmingham,loan transfer,Loan,out,Summer,NA,1999,1999/2000
+Chelsea FC,Émerson Thome,27,Centre-Back,Sheff Wed,€4.00m,Transfer,in,Winter,4,1999,1999/2000
+Chelsea FC,George Weah,33,Centre-Forward,Milan,loan transfer,Loan,in,Winter,NA,1999,1999/2000
+Chelsea FC,John Terry,19,Centre-Back,Chelsea U18,-,Transfer,in,Winter,NA,1999,1999/2000
+Chelsea FC,Paul Hughes,23,Central Midfield,Crewe Alexandra,"End of loanJan 23, 2000",Loan,in,Winter,NA,1999,1999/2000
+Chelsea FC,Neil Clement,21,Centre-Back,Brentford,"End of loanDec 31, 1999",Loan,in,Winter,NA,1999,1999/2000
+Chelsea FC,Rhys Evans,18,Goalkeeper,Bristol Rovers,"End of loanMar 26, 2000",Loan,in,Winter,NA,1999,1999/2000
+Chelsea FC,Mark Nicholls,22,Centre-Forward,Reading,"End of loanFeb 10, 2000",Loan,in,Winter,NA,1999,1999/2000
+Chelsea FC,Bjarne Goldbaek,31,Central Midfield,Fulham,€975Th.,Transfer,out,Winter,0.975,1999,1999/2000
+Chelsea FC,Neil Clement,21,Centre-Back,West Brom,€150Th.,Transfer,out,Winter,0.15,1999,1999/2000
+Chelsea FC,Paul Hughes,23,Central Midfield,Southampton,free transfer,Transfer,out,Winter,0,1999,1999/2000
+Chelsea FC,Paul Hughes,23,Central Midfield,Crewe Alexandra,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Chelsea FC,Neil Clement,21,Centre-Back,Brentford,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Chelsea FC,Mikael Forssell,18,Centre-Forward,Crystal Palace,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Chelsea FC,Rhys Evans,18,Goalkeeper,Bristol Rovers,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Chelsea FC,John Terry,19,Centre-Back,Nottm Forest,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Chelsea FC,Mark Nicholls,22,Centre-Forward,Reading,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Chelsea FC,Mark Nicholls,22,Centre-Forward,Grimsby Town,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Sheffield Wednesday,Barry Richardson,30,Goalkeeper,Lincoln City,loan transfer,Loan,in,Winter,NA,1999,1999/2000
+Sheffield Wednesday,Barry Horne,37,Defensive Midfield,Huddersfield,?,Transfer,in,Winter,NA,1999,1999/2000
+Sheffield Wednesday,Junior Agogo,20,Centre-Forward,Lincoln City,"End of loanJan 25, 2000",Loan,in,Winter,NA,1999,1999/2000
+Sheffield Wednesday,Junior Agogo,20,Centre-Forward,Chesterfield FC,"End of loanDec 1, 1999",Loan,in,Winter,NA,1999,1999/2000
+Sheffield Wednesday,Ritchie Humphreys,22,Defensive Midfield,Cardiff,"End of loanFeb 1, 2000",Loan,in,Winter,NA,1999,1999/2000
+Sheffield Wednesday,Stuart Jones,22,Goalkeeper,Torquay,"End of loanMar 5, 2000",Loan,in,Winter,NA,1999,1999/2000
+Sheffield Wednesday,Émerson Thome,27,Centre-Back,Chelsea,€4.00m,Transfer,out,Winter,4,1999,1999/2000
+Sheffield Wednesday,Junior Agogo,20,Centre-Forward,Chicago,free transfer,Transfer,out,Winter,0,1999,1999/2000
+Sheffield Wednesday,Vill Powell,20,attack,Derry City,free transfer,Transfer,out,Winter,0,1999,1999/2000
+Sheffield Wednesday,Junior Agogo,20,Centre-Forward,Lincoln City,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Sheffield Wednesday,Junior Agogo,20,Centre-Forward,Chesterfield FC,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Sheffield Wednesday,Ritchie Humphreys,21,Defensive Midfield,Cardiff,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Sheffield Wednesday,Stuart Jones,22,Goalkeeper,Torquay,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Sheffield Wednesday,Stuart Jones,22,Goalkeeper,Torquay,€37Th.,Transfer,out,Winter,0.037,1999,1999/2000
+Bradford City,Aidan Davison,31,Goalkeeper,Sheff Utd,free transfer,Transfer,in,Winter,0,1999,1999/2000
+Bradford City,Jorge Cadete,31,Centre-Forward,Benfica,?,Transfer,in,Winter,NA,1999,1999/2000
+Bradford City,Neville Southall,41,Goalkeeper,Torquay,?,Transfer,in,Winter,NA,1999,1999/2000
+Bradford City,Mark Prudhoe,35,Goalkeeper,Darlington,"End of loanNov 7, 1999",Loan,in,Winter,NA,1999,1999/2000
+Bradford City,Darren Moore,25,Centre-Back,Portsmouth,€700Th.,Transfer,out,Winter,0.7,1999,1999/2000
+Bradford City,Neil Redfearn,34,Central Midfield,Wigan,€129Th.,Transfer,out,Winter,0.129,1999,1999/2000
+Bradford City,Mark Prudhoe,35,Goalkeeper,Southend United,free transfer,Transfer,out,Winter,0,1999,1999/2000
+Bradford City,Mark Bower,20,Centre-Back,York City,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Bradford City,Isaiah Rankin,21,Centre-Forward,Birmingham,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Watford FC,Heidar Helguson,22,Centre-Forward,Lillestrøm,€2.25m,Transfer,in,Winter,2.25,1999,1999/2000
+Watford FC,Neil Cox,28,Centre-Back,Bolton,€750Th.,Transfer,in,Winter,0.75,1999,1999/2000
+Watford FC,Xavier Gravelaine,31,Centre-Forward,Paris SG,?,Transfer,in,Winter,NA,1999,1999/2000
+Watford FC,Darren Ward,21,Centre-Back,QPR,"End of loanMar 1, 2000",Loan,in,Winter,NA,1999,1999/2000
+Watford FC,Xavier Gravelaine,31,Centre-Forward,AC Le Havre,€450Th.,Transfer,out,Winter,0.45,1999,1999/2000
+Watford FC,Darren Ward,21,Centre-Back,QPR,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Watford FC,Keith Millen,33,defence,Bristol City,€42Th.,Transfer,out,Winter,0.042,1999,1999/2000
+Watford FC,Felix Michel Ngonge,32,Right Winger,Huddersfield,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Watford FC,Des Lyttle,28,Right-Back,West Brom,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Leicester City,Darren Eadie,24,Left Midfield,Norwich,€4.50m,Transfer,in,Winter,4.5,1999,1999/2000
+Leicester City,Stan Collymore,29,Centre-Forward,Aston Villa,free transfer,Transfer,in,Winter,0,1999,1999/2000
+Leicester City,Jordan Stewart,17,Left-Back,Leicester U18,-,Transfer,in,Winter,NA,1999,1999/2000
+Leicester City,Emile Heskey,22,Centre-Forward,Liverpool,€16.50m,Transfer,out,Winter,16.5,1999,1999/2000
+Leicester City,Stuart Wilson,22,Attacking Midfield,Sheff Utd,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Leicester City,Jordan Stewart,18,Left-Back,Bristol Rovers,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Leicester City,Stuart Campbell,22,Defensive Midfield,Birmingham,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Leicester City,Graham Fenton,25,Second Striker,Walsall,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Wimbledon FC,Andreas Lund,24,Centre-Forward,Molde,?,Transfer,in,Winter,NA,1999,1999/2000
+Wimbledon FC,Ceri Hughes,28,Central Midfield,Portsmouth,€169Th.,Transfer,out,Winter,0.169,1999,1999/2000
+Wimbledon FC,Wayne Gray,19,Centre-Forward,Swindon Town,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Wimbledon FC,Robert Owusu Ansah,20,midfield,Raith Rovers,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Wimbledon FC,Peter Hawkins,21,Left-Back,York City,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Wimbledon FC,Jon Goodman,28,Centre-Forward,Retired,-,Transfer,out,Winter,NA,1999,1999/2000
+Coventry City,Mustapha Hadji,28,Attacking Midfield,Dep. La Coruña,€6.00m,Transfer,in,Winter,6,1999,1999/2000
+Coventry City,Cédric Roussel,22,Centre-Forward,KAA Gent,€1.68m,Transfer,in,Winter,1.68,1999,1999/2000
+Coventry City,Ysrael Zúñiga,23,Centre-Forward,FBC Melgar,€1.50m,Transfer,in,Winter,1.5,1999,1999/2000
+Coventry City,Colin Hendry,34,Centre-Back,Rangers,€1.15m,Transfer,in,Winter,1.15,1999,1999/2000
+Coventry City,Tomas Antonelius,26,Right-Back,AIK,€400Th.,Transfer,in,Winter,0.4,1999,1999/2000
+Coventry City,Andreas Dahl,15,Central Midfield,IFK Hässleholm,?,Transfer,in,Winter,NA,1999,1999/2000
+Coventry City,Raffaele Nuzzo,26,Goalkeeper,Reggiana,?,Transfer,out,Winter,NA,1999,1999/2000
+Coventry City,Paul Hall,27,Centre-Forward,Sheff Utd,?,Transfer,out,Winter,NA,1999,1999/2000
+Coventry City,Chukki Eribenne,19,Centre-Forward,Helsingborg,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Coventry City,Cédric Roussel,22,Centre-Forward,KAA Gent,"End of loanJan 19, 2000",Loan,out,Winter,NA,1999,1999/2000
+Manchester United,Quinton Fortune,22,Central Midfield,Atlético Madrid,€2.25m,Transfer,in,Winter,2.25,1999,1999/2000
+Manchester United,Lee Roche,19,Right-Back,Man Utd Res.,-,Transfer,in,Winter,NA,1999,1999/2000
+Manchester United,Michael Stewart,18,Central Midfield,Man Utd U18,-,Transfer,in,Winter,NA,1999,1999/2000
+Manchester United,Mike Clegg,22,Right-Back,Ipswich,"End of loanMar 10, 2000",Loan,in,Winter,NA,1999,1999/2000
+Manchester United,Alex Notman,20,Right Winger,Sheff Utd,"End of loanMar 22, 2000",Loan,in,Winter,NA,1999,1999/2000
+Manchester United,David May,29,Centre-Back,Huddersfield,"End of loanJan 13, 2000",Loan,in,Winter,NA,1999,1999/2000
+Manchester United,Erik Nevland,22,Centre-Forward,Viking FK,€350Th.,Transfer,out,Winter,0.35,1999,1999/2000
+Manchester United,John Curtis,21,Right-Back,Barnsley FC,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Manchester United,David Healy,20,Centre-Forward,Port Vale,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Manchester United,Mike Clegg,22,Right-Back,Ipswich,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Manchester United,Mike Clegg,22,Right-Back,Wigan,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Manchester United,David May,29,Centre-Back,Huddersfield,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Manchester United,Alex Notman,20,Right Winger,Sheff Utd,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Newcastle United,Lionel Perez,32,Goalkeeper,Scunthorpe Utd.,"End of loanDec 30, 1999",Loan,in,Winter,NA,1999,1999/2000
+Newcastle United,Stuart Elliott,22,midfield,Bournemouth,"End of loanJan 26, 2000",Loan,in,Winter,NA,1999,1999/2000
+Newcastle United,Franck Dumas,31,Centre-Back,Marseille,€1.60m,Transfer,out,Winter,1.6,1999,1999/2000
+Newcastle United,Paul Arnison,22,Right-Back,Hartlepool,free transfer,Transfer,out,Winter,0,1999,1999/2000
+Newcastle United,James Coppinger,19,Right Midfield,Hartlepool,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Newcastle United,Lionel Perez,32,Goalkeeper,Scunthorpe Utd.,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Newcastle United,Lionel Perez,32,Goalkeeper,Cambridge Utd.,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Newcastle United,Garry Brady,23,Central Midfield,Norwich,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Newcastle United,Des Hamilton,23,Right Midfield,Norwich,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Newcastle United,Stuart Elliott,22,midfield,Bournemouth,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Newcastle United,Stuart Elliott,22,midfield,Stockport,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Middlesbrough FC,Carlos Marinelli,17,Attacking Midfield,Boca Juniors,€2.82m,Transfer,in,Winter,2.82,1999,1999/2000
+Middlesbrough FC,Ben Roberts,24,Goalkeeper,Luton,"End of loanMar 1, 2000",Loan,in,Winter,NA,1999,1999/2000
+Middlesbrough FC,Anthony Ormerod,20,Right Winger,York City,"End of loanDec 31, 1999",Loan,in,Winter,NA,1999,1999/2000
+Middlesbrough FC,Micky Cummins,21,Left Midfield,Port Vale,free transfer,Transfer,out,Winter,0,1999,1999/2000
+Middlesbrough FC,Alun Armstrong,25,Centre-Forward,Huddersfield,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Middlesbrough FC,Steve Baker,21,Right-Back,Darlington,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Middlesbrough FC,Ben Roberts,24,Goalkeeper,Luton,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Middlesbrough FC,Vladimir Kinder,30,Centre-Back,Drnovice,?,Transfer,out,Winter,NA,1999,1999/2000
+Arsenal FC,Tommy Black,20,Right Midfield,Bristol City,"End of loanDec 31, 1999",Loan,in,Winter,NA,1999,1999/2000
+Arsenal FC,Stephen Hughes,23,Defensive Midfield,Fulham,"End of loanDec 31, 1999",Loan,in,Winter,NA,1999,1999/2000
+Arsenal FC,Paolo Vernazza,20,Central Midfield,Portsmouth,"End of loanMar 1, 2000",Loan,in,Winter,NA,1999,1999/2000
+Arsenal FC,Christopher Wreh,24,Centre-Forward,Birmingham,"End of loanDec 14, 1999",Loan,in,Winter,NA,1999,1999/2000
+Arsenal FC,Brian McGovern,19,defence,QPR,"End of loanFeb 1, 2000",Loan,in,Winter,NA,1999,1999/2000
+Arsenal FC,Ashley Cole,19,Left-Back,Crystal Palace,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Arsenal FC,Tommy Black,20,Right Midfield,Bristol City,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Arsenal FC,Paolo Vernazza,20,Central Midfield,Portsmouth,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Arsenal FC,Christopher Wreh,24,Centre-Forward,FC Den Bosch,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Arsenal FC,Brian McGovern,19,defence,QPR,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Aston Villa,Neil Cutler,23,Goalkeeper,Chester City,free transfer,Transfer,in,Winter,0,1999,1999/2000
+Aston Villa,Aaron Lescott,21,Left-Back,Lincoln City,"End of loanApr 1, 2000",Loan,in,Winter,NA,1999,1999/2000
+Aston Villa,Darren Byfield,23,Centre-Forward,Cambridge Utd.,"End of loanNov 1, 1999",Loan,in,Winter,NA,1999,1999/2000
+Aston Villa,Tommy Jaszczun,22,Left-Back,Blackpool,€70Th.,Transfer,out,Winter,0.07,1999,1999/2000
+Aston Villa,Stan Collymore,29,Centre-Forward,Leicester,free transfer,Transfer,out,Winter,0,1999,1999/2000
+Aston Villa,Aaron Lescott,21,Left-Back,Lincoln City,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Aston Villa,Darren Byfield,23,Centre-Forward,Blackpool,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Aston Villa,Colin Calderwood,35,Centre-Back,Nottm Forest,?,Transfer,out,Winter,NA,1999,1999/2000
+Aston Villa,Mark Draper,29,Central Midfield,Rayo Vallecano,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Aston Villa,Neil Tarrant,20,Centre-Forward,Ayr United,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Leeds United,Jason Wilcox,28,Left Winger,Blackburn,€4.50m,Transfer,in,Winter,4.5,1999,1999/2000
+Leeds United,Shaun Allaway,17,Goalkeeper,Reading,€300Th.,Transfer,in,Winter,0.3,1999,1999/2000
+Leeds United,Mark Jackson,22,Centre-Back,Barnsley FC,"End of loanFeb 10, 2000",Loan,in,Winter,NA,1999,1999/2000
+Leeds United,Bruno Ribeiro,24,Left Midfield,Sheff Utd,€700Th.,Transfer,out,Winter,0.7,1999,1999/2000
+Leeds United,Mark Jackson,22,Centre-Back,Scunthorpe Utd.,free transfer,Transfer,out,Winter,0,1999,1999/2000
+Leeds United,Neil Ross,17,attack,Stockport,free transfer,Transfer,out,Winter,0,1999,1999/2000
+Leeds United,Lee Matthews,21,Central Midfield,Gillingham FC,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Leeds United,Mark Jackson,22,Centre-Back,Barnsley FC,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+West Ham United,Sasa Ilic,27,Goalkeeper,Charlton,loan transfer,Loan,in,Winter,NA,1999,1999/2000
+West Ham United,Frédéric Kanouté,22,Centre-Forward,Olympique Lyon,loan transfer,Loan,in,Winter,NA,1999,1999/2000
+West Ham United,Terrell Forbes,18,Centre-Back,Bournemouth,"End of loanNov 4, 1999",Loan,in,Winter,NA,1999,1999/2000
+West Ham United,Michael Carrick,18,Defensive Midfield,Swindon Town,"End of loanDec 1, 1999",Loan,in,Winter,NA,1999,1999/2000
+West Ham United,Michael Carrick,18,Defensive Midfield,Birmingham,"End of loanMar 1, 2000",Loan,in,Winter,NA,1999,1999/2000
+West Ham United,Emmanuel Omoyinmi,22,Centre-Forward,Barnet,"End of loanApr 30, 2000",Loan,in,Winter,NA,1999,1999/2000
+West Ham United,Emmanuel Omoyinmi,22,Centre-Forward,Scunthorpe Utd.,"End of loanFeb 21, 2000",Loan,in,Winter,NA,1999,1999/2000
+West Ham United,Emmanuel Omoyinmi,21,Centre-Forward,Gillingham FC,"End of loanNov 20, 1999",Loan,in,Winter,NA,1999,1999/2000
+West Ham United,Shaun Byrne,19,Left-Back,Bristol Rovers,"End of loanFeb 1, 2000",Loan,in,Winter,NA,1999,1999/2000
+West Ham United,Samassi Abou,26,Centre-Forward,Walsall,"End of loanNov 1, 1999",Loan,in,Winter,NA,1999,1999/2000
+West Ham United,Stephen Bywater,18,Goalkeeper,Hull City,"End of loanJan 1, 2000",Loan,in,Winter,NA,1999,1999/2000
+West Ham United,Stephen Bywater,18,Goalkeeper,Wycombe,"End of loanNov 1, 1999",Loan,in,Winter,NA,1999,1999/2000
+West Ham United,Chris Coyne,21,Centre-Back,Dundee United,free transfer,Transfer,out,Winter,0,1999,1999/2000
+West Ham United,Michael Carrick,18,Defensive Midfield,Swindon Town,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+West Ham United,Stephen Bywater,18,Goalkeeper,Hull City,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+West Ham United,Michael Carrick,18,Defensive Midfield,Birmingham,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+West Ham United,Paul Kitson,29,Centre-Forward,Charlton,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+West Ham United,Samassi Abou,26,Centre-Forward,Kilmarnock FC,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+West Ham United,Shaun Byrne,18,Left-Back,Bristol Rovers,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+West Ham United,Ömer Riza,20,Second Striker,Barnet,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+West Ham United,Emmanuel Omoyinmi,21,Centre-Forward,Scunthorpe Utd.,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+West Ham United,Emmanuel Omoyinmi,22,Centre-Forward,Barnet,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+West Ham United,Sasa Ilic,27,Goalkeeper,Charlton,"End of loanMar 23, 2000",Loan,out,Winter,NA,1999,1999/2000
+Sunderland AFC,Kevin Kilbane,22,Left Midfield,West Brom,€3.75m,Transfer,in,Winter,3.75,1999,1999/2000
+Sunderland AFC,Milton Núñez,27,Centre-Forward,PAOK Salonika,€2.63m,Transfer,in,Winter,2.63,1999,1999/2000
+Sunderland AFC,Michael Ingham,19,Goalkeeper,Carlisle United,"End of loanNov 1, 1999",Loan,in,Winter,NA,1999,1999/2000
+Sunderland AFC,Allan Johnston,25,Right Midfield,Birmingham,"End of loanDec 13, 1999",Loan,in,Winter,NA,1999,1999/2000
+Sunderland AFC,Gerry Harrison,27,midfield,Hull City,"End of loanDec 1, 1999",Loan,in,Winter,NA,1999,1999/2000
+Sunderland AFC,Sam Aiston,23,midfield,Shrewsbury,"End of loanFeb 27, 2000",Loan,in,Winter,NA,1999,1999/2000
+Sunderland AFC,Jody Craddock,24,Centre-Back,Sheff Utd,"End of loanJan 1, 2000",Loan,in,Winter,NA,1999,1999/2000
+Sunderland AFC,Thomas Helmer,34,Centre-Back,Hertha BSC,"End of loanDec 31, 1999",Loan,in,Winter,NA,1999,1999/2000
+Sunderland AFC,Carsten Fredgaard,23,Left-Back,West Brom,"End of loanMar 15, 2000",Loan,in,Winter,NA,1999,1999/2000
+Sunderland AFC,Chris Lumsdon,20,Central Midfield,Blackpool,"End of loanMar 1, 2000",Loan,in,Winter,NA,1999,1999/2000
+Sunderland AFC,Darren Holloway,22,Right-Back,Bolton,"End of loanJan 21, 2000",Loan,in,Winter,NA,1999,1999/2000
+Sunderland AFC,Paul Thirlwell,20,Defensive Midfield,Swindon Town,"End of loanNov 1, 1999",Loan,in,Winter,NA,1999,1999/2000
+Sunderland AFC,Carsten Fredgaard,23,Left-Back,West Brom,Loan fee:€100Th.,Loan,out,Winter,0.1,1999,1999/2000
+Sunderland AFC,Chris Porter,20,Goalkeeper,Darlington,free transfer,Transfer,out,Winter,0,1999,1999/2000
+Sunderland AFC,Darren Holloway,22,Right-Back,Bolton,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Sunderland AFC,Chris Lumsdon,20,Central Midfield,Blackpool,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Sunderland AFC,Sam Aiston,23,midfield,Shrewsbury,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Sunderland AFC,Kevin Ball,35,Central Midfield,Fulham,?,Transfer,out,Winter,NA,1999,1999/2000
+Sunderland AFC,Neil Wainwright,22,Left Winger,Darlington,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Sunderland AFC,Gerry Harrison,27,midfield,Burnley,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Sunderland AFC,Allan Johnston,26,Right Midfield,Bolton,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Southampton FC,Paul Hughes,23,Central Midfield,Chelsea,free transfer,Transfer,in,Winter,0,1999,1999/2000
+Southampton FC,Marco Almeida,22,Centre-Back,Sporting CP,?,Transfer,in,Winter,NA,1999,1999/2000
+Southampton FC,Richard Dryden,30,Centre-Back,Stoke City,?,Transfer,in,Winter,NA,1999,1999/2000
+Southampton FC,John Beresford,33,Left-Back,Birmingham,"End of loanNov 1, 1999",Loan,in,Winter,NA,1999,1999/2000
+Southampton FC,Shayne Bradley,19,attack,Exeter City,"End of loanNov 3, 1999",Loan,in,Winter,NA,1999,1999/2000
+Southampton FC,Scott Hiley,31,Right-Back,Portsmouth,€250Th.,Transfer,out,Winter,0.25,1999,1999/2000
+Southampton FC,Mark Hughes,36,Centre-Forward,Everton,free transfer,Transfer,out,Winter,0,1999,1999/2000
+Southampton FC,Richard Dryden,30,Centre-Back,Stoke City,?,Transfer,out,Winter,NA,1999,1999/2000
+Southampton FC,Richard Dryden,30,Centre-Back,Stoke City,?,Transfer,out,Winter,NA,1999,1999/2000
+Southampton FC,David Hirst,32,Centre-Forward,Retired,-,Transfer,out,Winter,NA,1999,1999/2000
+Tottenham Hotspur,Gary Doherty,20,Centre-Back,Luton,€1.50m,Transfer,in,Winter,1.5,1999,1999/2000
+Tottenham Hotspur,Anthony Gardner,19,Centre-Back,Port Vale,€1.50m,Transfer,in,Winter,1.5,1999,1999/2000
+Tottenham Hotspur,Simon Davies,20,Right Midfield,Peterborough,€1.05m,Transfer,in,Winter,1.05,1999,1999/2000
+Tottenham Hotspur,Dave McEwen,22,attack,Dulwich Hamlet,?,Transfer,in,Winter,NA,1999,1999/2000
+Tottenham Hotspur,Peter Crouch,19,Centre-Forward,Dulwich Hamlet,"End of loanFeb 1, 2000",Loan,in,Winter,NA,1999,1999/2000
+Tottenham Hotspur,Justin Edinburgh,30,Left-Back,Portsmouth,Loan fee:€200Th.,Loan,out,Winter,0.2,1999,1999/2000
+Tottenham Hotspur,Paul McVeigh,22,Left Winger,Norwich,€100Th.,Transfer,out,Winter,0.1,1999,1999/2000
+Tottenham Hotspur,Peter Crouch,19,Centre-Forward,IFK Hässleholm,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Tottenham Hotspur,Peter Crouch,18,Centre-Forward,Dulwich Hamlet,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Tottenham Hotspur,Paolo Tramezzani,29,Left-Back,Pistoiese,?,Transfer,out,Winter,NA,1999,1999/2000
+Tottenham Hotspur,Moussa Saïb,30,Left Midfield,Al-Nasr,?,Transfer,out,Winter,NA,1999,1999/2000
+Tottenham Hotspur,Ramon Vega,28,Centre-Back,Celtic,?,Transfer,out,Winter,NA,1999,1999/2000
+Tottenham Hotspur,Allan Nielsen,28,Central Midfield,Wolves,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Liverpool FC,Emile Heskey,22,Centre-Forward,Leicester,€16.50m,Transfer,in,Winter,16.5,1999,1999/2000
+Liverpool FC,Frode Kippe,22,Centre-Back,Stoke City,"End of loanMar 23, 2000",Loan,in,Winter,NA,1999,1999/2000
+Liverpool FC,Jon Newby,21,Centre-Forward,Carlisle United,"End of loanJan 9, 2000",Loan,in,Winter,NA,1999,1999/2000
+Liverpool FC,Phil Babb,29,Centre-Back,Tranmere Rovers,"End of loanFeb 20, 2000",Loan,in,Winter,NA,1999,1999/2000
+Liverpool FC,Ian Dunbavin,19,Goalkeeper,Shrewsbury,free transfer,Transfer,out,Winter,0,1999,1999/2000
+Liverpool FC,Jon Newby,21,Centre-Forward,Carlisle United,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Liverpool FC,Jon Newby,21,Centre-Forward,Crewe Alexandra,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Liverpool FC,Phil Babb,29,Centre-Back,Tranmere Rovers,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Liverpool FC,Stig Inge Björnebye,30,Left-Back,Bröndby IF,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Liverpool FC,Frode Kippe,21,Centre-Back,Stoke City,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Everton FC,Mark Hughes,36,Centre-Forward,Southampton,free transfer,Transfer,in,Winter,0,1999,1999/2000
+Everton FC,Joe-Max Moore,28,Centre-Forward,New England,free transfer,Transfer,in,Winter,0,1999,1999/2000
+Everton FC,Thomas Myhre,26,Goalkeeper,Rangers,"End of loanDec 1, 1999",Loan,in,Winter,NA,1999,1999/2000
+Everton FC,Terry Phelan,32,Left-Back,Crystal Palace,"End of loanDec 31, 1999",Loan,in,Winter,NA,1999,1999/2000
+Everton FC,Tony Grant,25,Defensive Midfield,Tranmere Rovers,"End of loanDec 31, 1999",Loan,in,Winter,NA,1999,1999/2000
+Everton FC,Michael Branch,21,Centre-Forward,Birmingham,"End of loanNov 18, 1999",Loan,in,Winter,NA,1999,1999/2000
+Everton FC,Michael Branch,21,Centre-Forward,Wolves,"End of loanJan 19, 2000",Loan,in,Winter,NA,1999,1999/2000
+Everton FC,Tony Grant,25,Defensive Midfield,Man City,€650Th.,Transfer,out,Winter,0.65,1999,1999/2000
+Everton FC,Michael Branch,21,Centre-Forward,Wolves,€500Th.,Transfer,out,Winter,0.5,1999,1999/2000
+Everton FC,Gareth Farrelly,24,Left Midfield,Bolton,free transfer,Transfer,out,Winter,0,1999,1999/2000
+Everton FC,Thomas Myhre,26,Goalkeeper,Birmingham,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Everton FC,Thomas Myhre,26,Goalkeeper,Rangers,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Everton FC,Slaven Bilic,31,Centre-Back,Hajduk Split,?,Transfer,out,Winter,NA,1999,1999/2000
+Everton FC,John O'Kane,24,Right-Back,Bolton,?,Transfer,out,Winter,NA,1999,1999/2000
+Everton FC,Terry Phelan,32,Left-Back,Fulham,?,Transfer,out,Winter,NA,1999,1999/2000
+Everton FC,Michael Branch,21,Centre-Forward,Wolves,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Everton FC,Joe Parkinson,28,midfield,Retired,-,Transfer,out,Winter,NA,1999,1999/2000
+Everton FC,Tommy Johnson,28,Centre-Forward,Celtic,"End of loanNov 1, 1999",Loan,out,Winter,NA,1999,1999/2000
+Derby County,Branko Strupar,29,Centre-Forward,KRC Genk,€4.20m,Transfer,in,Winter,4.2,1999,1999/2000
+Derby County,Esteban Fuertes,27,Centre-Forward,Racing Club,€3.00m,Transfer,in,Winter,3,1999,1999/2000
+Derby County,Craig Burley,28,Attacking Midfield,Celtic,?,Transfer,in,Winter,NA,1999,1999/2000
+Derby County,Giorgi Kinkladze,26,Attacking Midfield,Ajax,loan transfer,Loan,in,Winter,NA,1999,1999/2000
+Derby County,Richard Knight,20,Goalkeeper,Hull City,"End of loanNov 7, 1999",Loan,in,Winter,NA,1999,1999/2000
+Derby County,Richard Knight,20,Goalkeeper,Macclesfield,"End of loanJan 4, 2000",Loan,in,Winter,NA,1999,1999/2000
+Derby County,Paul Boertien,21,Left-Back,Crewe Alexandra,"End of loanMar 1, 2000",Loan,in,Winter,NA,1999,1999/2000
+Derby County,Richard Knight,20,Goalkeeper,Oxford United,"End of loanFeb 18, 2000",Loan,in,Winter,NA,1999,1999/2000
+Derby County,Kevin Harper,24,Right Midfield,Walsall,"End of loanFeb 1, 2000",Loan,in,Winter,NA,1999,1999/2000
+Derby County,Spencer Prior,28,Centre-Back,Man City,€700Th.,Transfer,out,Winter,0.7,1999,1999/2000
+Derby County,Kevin Harper,24,Right Midfield,Portsmouth,€450Th.,Transfer,out,Winter,0.45,1999,1999/2000
+Derby County,Russell Hoult,27,Goalkeeper,Portsmouth,€450Th.,Transfer,out,Winter,0.45,1999,1999/2000
+Derby County,Kevin Harper,23,Right Midfield,Walsall,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Derby County,Paul Boertien,21,Left-Back,Crewe Alexandra,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Derby County,Francesco Baiano,31,Right Winger,Ternana,?,Transfer,out,Winter,NA,1999,1999/2000
+Derby County,Richard Knight,20,Goalkeeper,Oxford United,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Derby County,Richard Knight,20,Goalkeeper,Oxford United,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Derby County,Richard Knight,20,Goalkeeper,Macclesfield,loan transfer,Loan,out,Winter,NA,1999,1999/2000
+Derby County,Avi Nimni,27,Attacking Midfield,M. Tel Aviv,"End of loanFeb 29, 2000",Loan,out,Winter,NA,1999,1999/2000
