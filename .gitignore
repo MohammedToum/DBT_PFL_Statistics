@@ -18,6 +18,8 @@ dbt_packages/
 ./python_scripts/
 python_scripts/script1.py
 python_scripts/.ipynb_checkpoints/script1-checkpoint.py
+/python_scripts/other_file/clean_file_working_out.ipynb
+./python_scripts/other_file/clean_file_working_out.ipynb
 .ipynb_checkpoints/
 package-lock.yml
 .DS_Store
