@@ -15,6 +15,7 @@ DBT_CHEATSHEET.md
 target/
 target/partial_parse.msgpack
 dbt_packages/
+python_scripts/
 python_scripts/script1.py
 python_scripts/.ipynb_checkpoints/script1-checkpoint.py
 .ipynb_checkpoints/

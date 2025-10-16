@@ -1,3 +1,5 @@
+"""
+
 from datetime import datetime
 from airflow import DAG
 from airflow.operators.bash import BashOperator
@@ -19,17 +21,18 @@ with DAG(
     default_args=default_args,
     description="Load one season at a time into main.raw_transfers, then run dbt",
 ) as dag:
-
     for season in SEASONS:
         csv = "{{ var.value.SEASONS_CSV_DIR }}/premier_league_" + season + ".csv"
         load = BashOperator(
             task_id=f"load_{season}",
             bash_command=(
                 "duckdb {{ var.value.DB_PATH }} "
-                "\"create schema if not exists main; "
+                '"create schema if not exists main; '
                 "create table if not exists main.raw_transfers as "
                 "select * from read_csv_auto('" + csv + "', header=true) where 1=0; "
-                "insert into main.raw_transfers select * from read_csv_auto('" + csv + "', header=true);\""
+                "insert into main.raw_transfers select * from read_csv_auto('"
+                + csv
+                + "', header=true);\""
             ),
         )
 
@@ -42,3 +45,5 @@ with DAG(
         )
 
         load >> dbt_build
+
+        """
