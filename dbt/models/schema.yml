@@ -1,64 +1,61 @@
 version: 2
 
 models:
-  - name: ≈
-    description: "This staging model cleans and prepares example data."
-    columns:
-      - name: club_name
-        data_type: varchar
-        description: "Club Name"
+  - name: stg_countries
+    tests:
+      - dbt_utils.unique_combination_of_columns:
+          arguments:
+            combination_of_columns: [country_name, country_iso2]
 
+  - name: stg_players
+    columns:
+      - name: player_id
+        tests: [not_null, unique]
       - name: player_name
-        data_type: varchar
-        description: "Player's name"
+        tests: [not_null]
 
-      - name: age
-        data_type: varchar
-        description: "Age of Player"
-
-      - name: nationality
-        description: "Nationality of Player"
-
-      - name: position
-        data_type: varchar
-        description: "Position of the Player"
-
-      - name: club_involved_name
-        data_type: varchar
-        description: "Name of Second team involved in the transfer"
-
-      - name: fee
-        data_type: varchar
-        description: "Amount in Euros exchanged for Player"
-
-      - name: transfer_movement
-        data_type: varchar
-        description: "Direction of Player transfer"
-
-      - name: transfer_period
-        data_type: varchar
-        description: "Transfer Period which this transfer took place (Summer or Winter)"
-
-      - name: fee_cleaned
-        data_type: varchar
-        description: "Fee exchanged value cleaned ready for insertion into the staging table"
-
-      - name: league_name
-        data_type: varchar
-        description: "Name of the League"
-
-      - name: year
-        data_type: integer
-        description: "Year this transfer took place"
-
-      - name: season
-        data_type: varchar
-        description: "Season this transfer took place"
-
-  - name: mart_example
-    description: "This mart aggregates example data for analytics."
+  - name: dim_clubs
     columns:
-      - name: mart_check
-        description: "Check column for mart validation."
+      - name: club_sk
+        tests: [not_null, unique]
+      - name: club_name
+        tests: [not_null]
+
+  - name: dim_countries
+    columns:
+      - name: country_sk
+        tests: [not_null, unique]
+      - name: country_name
+        tests: [not_null]
+
+  - name: dim_players
+    columns:
+      - name: player_sk
+        tests: [not_null, unique]
+      - name: player_id
+        tests: [not_null, unique]
+      - name: nationality_country_sk
         tests:
-          - not_null
+          - relationships:
+              to: ref('dim_countries')
+              field: country_sk
+
+  - name: fct_transfers
+    columns:
+      - name: transfer_sk
+        tests: [not_null, unique]
+      - name: player_sk
+        tests:
+          - relationships:
+              to: ref('dim_players')
+              field: player_sk
+      - name: from_club_sk
+        tests:
+          - relationships:
+              to: ref('dim_clubs')
+              field: club_sk
+      - name: to_club_sk
+        tests:
+          - relationships:
+              to: ref('dim_clubs')
+              field: club_sk

@@ -1,0 +1,16 @@
+version: 2
+
+sources:
+  - name: raw
+    database: plt           # <-- Add this line
+    schema: main
+    tables:
+      - name: raw_transfers
+        description: "Append-only raw transfers (all seasons). Loaded by Airflow."
+        columns:
+          - name: transfer_date
+            description: "ISO date of the transfer"
+          - name: season
+            description: "Season label, e.g. '2018/19'"
+          - name: player_name
+            tests: [not_null]

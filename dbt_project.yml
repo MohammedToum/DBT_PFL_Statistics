@@ -21,3 +21,10 @@ models:
       +schema: staging
     marts:
       +schema: analytics
+
+
+seeds:
+  +quote_columns: false
+  +column_types:
+    club_involved_name: text
+    club_involved_country: text
