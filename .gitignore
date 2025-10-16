@@ -20,7 +20,8 @@ python_scripts/.ipynb_checkpoints/script1-checkpoint.py
 .ipynb_checkpoints/
 package-lock.yml
 .DS_Store
-
+dbt/seeds/other_file_clubs_involved.csv
+dbt/seeds/other_file_clubs_involved.xlsb
 
 # dbt & compiled stuff
 logs/

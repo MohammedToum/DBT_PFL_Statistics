@@ -1,0 +1,15 @@
+version: 2
+
+exposures:
+  - name: transfers_mart
+    type: analysis
+    maturity: medium
+    url: https://github.com/MohammedToum/DBT_PFL_Statistics
+    description: "Downstream usage of fct_transfers and related dimensions."
+    depends_on:
+      - ref('fct_transfers')
+      - ref('dim_players')
+      - ref('dim_clubs')
+    owner:
+      name: Mohammed T'oum
+      email: maahmedt93@gmail.com

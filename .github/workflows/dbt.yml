@@ -1,0 +1,25 @@
+name: dbt build
+
+on:
+  push: { branches: [ dev_branch, main ] }
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          dbt deps
+      - name: Lint SQL
+        run: |
+          pip install "sqlfluff==3.1.0" sqlfluff-templater-dbt
+          sqlfluff fix dbt --dialect duckdb --templater dbt || true
+          sqlfluff lint dbt --dialect duckdb --templater dbt
+      - name: Build (DuckDB)
+        run: dbt build --profiles-dir . --no-write-json

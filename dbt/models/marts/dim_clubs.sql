@@ -1,25 +1,21 @@
 {{ config(materialized='table') }}
 
--- Grain: one row per unique club_name (normalized)
 with clubs as (
-    select
-        initcap(trim(from_club)) as club_name
-    from {{ source('raw', 'raw_transfers') }}
-    where from_club is not null and trim(from_club) <> ''
-    union
-    select
-        initcap(trim(to_club)) as club_name
-    from {{ source('raw', 'raw_transfers') }}
-    where to_club is not null and trim(to_club) <> ''
+  -- replace this with your actual source of canonical club names
+  select distinct club_name
+  from {{ ref('stg_transfers') }}
 ),
 
-dedup as (
-    select club_name
-    from clubs
-    group by club_name
+clubs_norm as (
+  select
+    club_name,
+    {{ normalize_club('club_name') }} as club_key
+  from clubs
 )
 
 select
-    {{ dbt_utils.generate_surrogate_key(['club_name']) }} as club_sk,
-    club_name
-from dedup
+  c.club_name,
+  cc.club_involved_country as club_country
+from clubs_norm c
+left join {{ ref('stg_club_countries') }} cc
+  on c.club_key = cc.club_key

@@ -1,11 +1,18 @@
-{{ config(enabled=false) }}
+{{ config(materialized='view') }}
 
-
-CREATE OR REPLACE VIEW staging.unmapped_clubs AS
-SELECT DISTINCT
-  UPPER(TRIM(club_involved_name)) AS key_norm
-from {{ ref("premier-league") }} t
-LEFT JOIN {{ ref('clubs_map') }} m
-  ON UPPER(TRIM(t.club_involved_name)) = UPPER(TRIM(m.raw_key))
-WHERE m.raw_key IS NULL
-ORDER BY 1;
+with transfers as (
+  -- take the normalized club names from stg_transfers
+  select upper(trim(from_club)) as club_name from {{ ref('stg_transfers') }}
+  union
+  select upper(trim(to_club))   as club_name from {{ ref('stg_transfers') }}
+),
+mapped as (
+  select upper(trim(cleaned_full_name)) as club_name
+  from {{ ref('clubs_map') }}
+  where cleaned_full_name is not null and trim(cleaned_full_name) <> ''
+)
+select t.club_name as key_norm
+from transfers t
+left join mapped m using (club_name)
+where m.club_name is null
+order by 1
