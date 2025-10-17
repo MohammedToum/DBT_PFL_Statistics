@@ -45,3 +45,13 @@ dbt_packages/
 logs/
 dbt/logs/
 warehouse/*.duckdb
+keygen.txt
+
+
+.ssh/
+id_ed25519
+id_ed25519.pub
+2025_fix_up
+2025_fix_up.pub
+*.pem
+*.key
