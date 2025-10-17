@@ -1,14 +1,89 @@
 version: 2
 
 models:
+  # =========================
+  # DIMENSIONS
+  # =========================
   - name: dim_clubs
     description: "Canonical clubs with a stable key and country."
     columns:
       - name: club_id
+        description: "Surrogate key for the club (e.g., md5 of club_key)."
         tests: [unique, not_null]
       - name: club_key
+        description: "Normalized key used to join facts to the club."
         tests: [not_null]
       - name: club_name
+        description: "Preferred display/long name for the club."
         tests: [not_null]
       - name: country
+        description: "Country for this club after normalization."
         tests: [not_null]
+
+  - name: dim_countries
+    description: "Country dimension derived from staging mapping."
+    columns:
+      - name: country_id
+        description: "Surrogate key for the country."
+        tests: [unique, not_null]
+      - name: country_name
+        description: "Canonical country name."
+        tests: [not_null]
+
+  - name: dim_players
+    description: "Player dimension (normalized)."
+    columns:
+      - name: player_id
+        description: "Surrogate key for the player."
+        tests: [unique, not_null]
+      - name: player_name
+        description: "Canonical player name."
+        tests: [not_null]
+      # If your model includes nationality, keep this column; otherwise remove it.
+      - name: nationality
+        description: "Player nationality (free text, if present)."
+        tests: []
+
+  # =========================
+  # FACTS
+  # =========================
+
+  - name: fct_transfers_enriched
+    columns:
+      - name: transfer_sk
+        description: Surrogate key of the transfer grain.
+        tests: [not_null, unique]
+      - name: transfer_date
+        tests: [not_null]
+      - name: from_club_key
+      - name: to_club_key
+      - name: from_club_id
+        tests:
+          - relationships:
+              to: ref('dim_clubs')
+              field: club_id
+              config: { where: "from_club_id is not null" }
+      - name: to_club_id
+        tests:
+          - relationships:
+              to: ref('dim_clubs')
+              field: club_id
+              config: { where: "to_club_id is not null" }
+
+  - name: fct_transfers
+    description: "Base transfers fact (pre-enrichment). Keep for lineage/backfill."
+    columns:
+      - name: transfer_id
+        description: "Natural/business key from the source if available."
+      - name: transfer_date
+        description: "Date of the transfer event (from source)."
+      - name: player_name
+        description: "Player involved in the transfer (raw)."
+      - name: from_club
+        description: "Raw 'from' club name."
+      - name: to_club
+        description: "Raw 'to' club name."
+      - name: fee_amount
+        description: "Raw numeric fee if present."
+      - name: fee_currency
+        description: "Raw currency if present."

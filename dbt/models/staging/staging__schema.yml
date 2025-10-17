@@ -1,37 +1,53 @@
 version: 2
 
 models:
+  - name: stg_club_country_map
+    description: "Normalized club→country mapping derived from the seed, with a stable club_key."
+    columns:
+      - name: club_key
+        description: "Normalized key for club matching across datasets."
+        tests: [not_null]
+      - name: club_involved_name
+        description: "Original display name from the seed."
+        tests: [not_null]
+      - name: country
+        description: "Canonical country for the club."
+        tests: [not_null]
+
   - name: stg_countries
-    description: "Distinct countries derived from club-country mappings."
+    description: "Distinct list of countries derived from stg_club_country_map."
     columns:
       - name: country_id
-        description: "Hash surrogate from country_name."
+        description: "Surrogate key (hash) of country_name."
         tests: [unique, not_null]
       - name: country_name
         description: "Canonical country name."
         tests: [not_null]
 
-  - name: stg_club_country_map
-    description: "Normalized club-to-country mapping with a stable club key."
-    columns:
-      - name: club_key
-        tests: [not_null]
-      - name: club_involved_name
-        tests: [not_null]
-      - name: country
-        tests: [not_null]
-
   - name: stg_clubs_map
-    description: "Legacy cleaned_full_name + normalized club_key for compatibility."
+    description: "Legacy compatibility map exposing cleaned_full_name (UPPER/TRIM) + normalized club_key."
     columns:
       - name: cleaned_full_name
+        description: "Upper-cased, trimmed display name for legacy joins."
         tests: [not_null]
       - name: club_key
+        description: "Normalized club key; use for robust joins."
         tests: [not_null]
 
   - name: stg_unmapped_clubs
-    description: "Clubs in transfers that do not map to the reference set."
+    description: "Diagnostic: clubs seen in transfers that do not map to the reference set."
     columns:
       - name: key_norm
-        tests:
-          - not_null
+        description: "Normalized club key (via normalise_club) that failed to map."
+        tests: [not_null]
+
+  # Compatibility shim so older refs keep working.
+  - name: stg_club_countries
+    description: "Shim view that forwards stg_club_country_map (club_key, club_name, country)."
+    columns:
+      - name: club_key
+        tests: [not_null]
+      - name: club_name
+        tests: [not_null]
+      - name: country
+        tests: [not_null]

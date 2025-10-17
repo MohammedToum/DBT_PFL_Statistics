@@ -21,7 +21,11 @@ models:
       +schema: staging
     marts:
       +schema: analytics
-
+      fct_transfers_enriched:
+        +materialized: incremental       # switch to 'table' if you prefer
+        +unique_key: transfer_sk
+        +on_schema_change: append_new_columns
+        +tags: ['fact', 'transfers']
 
 seeds:
   +quote_columns: false
