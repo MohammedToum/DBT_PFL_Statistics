@@ -1,21 +1,17 @@
 {{ config(materialized='table') }}
 
 with clubs as (
-  -- replace this with your actual source of canonical club names
-  select distinct club_name
-  from {{ ref('stg_transfers') }}
-),
-
-clubs_norm as (
-  select
-    club_name,
-    {{ normalize_club('club_name') }} as club_key
-  from clubs
+    select
+        club_key,
+        min(club_involved_name) as club_name,
+        any_value(country) as country
+    from {{ ref('stg_club_country_map') }}
+    group by club_key
 )
 
 select
-  c.club_name,
-  cc.club_involved_country as club_country
-from clubs_norm c
-left join {{ ref('stg_club_countries') }} cc
-  on c.club_key = cc.club_key
+    {{ dbt_utils.generate_surrogate_key(['club_key']) }} as club_id,
+    club_key,
+    club_name,
+    country
+from clubs

@@ -1,18 +1,21 @@
 {{ config(materialized='view') }}
 
 with transfers as (
-  -- take the normalized club names from stg_transfers
-  select upper(trim(from_club)) as club_name from {{ ref('stg_transfers') }}
-  union
-  select upper(trim(to_club))   as club_name from {{ ref('stg_transfers') }}
+    select {{ normalise_club('from_club') }} as club_key
+    from {{ ref('stg_transfers') }}
+    union
+    select {{ normalise_club('to_club') }} as club_key
+    from {{ ref('stg_transfers') }}
 ),
+
 mapped as (
-  select upper(trim(cleaned_full_name)) as club_name
-  from {{ ref('clubs_map') }}
-  where cleaned_full_name is not null and trim(cleaned_full_name) <> ''
+    select club_key
+    from {{ ref('stg_clubs_map') }}
+    where club_key is not null and trim(club_key) <> ''
 )
-select t.club_name as key_norm
-from transfers t
-left join mapped m using (club_name)
-where m.club_name is null
+
+select t.club_key as key_norm
+from transfers as t
+left join mapped as m on t.club_key = m.club_key
+where m.club_key is null
 order by 1

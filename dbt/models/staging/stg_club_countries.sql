@@ -1,11 +1,9 @@
+-- dbt/models/staging/stg_club_countries.sql
 {{ config(materialized='view') }}
 
-with base as (
-  select
-    club_involved_name,
-    club_involved_country,
-    {{ normalise_club('club_involved_name') }} as club_key
-  from {{ ref('country_of_clubs') }}
-)
-
-select * from base
+-- Compatibility shim: preserve the old model name expected by downstream
+select
+    club_key,
+    club_involved_name as club_name,  -- in case old models expect `club_name`
+    country
+from {{ ref('stg_club_country_map') }}

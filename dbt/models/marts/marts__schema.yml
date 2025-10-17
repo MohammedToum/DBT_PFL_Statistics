@@ -1,0 +1,14 @@
+version: 2
+
+models:
+  - name: dim_clubs
+    description: "Canonical clubs with a stable key and country."
+    columns:
+      - name: club_id
+        tests: [unique, not_null]
+      - name: club_key
+        tests: [not_null]
+      - name: club_name
+        tests: [not_null]
+      - name: country
+        tests: [not_null]
